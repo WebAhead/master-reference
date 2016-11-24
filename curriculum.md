@@ -33,6 +33,7 @@ vanilla html css js
  * DOM API
  * Project management part 1: user stories
  * Project management part 2: committing against issues
+ 
 #### Project
  * any open api
  * user story focus
