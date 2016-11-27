@@ -14,11 +14,9 @@
 
 ## General:
 
- * we need tdd workshops & project management talks spread throughout the course so there
- is a steady integration of agile practices.
+ * we need tdd workshops & project management talks spread throughout the course so there is a steady integration of agile practices.
  * design each week around what they will need for the project.
- * each week should evolve into and prepare you for the next. students should
- regularly get to practice what they learnt in prior weeks.
+ * each week should evolve into and prepare you for the next. students should regularly get to practice what they learnt in prior weeks.
  * regular week structure.
 
 ## Week structure:
@@ -84,12 +82,12 @@ vanilla html css js
 ### Week Two: TDD in the Client
 
 * TDD lifecycle/ ping-pong/ red green refactor
-* jasmine or Qunit framework
+* Qunit framework
 * Unit & Integration Testing
 
 #### READMES
 
-jasmine (or Qunit), TDD lifecycle, Continuous Integration, Unit & Integration testing
+Qunit, TDD lifecycle, Continuous Integration, Unit & Integration testing
 
 #### PROJECT
 stopwatch tdd
@@ -114,7 +112,7 @@ HTTP Requests, JSON, APIs, API Standards, cURL, testing AJAX, chrome inspector
 
  user story focus
 
-### Week Four: Node Core: Part One
+### Week Four: Node Core Part One
  * node
  * core modules
  * module pattern (require/ module.exports)
@@ -128,7 +126,7 @@ heroku, environment variables, streams, event emitters, core modules
 #### Project
 autocomplete
 
-### Week Five: Node Core: Part Two (TBD)
+### Week Five: Node Core Part Two (TBD)
  * commit hooks
  * istanbul
  * ci (travis, codecov)
@@ -143,7 +141,7 @@ TBD
 #### Project
 tdd server (TBD)
 
-### Week 6: HAPI part one: Templates
+### Week 6: HAPI Part One Templates
  * hapi
  * inert
  * vision
@@ -157,7 +155,7 @@ validation, authentication, templating/ server-side rendering, plugins
 
 hapi / inert / vision / handlebars (TBD)
 
-### Week 7: HAPI part two: Authentication
+### Week 7: HAPI Part Two Authentication
  * OAuth
  * GitHub API
  * hapi auth cookie
