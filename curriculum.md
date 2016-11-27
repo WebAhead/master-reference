@@ -67,7 +67,10 @@ Friday:
  * html5, css3, markdown
  * git workflow
  * mobile-first design
- * FAC values (pair programming, etc.)
+ * development basics [1]
+ * FAC values
+
+1: DRY, refactoring, pair programming, wireframing, developer tools
 
 #### READMES
 
@@ -192,7 +195,7 @@ TBD
 
 #### Project
 
-tdd project TBD
+tdd TBD
 
 ### Week Ten: Final Project
 
