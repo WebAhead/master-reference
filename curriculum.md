@@ -1,5 +1,6 @@
 ## General:
 
+ * the first 10 weeks of the curriculum should be stable in theme and not open to too much variation.
  * we need tdd workshops & project management talks spread throughout the course so there is a steady integration of agile practices.
  * design each week around what they will need for the project.
  * each week should evolve into and prepare you for the next. students should regularly get to practice what they learnt in prior weeks.
@@ -10,11 +11,10 @@
 Aim for 1 guest speaker per week. Alumni talks in earlier weeks to foster community atmosphere.
 
 Monday:
-* Give an introduction to the week. Start each week with a mission and a goal.
 * Show & Tell
-* Introduction to gitbook + learning outcomes
+* Introduction to gitbook & learning outcomes. Start each week with a mission and a goal.
 * Workshops
-* Business Development
+* Business Development / Community Engagement
 
 Tuesday:
 * Morning Challenge
@@ -190,5 +190,6 @@ two teams of 8 better than a team of 16. project tbd
 
 ## Questions:
 
- * how does this relate to the master ref. If we have learning outcomes + project can we put something in??
- * things missing in curriculum: front-end framework, build tools, sass, UX, where does it fit?
+ * things missing in the curriculum: front-end framework, build tools, sass, UX, where does it fit?
+ * should week 11 be a curriculum planning week with the creation of an original resource as the project? 
+ * if weeks 1-10 are stable, weeks 11 + are open to variation?
