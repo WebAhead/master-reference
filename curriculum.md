@@ -1,17 +1,3 @@
-# Plan
-
-10 weeks
-+ 2 weeks dwyl?
-+ 4 weeks client projects
-
-16 weeks / 4 months
-
-## Questions:
-
- * what is dwyl doing for weeks 11 & 12?
- * how does this relate to the master ref. If we have learning outcomes + project can we put something in??
- * things missing in curriculum: front-end framework, build tools, sass, UX, where does it fit?
-
 ## General:
 
  * we need tdd workshops & project management talks spread throughout the course so there is a steady integration of agile practices.
@@ -24,6 +10,7 @@
 Aim for 1 guest speaker per week. Alumni talks in earlier weeks to foster community atmosphere.
 
 Monday:
+* Give an introduction to the week. Start each week with a mission and a goal.
 * Show & Tell
 * Introduction to gitbook + learning outcomes
 * Workshops
@@ -31,7 +18,7 @@ Monday:
 
 Tuesday:
 * Morning Challenge
-* Workshop
+* Workshop / whiteboard walkthrough
 * Readme Research + Presentation
 
 Wednesday:
@@ -65,6 +52,7 @@ Friday:
  * html5, css3, markdown
  * git workflow
  * mobile-first design
+ * Accessibility
  * development basics [1]
  * FAC values
 
@@ -159,6 +147,7 @@ hapi / inert / vision / handlebars (TBD)
  * OAuth
  * GitHub API
  * hapi auth cookie
+ * JWTs
  * storing sessions locally
 
 #### READMES
@@ -175,7 +164,7 @@ Github Api
 
 #### READMES
 
-SQL vs. noSQL, table structure/ joining, pg w/ node & heroku, importing/ exporting/ migrating databases,
+SQL vs. noSQL, redis, table structure/ joining, pg w/ node & heroku, importing/ exporting/ migrating databases,
 script injections
 
 #### Project
@@ -199,13 +188,7 @@ tdd TBD
 
 two teams of 8 better than a team of 16. project tbd
 
-### Week 11: Planning week. (MASTER REF UPDATE)
-we need day by day structured plan for this. stakeholders need to be involved in the decisions during discussion, not after.
+## Questions:
 
-* iterative update of master reference based on student feedback.
-* creating of plan, dates, workshops for next FAC.
-* get it out the way early, much easier to manage and students can focus on client-work without extra stress.
-
-### Week 11/12 ? redis + sockets / d3 or something fun (not old)
-
-What does dwyl have planned for this week?
+ * how does this relate to the master ref. If we have learning outcomes + project can we put something in??
+ * things missing in curriculum: front-end framework, build tools, sass, UX, where does it fit?
