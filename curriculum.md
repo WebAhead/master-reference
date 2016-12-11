@@ -185,6 +185,7 @@ TBD
 Chat App
 
 ### Week Ten: Final Project
+We could make this front-end heavy, possibly introduce redux.
 
 two teams of 8 better than a team of 16. project tbd
 
