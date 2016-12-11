@@ -120,6 +120,7 @@ autocomplete
  * ci (travis, codecov)
  * node debugger
  * tdd server
+ * error handling in node + async error handling
  * project management part 3: Pull requests. Across team QA, passing branches
  * introduction to SQL
 
