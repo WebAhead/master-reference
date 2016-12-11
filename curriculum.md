@@ -55,6 +55,7 @@ Friday:
  * Accessibility
  * development basics [1]
  * FAC values
+ * How to get a job (interviews etc)
 
 1: DRY, refactoring, pair programming, wireframing, developer tools
 
@@ -72,7 +73,7 @@ vanilla html css js
  * TDD lifecycle/ ping-pong/ red green refactor
  * Qunit framework
  * Unit & Integration Testing
- * es6 / esnext - what why how, basic intro. We do not want to confuse people. Students should be aware of browser compatibility / be able to spot the difference between es6 and es5 
+ * es6 / esnext - what why how, basic intro. We do not want to confuse people. Students should be aware of browser compatibility / be able to spot the difference between es6 and es5
 
 #### READMES
 
