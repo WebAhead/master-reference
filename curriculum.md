@@ -69,9 +69,10 @@ vanilla html css js
 
 ### Week Two: TDD in the Client
 
-* TDD lifecycle/ ping-pong/ red green refactor
-* Qunit framework
-* Unit & Integration Testing
+ * TDD lifecycle/ ping-pong/ red green refactor
+ * Qunit framework
+ * Unit & Integration Testing
+ * es6 / esnext - what why how, basic intro. We do not want to confuse people. Students should be aware of browser compatibility / be able to spot the difference between es6 and es5 
 
 #### READMES
 
