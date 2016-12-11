@@ -135,6 +135,7 @@ tdd server (TBD)
  * PostgreSQL/ psql/ pg
  * SQL
  * Data structures
+ * How to structure server / architecture of hooking db up to controllers
 
 #### READMES
 
