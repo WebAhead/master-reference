@@ -18,7 +18,7 @@ Monday:
 
 Tuesday:
 * Morning Challenge
-* Workshop / whiteboard walkthrough
+* Workshop / Whiteboard walkthrough
 * Readme Research + Presentation
 
 Wednesday:
@@ -55,9 +55,10 @@ Friday:
  * Accessibility
  * development basics [1]
  * FAC values
- * How to get a job (interviews etc)
+ * How to get a job (interviews etc)[2]
 
 1: DRY, refactoring, pair programming, wireframing, developer tools
+2: Consider moving later in the course when it's more timely.
 
 #### READMES
 
@@ -73,8 +74,10 @@ vanilla html css js
  * TDD lifecycle/ ping-pong/ red green refactor
  * Qunit framework
  * Unit & Integration Testing
- * es6 / esnext - what why how, basic intro. We do not want to confuse people. Students should be aware of browser compatibility / be able to spot the difference between es6 and es5
-
+ * es6 / esnext - what why how, basic intro. We do not want to confuse people. Students should be aware of browser compatibility / be able to spot the difference between es6 and es5 [1]
+ 
+1: Consider moving to week 4 alongside node to make browser compatibility issues more clear.
+ 
 #### READMES
 
 Qunit, TDD lifecycle, Continuous Integration, Unit & Integration testing
@@ -106,8 +109,11 @@ HTTP Requests, JSON, APIs, API Standards, cURL, testing AJAX, chrome inspector
  * node
  * core modules
  * module pattern (require/ module.exports)
- * tape/ shot/ linting
+ * tape/ shot
  * npm
+ * linting [1]
+ 
+1: Consider moving to week 2 to avoid too many new technologies in this week.
 
 #### READMES
 
@@ -118,13 +124,11 @@ autocomplete
 
 ### Week Five: Node Core Part Two (TBD)
  * commit hooks
- * istanbul
- * ci (travis, codecov)
+ * istanbul, ci (travis, codecov)
  * node debugger
- * tdd server
  * error handling in node + async error handling
+ * tdd server
  * project management part 3: Pull requests. Across team QA, passing branches
- * introduction to SQL
  * Securing the back-end (talk / workshop)
 
 #### READMES
@@ -135,14 +139,14 @@ TBD
 tdd server (TBD)
 
 ### Week Six: SQL with PostgreSQL
+ * Introduction to SQL
  * PostgreSQL/ psql/ pg
- * SQL
  * Data structures
  * How to structure server / architecture of hooking db up to controllers
 
 #### READMES
 
-SQL vs. noSQL, redis, table structure/ joining, pg w/ node & heroku, importing/ exporting/ migrating databases,
+SQL vs. noSQL, table structure/ joining, pg w/ node & heroku, importing/ exporting/ migrating databases,
 script injections
 
 #### Project
@@ -163,7 +167,7 @@ validation, authentication, templating/ server-side rendering, plugins
 
 hapi / inert / vision / handlebars (TBD)
 
-### Week Eigth: HAPI Part Two Authentication
+### Week Eight: HAPI Part Two Authentication
  * OAuth
  * GitHub API
  * hapi auth cookie
@@ -177,8 +181,13 @@ authentication, authorisation, security, session management/ browser storage
 #### Project
 Github Api
 
-
 ### Week Nine: Redis, pub/sub and sockets
+
+* Redis
+* pub/sub
+* Websockets
+
+1: Potentially alternate this week with D3 across iterations, and make it about learning a fun new technology as a wind-down at the end of the course.
 
 #### READMES
 
@@ -189,12 +198,14 @@ TBD
 Chat App
 
 ### Week Ten: Final Project
-We could make this front-end heavy, possibly introduce redux.
+* Two teams of 8 better than a team of 16. project tbd
 
-two teams of 8 better than a team of 16. project tbd
+1: We could make this front-end heavy, possibly introduce redux.
+2: We could also make this into a UX week, preparing students to work with clients and get them thinking about jobs, cv, networking, etc over the break.
 
 ## Questions:
 
- * things missing in the curriculum: front-end framework, build tools, sass, UX, where does it fit?
+ * things missing in the curriculum: front-end framework, build tools, sass, UX, D3, where does it fit?
  * should week 11 be a curriculum planning week with the creation of an original resource as the project?
+ * should weeks 11-13 include the creation of a big useful project that integrates knowledge prior to client work?
  * if weeks 1-10 are stable, weeks 11 + are open to variation?
