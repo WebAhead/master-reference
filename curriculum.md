@@ -125,6 +125,7 @@ autocomplete
  * error handling in node + async error handling
  * project management part 3: Pull requests. Across team QA, passing branches
  * introduction to SQL
+ * Securing the back-end (talk / workshop)
 
 #### READMES
 
