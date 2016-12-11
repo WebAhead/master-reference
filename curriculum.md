@@ -121,6 +121,7 @@ autocomplete
  * node debugger
  * tdd server
  * project management part 3: Pull requests. Across team QA, passing branches
+ * introduction to SQL
 
 #### READMES
 
@@ -129,35 +130,7 @@ TBD
 #### Project
 tdd server (TBD)
 
-### Week 6: HAPI Part One Templates
- * hapi
- * inert
- * vision
- * handlebars
-
-#### READMES
-
-validation, authentication, templating/ server-side rendering, plugins
-
-#### Project
-
-hapi / inert / vision / handlebars (TBD)
-
-### Week 7: HAPI Part Two Authentication
- * OAuth
- * GitHub API
- * hapi auth cookie
- * JWTs
- * storing sessions locally
-
-#### READMES
-
-authentication, authorisation, security, session management/ browser storage
-
-#### Project
-Github Api
-
-### Week Eight: SQL with PostgreSQL
+### Week Six: SQL with PostgreSQL
  * PostgreSQL/ psql/ pg
  * SQL
  * Data structures
@@ -171,10 +144,36 @@ script injections
 
 TBD (twitter?)
 
-### Week Nine: Testing & Deploying your Database Layer (w postgres)
-  * testing & mocking databases
-  * deploying on heroku
-  * web-sockets?
+### Week Seven: HAPI Part One Templates
+ * hapi
+ * inert
+ * vision
+ * handlebars
+
+#### READMES
+
+validation, authentication, templating/ server-side rendering, plugins
+
+#### Project
+
+hapi / inert / vision / handlebars (TBD)
+
+### Week Eigth: HAPI Part Two Authentication
+ * OAuth
+ * GitHub API
+ * hapi auth cookie
+ * JWTs
+ * storing sessions locally
+
+#### READMES
+
+authentication, authorisation, security, session management/ browser storage
+
+#### Project
+Github Api
+
+
+### Week Nine: Redis, pub/sub and sockets
 
 #### READMES
 
@@ -182,7 +181,7 @@ TBD
 
 #### Project
 
-tdd TBD
+Chat App
 
 ### Week Ten: Final Project
 
@@ -191,5 +190,5 @@ two teams of 8 better than a team of 16. project tbd
 ## Questions:
 
  * things missing in the curriculum: front-end framework, build tools, sass, UX, where does it fit?
- * should week 11 be a curriculum planning week with the creation of an original resource as the project? 
+ * should week 11 be a curriculum planning week with the creation of an original resource as the project?
  * if weeks 1-10 are stable, weeks 11 + are open to variation?
