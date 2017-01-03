@@ -16,7 +16,7 @@ As there are many people involved in the feedback process, it is important that 
 
 ## Curriculum feedback day
 
-The following is a broad outline of the student's curriculum feedback day. The facilitator's overall aim of the day should be to finalise the week-by-week structure of the curriculum, based upon studen and prior feedback, as all other issues can be resolved at a later date.
+The following is a broad outline of the student's curriculum feedback day. The facilitator's overall aim of the day should be to finalise the week-by-week structure of the curriculum, based upon student and prior feedback, as all other issues can be resolved at a later date.
 
 **Morning**
 
@@ -36,7 +36,7 @@ on what is most important to them, and so that every student gets an equal oppor
 * Discuss each of the issues raised and group them by theme or existing themes if any are related. Leave any issue that is specific to a week next to that week's post-it, to be later translated into that week's github issue.
 * Go through each of the themes from the morning, and if any are resolved by the curriculum draft then take them down. Try to reach a resolution on as many as is feasible. Then write up each new theme from the review onto the whiteboard with their notes attached.
 * The whiteboard should now have on it all the unresolved themes raised by the students for the day. Get every student to rank them in terms of priority. Give each student three high priority votes to mark against themes in one colour, and six middle priority votes to mark against themes in another. This is purely for facilitators to get a sense of the consensus of the group and what needs to be prioritised.
-* Provided the week-by-week structure is finalised, write up each week on the board and let the students assign themselves to each week for mentoring. Three per week. Conclude by update them on the next steps.
+* Provided the week-by-week structure is finalised, write up each week on the board and let the students assign themselves to each week for mentoring. Three per week. Conclude by updating them on the next steps.
 
 ## Converting feedback into github issues
 
@@ -45,4 +45,4 @@ All feedback should be translated into github issues in this repo so that they c
 * An issue should be created in this repo for each assigned week of the curriculum, as a single source for mentors to discuss their weeks, commit their plans against, and for external review.  Summaries of the post-it feedback and s-g-c notes specific to that week should be included within it so mentors know how their cohort wants them to improve their week. The appropriate F&Cn label should be given to the issue for archiving purposes, and it should be assigned to the appropriate mentors. Each issue can be closed once the week is delivered and its stop-go-continue notes have been recorded.
 * Any important themes raised by stakeholders, alumni or students that are unresolved should be converted into issues in this repo so they can be discussed further. Once a theme is resolved it can be closed.
 
-For further guidance, you can use [this issue](https://github.com/foundersandcoders/master-reference/issues/18) that was created as an example of the overall curriculum feedback process. It was used for F&C10 and contains navigation to the issues for the alumni peer review, each of the curriculum weeks, and each of the themes that were raised during feedback.
+For further guidance, you can use [this issue](https://github.com/foundersandcoders/master-reference/issues/18) that was created as an example of the overall curriculum feedback process. It was used for F&C10's curriculum planning and contains navigation to the issues for the alumni peer review, each of the curriculum weeks, and each of the themes that were raised during feedback.
