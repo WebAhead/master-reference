@@ -1,6 +1,6 @@
 # Curriculum Feedback Process
 
-*Before the planning phase for each curriculum, there should be a period in which feedback is given by stakeholders, alumni, and current students, and the week-by-week structure of the next curriculum is formulated.*
+*Before the planning phase for each curriculum, there should be a period in which feedback is given by key stakeholders, alumni, and current students, and the week-by-week structure of the next curriculum is formulated.*
 
 For course facilitators who take on this responsibility in the future, this is the process that has worked in the past.
 
@@ -8,11 +8,11 @@ For course facilitators who take on this responsibility in the future, this is t
 
 *F&C follows a democratic educational model and so everyone's feedback, student or mentor, is valued.*
 
-As there are many people involved in the feedback process, it is important that the curriculum is drafted through stages of review. First with stakeholders, then alumni, then students, so that the feedback of each is communicated to the next.
+As there are many people involved in the feedback process, it is important that the curriculum is drafted through stages of review. First with key stakeholders, then alumni, then students, so that the feedback of each is communicated to the next.
 
-1. Firstly, main stakeholders & course facilitators meet to formulate & draft changes to the curriculum.
+1. Firstly, key stakeholders & course facilitators meet to formulate & draft changes to the curriculum.
 2. Secondly, the draft is made available through a github issue in this repo for peer-review by alumni. The curriculum draft is updated to reflect the consensus of their peer-review.
-3. Lastly, a curriculum feedback day is ran with the current students at the end of the taught part of the curriculum. Their feedback on the draft is given, the broad week-by-week structure is finalised, and students are assigned as mentors to weeks.
+3. Lastly, a curriculum feedback day is run with the current students at the end of the taught part of the curriculum. Their feedback on the draft is given, the broad week-by-week structure is finalised, and students are assigned as mentors to weeks.
 
 ## Curriculum feedback day
 
