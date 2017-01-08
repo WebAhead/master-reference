@@ -1,4 +1,6 @@
-Inspired by [dwys's contribution workflow](https://www.github.com/dwyl/contributing).
+Inspired by [dwyl's contribution workflow](https://www.github.com/dwyl/contributing).
+
+The following people are available to review pull requests: [@bradreeder](https://github.com/bradreeder), [@des-des](https://github.com/des-des), [@sofer](https://github.com/sofer), [@iteles](https://github.com/iteles) or [@nelsonic](https://github.com/nelsonic).
 
 # Contribution guidelines
 
@@ -6,7 +8,7 @@ Inspired by [dwys's contribution workflow](https://www.github.com/dwyl/contribut
 
  1. Search this repo's [issues](https://www.github.com/foundersandcoders/master-reference/issues) to see if an issue exists for the problem you are solving
  2. If the issue does not exist, create it.
- 3. Indicate on the issue that you would like to take it on. Check the [readme](https://github.com/foundersandcoders/master-reference/blob/master/README.md) and find someone to `@` if you need a response.
+ 3. Indicate on the issue that you would like to take it on. Ping one of the reviewer above if you need a response.
  4. Once you are sure of what you need to do and that it is needed, assign yourself to the issue.
  5. Clone, and create a new branch for your work
 
@@ -42,7 +44,7 @@ Once you have finished your work, push up your branch and make a pull request. M
   1. A good title
   2. Description, with detail of everything in the pull.
   3. Reference to the issue in description.
-  4. An assignee, assign someone from [here](https://github.com/foundersandcoders/master-reference/blob/master/README.md)
+  4. An assignee, assign someone from the list at the top.
 
 # Thank you!
 
