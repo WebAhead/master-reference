@@ -1,4 +1,4 @@
-Inspired by [dwys's contribution workflow](https://www.github.com/dwyl/contributing).
+Inspired by [dwyl's contribution workflow](https://www.github.com/dwyl/contributing).
 
 The following people are available to review pull requests: [@bradreeder](https://github.com/bradreeder), [@des-des](https://github.com/des-des), [@sofer](https://github.com/sofer), [@iteles](https://github.com/iteles) or [@nelsonic](https://github.com/nelsonic).
 
