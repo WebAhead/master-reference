@@ -6,6 +6,8 @@
 
 + **Clean desk policy**. We have a clean-desk policy. Please leave your desk clear before you leave each day.
 
-+ **Hot desking**. Please sit anywhere downstairs when you arrive each morning. 
++ **Hot desking**. Please sit anywhere downstairs when you arrive each morning.
 
 + **20-minute rule**. Struggle is good, but not too much of it. As a general rule, if you cannot solve a problem within 20 minutes, then stop and talk to somebody about it (there should be a timer on your desk)
+
++ **No frameworks**. For the first 10 weeks of the course, stick to vanilla JavaScript. That means no frameworks, backend or frontend (i.e. no Bootstrap/jQuery etc...). This is for the benefit of your understanding of JavaScript; trust us (and all the previous FAC cohorts) – it works!
