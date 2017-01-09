@@ -14,7 +14,7 @@ If you have any problems with the following material, feel free to reach out to 
 
 Use this [Command Line Interface Crash Course](https://learnpythonthehardway.org/book/appendixa.html) to get familiar with navigating around your computer without using a GUI.
 
-## Github
+## Git & Github
 
 [Udacity's git & github course](https://www.udacity.com/course/how-to-use-git-and-github--ud775) is a brilliant set of videos. The course is quite long, so don't worry about completing the whole thing. We will go into more depth in week 1. For now, _just complete lesson 1_.
 
