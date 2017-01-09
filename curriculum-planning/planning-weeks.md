@@ -12,7 +12,7 @@ Aim to have evenly distributed responsibilities for each mentor to carry out pos
 
 ### Workflow
 
-1. **Discuss and write-up a list of the learning outcomes for your week.**
+**Discuss and write-up a list of the learning outcomes for your week.**
 
 What is your week's overall theme -- what topics & technologies is it broken down into that students will learn throughout the week? What key concepts do you want them to understand or be familiar with?
 
@@ -22,7 +22,7 @@ Those of the lowest priority are your likely candidates for stretch goals in the
 
 _You can use the outline of your week in the [curriculum overview](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/curriculum-overview.md) as a starting point. You may also wish to consider looking at the learning outcomes for your week from our past curriculums for ideas. They can be found on the F&C organisation's [gitbook page](https://www.gitbook.com/@foundersandcoders)._
 
-2. **Come up with a project idea that fulfils as many of the core learning outcomes as possible.**
+**Come up with a project idea that fulfils as many of the core learning outcomes as possible.**
 
 The project is the most important learning experience of the week, the opportunity to apply everything students have learned. You could think of Monday & Tuesday as preparation or build-up to the project, and the completion of the project as equal to the achievement of the core learning outcomes, so that students end the week on a moment of closure.
 
@@ -30,13 +30,13 @@ If students don't get to or are not expected to apply topics or technologies you
 
 _If you come into difficulties incorporating the topics listed under the [curriculum overview](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/curriculum-overview.md) for your week, ping one of our [reviewers](https://github.com/foundersandcoders/master-reference/blob/master/CONTRIBUTING.md) and we can discuss whether it should be re-distributed._
 
-3. **Break down what the student will need for the project into component topics and assign them to slots in the week structure.**
+**Break down what the student will need for the project into component topics and assign them to slots in the week structure.**
 
 The week structure can be found [here](https://github.com/foundersandcoders/master-reference/issues/27#issuecomment-267200575) with the timings for workshops, morning challenges, research topics & external speaker slots to fill. Try to keep to the schedule as much as you can. Only negotiate if it significantly effects your week.
 
 Think about whether a topic is suited to a research subject, external speaker talk, workshop or morning challenge, and remember that it's possible to cover multiple topics in one session if integrated well.
 
-4. **Begin researching into ideas for the workshops & morning challenges you'll use.**
+**Begin researching into ideas for the workshops & morning challenges you'll use.**
 
 You should divide up to start looking into the following. If you don't finish this, keep calm! Just post the minutes of your meeting in the issue and your reviewer can help you find internal resources.
 
@@ -48,7 +48,7 @@ In order of priority:
 
 If you make use of any repos on github, internal or external, all mentors, please star them! You're making use of the contributor's time & effort, share the :heart: with them!
 
-5. **Conclude the meeting by assigning yourselves to post-meeting responsibilities**
+**Conclude the meeting by assigning yourselves to post-meeting responsibilities**
 
 ##### Making Pull-Requests
 
