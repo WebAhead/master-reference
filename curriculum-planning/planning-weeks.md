@@ -8,7 +8,7 @@ Assign someone to take minutes for this meeting. At the end of this meeting aim 
 * A proposal for the group project.
 * A broad proposal for the [week structure](https://github.com/foundersandcoders/master-reference/issues/27#issuecomment-267200575): what topics will be covered and in what slots. If you know specific resources you'll use then include them, otherwise just outline the scope of what you want slots in the schedule to cover.
 
-Aim to have evenly distributed responsibilities for each mentor to carry out post-meeting.
+Aim to have evenly distributed responsibilities for each mentor to carry out post-meeting and document them in the issue.
 
 ### Workflow
 
@@ -30,7 +30,7 @@ If students don't get to or are not expected to apply topics or technologies you
 
 _If you come into difficulties incorporating the topics listed under the [curriculum overview](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/curriculum-overview.md) for your week, ping one of our [reviewers](https://github.com/foundersandcoders/master-reference/blob/master/CONTRIBUTING.md) and we can discuss whether it should be re-distributed._
 
-**Break down what the student will need for the project into component topics and assign them to slots in the week structure.**
+**Break down what the student will need for the project into component topics and assign them to slots in the week structure with a scope of what will be covered.**
 
 The week structure can be found [here](https://github.com/foundersandcoders/master-reference/issues/27#issuecomment-267200575) with the timings for workshops, morning challenges, research topics & external speaker slots to fill. Try to keep to the schedule as much as you can. Only negotiate if it significantly effects your week.
 
