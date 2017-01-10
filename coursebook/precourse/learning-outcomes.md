@@ -19,7 +19,7 @@ Use the command line to navigate around your computer
 
 ### Semantic HTML
 
-- Use new HTML5 tags that will improve symantics
+- Use new HTML5 tags that will improve semantics
 
 ### CSS
 
