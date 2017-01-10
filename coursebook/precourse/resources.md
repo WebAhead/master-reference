@@ -18,7 +18,7 @@ Learn Python The Hard Way has a great [Command Line Interface Crash Course](http
 
 ### Git & Github
 
-[Udacity's git & github course](https://www.udacity.com/course/how-to-use-git-and-github--ud775) is a brilliant set of videos. The course is quite long, so don't worry about completing the whole thing. We will go into more depth in week 1. For now, _just complete lesson 1_.
+[Udacity's git & github course](https://www.udacity.com/course/how-to-use-git-and-github--ud775) is a brilliant set of videos. The course is quite long, so don't worry about completing the whole thing. We will go into more depth in week 1. For now, _just complete lesson 1 (Navigating A Commit History section)_.
 
 ### Markdown
 
