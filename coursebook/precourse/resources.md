@@ -2,7 +2,7 @@
 
 F&C is an intense course, and you should make sure you're well-rested and ready to work when you get here. Below is a list of material that will help you to be prepared for the start of the course. The list might look a bit long, but each resource itself is quite short. Doing bitesized chunks little and often should make this manageable before the course begins. Your curriculum is designed with the assumption that you'll be familiar with the high priority resources by week one.
 
-Please do not forget that **we don't use frameworks at FAC** – ignore Bootstrap and JQuery, and make sure you work in vanilla HTML, CSS and JavaScript. Head over to our [house rules](../general/house-rules.md) to find out why.
+Please do not forget that **we don't use frameworks at FAC** – ignore Bootstrap and JQuery, and make sure you work in vanilla HTML, CSS and JavaScript. That means no [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) either. Head over to our [house rules](../general/house-rules.md) to find out why.
 
 You should also refrain from using ES6 syntax for now, as it is not yet supported across all browsers. (More on ES6 to come later on in the course.)
 
