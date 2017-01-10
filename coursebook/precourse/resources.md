@@ -2,9 +2,9 @@
 
 Congratulations to all of you on being part of the next F&C cohort!
 
-F&C is a very intense course, and you should make sure you're well-rested and ready to work when you get here. Below is a list of material that will help you to be prepared for the start of the course. The list might look a bit long, but each resource itself is quite short. Doing bitesized chunks little and often should make this manageable before the course begins. Your curriculum is designed with the assumption that you'll be familiar with these topics by week one.
+F&C is a intense course, and you should make sure you're well-rested and ready to work when you get here. Below is a list of material that will help you to be prepared for the start of the course. The list might look a bit long, but each resource itself is quite short. Doing bitesized chunks little and often should make this manageable before the course begins. Your curriculum is designed with the assumption that you'll be familiar with these topics by week one.
 
-Please do not forget that **we don't use frameworks at FAC** – ignore Bootstrap and JQuery, and make sure you work in vanilla HTML, CSS and JavaScript. We want you to build your skills without being reliant on any one framework so that you fully appreciate what problems each framework is solving, and are able to therefore make more effective judgements on which technologies to use in future. Another advantage is that it arms students with the flexibility to switch between technologies, as the popularity of each one can shift. And lastly, F&C values are heavily aligned with open source software. You should be better able to contribute to and improve upon existing technologies if you have a deeper understanding of what is going on.
+Please do not forget that **we don't use frameworks at FAC** – ignore Bootstrap and JQuery, and make sure you work in vanilla HTML, CSS and JavaScript. Head over to our [house rules](../general/house-rules.md) to find out why.
 
 You should also refrain from using ES6 syntax for now, as it is not yet supported across all browsers. (More on ES6 to come later on in the course.)
 
