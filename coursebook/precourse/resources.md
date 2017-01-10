@@ -54,9 +54,9 @@ This section includes condensed articles/videos that will be beneficial when tac
 1. [Call Me Nick - DOM Manipulation Basics](http://callmenick.com/post/basics-javascript-dom-manipulation) will cover a lot of the basics.
 2. [Appspot's DOM Tutorials: Exercises 1,2 & 3 only](https://dom-tutorials.appspot.com/static/index.html) will help put that into practice.
 
-### APIs
+### Intro to HTTP & APIs
 
-[Learn APIS: First 4 chapters](https://zapier.com/learn/apis/) introduces basics of APIS, HTTP, and API keys
+[Learn APIS: First 3 chapters](https://zapier.com/learn/apis/) - 3 articles with interactive questions at the end to introduce HTTP theory.
 
 ### Chrome Dev Tools
 
@@ -64,7 +64,7 @@ This section includes condensed articles/videos that will be beneficial when tac
 
 ### Practical Project
 
-The main [objective](learning-objectives.md) of your precourse material is to become comfortable with the topics in the material above. However, from our experience, you'll find working on a personal project _very_ useful to cement this knowledge. We recommend that you try putting this all into practice by building a calculator, as suggested in the [FCC Advanced Front End Development Projects](https://www.freecodecamp.com/challenges/build-a-javascript-calculator). Make sure to host your project on github pages.
+The main [objective](learning-outcomes.md) of your precourse material is to become comfortable with the topics in the material above. However, from our experience, you'll find working on a personal project _very_ useful to cement this knowledge. We recommend that you build (a calculator)[FCC Advanced Front End Development Projects](https://www.freecodecamp.com/challenges/build-a-javascript-calculator)], to apply some of what you've learnt in these resources. Make sure to host your project on github pages. Remember, no frameworks ;)
 
 Rather than using Codepen or JS Fiddle, you should do this directly with your text editor, terminal and browser. Start by creating your repo on Github and try to stick to the command line for adding, commiting and pushing your changes as you go. Don't forget to add some documentation ;)
 
