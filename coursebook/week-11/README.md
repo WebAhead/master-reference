@@ -119,7 +119,7 @@ so be prepared to be _way_ out of your comfort zone!
 + Step 3: Sketch the idea using the "Crazy 8's" method you learned with [**Mr. Fox**](https://github.com/harrygfox)!
 + Step 4: UX Test with _Real_ (_Potential_) Users/People!
   + [ ] Prepare your interview questions before hand (_if you need any help ask_!)
-  + [ ] Go to Campus London: https://www.campus.co/london 
+  + [ ] Go to Campus London: https://www.campus.co/london
   (Tip: Aim to arrive at 08:50 so you can get your pass an grab a seat before they run out of space! Go downstairs to the cafe and find a spot near the bar where you can stand and wait for people to appear...)
   + [ ] Scope out what's going on in the space. e.g: are there people who look "_social_" (_hint: it's **not** the ones wearing noise-cancelling-headphones!_)?
   + [ ] **Start** a stopwatch/timer as you are walking up to the person you are attempting to interview. (_so you can keep track of time! duh! remember to stop it when your interview ends!_)
@@ -132,5 +132,7 @@ so be prepared to be _way_ out of your comfort zone!
   + [ ] **Write-up**! go back to your "desk" and write up your findings.
 
 + Step 5: Write-up your findings with sketches, sound-bites of what people said.
++ Step 6: present your findings to the cohort/group back at F&C!
 
-> Note: each interview should only last a couple of minutes. and you are aiming to get 20 of them! _Don't worry if you get fewer than this, and don't get disheartened if people dismiss your question ... If you find that you have "**exhausted the supply**" of interviewees you can always do the lunch-time-queue trick and walk over to [Whitecross Street Food Market](https://www.tripadvisor.co.uk/Attraction_Review-g186338-d2094743-Reviews-Whitecross_Street_Market-London_England.html) pick a popular food stall (with a long queue) and "target" the punters who are waiting for to be served! it's friday so it will be busy! make a joke about how good the food smells and how waiting is such a pain, but then dive into your interview!!_
+> Note: each interview should only last a couple of minutes. and you are aiming to get 20 of them! _Don't worry if you get fewer than this, and don't get disheartened if people dismiss your question ... just wait a few mins for someone else you can approach. (_make a note of what the "rejection/excuse" was!_)
+If you find that you have "**exhausted the supply**" of interviewees you can always do the lunch-time-queue trick and walk over to [Whitecross Street Food Market](https://www.tripadvisor.co.uk/Attraction_Review-g186338-d2094743-Reviews-Whitecross_Street_Market-London_England.html) pick a popular food stall (with a long queue) and "target" the punters who are waiting for to be served! it's friday so it will be busy! make a joke about how good the food smells and how waiting is such a pain, but then dive into your interview!!_
