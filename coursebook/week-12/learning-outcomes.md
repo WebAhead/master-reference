@@ -28,3 +28,23 @@ by helping to _transcribe_ the Elm-workshop videos,
 it's time to _focus_ on the F&C Organization/Community
 and _use_ your knowledge of Elm to make something _useful_ for F&C!
 `GOTO`: [`project.md`](# 'please update this hyperlink')
++ "Learning outcome" for the "***Final Project***" is:
+  + Learn how to ***prioritise*** the highest value features to the Org/User
+  + **Work in a (_larger_) team** that includes both graduates of _previous_ F&C cohorts
+  ***and*** involves the Directors/Mentors as "Product Owners" where appropriate.
+  + Learn how to **document everything** to
+  [***eliminate friction***](https://github.com/dwyl/time/issues/58)
+  and "_barriers to participation_" for future team members.
+  (_so far Docs have been an afterthought in all but a handful
+    of F&C projects! this is a massive oversight as dramatically reduces
+    the potential for collaboration because people don't know **how**
+    to get started!_)
+  + Leave a ***clear backlog*** of "ideas" for how the app _can_
+  be expanded/improved so there is a
+  ["Next Action"](https://hamberg.no/gtd/)
+  the person _after_ you can take to `continue` making progress
+  towards the project's goal!
+  + Ensure that all discussions are had/captured in the ***issues***
+  for the project so there is a "Clear Decision Trail" that will allow
+  someone `else` to pick up if for any reason you _leave_ the project
+  mid-way through and _unable_ to `return`.
