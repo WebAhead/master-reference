@@ -126,3 +126,63 @@ to _make_ something useful.
 
 
 > Note: We will have Stop-Go-Continue as usual for the whole week at 17:00.
+
+
+
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
+
+# tl;dr
+
+<sup>1</sup> A few of the _promising_ internal projects which use some [***help***](https://youtu.be/1PWk3i9WT-8) could be
+further developed to make the F&C _organization_ ***much bettererer***:
+
++ ***Cashflow*** (_the lifeblood of the organization, even if we think being "**poor** is a **good thing**_...): https://github.com/foundersandcoders/london-money (_build a live dashboard of our cashflow position, how much we still need for that month or any of our other projects so that everyone in the org/community knows where we are with our finances!_)
+
++ Tracking the **Jobs** available to **F&C Graduates** in a systematic way (_not gitter!_): https://github.com/foundersandcoders/fac-jobs-board this could _restricted_ to members of the F&C community using [GitHub Auth](https://github.com/dwyl/hapi-auth-github) and could store a person's profile and let people list the types of employers they are looking for.
+Yes, it's similar to `{Insert Name of Recruitment Startup Here}`
+but the _crucial_ difference is that if we have a _good_ Jobs board which is actively maintained, the revenue from "_placing_" people in jobs goes
+to making F&C _sustainable_ not into the BMW Payments for a "Tech Recruiter"... :heart:
+> tech recruiters ... how/why is this still a thing?!
+https://www.linkedin.com/vsearch/f?type=all&keywords=technology+recruiter
+
++ ***News Letter*** - the ***single most effective*** way of communicating
+with existing people in a time-shifted and most succinct/focussed way!: https://github.com/foundersandcoders/old-newsletter
+(_which now appears to be "old" but does [**not contain** a link](https://github.com/foundersandcoders/old-newsletter/tree/baa7dd3778e071c6f31703f658df204475e30a50) to where the new one is..._)
+
++ **Alumni Network(ing) Dinners**: https://github.com/foundersandcoders/monthly
+(_regular dinners for Alumni organized by
+  [@RonanYeah!](https://github.com/foundersandcoders/monthly/commits/master
+  'lead by example by always committing directly to master')
+this could be made into a collaborative thing
+rather than relying on one time-scarce Software Engineer...
+**Tip**: send out a **calendar invite** with the monthly newsletter
+so people know when/where the next one is, and they can **automatically
+add** it to their calendar along with the latest F&C news so they
+know what's going on and are "all caught up" before they arrive!
+see: [The Todo List](https://github.com/foundersandcoders/monthly/blob/master/INFO.md#to-do) ... not to be **confused** with the [**DWYL lunch/dinners**
+which are **Always Vegan & Free**](https://github.com/dwyl/hq/issues/121)_)
++ https://github.com/foundersandcoders/chandelier
++ https://github.com/foundersandcoders/resource-sharing
+
+As you can _see_ some people _have tried_ to solve _some_ of the
+_important_ organizational challenges before ...
+with varying degrees of enthusiasm/momentum/success...
+
+***Only*** by _diligently_ following the [_contributing instructions/process_](https://github.com/foundersandcoders/master-reference/blob/master/CONTRIBUTING.md) will _any_ meaningful progress be towards making F&C sustainable. ***Specifically***:
++ ***Discuss*** the challenge/idea/suggestion in an `issue` `before` diving into fixing/implementing it!
++ ***Never*** `commit` your changes (_directly_) to `master`
+_especially_ without referencing an issue/dicsussion!
+It's an _exceptionally_
+[***bad habit***](https://youtu.be/zGbOF4UPpfs?t=2m37s)
+which just shows
+_complete disregard_ for ***clearly communicating*** with your _colleagues_
+and _screams_:
+"_my contributions don't need to be peer-reviewed because they are always perfect!_"
++ ***Test*** your work/code!! It's _easy_ to take for _granted_ that
+what we aremaking "just works", but
+without tests ***reliability*** is ***impossible***!
++ ***Document/Comment*** your work/code!
+"_What gets measured get's `done`_"
+add a documentation "badge" to your work:
+https://github.com/dwyl/repo-badges#documentation
