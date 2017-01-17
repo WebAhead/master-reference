@@ -49,6 +49,19 @@ _Many_ ideas have been discussed in the past and some were _really_ good<sup>1</
 point you in the _direction_ of what you _can_ do ...
 (_if people **prefer precise requirements/instructions** we can **easily** write those out e.g: https://github.com/dwyl/terminate/issues/29 ... we just think this gives you more of a chance to think and be creative..._)
 
+## _Who_?
+
++ _Everyone_ in the cohort.
+(_this is your last day together as a Cohort, make the most of and enjoy it!_)
++ _Anyone_ `else` in the F&C Community (_both alumni, directors and mentors_!)
+that you feel can contribute to _understanding_
+the challenge/problem!
+Mention people in the issue(s) you create
+so there is a "_paper trail_" of who has been "_consulted_",
+and ensures as many voices/ideas/insights are represented/captured;
+there's a _high_ chance that someone else will have insight
+into the challenge/problem you are attempting to solve, _ask_ them!!
+
 
 ## How?
 
