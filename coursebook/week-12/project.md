@@ -134,7 +134,34 @@ to _make_ something useful.
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 
-# tl;dr <small>(_notes on existing internal projects_)</small>
+# tl;dr
+
+## Process _Matters_ When Working on Projects in Teams
+
+***Only*** by _diligently_ following the [_contributing instructions/process_](https://github.com/foundersandcoders/master-reference/blob/master/CONTRIBUTING.md) will _any_ meaningful progress be towards making F&C sustainable. ***Specifically***:
++ ***Discuss*** the challenge/idea/suggestion in an `issue` `before` diving into fixing/implementing it!
+
++ ***Never*** `commit` your changes (_directly_) to `master`
+_especially_ without referencing an issue/dicsussion!
+It's an _exceptionally_
+[***bad habit***](https://youtu.be/zGbOF4UPpfs?t=2m37s)
+which just shows
+_complete disregard_ for ***clearly communicating*** with your _colleagues_
+and _screams_:
+"_my contributions don't need to be peer-reviewed
+because they are always perfect!_";
+***Always*** create a branch/pull request and get _someone_ to review/merge it.
+
++ ***Test*** your work/code!! It's _easy_ to take for _granted_ that
+what we aremaking "just works", but
+without tests ***reliability*** is ***impossible***!
+
++ ***Document/Comment*** your work/code!
+"_What gets measured get's `done`_"
+add a documentation "badge" to your work:
+https://github.com/dwyl/repo-badges#documentation
+
+## Existing Internal Projects that _Can_ be _Extended_
 
 <sup>1</sup> A few _promising_ internal projects which could use some
 [***help***](https://youtu.be/1PWk3i9WT-8)
@@ -244,23 +271,3 @@ which are **Always Vegan & Free**](https://github.com/dwyl/hq/issues/121)_)
 As you can _see_ some people _have tried_ to solve _some_ of the
 _important_ organizational challenges before ...
 with varying degrees of enthusiasm/momentum/success...
-
-## Process _Matters_ When Working on Projects in Teams 
-
-***Only*** by _diligently_ following the [_contributing instructions/process_](https://github.com/foundersandcoders/master-reference/blob/master/CONTRIBUTING.md) will _any_ meaningful progress be towards making F&C sustainable. ***Specifically***:
-+ ***Discuss*** the challenge/idea/suggestion in an `issue` `before` diving into fixing/implementing it!
-+ ***Never*** `commit` your changes (_directly_) to `master`
-_especially_ without referencing an issue/dicsussion!
-It's an _exceptionally_
-[***bad habit***](https://youtu.be/zGbOF4UPpfs?t=2m37s)
-which just shows
-_complete disregard_ for ***clearly communicating*** with your _colleagues_
-and _screams_:
-"_my contributions don't need to be peer-reviewed because they are always perfect!_"
-+ ***Test*** your work/code!! It's _easy_ to take for _granted_ that
-what we aremaking "just works", but
-without tests ***reliability*** is ***impossible***!
-+ ***Document/Comment*** your work/code!
-"_What gets measured get's `done`_"
-add a documentation "badge" to your work:
-https://github.com/dwyl/repo-badges#documentation
