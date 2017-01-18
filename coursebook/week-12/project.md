@@ -5,7 +5,7 @@ it's time to _use_ those super-powers for _good_.
 
 > great responsibility
 
-## Why?
+## _Why_?
 
 ### Founders & Coders and all future technology learners need(s) _your_ help!
 
@@ -13,7 +13,7 @@ it's time to _use_ those super-powers for _good_.
 there are still _many_ areas of F&C that _can_ be ***improvededed***.
 
 At this point in the "_course_" you will **all** have
-(_more than_) enough insight into what
+(_more than_) "_enough_" **insight** into what
 _can_ be _improved_ about F&C and can _articulate_
 (_write down_) the most pressing issues because you will have
 **_felt_ the _pain_** and had _time_ to _think_ about it!
@@ -25,12 +25,14 @@ have been _demanding_, because you had to acquire _new_ skills `while` you
 were building the "thing". This challenge is no _less_ demanding in that it
 will require you to ***think creatively*** and produce something _useable_
 and _useful_ by the end of the week!
+However there is a _key_ difference between this project and previous ones:
+you _already_ (_collectively_) have
+_more_ than enough technical knowledge/skills
+to _build/make_ _anything_ you can imagine,
+so this project is simply a matter
+of applying skills you have _muscle memory_ for to a new problem.
 
-_Please_ follow these **steps** they are _all_ important. <br />
-(_note: the steps are fairly obvious and can be reviewed/revised in
-  SGC at the end of the week_)
-
-## What?
+## _What_?
 
 Founders & Coders is a (_reasonably_) well-defined setup.
 
@@ -65,45 +67,81 @@ there's a _high_ chance that someone else will have insight
 into the challenge/problem you are attempting to solve, _ask_ them!!
 
 
-## How?
+## _How_?
 
 Each Step in this process needs to be time-boxed
 to avoid running _out_ of time!
 A "Hackathon" is about _high-intensity_ and _focus_
 not chit-chat and distractions.
 Today you will be `done` by ***16:00***.
-You will manage your own time but stay focussed on the end-of-day goal.
+
+_Please_ **follow** `.each` of the **Seven Steps**; they are _all_ important. <br />
+(_note: the steps are fairly obvious and can be reviewed/revised in
+  SGC at the end of the week_)
+
+
+You will manage your own time to _collectively_
+stay focussed on the **end-of-day** goal.
 This is a test of your **teamwork** skills
 as much as your technical/development skills,
-so if someone is "_stuck_" help them get _un stuck_.
+so if someone is "_stuck_" help them get _un stuck_ (_quickly!_).
 Cross the "_finish line_" together.
-Remember that you don't _need_ a fully-functioning app by the end of the day,
-but you do need to _deliver_ something that shows _how_ you _intend_ to
-solve the challenge and document _comprehensively_
+Remember that you don't _need_ a "fully-functioning" app by the end of the day,
+but you do need to _deliver something_ that _shows_ ***how*** you _intend_ to
+solve the challenge. This can be a simple as comprehensive readme doc
+and well described "backlog" of features
+which you walk everyone through in your presentation.
+Ideally you will produce `.some` sort of prototype (_even a paper one!_)
+(_which demonstrates your idea better than words ever could!_)
+
+Without further ado!!
 
 ### Step 1: _Discover_ the _Highest Value_ Challenge (25mins)
 
 Thankfully, many of you _already_ know what the *highest value*
-"***things we need to fix***" in F&C are ...
+"***things we need to fix***" in F&C are ... <br />
 so this exercise does not _need_ to take very long.
+(_**embrace** the **time constraint** for the brainstorm session!
+  Bank the time for a later step!_)
 
-+ Get **Post-its & Sharpies** (_we should have enough in F&C/DWYL if you can't find enough, ask!_)
-+ Individually or in _Pairs_ spend **5 minutes** "_brain storming_" the
++ Get **Post-its & Sharpies** (_we should have enough in F&C/DWYL
+  if you can't find enough stationery, ask!_)
+
++ Individually or in _pairs_ spend **5 minutes** "_brain storming_" the
 ***highest value/impact/pain challenges/problems that F&C has/faces***.
-Write **one** "issue" per **post-it**. (_don't "worry" about "wasting" Post-its! they are cheap compared to how much time/money we are burning by not fixing F&C's most fundamental problems..._!)
-... in 5 minutes so don't go over this time and don't get distracted "_chatting_" about the potential solutions either; just define the issue in as few words as possible.
-+ **Group** the Post-its on the wall and see what emerges. this should take no longer than **5 mins**.
+Write **one** "issue" per **post-it**.
+(_don't "worry" about "wasting" Post-its! they are cheap
+compared to how much time/money we are burning by not fixing
+F&C's most fundamental problems..._!)
+...  5 minutes so don't go over this time
+or get distracted "_chatting_" about the potential solutions either;
+just define the issue in as few words as possible.
 
++ **Group** the Post-its on the wall and see what emerges.
+this should take no longer than **5 mins**.
 
-### Step 2: _Select_ the Challenge (25 mins)
+### Step 2: _Select_ the Challenge(s) to be _Solved_! (25 mins)
 
 + As a _cohort_ select the **_highest value_ challenge(s)** from the list
 you have collated from your Post-its.
++ _Ensure_ you agree on "Top Four" highest value challenges,
+because you will be _self-organising_ into 4 teams to hack
+on your chosen idea for the rest of the day!!
 
-### Step 3: _Describe_ the Challenge in a `new` Issue
+### Step 3: _Describe_ the Challenge in a `new` ("Epic") Issue (25mins)
 
 + ***Search*** through https://github.com/foundersandcoders
-using the GitHub Full-text-search.
+using the GitHub Full-text-search to see if there are any _existing_
+issues or code that relate to the problem you are trying to solve.
+
++ `if` there is a reasonably well described issue with a
+[problem statement](https://en.wikipedia.org/wiki/Problem_statement)
+re-cycle it by adding more detail in follow up comments.
+it's likely that there is not an _existing_ issue that concisely
+captures the problem and includes a _checklist_ linking to sub-issues,
+in that `case` create a
+[`new` issue!](https://github.com/foundersandcoders/master-reference/issues/new)
+
 + Paste links any _existing_ issues stating the problem/challenge
 in the `description` of the `new` issue.
 
@@ -113,19 +151,40 @@ It will have a checklist that will link to _smaller_ issues.
 
 ### Step 4: _Research Existing_ Projects Matching the Challenge (50 mins)
 
-+ Research the _Existing_ Projects Attempting to Address the Challenge)
++ Research the _Existing_ Projects
+(_both internal to F&C and in the wider Open Source community_)
+that are attempting to address the Challenge you are solving!
+
 + Add links to any _Existing_ Projects in the `new` issue description
 (_you created in step 3_)
 
-### Step 5: Use Your Skills (TBD hours/mins)
++ Remember to _never skimp_ on research as it can save you the _most_ time
+e.g: you find that someone `else` has solved your problem and you don't _have_
+to write _any_ code!
 
+### Step 5: _Use_ Your _Skills_ (TBD hours/mins)
+
++ Once you have a well-defined problem statement
+and have done the initial research, it's time to dive into the "One Day Sprint"!
 + Use _any_/_all_ skills you have accumulated in the past 11.5 weeks
-to _make_ something useful.
+to _produce_ something useful.
 
-### Step 6: Wrap Up at 15:30 (25 mins)
+### Step 6: _Finish_ by 16:00 on Friday
 
-### Step 7: Present to the Group at 16:00 (50 mins)
+_Finishing_ something is _hard_.
+The whole _point_ of learning "continuous delivery" and the "agile methodology"
+is that you can _itterate_ on something over time...
+Sadly, the _reality_ is that _everywhere_ you work will have _deadlines_
+embrace them to work smarter!
 
+### Step 7: _Present_ to the Group at 16:00 (50 mins)
+
++ Presentations will follow a similar format to previous weeks.
+The _key_ distinction is that today will be _filmed_!!
+And you will be able to _embed_ the video in your project README
+so that other people can pick up where you leave off!!
+
+> If you are camera shy or would prefer not to be filmed _speak up_!
 
 > Note: We will have Stop-Go-Continue as usual for the whole week at 17:00.
 
@@ -138,7 +197,8 @@ to _make_ something useful.
 
 ## Process _Matters_ When Working on Projects in Teams
 
-***Only*** by _diligently_ following the [_contributing instructions/process_](https://github.com/foundersandcoders/master-reference/blob/master/CONTRIBUTING.md) will _any_ meaningful progress be towards making F&C sustainable. ***Specifically***:
+***Only*** by _diligently_ following the [_contributing instructions/process_](https://github.com/foundersandcoders/master-reference/blob/master/CONTRIBUTING.md)
+will _any_ meaningful progress be towards making F&C sustainable. ***Specifically***:
 + ***Discuss*** the challenge/idea/suggestion in an `issue` `before` diving into fixing/implementing it!
 
 + ***Never*** `commit` your changes (_directly_) to `master`
@@ -161,14 +221,13 @@ without tests ***reliability*** is ***impossible***!
 add a documentation "badge" to your work:
 https://github.com/dwyl/repo-badges#documentation
 
-## Existing Internal Projects that _Can_ be _Extended_
+## _Existing_ Internal Projects that _Can_ be _Extended_
 
 <sup>1</sup> A few _promising_ internal projects which could use some
 [***help***](https://youtu.be/1PWk3i9WT-8)
 to be further developed
 to make the F&C _organization_ ***much bettererer***! <br />
 projects listed `ORDER BY VALUE_TO_ORG DESC;`
-
 
 + ***Cashflow*** https://github.com/foundersandcoders/london-money
  ***cash*** is the **lifeblood** of the organization, even if we think
@@ -184,7 +243,6 @@ projects listed `ORDER BY VALUE_TO_ORG DESC;`
   (current or future)
   so that **everyone** in the org/community
   **knows** where we are with our finances at **all times**!_)
-
 
 + ***Jobs***: https://github.com/foundersandcoders/fac-jobs-board
 Tracking the **Jobs** available to **F&C Graduates** in a systematic way
@@ -234,7 +292,6 @@ but there's a bit of a "Chicken and Egg" issue here...
 _Thankfully_ the team working on the project is the _current_ cohort,
 so the ideas are still fresh!
 
-
 + ***Production Management***: https://github.com/foundersandcoders/chandelier
 "_for people who produce_" ...
 it is _unclear_ from the
@@ -270,4 +327,5 @@ which are **Always Vegan & Free**](https://github.com/dwyl/hq/issues/121)_)
 
 As you can _see_ some people _have tried_ to solve _some_ of the
 _important_ organizational challenges before ...
-with varying degrees of enthusiasm/momentum/success...
+with varying degrees of enthusiasm/momentum/success ...
+it's a _good_ idea to _extend_ other people's work!
