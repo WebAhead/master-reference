@@ -10,11 +10,13 @@ it's time to _use_ those super-powers for _good_.
 ### Founders & Coders and all future technology learners need(s) _your_ help!
 
 `while` _we_ have come a _long_ way in the past few years,
-there are still _many_ areas of F&C that _can_ be ***improved***.
+there are still _many_ areas of F&C that _can_ be ***improvededed***.
 
-At this point in the "_course_" you will all have enough insight into what
-_can_ be _improved_ about F&C to write down the most pressing issues
-because you will have **_felt_ the _pain_** and had _time_ to think about it!
+At this point in the "_course_" you will **all** have
+(_more than_) enough insight into what
+_can_ be _improved_ about F&C and can _articulate_
+(_write down_) the most pressing issues because you will have
+**_felt_ the _pain_** and had _time_ to _think_ about it!
 
 > feel the pain
 
@@ -193,15 +195,45 @@ but myopic for virtually _everything_ `else`.
 Let's fix it by making a tool that is "_as easy to use as chat_"
 and offers substantially more value to all users!
 
-+ https://github.com/foundersandcoders/chandelier
++ ***Freelance networking and resources***:
+https://github.com/foundersandcoders/freelance-networking-and-resources
+this _could_ be a _really_ useful resource.
+No `code` or "roadmap" in the repo.
+but the [issues](https://github.com/foundersandcoders/freelance-networking-and-resources/issues)
+indicate good activity.
+The way this project can be "_high value_" to F&C
+is `if` it feeds jobs into the ***Jobs*** app (_see above_)
+but there's a bit of a "Chicken and Egg" issue here...
+_Thankfully_ the team working on the project is the _current_ cohort,
+so the ideas are still fresh!
+
+
++ ***Production Management***: https://github.com/foundersandcoders/chandelier
+"_for people who produce_" ...
+it is _unclear_ from the
+[README.md @ b11b240a549979d31bc8ac66fd46e304b365a4c0](https://github.com/foundersandcoders/chandelier/blob/b11b240a549979d31bc8ac66fd46e304b365a4c0/README.md)
+_exactly_ what the project does or is _meant_ to do.
+the API suggests
+[jobs](https://github.com/foundersandcoders/chandelier/blob/b11b240a549979d31bc8ac66fd46e304b365a4c0/api/routing/routes.js#L38-L41)
+and
+[products](https://github.com/foundersandcoders/chandelier/blob/b11b240a549979d31bc8ac66fd46e304b365a4c0/api/routing/routes.js#L50-L53)
+issues were
+[last **updated 12 Oct 2015**](https://github.com/foundersandcoders/chandelier/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
+perhaps ask one of the
+[contributors](https://github.com/foundersandcoders/chandelier/graphs/contributors)
+who are _all_ ***certified geniuses*** and _really_ nice/helpful people!!
 
 + **Alumni Network(ing) Dinners**: https://github.com/foundersandcoders/monthly
 (_regular dinners for Alumni organized by
   [@RonanYeah!](https://github.com/foundersandcoders/monthly/commits/master
-  'lead by example by always committing directly to master')
+  'try to avoid committing directly to master.
+  there is always someone who can help review a PR
+  which ensures that more people are included/involved
+  see: contributing.md ...')
 this could be made into a collaborative thing
-rather than relying on one time-scarce Software Engineer...
-**Tip**: send out a **calendar invite** with the monthly newsletter
+rather than relying on **one** time-scarce Software Engineer ...
+**Tip**: send out a **calendar invite** with the monthly email newsletter
+(see second project above)
 so people know when/where the next one is, and they can **automatically
 add** it to their calendar along with the latest F&C news so they
 know what's going on and are "all caught up" before they arrive!
@@ -213,7 +245,7 @@ As you can _see_ some people _have tried_ to solve _some_ of the
 _important_ organizational challenges before ...
 with varying degrees of enthusiasm/momentum/success...
 
-## Process _Matters_
+## Process _Matters_ When Working on Projects in Teams 
 
 ***Only*** by _diligently_ following the [_contributing instructions/process_](https://github.com/foundersandcoders/master-reference/blob/master/CONTRIBUTING.md) will _any_ meaningful progress be towards making F&C sustainable. ***Specifically***:
 + ***Discuss*** the challenge/idea/suggestion in an `issue` `before` diving into fixing/implementing it!
