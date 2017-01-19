@@ -3,22 +3,22 @@
 Once you are _reasonably_ confident in your Elm skills,
 it's time to _use_ those super-powers for _good_.
 
-> great responsibility
+![with-great-power-comes-great-responsibility-power-bill-spider-main](https://cloud.githubusercontent.com/assets/194400/22128364/11eea1ea-de98-11e6-9df2-b97bbb3f7266.jpg)
 
 ## _Why_?
 
 ### Founders & Coders and all future technology learners need(s) _your_ help!
 
-`while` _we_ have come a _long_ way in the past few years,
+`while` _we_ have [come a _long_ way]() in the past few years,
 there are still _many_ areas of F&C that _can_ be ***improvededed***.
 
 At this point in the "_course_" you will **all** have
 (_more than_) "_enough_" **insight** into what
 _can_ be _improved_ about F&C and can _articulate_
 (_write down_) the most pressing issues because you will have
-**_felt_ the _pain_** and had _time_ to _think_ about it!
+**_felt_ the _pain_** and had _time_ to _think_ about the problem(s)!
 
-> feel the pain
+[![no pain no gain](https://cloud.githubusercontent.com/assets/194400/22128589/58c99cd6-de99-11e6-9bb4-91893c594d70.png)](http://giphy.com/search/pain-fail 'feel the pain?')
 
 The group/team projects you have worked on until this point in the "_course_"
 have been _demanding_, because you had to acquire _new_ skills `while` you
@@ -36,11 +36,12 @@ of applying skills you have _muscle memory_ for to a new problem.
 
 Founders & Coders is a (_reasonably_) well-defined setup.
 
-> what is F&C videos
+[![ines-founders-and-coders-cast-talk-open-hands](https://cloud.githubusercontent.com/assets/194400/22129408/a7de29f0-de9d-11e6-89ce-475e9d975106.png)](https://youtu.be/jnW7YzZ9GwQ?t=33s)
 
-And (_to an extent_) we have a good vision for the future (_help still needed/wanted!_)
 
-> vision for the future
+And we have a good vision for the future (_help still needed/wanted!_)
+
+[![dan-the-future](https://cloud.githubusercontent.com/assets/194400/22129840/561ad2dc-dea0-11e6-86ca-661c30c28517.png)](https://youtu.be/3oXhmHDDEro)
 
 What we _need_ is to **_leverage_ technology**
 and the collective **creativity**, **skills** and **efforts**
@@ -56,7 +57,9 @@ point you in the _direction_ of what you _can_ do ...
 ## _Who_?
 
 + _Everyone_ in the cohort.
-(_this is your last day together as a Cohort, make the most of and enjoy it!_)
+(_this is your last day together as a Cohort,
+  before some of you start work on client projects, etc.
+  make the most of and enjoy it!_)
 + _Anyone_ `else` in the F&C Community (_both alumni, directors and mentors_!)
 that you feel can contribute to _understanding_
 the challenge/problem!
@@ -184,11 +187,11 @@ The _key_ distinction is that today will be _filmed_!!
 And you will be able to _embed_ the video in your project README
 so that other people can pick up where you leave off!!
 
-> If you are camera shy or would prefer not to be filmed _speak up_!
+> If you are "camera shy" or would prefer not to be filmed _speak up_!
 
 > Note: We will have Stop-Go-Continue as usual for the whole week at 17:00.
 
-
+# Anything Unclear? [_ASK_](https://github.com/foundersandcoders/master-reference/issues)!!
 
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
 <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br />
@@ -251,8 +254,10 @@ is of _high_ value to _both_ this could _restricted_ to members of the F&C commu
 Yes, it's similar to `{Insert Name of Recruitment Startup Here}`
 but the _crucial_ difference is that if we have a _good_ Jobs board which is actively maintained, the revenue from "_placing_" people in jobs goes
 to making F&C _sustainable_ not into the BMW Payments for a "Tech Recruiter"... :heart:
-> tech recruiters ... how/why is this still a thing?!
+> tech recruiters ... how/why is this still a thing?! <br />
 https://www.linkedin.com/vsearch/f?type=all&keywords=technology+recruiter
+![tech-recruiters-why-how](https://cloud.githubusercontent.com/assets/194400/22128414/5e71e414-de98-11e6-93dc-f63148f0ffa9.png)
+
 
 + ***News Letter*** (_mass communication_):
 https://github.com/foundersandcoders/old-newsletter
