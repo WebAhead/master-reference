@@ -18,9 +18,9 @@ Start each week with a mission and a goal.
 
 10:00-11:00 - Morning Challenge
 
-11:00-12:45 - Workshop
+11:00-12:45 - Workshop 3
 
-12:45-13:00 - Introduce readme topics, assign names on whiteboard (jigsaw)
+12:45-13:00 - Introduce readme topics, assign names on whiteboard and jigsaw teams.
 
 --LUNCH--
 
@@ -34,36 +34,36 @@ Start each week with a mission and a goal.
 
 10:00-11:00 - Morning Challenge
 
-11:00-13:00 - Project planning
+11:00-13:00 - Project Planning
 
 --LUNCH--
 
-14:00-17:00 - Group project
+14:00-17:00 - Group Project
 
-17:00-18:00 - External speaker
+17:00-18:00 - External Speaker
 
 ### Thursday:
 
-10:00-13:00 - Group project
+10:00-13:00 - Group Project
 
 --LUNCH--
 
-14:00-17:00 - Group project
-
-17:00-18:00 - External speaker
+14:00-18:00 - Group Project
 
 ### Friday:
 
 10:00-11:00 - Code Review
 
-11:00-13:00 - Respond to issues (Personal suggestion: finish responding to issues at 12:40, allow 12:40-1:00 for planning presentations)
+11:00-13:00 - Respond to issues
+
+12:40-13:00 - Prepare Presentations
 
 --LUNCH--
 
-14:00-15:00 - Group s-g-c
+14:00-15:00 - Classroom S-G-C
 
 15:00-16:20 - Presentations (20 mins per group)
 
-16:20-17:00 - Team s-g-c (punchier team s-g-c)
+16:20-17:00 - Team Retrospectives (Team S-G-C)
 
 17:00-18:00 - Upstairs Project
