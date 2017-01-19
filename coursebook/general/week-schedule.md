@@ -20,13 +20,13 @@ Start each week with a mission and a goal.
 
 11:00-12:45 - Workshop 3
 
-12:45-13:00 - Introduce readme topics, assign names on whiteboard and jigsaw teams.
+12:45-13:00 - Introduce research topics, assign names on whiteboard and jigsaw teams.
 
 --LUNCH--
 
-14:00-16:30 - Write readmes
+14:00-16:30 - Write research projects
 
-16:30-17:15 - Present readmes
+16:30-17:15 - Present research projects
 
 17:15-18:00 - Whiteboard Walkthrough + Introduce Group Project
 
