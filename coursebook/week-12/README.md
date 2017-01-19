@@ -17,14 +17,25 @@ The response was 49 votes which is a **_statistically_ significant sample size**
 The _overwhelming_ conclusion is that people are _in favour_ of learning elm.
 
 Now, if you want to _personally_ know why learning/using `elm-lang`
-_instead_ (_or indeed with_) JavaScrip is a _great_ idea,
+_instead_ (_or with_) JavaScrip is a _great_ idea,
 please see: https://github.com/dwyl/learn-elm#why
 and watch: [**6 Months of Elm in Production** talk](https://youtu.be/R2FtMbb-nLs?t=47m36s)
 
 ## What?
 
-No point repeating ourselves ... https://github.com/dwyl/learn-elm#what
+Learn "_one more thing_" before you start working on client/paid projects!
+
+> For "What is Elm" see: https://github.com/dwyl/learn-elm#what
 
 ## How?
 
-In pairs or teams follow these instructions: https://github.com/dwyl/learn-elm#how
+In pairs or teams follow these instructions:
+https://github.com/dwyl/learn-elm#how
+
+Once you have gone through the
+[elm guide](https://github.com/dwyl/learn-elm#in-depth-step-by-step-tutorial-60mins),
+go through the [Front-End Masters Elm-Workshop](https://github.com/dwyl/learn-elm#front-end-masters-workshop) <br />
+and add to the transcriptions on GitHub: https://github.com/rtfeldman/elm-workshop/issues/8
+
+After you have had a chance to learn some elm,
+visit the `project.md` for more instructions on the "***Final Project***"
