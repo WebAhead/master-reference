@@ -54,7 +54,7 @@ Start each week with a mission and a goal.
 
 10:00-11:00 - Code Review
 
-11:00-13:00 - Respond to issues
+11:00-12:40 - Respond to issues
 
 12:40-13:00 - Prepare Presentations
 
