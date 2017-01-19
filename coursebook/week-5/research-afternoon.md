@@ -18,38 +18,8 @@
 2. Create a Node project that lets a user run the command `node bigtextfile.txt` in the same directory as bigtextfile.txt and **stream** the contents of the file to the users terminal. Need a big file? How about a [book](https://www.gutenberg.org/).
 3. (Bonus) Allow an additional argument to be provided in the command to specify a time interval of how often a line of text from the file is streamed to the terminal. E.G `node bigtextfile.txt 1s`
 
-## Events and Event Emitters
+## Make a request from the server
 
-1. Research how events are handled in Node under the hood, and how many of Node's core modules emit events.
-2. Create a small Node module called **notify.js**, import it into a project so you can subscribe to these events...
-
-```javascript
-notify.on('five seconds', function(message) {
-  console.log(message);
-  // outputs "It's been five seconds" every 5 seconds     
-})
-
-notify.on('FIVE SECONDS', function(message) {
-  console.log(message);
-  // outputs "IT'S BEEN FIVE SECONDS!!!!" every 5 seconds     
-})
-```
-``(Bonus) Add functionality to the **notify.js** module so the user can provide a string as the first argument so the message is customised...
-
-```javascript
-var notify = new Notify('Jimmy');
-
-notify.on('five seconds', function(message) {
-  console.log(message);
-  // outputs "it's been 5 seconds Jimmy" every 5 seconds     
-})
-```
-and deal with errors if the user provides a non-string argument...
-```javascript
-var notify = new Notify(666);
-
-notify.on('error', function(message) {
-  console.log(message);
-  // outputs "666 is a number not a name you animal"    
-})
-```
+1. Research what npm modules are available to make a request from a node server to another server (equivalent of XMLHttpRequest for the server).
+2. Using a module of your choice, create a node server which makes a request to an online API, then serve the response when a client requests the home ('/') route of your server.
+3. (Bonus), when the server receives the API response, instead of serving the response at the home route, make another GET request to a different API, then combine that response with the original response and serve it to the home route.
