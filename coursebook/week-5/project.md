@@ -1,3 +1,3 @@
 ## Project
 
-Week's project to be detailed here.
+A news feed project, 3 options, including backend API requests and TDD
