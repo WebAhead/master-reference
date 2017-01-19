@@ -1,59 +1,69 @@
 # General Week Schedule
 
+### Monday:
 
-#### Monday
+10:00-10.15 - Introduction to gitbook, learning outcomes & project teams.
 
-09:45 - 10:15 Show and Tell
+Start each week with a mission and a goal.
 
-10:15 - 11:15 Morning challenge
+10.15-13:00 - Workshop 1
 
-11:15 - 13:00 Workshops
+--LUNCH--
 
-14:00 - 18:00 Go through tutorials
+14:00-16:00 - Workshop 2
 
-#### Tuesday
+16:00-18:00 - Business Development / Community Engagement
 
-10:00 - 11:00 Morning Challenge
+### Tuesday:
 
-11:00 - 13:00 Go through tutorials
+10:00-11:00 - Morning Challenge
 
-13:00 - 14:00 Lunch
+11:00-12:45 - Workshop
 
-14:00 - 17:30  Readmes/research
+12:45-13:00 - Introduce readme topics, assign names on whiteboard (jigsaw)
 
-17:30 - 18:00 Project planning
+--LUNCH--
 
-#### Wednesday
+14:00-16:30 - Write readmes
 
-10:00 - 13:00 Projects
+16:30-17:15 - Present readmes
 
-13:00 - 14:00 Lunch
+17:15-18:00 - Whiteboard Walkthrough + Introduce Group Project
 
-14:00 - 18:00 Projects
+### Wednesday:
 
-#### Thursday
+10:00-11:00 - Morning Challenge
 
-10:00 - 13:00 Projects
+11:00-13:00 - Project planning
 
-13:00 - 14:00 Lunch
+--LUNCH--
 
-14:00 - 17:00 Projects
+14:00-17:00 - Group project
 
-17:00 - 18:00 Internal project team code review
+17:00-18:00 - External speaker
 
+### Thursday:
 
-#### Friday
+10:00-13:00 - Group project
 
-10:00 - 11:00 Code review
+--LUNCH--
 
-11:00 - 13:00 Respond to issues
+14:00-17:00 - Group project
 
-13:00 - 14:00 Lunch
+17:00-18:00 - External speaker
 
-14:00 - 15:00 Respond to issues
+### Friday:
 
-15:00 - 16:00 Project presentations
+10:00-11:00 - Code Review
 
-16:00 - 18:00 Business development, Stop, Go, Continue and Our projects
+11:00-13:00 - Respond to issues (Personal suggestion: finish responding to issues at 12:40, allow 12:40-1:00 for planning presentations)
 
-Put up a Weekend challenge on github
+--LUNCH--
+
+14:00-15:00 - Group s-g-c
+
+15:00-16:20 - Presentations (20 mins per group)
+
+16:20-17:00 - Team s-g-c (punchier team s-g-c)
+
+17:00-18:00 - Upstairs Project
