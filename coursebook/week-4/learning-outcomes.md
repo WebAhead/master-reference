@@ -8,7 +8,7 @@
 - Understand what is Node.js
 - Understand how running Node differs from running JavaScript in your browser
 - Be introduced to ES6 syntax and general file system manipulation
-- Understand what is a module and what are the different types of modules
+- Understand what a node module is and the different types of modules
 - Understand and use basic core modules (e.g. `http`, `fs`, `querystring`) and some of their properties and methods
 - Understand the `request` and `response` objects and some of their properties and methods
 - Understand how to set up a server with different endpoints and http methods (e.g. `GET`, `POST`)
@@ -27,7 +27,7 @@
 - Understand how to test server functionality using `tape`
 - Understand how to run tests in parallel with developing code
 
-### Revision points
+### Revision questions
 - What is a server and what is Node.js?
 - What types of Node modules are there?
 - How do you set up a Node server that listens to different endpoints?
