@@ -2,7 +2,7 @@
 
 ![](http://www.vbtutor.net/VB_Sample/stopwa1.jpg)
 
-**Build a stopwatch!**
+Build a stopwatch!
 
 **Project brief:**
 - Split into your groups of 4, then pair up within that group (there will be 8 stopwatches created in total).
