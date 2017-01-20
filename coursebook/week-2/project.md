@@ -22,4 +22,4 @@ Build a stopwatch!
 
 **For the purpose of your learning:**
 - Focus on functionality, TDD and a full set of tests before CSS.
-- TDD can be painful and slow but it's a key learning objective for this week, persevere. 
+- TDD can be painful and slow but it's a key learning objective for this week, persevere.
