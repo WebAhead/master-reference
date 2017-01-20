@@ -15,7 +15,6 @@
 and features.
 
 * [Nodeschool](https://nodeschool.io/) -- A set of interactive tutorials covering many aspects of node & es6.
-<<<<<<< HEAD
 
 * [Egghead.io](https://egghead.io/courses/introduction-to-node-the-fundamentals) -- brilliant set of videos explaining node fundamentals.
 
