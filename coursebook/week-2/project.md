@@ -4,7 +4,7 @@
 
 **Build a stopwatch!**
 
-Project brief:
+**Project brief:**
 - Split into your groups of 4, then pair up within that group (there will be 8 stopwatches created in total).
 - Follow the TDD cycle to create a stopwatch, using ping pong.
 
