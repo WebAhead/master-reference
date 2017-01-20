@@ -18,4 +18,4 @@ Project brief:
 - laps
 - countdown timer
 - split timer
-- add as much functionality as you like!
+- add as much functionality as you like! (alarm, translator, speed up/slow down etc.)
