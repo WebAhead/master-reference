@@ -66,4 +66,4 @@ Start each week with a mission and a goal.
 
 16:20-17:00 - Team Retrospectives (Team S-G-C)
 
-17:00-18:00 - Upstairs Project
+17:00-18:00 - External Speaker or Upstairs Project
