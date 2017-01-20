@@ -1,7 +1,5 @@
 
-
 >- [Install Node & npm](https://changelog.com/posts/install-node-js-with-homebrew-on-os-x) -- We would recommend installing node & npm using homebrew following this tutorial. Alternatively you can [download here](https://nodejs.org/en/).
-
 
 ## Resources
 
@@ -17,6 +15,7 @@
 and features.
 
 * [Nodeschool](https://nodeschool.io/) -- A set of interactive tutorials covering many aspects of node & es6.
+
 * [Egghead.io](https://egghead.io/courses/introduction-to-node-the-fundamentals) -- brilliant set of videos explaining node fundamentals.
 
 * [Stream-handbook](https://github.com/substack/stream-handbook) -- comprehensive guide to streams.
