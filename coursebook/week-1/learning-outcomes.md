@@ -1,4 +1,9 @@
 ## Learning outcomes
-
-For mentors to update with: context on subject to be delivered at start of the week,
-learning outcomes + revision keypoints.
++ FAC values
++ Responsibilities & house rules
++ Semantic HTML
++ CSS - BEM, Mobile-First, Responsive Web Design
++ Gitflow and use of github
++ Accessibility
++ Pair programming
++ Group working
