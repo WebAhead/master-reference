@@ -7,3 +7,4 @@
 + Accessibility
 + Pair programming
 + Group working
++ User journeys and user stories
