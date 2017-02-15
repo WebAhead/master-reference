@@ -43,8 +43,8 @@ As a **blind client...**
 
 > so I can **understand the information available**.
 
-As a **client who still uses Internet Explorer 7 on an ancient TINY computer with JavaScript disabled for annoying security reasons**
->  I would like **to visit your site and get a similar experience to viewing your site on a modern browser**
+As a **client with JavaScript disabled in their browser for annoying security reasons**
+>  I would like **to visit your site and get a similar experience to viewing your site on a modern browser with JavaScript enabled**
 
 > so that I **don't feel like I'm completely in the stone age**.
 
