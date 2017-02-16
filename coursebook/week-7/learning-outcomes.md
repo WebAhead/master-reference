@@ -1,21 +1,29 @@
 ## Learning outcomes
 
-### Hapi server basics
-- Understand what is Hapi
-- Learn how to set up a Hapi Server and routing using `server.route([...])`
+#### hapi server basics
+- Understand what is hapi.js
+- Learn how to set up a hapi server and routing using `server.route([...])`
 - Understand how to get data out of the request params and payload
 - Learn how to set up a route with a dynamic url using *wildcard* parameters
-- Learn how to register plugins using the `server.register([....], cb)` method
+- Learn how to register plugins using the `server.register([...], cb)` method
 - Learn how to serve static files using the `Inert` plugin
 
-### Serving files using Hapi and Handlebars
-- Be introduced to the Model-View-Controller model
-- Learn how to serve dynamic files using `Handlebars` templates and Hapi's `Vision` plugin
+#### Serving files using hapi and Handlebars
+- Be introduced to the MVC (Model - View - Controller) model
+- Learn how to serve dynamic files using Handlebars.js templates and hapi's `Vision` plugin
 - Understand and use Handlebars views, layouts and partials
-- Be introduced to helper functions in Handlebars
+- Be introduced to Handlebars helpers
 
-### More Hapi plugins and testing
+#### More hapi plugins and testing
 - Understand how to validate user's input using the `Joi` plugin
 - Learn how session management works using cookies
 - Learn how to set up a basic user login with the `Hapi Auth Basic` and `Hapi Auth Cookie` plugins
-- Understand how to do Hapi testing to make fake requests using `server.inject`
+- Understand how to do hapi testing to make fake requests using `server.inject()` (i.e. call a registered route on the server without requiring the server to be listening on open ports)
+
+### Revision questions
+- What is hapi.js?
+- How do you set up a hapi server that listens to different endpoints?
+- What is Handlebars.js?
+- How do you serve static and dynamic files on a hapi server?
+- How do you test a hapi server using `server.inject()`?
+- How do you set up a basic user login using cookies?
