@@ -32,15 +32,15 @@ workshops & morning challenges to be used. Plus a menu to each item of the folde
 - 14:00 - 18:00
 -- [Readmes](./research-afternoon.md):
   * npm modules (package.json, semantic versioning, linting)
-  * Heroku & Env2
+  * Heroku & env2
   * Core modules (fs, url, path, querystring)
   * module.exports & request/response objects
 
 #### Wednesday
 
 - 10:00 - 11:00
--- Modularisation server components morning challenge (**to be created** -  
-[example SSSK (super simple starter kit for Node.js) repo by Dan](https://github.com/sofer/sssk)
+-- Modularisation server components morning challenge  
+(**to be created** - [example SSSK (super simple starter kit for Node.js) repo by Dan](https://github.com/sofer/sssk))
 
 - 11:00 - 18:00
 -- Autocomplete project (see project spec [here](./project.md))
@@ -56,14 +56,14 @@ workshops & morning challenges to be used. Plus a menu to each item of the folde
 
 #### Friday
 
-- 10:00-11:00
+- 10:00 - 11:00
 -- Code Review
 
-- 11:00-1:00
+- 11:00 - 13:00
 -- Respond to issues & Group s-g-c
 
-- 2:00-3:20 -- Presentations (20 mins per group)
+- 14:00 - 15:20 -- Presentations (20 mins per group)
 
-- 4:20-5:00 -- Team s-g-c
+- 15:20 - 17:00 -- Team s-g-c
 
-- 5:00-6:00 -- Upstairs Project demo/pub
+- 17:00 - 18:00 -- Upstairs Project demo/pub
