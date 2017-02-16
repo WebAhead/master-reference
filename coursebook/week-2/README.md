@@ -45,7 +45,7 @@ READMEs
 Morning challenge - [create a waterfall function](https://github.com/RhodesPeter/waterfall-function-workshop)
 
 - 11:00 - 18:00 <br>
-Start projects
+Start group projects
 
 ### Thursday
 
