@@ -5,7 +5,7 @@
 - What are the pros and cons
 - Create an example of each
 
-### Manual testing vs Automation testing (4 people)
+### Manual testing vs. Automation testing (4 people)
 - What are the differences
 - What are the pros and cons
 - Create an example of each
