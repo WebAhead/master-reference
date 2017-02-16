@@ -1,9 +1,13 @@
-## Testing week
+# Testing week
 
-For mentors to insert the schedule for the week including specific timelines for each day + links to the
-workshops & morning challenges to be used. Plus a menu to each item of the folder.
+## Menu
 
-### Schedule
+## Mentors
+ - [John Whiles](https://github.com/Jwhiles)
+ - [Ewelina Skibinska](https://github.com/skibinska)
+ - [Peter Rhodes](https://github.com/rhodespeter)
+
+## Schedule:
 
 ### Monday
 
