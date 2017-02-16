@@ -1,13 +1,17 @@
 # Testing week
 
 ## Menu
+ - [Learning outcomes](https://github.com/foundersandcoders/master-reference/blob/week-2-testing/coursebook/week-2/learning-outcomes.md)
+ - [Research topics](https://github.com/foundersandcoders/master-reference/blob/week-2-testing/coursebook/week-2/research-afternoon.md)
+ - [Project](https://github.com/foundersandcoders/master-reference/blob/week-2-testing/coursebook/week-2/project.md)
+ - [Resources](https://github.com/foundersandcoders/master-reference/blob/week-2-testing/coursebook/week-2/resources.md)
 
 ## Mentors
  - [John Whiles](https://github.com/Jwhiles)
  - [Ewelina Skibinska](https://github.com/skibinska)
  - [Peter Rhodes](https://github.com/rhodespeter)
 
-## Schedule:
+## Schedule
 
 ### Monday
 
