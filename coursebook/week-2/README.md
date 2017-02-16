@@ -26,7 +26,7 @@ Business development / community engagement
 Morning challenge - callbacks
 
 11:00 - 13:00 <br>
-JWhiles' pure functions workshop as an introduction to testing things like stopwatches 😉
+[Pure functions workshop](https://github.com/Jwhiles/pure-functions-easy-testing) as an introduction to testing things like stopwatches 😉
 
 14:00 - 18:00 <br>
 READMEs
@@ -34,7 +34,7 @@ READMEs
 ### Wednesday
 
 10:00 - 11:00 <br>
-Morning challenge - waterfall functions
+Morning challenge - [create a waterfall function](https://github.com/RhodesPeter/waterfall-function-workshop)
 
 11:00 - 18:00 <br>
 Start projects
