@@ -8,7 +8,7 @@ A server is a computer program that provides functionality for other programs or
 A typical client-server relationship can be summarised in the following steps:
 
 1. A client sends a **request** to the server.  
-This involves an action (e.g. `GET` and other types of actions following the **C**reate **R**ead **U**pdate **D**elete model) and a route/url.  
+This involves an action (e.g. `GET` and other types of actions following the <b>C</b>reate <b>R</b>ead <b>U</b>pdate <b>D</b>elete model) and a route/url.  
 1. When the server receives the request:
   - it tries to match the route
   - if the route is found, it does something
