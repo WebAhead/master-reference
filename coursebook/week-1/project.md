@@ -2,7 +2,7 @@
 
 ### Build a one-page portfolio website for you and your team
 
-We want you to work together over the next few days to build a small site from scratch the provides a short profile for you and your team.
+We want you to work together over the next few days to build a small site from scratch that provides a short portfolio for you and your team.
 
 To describe what features should be implemented, these are the [user stories](https://en.wikipedia.org/wiki/User_story) that should be satisfied;
 
@@ -50,34 +50,30 @@ As a **client with JavaScript disabled in their browser for annoying security re
 
 ## Build Process (Wednesday-Thursday)
 
-Your team needs to set up a new repository under the [founders and coders organization](https://github.com/foundersandcoders), and work together over the next few days to commit changes to this repository, as well as include a README file that should three points -
-- WHAT (describing your site)
+Your team needs to set up a new repository under the [FAC10 organisation](https://github.com/foundersandcoders), and work together over the next few days to commit changes to this repository, as well as include a README file that should three points -
 - WHY (describing the purpose)
+- WHAT (describing your site)
 - HOW (describing the journey to completion)
 
 You may also add more ambitious features in the README which describes **stretch goals**. Feel free to add the user stories from this project guide into your README too.
 
-When working together, groups should split into pairs, making sure they are constantly communicating with each other.
+When working together, groups should split into pairs to complete project tasks, making sure they are constantly communicating with each other.
 
-Divide the tasks between the pairs, and decide how you will work together to avoid conflicts in your code.
 However you decide to individualise your site is up to you, but aim to satisfy the user stories.
 
 Your blog should have profiles of each of your group members and each profile should include links to your *Linkedin*, *Github* and *Codewars* accounts.
 
 ## Publishing (Before 6PM Thursday)
 
-On completion, your site should be published via *github pages*. Your README should also include a link to the live site. You may decide to publish early (perhaps to check how it looks on mobile?)
+On completion, your site should be published via *github pages*. Your README should also include a link to the live site (you can also add a direct link next to the description at the top of your repo, so that others can clearly find your live site). You may decide to publish early (perhaps to check how it looks on mobile?)
 
 ## Tips
-
-
-We will also be checking your site for accessibility on [Tenon.io](https://tenon.io/)
-
 
 - Try drawing out rough sketches of your site first and agree on a design to work towards throughout the project
 - Adding issues to your github repo is highly recommended, so you can easily keep track of what needs to be done/resolved, and who should be responsible.
 - You ~~may~~ will encounter merge conflicts when working together on the same files. Don't panic, discuss the conflicts with your team before reaching a resolution.
 - If you decide to use and stick to a particular naming convention for your CSS classes before starting the project then that's awesome! At the very least, aim to organise your CSS rules so they grouped together well and use clear descriptive class names.
+- Ensure your site is accessible. We will be checking your site for it's accessibility coverage by using a variety of accessibility tools.
 
 
 **Note: You should stop working on your profile after 6PM thursday.**
