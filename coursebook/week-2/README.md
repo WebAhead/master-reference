@@ -16,8 +16,7 @@
 ### Monday
 
 - 10:00 - 11:00 <br>
-Intro to testing and QUnit
-Fizz Buzz
+[Intro to testing and QUnit](https://github.com/skibinska/learn-qunit) - Fizz Buzz
 
 - 11:00 - 13:00 <br>
 [DWYL Test Driven Development (TDD) workshop](https://github.com/dwyl/learn-tdd)
@@ -45,7 +44,7 @@ READMEs
 Morning challenge - [create a waterfall function](https://github.com/RhodesPeter/waterfall-function-workshop)
 
 - 11:00 - 18:00 <br>
-Start group projects
+Start [group projects](https://github.com/foundersandcoders/master-reference/blob/week-2-testing/coursebook/week-2/project.md)
 
 ### Thursday
 
