@@ -48,10 +48,10 @@ Start [group projects](https://github.com/foundersandcoders/master-reference/blo
 
 ### Thursday
 
-- 10:00 - 16:00 <br>
+- 10:00 - 17:00 <br>
 Group projects
 
-- 16:00 - 17:00 <br>
+- 17:00 - 18:00 <br>
 [Huw Davies](https://github.com/hdrdavies) talk on testing
 
 ### Friday
