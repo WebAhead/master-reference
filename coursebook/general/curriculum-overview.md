@@ -1,11 +1,3 @@
-## General:
-
- * the first 10 weeks of the curriculum should be stable in theme and not open to too much variation.
- * we need tdd workshops & project management talks spread throughout the course so there is a steady integration of agile practices.
- * design each week around what they will need for the project.
- * each week should evolve into and prepare you for the next. students should regularly get to practice what they learnt in prior weeks.
- * regular week structure.
-
 ## Week structure:
 
 Aim for 1 guest speaker per week. Alumni talks in earlier weeks to foster community atmosphere.
@@ -75,9 +67,9 @@ vanilla html css js
  * Qunit framework
  * Unit & Integration Testing
  * es6 / esnext - what why how, basic intro. We do not want to confuse people. Students should be aware of browser compatibility / be able to spot the difference between es6 and es5 [1]
- 
+
 1: Consider moving to week 4 alongside node to make browser compatibility issues more clear.
- 
+
 #### READMES
 
 Qunit, TDD lifecycle, Continuous Integration, Unit & Integration testing
@@ -112,7 +104,7 @@ HTTP Requests, JSON, APIs, API Standards, cURL, testing AJAX, chrome inspector
  * tape/ shot
  * npm
  * linting [1]
- 
+
 1: Consider moving to week 2 to avoid too many new technologies in this week.
 
 #### READMES
@@ -202,10 +194,3 @@ Chat App
 
 1: We could make this front-end heavy, possibly introduce redux.
 2: We could also make this into a UX week, preparing students to work with clients and get them thinking about jobs, cv, networking, etc over the break.
-
-## Questions:
-
- * things missing in the curriculum: front-end framework, build tools, sass, UX, D3, where does it fit?
- * should week 11 be a curriculum planning week with the creation of an original resource as the project?
- * should weeks 11-13 include the creation of a big useful project that integrates knowledge prior to client work?
- * if weeks 1-10 are stable, weeks 11 + are open to variation?
