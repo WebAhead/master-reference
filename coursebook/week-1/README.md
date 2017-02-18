@@ -7,12 +7,12 @@
 — LUNCH —
 - 14.00 - 14.50 — Introduction to Pair Programming
 - 14:50 - 15:00 — Toilet/Coffee Break
-- 15:00 - 16:00 — Accessibility Workshop
+- 15:00 - 16:00 — [Accessibility Workshop](https://github.com/jsms90/web-accessibility)
 - 16.00 - 18.00 — Business Development / Community Outreach
 
 ### Day 2
 - 10:00 - 11:00 — Morning Challenge - Refactor HTML Semantically / Accessibly
-- 11:00 - 12:45 — Git flow walkthrough
+- 11:00 - 12:45 — Git flow walkthrough - Learn Git Basics from [tutorial](https://github.com/NataliaLKB/learn-git-basics#tutorial) to end
 - 12:45 - 13:00 — Introduce Research Project topics
 — LUNCH —
 - 14.00 - 16:30 — Research Projects
