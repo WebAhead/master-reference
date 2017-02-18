@@ -86,6 +86,6 @@ On completion, your site should be published via *github pages*. Your README sho
 
 **Also, if you don't manage to complete the project, or if it doesn't work by the time it comes to presenting- don't fear! You should aim to present your progress to the rest of the cohort, not a fully polished finished site.**
 
-**We'll be here if you need any support.**
+**When stuck on a problem you should follow the 20-20-2 rule, this means you should try to spend 20 minutes trying to solve a problem with your partner, then 20 minutes trying to solve the problem in your team, then 20 minutes trying to solve it as a class. If that fails bring your problem to a mentor. They will be happy to help**
 
 **Good luck :)**
