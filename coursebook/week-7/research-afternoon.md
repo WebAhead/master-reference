@@ -2,7 +2,7 @@
 
 ## Validation
 
-1. Research what data validation is, and how it can be implemented it in Hapi.
+1. Research what data validation is, and how it can be implemented in Hapi.
 2. Create a basic Hapi project, in which you use Joi to validate that the user-provided e-mail and password are of the correct format.
 
 ## Authentication
@@ -18,3 +18,6 @@
 _Note: we will have a walk-through on how to implement cookies in Hapi tomorrow morning._
 
 ## Templating with helper functions
+
+1. Research what helper functions are, and how they can be implemented in Handlebars.
+2. Create a basic Hapi project with Handlebars templating, in which you use at least one in-built Handlebars helper function and one custom helper function.
