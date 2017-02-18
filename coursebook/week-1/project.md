@@ -50,7 +50,7 @@ As a **client with JavaScript disabled in their browser for annoying security re
 
 ## Build Process (Wednesday-Thursday)
 
-Your team needs to set up a new repository under the [FAC10 organisation](https://github.com/foundersandcoders), and work together over the next few days to commit changes to this repository, as well as include a README file that should three points -
+Your team needs to set up a new repository under the [FAC10 organisation](https://github.com/FAC10), and work together over the next few days to commit changes to this repository, as well as include a README file that should three points -
 - WHY (describing the purpose)
 - WHAT (describing your site)
 - HOW (describing the journey to completion)
@@ -65,7 +65,8 @@ Your blog should have profiles of each of your group members and each profile sh
 
 ## Publishing (Before 6PM Thursday)
 
-On completion, your site should be published via *github pages*. Your README should also include a link to the live site (you can also add a direct link next to the description at the top of your repo, so that others can clearly find your live site). You may decide to publish early (perhaps to check how it looks on mobile?)
+- On completion, your site should be published via *github pages*. You may decide to publish early (perhaps to check how it looks on mobile?)
+- Your README should also include a link to the live site (you can also add a direct link next to the description at the top of your repo, so that others can clearly find your live site).
 
 ## Tips
 
@@ -73,7 +74,7 @@ On completion, your site should be published via *github pages*. Your README sho
 - Adding issues to your github repo is highly recommended, so you can easily keep track of what needs to be done/resolved, and who should be responsible.
 - You ~~may~~ will encounter merge conflicts when working together on the same files. Don't panic, discuss the conflicts with your team before reaching a resolution.
 - If you decide to use and stick to a particular naming convention for your CSS classes before starting the project then that's awesome! At the very least, aim to organise your CSS rules so they grouped together well and use clear descriptive class names.
-- Ensure your site is accessible. We will be checking your site for it's accessibility coverage by using a variety of accessibility tools.
+- Ensure your site is accessible. We will be checking your site for it's accessibility coverage by using [a variety of accessibility tools](https://github.com/jsms90/web-accessibility#tools-that-can-help).
 
 
 **Note: You should stop working on your profile after 6PM thursday.**
@@ -82,10 +83,10 @@ On completion, your site should be published via *github pages*. Your README sho
 
 **On Friday morning, you'll be swapping code with another team and raising issues on their code, before resolving issues that you have received.**
 
-**You will present your project to the rest of the cohort on Friday afternoon, so aim to factor in 30 minutes - 1 hour of time during Wednesday-Thursday to discuss how you will present your work.**
+**You will present your project to the rest of the cohort on Friday afternoon, so aim to factor in at least 15 minutes on Thursday to discuss how you will present your work.**
 
 **Also, if you don't manage to complete the project, or if it doesn't work by the time it comes to presenting- don't fear! You should aim to present your progress to the rest of the cohort, not a fully polished finished site.**
 
-**When stuck on a problem you should follow the 20-20-2 rule, this means you should try to spend 20 minutes trying to solve a problem with your partner, then 20 minutes trying to solve the problem in your team, then 20 minutes trying to solve it as a class. If that fails bring your problem to a mentor. They will be happy to help**
+**When stuck on a problem you should follow the 20-20-20 rule, this means you should try to spend 20 minutes trying to solve a problem with your partner, then 20 minutes trying to solve the problem in your team, then 20 minutes trying to solve it as a class. If that fails bring your problem to a mentor. They will be happy to help**
 
 **Good luck :)**
