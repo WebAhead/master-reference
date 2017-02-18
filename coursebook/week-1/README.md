@@ -10,7 +10,7 @@
     - [Becoming a mentor](../general/tips-for-mentoring.md) - [contributing to the `master reference`](https://github.com/foundersandcoders/master-reference/blob/master/CONTRIBUTING.md)
     - [Future membership to Founders and Coders](https://github.com/foundersandcoders/london-programme/blob/master/membership.md)
     - Campus-specific information - [London](https://github.com/foundersandcoders/london-curriculum), Nazareth
-- Structure of Github organisation & repositories - [London](https://github.com/FAC10), [Nazareth] (1 mentor & Course Coordinator)
+    - Structure of Github organisation & repositories - [London](https://github.com/FAC10), [Nazareth](https://github.com/FAC1-Nazareth) (1 mentor & Course Coordinator)
 
 — LUNCH —
 - 14.00 - 14.50 — Introduction to [Pair Programming](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/pair-programming.md)
