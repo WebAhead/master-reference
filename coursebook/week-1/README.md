@@ -5,6 +5,7 @@
 - [Research topics](./research-afternoon.md)
 - [Projects](./project.md)
 - [Resources](./resources.md)
+- [Stop Go Continue](https://github.com/foundersandcoders/london-curriculum/tree/master/stop-go-continue)
 
 ## Day 1
 - 10.00 - 11.00 — Introduction & Name game  
