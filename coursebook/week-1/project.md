@@ -50,7 +50,9 @@ As a **client with JavaScript disabled in their browser for annoying security re
 
 ## Build Process (Wednesday-Thursday)
 
-Your team needs to set up a new repository under the [FAC10 organisation](https://github.com/FAC10), and work together over the next few days to commit changes to this repository, as well as include a README file that should three points -
+Your team needs to set up a new repository under the relevant Github organisation - [London: `FAC10`](https://github.com/FAC10) and [Nazareth: `FAC1-Nazareth`](https://github.com/FAC1-Nazareth), and work together over the next few days to commit changes to this repository.
+
+Your repo should contain a README file with these three points -
 - WHY (describing the purpose)
 - WHAT (describing your site)
 - HOW (describing the journey to completion)
