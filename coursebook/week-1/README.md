@@ -1,6 +1,12 @@
-## Toolkit week
+# Toolkit week
 
-### Day 1
+## Menu
+- [Learning Outcomes](./learning-outcomes.md)
+- [Research topics](./research-afternoon.md)
+- [Projects](./project.md)
+- [Resources](./resources.md)
+
+## Day 1
 - 10.00 - 11.00 — Introduction & Name game  
 (As many members of Founders and Coders as possible! Directors, Course Coordinator, previous cohort & other alumni)
 - 11.00 - 11.30 — [Welcome talk](https://github.com/foundersandcoders/master-reference/blob/master/about.md) (Directors)
@@ -18,7 +24,7 @@
 - 15:00 - 16:00 — [Accessibility Workshop](https://github.com/jsms90/web-accessibility)
 - 16.00 - 18.00 — Business Development / Community Outreach
 
-### Day 2
+## Day 2
 - 10:00 - 11:00 — Morning Challenge - [Refactor HTML Semantically / Accessibly](https://github.com/njsfield/css-gallery-challenge)
 - 11:00 - 12:45 — Git flow walkthrough - Learn Git Basics [from tutorial to end](https://github.com/NataliaLKB/learn-git-basics#tutorial)
 - 12:45 - 13:00 — Introduce [Research topics](./research-afternoon.md)
@@ -28,7 +34,7 @@
 - 16:30 - 17:30 — Review and Present research topics
 - 17:30 - 18:00 — [Project introduction](.project.md)
 
-### Day 3
+## Day 3
 - 10.00 - 11.00 — Morning Challenge - Build Grid System with BEM
 - 11.00 - 13.00 — Projects
 
@@ -36,13 +42,13 @@
 - 14.00 - 17.00 — Projects
 - 17.00 - 18.00 — FAC Values talk
 
-### Day 4
+## Day 4
 - 10.00 - 13.00 — Projects
 
 — LUNCH —
 - 14.00 - 18.00 — Projects
 
-### Day 5
+## Day 5
 - 10.00 - 11.00 — [Code review](../general/code-reviews.md) (1 alumnus per project)
 - 11.00 - 12.45 — Respond to issues
 - 12.45 - 13.00 — Plan presentations
