@@ -17,7 +17,7 @@
     - [House rules](../general/house-rules.md)
     - [Becoming a mentor](../general/tips-for-mentoring.md) - [contributing to the `master reference`](https://github.com/foundersandcoders/master-reference/blob/master/CONTRIBUTING.md)
     - [Future membership to Founders and Coders](https://github.com/foundersandcoders/london-programme/blob/master/membership.md)
-    - Campus-specific information - [London](https://github.com/foundersandcoders/london-curriculum), [Nazareth](https://github.com/foundersandcoders/london-curriculum)
+    - Campus-specific information - [London](https://github.com/foundersandcoders/london-curriculum), [Nazareth](https://github.com/foundersandcoders/nazareth-curriculum)
     - Structure of Github organisation & repositories - [London](https://github.com/FAC10), [Nazareth](https://github.com/FACN1) (1 mentor & Course Coordinator)
 
 — LUNCH —
