@@ -26,7 +26,7 @@
 — LUNCH —
 - 14.00 - 16:30 — Research
 - 16:30 - 17:30 — Review and Present research topics
-- 17:30 - 18:00 — Project introduction
+- 17:30 - 18:00 — [Project introduction](.project.md)
 
 ### Day 3
 - 10.00 - 11.00 — Morning Challenge - Build Grid System with BEM
