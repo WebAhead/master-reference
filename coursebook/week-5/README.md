@@ -1,17 +1,16 @@
-## Node core (cont.) week
+## Node core (cont.)
 
-For mentors to insert the schedule for the week including specific timelines for each day + links to the
-workshops & morning challenges to be used. Plus a menu to each item of the folder.
+### Schedule
 
 Monday:  
 10:00-10:15 - Introduction to Node week 2  
-10:15-13:00 - Walk-through / workshop on TDD of the server & using Shot  
+10:15-13:00 - [Workshop on TDD Node server using Shot and Tape](https://github.com/njsfield/tdd-node-server-with-shot-and-tape)
 --LUNCH--  
 14:00-16:00 - Workshop on error handling & testing for errors  
 16:00-18:00 - Business Development / Community Engagement  
 
 Tuesday:  
-10:00-12:45 - Node shell workshop  
+10:00-12:45 - [Node shell workshop](https://github.com/bradreeder/Node-Shell-Workshop)  
 12:45-13:00 - Introduce research topics, assign names on whiteboard and jigsaw teams  
 --LUNCH--  
 14:00-16:30 - Write research projects  
@@ -39,3 +38,8 @@ Friday:
 15:00-16:20 - Presentations (20 mins per group)  
 16:20-17:00 - Team Retrospectives (Team S-G-C)  
 17:00-18:00 - Upstairs Project  
+
+
+### Workshops
+
+[Testing endpoints of a Node Server with Shot and Tape](https://github.com/njsfield/tdd-node-server-with-shot-and-tape)
