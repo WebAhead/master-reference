@@ -19,7 +19,7 @@
 - 16.00 - 18.00 — Business Development / Community Outreach
 
 ### Day 2
-- 10:00 - 11:00 — Morning Challenge - Refactor HTML Semantically / Accessibly
+- 10:00 - 11:00 — Morning Challenge - [Refactor HTML Semantically / Accessibly](https://github.com/njsfield/css-gallery-challenge)
 - 11:00 - 12:45 — Git flow walkthrough - Learn Git Basics [from tutorial to end](https://github.com/NataliaLKB/learn-git-basics#tutorial)
 - 12:45 - 13:00 — Introduce [Research topics](./research-afternoon.md)
 
