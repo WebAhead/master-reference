@@ -52,7 +52,7 @@ Group projects
 ### Friday
 
 - 10:00 - 11:00 <br>
-[Code review](https://foundersandcoders.gitbooks.io/fac9/content/General/code-reviews.html)
+[Code review](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/code-reviews.md)
 
 - 11:00 - 13:00 <br>
 Respond to issues
