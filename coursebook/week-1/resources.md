@@ -1,5 +1,13 @@
 ## Resources
 
+## Git
+[Udacity's git & GitHub course](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+Pro Git - the book [pdf](https://progit2.s3.amazonaws.com/en/2016-03-22-f3531/progit-en.1084.pdf) [website](https://git-scm.com/book/en/v2)
+[Comparing workflows tutorial](https://www.atlassian.com/git/tutorials/comparing-workflows)
+[Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+
+You will always be using git in the command line. But it is useful to remember how some people who consider themselves less technical might interact with a repo, purely using GitHub: [Introduction to GitHub tutorial](https://services.github.com/on-demand/intro-to-github/)
+
 ### Accessibility
 [Techniques for WCAG](https://www.w3.org/TR/WCAG20-TECHS/)
 [Aria - Usage](https://www.w3.org/TR/wai-aria/usage)
