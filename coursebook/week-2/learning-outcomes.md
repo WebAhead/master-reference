@@ -2,7 +2,7 @@
 
 A wise old coder once said: "Refactoring your code without tests in place, is like playing Russian roulette." <br>
 
-This week you are going to learn about testing practices, methodologies and technologies. Here is a brakedown of the learning outcomes:
+This week you are going to learn about testing practices, methodologies and technologies. Here is a breakdown of the learning outcomes:
 
 - What is testing? 
 - Why do we do it?
