@@ -4,11 +4,11 @@
 
 #### Monday
 
-- 10:00 - 13:00 - Intro to hapi.js and libraries / frameworks
+- 10:00 - 10:15 - Intro to hapi.js and libraries / frameworks
 
-- 10:30 - 11:30 - Hapi Server & Inert walk-through
+- 10:15 - 11:15 - Hapi Server & Inert walk-through
 
-- 11:30 - 13:00 - [Make me hapi workshop](https://github.com/hapijs/makemehapi)  
+- 11:15 - 13:00 - [Make me hapi workshop](https://github.com/hapijs/makemehapi)  
 **NOTE TO MENTOR** this might need forking and editing before final release
 
 — LUNCH —
