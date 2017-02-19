@@ -3,7 +3,7 @@
 ## Menu
 - [Learning Outcomes](./learning-outcomes.md)
 - [Research topics](./research-afternoon.md)
-- [Projects](./project.md)
+- [Project](./project.md)
 - [Resources](./resources.md)
 - Stop Go Continue: [London](https://github.com/foundersandcoders/london-curriculum/tree/master/stop-go-continue), [Nazareth](https://github.com/foundersandcoders/nazareth-curriculum/tree/master/stop-go-continue)
 
@@ -27,14 +27,14 @@
 - 16.00 - 18.00 — Business Development / Community Outreach
 
 ## Day 2
-- 10:00 - 11:00 — Morning Challenge - [Refactor HTML Semantically / Accessibly](https://github.com/njsfield/css-gallery-challenge)
+- 10:00 - 11:00 — Morning Challenge - [Accessibility challenge](https://github.com/njsfield/accessibility-challenge)
 - 11:00 - 12:45 — Git flow walkthrough - Learn Git Basics [from tutorial to end](https://github.com/NataliaLKB/learn-git-basics#tutorial)
 - 12:45 - 13:00 — Introduce [Research topics](./research-afternoon.md)
 
 — LUNCH —
 - 14.00 - 16:30 — Research
 - 16:30 - 17:30 — Review and Present research topics
-- 17:30 - 18:00 — [Project introduction](.project.md)
+- 17:30 - 18:00 — Introduce [Project](./project.md)
 
 ## Day 3
 - 10.00 - 11.00 — [Morning Challenge - CSS Gallery Challenge](https://github.com/njsfield/css-gallery-challenge)
