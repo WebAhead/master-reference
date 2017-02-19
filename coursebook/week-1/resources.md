@@ -19,5 +19,4 @@
 [Googles Excellent Guide to Responsive Web Design](https://developers.google.com/web/fundamentals/design-and-ui/responsive/)
 [The 100% correct way to do CSS breakpoints](https://medium.freecodecamp.com/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862#.3egrq5nf3)
 [Visual reference to nearly all CSS properties](http://cssreference.io/)
-[A guide to the BEM methodology](http://getbem.com/introduction/)
 [WebAIM's Accessible CSS Techniques](http://webaim.org/techniques/css/)
