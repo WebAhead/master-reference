@@ -1,7 +1,7 @@
 # Week 7
 This week you will be introduced to a Node framework, called *hapi.js* and to a JavaScript templating engine, called *Handlebars.js*. You will then write your own hapi server and build a blog site using a postgreSQL database and server-side template rendering.
 
-As this is the first week when you are introduced to a framework, it's worth saying a few words about abstractions/libraries and fraweworks before diving into hapi.js.
+As this is the first week when you are introduced to a framework, it's worth saying a few words about abstractions, libraries and frameworks before diving into hapi.js.
 
 ### Intro to abstractions/libraries/frameworks
 Abstraction is a key concept in computer science and can be described as:
