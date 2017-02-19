@@ -31,7 +31,7 @@ Morning challenge - callbacks
 [Pure functions workshop](https://github.com/Jwhiles/pure-functions-easy-testing) as an introduction to testing things like stopwatches 😉
 
 - 14:00 - 18:00 <br>
-READMEs
+[Research topics](https://github.com/foundersandcoders/master-reference/blob/week-2-testing/coursebook/week-2/research-afternoon.md)
 
 ### Wednesday
 
