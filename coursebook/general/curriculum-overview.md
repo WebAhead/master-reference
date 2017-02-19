@@ -1,211 +1,108 @@
-## General:
-
- * the first 10 weeks of the curriculum should be stable in theme and not open to too much variation.
- * we need tdd workshops & project management talks spread throughout the course so there is a steady integration of agile practices.
- * design each week around what they will need for the project.
- * each week should evolve into and prepare you for the next. students should regularly get to practice what they learnt in prior weeks.
- * regular week structure.
-
-## Week structure:
-
-Aim for 1 guest speaker per week. Alumni talks in earlier weeks to foster community atmosphere.
-
-Monday:
-* Show & Tell
-* Introduction to gitbook & learning outcomes. Start each week with a mission and a goal.
-* Workshops
-* Business Development / Community Engagement
-
-Tuesday:
-* Morning Challenge
-* Workshop / Whiteboard walkthrough
-* Readme Research + Presentation
-
-Wednesday:
-* Morning Challenge
-* Group project
-
-Thursday:
-* Group project
-* Team Retrospectives
-* Internal Project Code Review
-
-Friday:
-* Code Review
-* Respond to issues
-* Stop, Go, Continue
-* Upstairs Project demo
-* Project Presentations
+# Curriculum Overview   
 
 ## Outline
 
+* Weeks 1-8 -- Mentor-led foundation in full-stack web-development
+* Week 9 -- Reading break
+* Weeks 10-16 -- Group projects, Client-work & Curriculum-planning
+
+We aim to follow a regular weekly structure throughout the first half of the course. You can find
+an outline of it [here.](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/week-schedule.md)
+
+A list of the broad learning outcomes for each of the weeks can be found below.
+
 ### Pre-Course
 
-* HTML, CSS, markdown.
-* JS: DOM, weird parts, basic es6.
-* command-line, github, git basics
-* chrome dev tools
-* installation party
+* Command-line basics
+* Git & Github
+* Markdown
+* Semantic HTML
+* CSS & JS fundamentals
+* APIs
+* DOM Manipulation
+* Chrome Developer tools
+* Installation party
 
-### Week One: Intro and reinforcement of pre-course
+### Week One: Toolkit week (introduction)
 
- * html5, css3, markdown
- * git workflow
- * mobile-first design
- * Accessibility
- * development basics [1]
- * FAC values
- * How to get a job (interviews etc)[2]
+* FAC values
+* Responsibilities & house rules
+* Semantic HTML
+* CSS - BEM, Mobile-First, Responsive Web Design
+* Gitflow and use of github
+* Accessibility
+* Pair programming
+* Group working
+* User journeys and user stories
 
-1: DRY, refactoring, pair programming, wireframing, developer tools
-2: Consider moving later in the course when it's more timely.
-
-#### READMES
-
-Command-line basics, CSS, Git & Github, DOM
-
-#### PROJECT
-static site (blog / portfolio)
-
-vanilla html css js
+1: DRY, code reviewing, refactoring, wireframing, developer tools
 
 ### Week Two: TDD in the Client
 
- * TDD lifecycle/ ping-pong/ red green refactor
- * Qunit framework
- * Unit & Integration Testing
- * es6 / esnext - what why how, basic intro. We do not want to confuse people. Students should be aware of browser compatibility / be able to spot the difference between es6 and es5 [1]
- 
-1: Consider moving to week 4 alongside node to make browser compatibility issues more clear.
- 
-#### READMES
-
-Qunit, TDD lifecycle, Continuous Integration, Unit & Integration testing
-
-#### PROJECT
-stopwatch tdd
-
-soft-intro to async
+* TDD lifecycle/ ping-pong/ red green refactor
+* Qunit framework
+* Unit & Integration Testing
+* Waterfall & pure functions
+* Synchronous & Asynchronous testing
 
 ### Week Three: REST APIs and XMLHttpRequest (ajax)
 
- * Rest APIs
- * DOM API
- * ajax (XMLHttpRequest, async)
- * tfl with postman
- * Project management part 1: user stories
- * Project management part 2: committing against issues
-
-#### READMES
-
-HTTP Requests, JSON, APIs, API Standards, cURL, testing AJAX, chrome inspector
-
-#### Project
- any open api
-
- user story focus
+* Rest APIs/ API standards
+* DOM API
+* JSON
+* AJAX (XMLHttpRequest, async, testing)
+* tfl with postman
+* Parallel functions
+* cURL
+* chrome inspector
 
 ### Week Four: Node Core Part One
- * node
- * core modules
- * module pattern (require/ module.exports)
- * tape/ shot
- * npm
- * linting [1]
- 
-1: Consider moving to week 2 to avoid too many new technologies in this week.
 
-#### READMES
+* node
+* servers & server file structure
+* node core modules
+* module pattern (require/ module.exports)
+* tape testing
+* npm
+* linting
+* heroku (hosting) & environment variables
+* es6 / esnext
 
-heroku, environment variables, streams, event emitters, core modules
+### Week Five: Node Core Part Two
 
-#### Project
-autocomplete
-
-### Week Five: Node Core Part Two (TBD)
- * commit hooks
- * istanbul, ci (travis, codecov)
- * node debugger
- * error handling in node + async error handling
- * tdd server
- * project management part 3: Pull requests. Across team QA, passing branches
- * Securing the back-end (talk / workshop)
-
-#### READMES
-
-TBD
-
-#### Project
-tdd server (TBD)
+* Commit hooks
+* Code Coverage (Istanbul, Codecov)
+* Continuous Integration (Travis)
+* Streams / Buffers
+* Node Debugger
+* Error Handling / async Error Handling
+* TDD server / shot
+* Securing the back-end
+* Make Requests from Node
 
 ### Week Six: SQL with PostgreSQL
- * Introduction to SQL
- * PostgreSQL/ psql/ pg
- * Data structures
- * How to structure server / architecture of hooking db up to controllers
-
-#### READMES
-
-SQL vs. noSQL, table structure/ joining, pg w/ node & heroku, importing/ exporting/ migrating databases,
-script injections
-
-#### Project
-
-TBD (twitter?)
+* SQL
+* Relational Databases
+* Table structure / Joining
+* PostgreSQL/ psql/ pg
+* Data structures
+* How to structure server / architecture of hooking db up to controllers
 
 ### Week Seven: HAPI Part One Templates
- * hapi
- * inert
- * vision
- * handlebars
-
-#### READMES
-
-validation, authentication, templating/ server-side rendering, plugins
-
-#### Project
-
-hapi / inert / vision / handlebars (TBD)
+* Hapi
+* Inert
+* Vision
+* Handlebars
+* Server-side rendering / Templating
+* Validation
+* Plugins
+* Cookies
 
 ### Week Eight: HAPI Part Two Authentication
- * OAuth
- * GitHub API
- * hapi auth cookie
- * JWTs
- * storing sessions locally
-
-#### READMES
-
-authentication, authorisation, security, session management/ browser storage
-
-#### Project
-Github Api
-
-### Week Nine: Redis, pub/sub and sockets
-
-* Redis
-* pub/sub
-* Websockets
-
-1: Potentially alternate this week with D3 across iterations, and make it about learning a fun new technology as a wind-down at the end of the course.
-
-#### READMES
-
-TBD
-
-#### Project
-
-Chat App
-
-### Week Ten: Final Project
-* Two teams of 8 better than a team of 16. project tbd
-
-1: We could make this front-end heavy, possibly introduce redux.
-2: We could also make this into a UX week, preparing students to work with clients and get them thinking about jobs, cv, networking, etc over the break.
-
-## Questions:
-
- * things missing in the curriculum: front-end framework, build tools, sass, UX, D3, where does it fit?
- * should week 11 be a curriculum planning week with the creation of an original resource as the project?
- * should weeks 11-13 include the creation of a big useful project that integrates knowledge prior to client work?
- * if weeks 1-10 are stable, weeks 11 + are open to variation?
+* OAuth
+* Authentication / Authorisation
+* GitHub API
+* Hapi auth cookie
+* JWTs
+* Session management/ Browser Storage
+* Security
