@@ -37,7 +37,7 @@
 - 17:30 - 18:00 — Introduce [Project](./project.md)
 
 ## Day 3
-- 10.00 - 11.00 — Morning Challenge - Build Grid System with BEM
+- 10.00 - 11.00 — [Morning Challenge - CSS Gallery Challenge](https://github.com/njsfield/css-gallery-challenge)
 - 11.00 - 13.00 — Projects
 
 — LUNCH —
