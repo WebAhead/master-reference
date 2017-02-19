@@ -1,47 +1,46 @@
 ## API week
 
-For mentors to insert the schedule for the week including specific timelines for each day + links to the
-workshops & morning challenges to be used. Plus a menu to each item of the folder.
+### Links
+
+### Schedule
+
+#### DAY 1
+
+10.00 - 10.15 - introduction and learning outcomes with week-3 mentors
+10.15 - 13.00 Workshop 1: API basics, HTTP, XHMLHttp requests, Postman, request-response pattern (link to workshop by @lucymonie to be added later)
+-- LUNCHTIME 😋 --
+14.00 - 16.00 - Workshop 2 with GitHub API: making API requests in the browser, callbacks, working with JSON, chaining API requests (link to workshop by @emilyb7 to be added later)
+16.00 - 18.00 - biz dev / community Engagement
 
 
-## Schedule
+#### DAY 2
 
-### Monday
-10.00-10.15 - Introduction to gitbook, learning outcomes & project teams
-Start each week with a mission and a goal.  
-10.15-13.00 - Workshop 1 (Ewelina & Lucy)
-- Request-response pattern, HTTP, XHR, Postman  
---LUNCH--
-14.00-16.00 - Workshop 2 (Emily & Nori)
-- Implementing waterfall
-- Callbacks, chaining callbacks as a stretch goal
-16.00-18.00 - Business Development / Community Engagement
+10.00 - 13.00 - @eliascodes's [workshop](https://github.com/eliascodes/workshop-client-side-design) on client-side design (StackOverflow reputation builder)
+-- LUNCHTIME 😋 --
+14.00 - 17.30 workshop continues
+17.30 - 18.00 Introduce projects
 
-### Tuesday
-10.00-13.00 - Workshop 3  
-Full-day workshop  
---LUNCH--  
-14.00-17.15 - Continue full-day workshop  
-17.15-18.00 - Whiteboard Walkthrough + Introduce Group Project
 
-### Wednesday  
-10.00-11.00 - Morning Challenge  
-This will cover parallel functions to handle concurrent API requests  
-11.00-13.00 - Project Planning  
---LUNCH--  
-14.00-17.00 - Group Project
+#### DAY 3
 
-### Thursday  
-10.00-13.00 - Group Project  
---LUNCH--  
-14.00-18.00 - Group Project  
+10.00 - 11.00 morning challenge on handling multiple / concurrent API requests (a.k.a parallel / batch pattern - link TBC!)  
+11.00-13.00 - project Planning  
+-- LUNCHTIME 😋 --
+14.00 - 17.00 - work on projects
 
-### Friday  
-10.00-11.00 - Code Review  
-11.00-12.40 - Respond to issues  
-12.40-13.00 - Prepare Presentations  
---LUNCH--  
-14.00-15.00 - Classroom S-G-C  
-15.00-16.20 - Presentations (20 mins per group)  
-16.20-17.00 - Team Retrospectives (Team S-G-C)  
-17.00-18.00 - Guardian talk (TBC)
+#### DAY 4
+
+10.00 - 13.00 - projects
+-- LUNCHTIME 😋 --
+14.00 - 18.00 - projects (stop work at 18:00!)
+
+#### DAY 5  
+
+10.00 - 11.00 - project code review
+11.00 - 12.40 - respond to issues  
+12.45 - 13.00 - Prepare Presentations  
+-- LUNCHTIME 😋 --
+14.00 - 15.00 - group stop-go-continue
+15.00 - 16.20 - presentations (20 mins per group)
+16.20 - 17.00 - team retrospectives (a.k.a. team stop-go-continue)
+17.00 - 18.00 - talk from the Guardian? (to be confirmed!)
