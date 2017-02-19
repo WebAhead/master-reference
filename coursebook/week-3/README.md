@@ -2,6 +2,11 @@
 
 ### Links
 
+* [Learning outcomes]
+* [Projects]
+* [Resources]
+* stop-go-continue [London](https://github.com/foundersandcoders/london-curriculum/blob/master/stop-go-continue/fac-10/week-3.md)  [Nazareth](https://github.com/foundersandcoders/nazareth-curriculum/tree/master/stop-go-continue/fac-n1)
+
 ### Schedule
 
 #### DAY 1
