@@ -18,7 +18,7 @@ Tuesday:
 17:15-18:00 - Whiteboard Walkthrough + Introduce Group Project  
 
 Wednesday:  
-10:00-11:00 - Morning Challenge: Build Request module  
+10:00-11:00 - [Morning Challenge: Build Request module](https://github.com/RhodesPeter/request-module-workshop)
 11:00-13:00 - Group project  
 --LUNCH--  
 14:00-17:00 - Group project  
