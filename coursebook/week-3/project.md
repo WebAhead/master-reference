@@ -37,7 +37,7 @@ You can choose to use other APIs if you prefer, but make sure to do your researc
 * Tests: you **must** write tests!
 * Design: aim for a responsive, mobile-first design
 * Accessibility: same as always, we'll be running your code through accessibility checkers
-* Take appropriate measures when it comes to concealing private information (i.e. your API key!)
+* Take appropriate measures when it comes to [concealing private information](https://gist.github.com/derzorngottes/3b57edc1f996dddcab25) (i.e. your API key!)
 
 ### Keep in mind
 
