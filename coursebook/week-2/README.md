@@ -16,6 +16,8 @@
 - 11:00 - 13:00 <br>
 [DWYL Test Driven Development (TDD) workshop](https://github.com/dwyl/learn-tdd)
 
+— LUNCH —
+
 - 14:00 - 16:00 <br>
 Pair programming, ping pong [roman numeral challenge](https://github.com/skibinska/romanizer)
 
@@ -32,9 +34,11 @@ Morning challenge - [create a waterfall function](https://github.com/RhodesPeter
 
 — LUNCH —
 
-14.00 - 16:30 — [Research](https://github.com/foundersandcoders/master-reference/blob/week-2-testing/coursebook/week-2/research-afternoon.md)
-16:30 - 17:30 — Review and Present research topics
-17:30 - 18:00 — [Introduce Project](https://github.com/foundersandcoders/master-reference/blob/week-2-testing/coursebook/week-2/project.md)
+- 14.00 - 16:30 — [Research](https://github.com/foundersandcoders/master-reference/blob/week-2-testing/coursebook/week-2/research-afternoon.md)
+
+- 16:30 - 17:30 — Review and Present research topics
+
+- 17:30 - 18:00 — [Introduce Project](https://github.com/foundersandcoders/master-reference/blob/week-2-testing/coursebook/week-2/project.md)
 
 ### Wednesday
 
@@ -56,6 +60,8 @@ Group projects
 
 - 11:00 - 13:00 <br>
 Respond to issues
+
+— LUNCH —
 
 - 14:00 - 14:45 <br>
 Group stop-go-continue
