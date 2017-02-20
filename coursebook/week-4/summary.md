@@ -9,7 +9,7 @@ A typical client-server relationship can be summarised in the following steps:
 
 1. A client sends a **request** to the server.  
 This involves an action (e.g. `GET` and other types of actions following the <b>C</b>reate <b>R</b>ead <b>U</b>pdate <b>D</b>elete model) and a route/url.  
-1. When the server receives the request:
+2. When the server receives the request:
   - it tries to match the route
   - if the route is found, it does something
   - it sends back a **response**
@@ -34,11 +34,13 @@ So, in one sentence Node.js is Javascript for the server and this new cool envir
 
 ## Node package manager
 
-Node package manager (npm from now) is a tool for managing packages that comes with Node.js. It is the largest package manager in the world that allows us to install packages/modules as dependencies of our projects and also publish our own packages. In one sentence, [Packages/modules](https://docs.npmjs.com/how-npm-works/packages#what-is-a-module) are small programs we can integrate with our projects.
+Node package manager (npm from now) is a tool for managing packages that come with Node.js. It is the largest package manager in the world that allows us to install packages/modules as dependencies of our projects and also publish our own packages.
+
+> In one sentence, [Packages/modules](https://docs.npmjs.com/how-npm-works/packages#what-is-a-module) are small programs we can integrate with our projects.
 
 Node.js comes with npm installed. However, npm gets updated more frequently than Node does, so it's good to check if we have the latest version.
 
-#### common npm commands
+#### Common npm commands
 
 * `npm init`: Initialize a package and create a `package.json` that stores meta data about your app or module.
 
