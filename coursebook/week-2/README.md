@@ -25,7 +25,7 @@ Business development / community engagement
 ### Tuesday
 
 - 10:00 - 11:00 <br>
-Morning challenge - callbacks
+Morning challenge - [create a waterfall function](https://github.com/RhodesPeter/waterfall-function-workshop)
 
 - 11:00 - 13:00 <br>
 [Pure functions workshop](https://github.com/Jwhiles/pure-functions-easy-testing) as an introduction to testing things like stopwatches 😉
@@ -35,10 +35,7 @@ Morning challenge - callbacks
 
 ### Wednesday
 
-- 10:00 - 11:00 <br>
-Morning challenge - [create a waterfall function](https://github.com/RhodesPeter/waterfall-function-workshop)
-
-- 11:00 - 18:00 <br>
+- 10:00 - 18:00 <br>
 Start [group projects](https://github.com/foundersandcoders/master-reference/blob/week-2-testing/coursebook/week-2/project.md)
 
 ### Thursday
