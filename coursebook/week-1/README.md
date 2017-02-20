@@ -28,7 +28,7 @@
 
 ## Day 2
 - 10:00 - 11:00 — Morning Challenge - [Accessibility challenge](https://github.com/njsfield/accessibility-challenge)
-- 11:00 - 12:45 — Git flow walkthrough - Learn Git Basics [from tutorial to end](https://github.com/NataliaLKB/learn-git-basics#tutorial)
+- 11:00 - 12:45 — [Git workshop](https://github.com/jsms90/learn-git-basics)
 - 12:45 - 13:00 — Introduce [Research topics](./research-afternoon.md)
 
 — LUNCH —
