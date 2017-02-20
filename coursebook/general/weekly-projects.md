@@ -15,16 +15,16 @@ Inside your GitHub organisation - [London](https://github.com/FAC10), [Nazareth]
 + `research`
 + `morning-challenge-solutions`
 
-When you create repositories for your weekly projects, please follow this naming convention:
-`week1-<name of team1>`
-`week1-<name of team2>`
-`week1-<name of team3>`
-`week1-<name of team4>`
+When you create repositories for your weekly projects, please follow this naming convention:  
+`week1-<name of team1>`  
+`week1-<name of team2>`  
+`week1-<name of team3>`  
+`week1-<name of team4>`  
 
-`week2-<name of team1>`
-`week1-<name of team2>`
-`week1-<name of team3>`
-`week1-<name of team4>`
+`week2-<name of team1>`  
+`week1-<name of team2>`  
+`week1-<name of team3>`  
+`week1-<name of team4>`  
 
 etc.
 
