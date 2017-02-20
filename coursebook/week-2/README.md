@@ -42,13 +42,23 @@ Morning challenge - [create a waterfall function](https://github.com/RhodesPeter
 
 ### Wednesday
 
-- 10:00 - 18:00 <br>
+- 10:00 - 13:00 <br>
 Start projects
+
+— LUNCH —
+
+- 14:00 - 18:00<br>
+Projects
 
 ### Thursday
 
-- 10:00 - 17:00 <br>
-Group projects
+- 10:00 - 13:00 <br>
+Projects
+
+— LUNCH —
+
+- 14:00 - 17:00<br>
+Projects
 
 - 17:00 - 18:00 <br>
 [Huw Davies](https://github.com/hdrdavies) talk on testing
