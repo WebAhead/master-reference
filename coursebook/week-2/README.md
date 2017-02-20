@@ -30,13 +30,16 @@ Morning challenge - [create a waterfall function](https://github.com/RhodesPeter
 - 11:00 - 13:00 <br>
 [Pure functions workshop](https://github.com/Jwhiles/pure-functions-easy-testing) as an introduction to testing things like stopwatches 😉
 
-- 14:00 - 18:00 <br>
-[Research topics](https://github.com/foundersandcoders/master-reference/blob/week-2-testing/coursebook/week-2/research-afternoon.md)
+— LUNCH —
+
+14.00 - 16:30 — [Research](https://github.com/foundersandcoders/master-reference/blob/week-2-testing/coursebook/week-2/research-afternoon.md)
+16:30 - 17:30 — Review and Present research topics
+17:30 - 18:00 — [Introduce Project](https://github.com/foundersandcoders/master-reference/blob/week-2-testing/coursebook/week-2/project.md)
 
 ### Wednesday
 
 - 10:00 - 18:00 <br>
-Start [group projects](https://github.com/foundersandcoders/master-reference/blob/week-2-testing/coursebook/week-2/project.md)
+Start projects
 
 ### Thursday
 
