@@ -17,7 +17,7 @@
 [DWYL Test Driven Development (TDD) workshop](https://github.com/dwyl/learn-tdd)
 
 - 14:00 - 16:00 <br>
-Pair programming, ping pong [roman numeral challenge](https://docs.google.com/presentation/d/12c7YChUdiBKAi2kI8GVPA1XXCNQXkt4u-5O9BmnfqBY/edit#slide=id.gead6860a7_1_78)
+Pair programming, ping pong [roman numeral challenge](https://github.com/skibinska/romanizer)
 
 - 16:00 - 18:00 <br>
 Business development / community engagement
