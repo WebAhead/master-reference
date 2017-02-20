@@ -1,6 +1,6 @@
 ## Project
 
-Blog with CMS (content management system)
+Blog site with CMS (content management system)
 
 ### Task
 - This week you'll build a blog with a CMS (content management system) using the Hapi.js framework!
@@ -10,15 +10,16 @@ Blog with CMS (content management system)
 
 ### Goals
 
-The primary aim of this project is to get comfortable with setting up a hapi server and to discover the awesomeness of handlebars.js! Spend time considering how to format your; helper functions, layouts, partials and views.
+The primary aim of this project is to get comfortable with setting up a hapi server and to discover the awesomeness of handlebars.js! Spend time considering how to format your helper functions, layouts, partials and views.
 
 
-Whats also important is:
+What's also important:
 
 - Use the hapi-auth-cookie module for session management with cookies
-- Use the server.inject method to test your server
-- Aim for as high test-coverage as possible, on front-end and back-end
-- Try to use basic ES6 syntax in this project
+- Use the `server.inject` method to test your server
+- Aim for as high code coverage as possible, on front-end and back-end
+- Try to use basic ES6 syntax
 
 Stretch Goals:
-- Host your website on Heroku - you might find [Elephant Sql](https://www.elephantsql.com/) useful for hosting your database!)
+
+- Host your website on Heroku - you might find [ElephantSQL](https://www.elephantsql.com/docs/index.html) useful for hosting your database online)
