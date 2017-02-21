@@ -43,7 +43,7 @@ As a **blind client...**
 
 > so I can **understand the information available**.
 
-As a **client with JavaScript disabled in their browser for annoying security reasons**
+As a **client with JavaScript disabled in their browser for security reasons**
 >  I would like **to visit your site and get a similar experience to viewing your site on a modern browser with JavaScript enabled**
 
 > so that I **don't feel like I'm completely in the stone age**.
