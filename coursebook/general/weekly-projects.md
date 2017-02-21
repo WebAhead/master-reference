@@ -22,9 +22,9 @@ When you create repositories for your weekly projects, please follow this naming
 `week1-<name of team4>`  
 
 `week2-<name of team1>`  
-`week1-<name of team2>`  
-`week1-<name of team3>`  
-`week1-<name of team4>`  
+`week2-<name of team2>`  
+`week2-<name of team3>`  
+`week2-<name of team4>`  
 
 etc.
 
