@@ -54,7 +54,7 @@ Start projects
 Projects
 
 - 17:00 - 18:00<br>
-Gaza Sky Geeks talk
+[Gaza Sky Geeks](https://gazaskygeeks.com/) talk
 
 ### Thursday
 
