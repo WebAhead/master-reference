@@ -12,15 +12,15 @@
 #### DAY 1
 
 10.00 - 10.15 - introduction and learning outcomes with week-3 mentors  
-10.15 - 13.00 Workshop 1: API basics, HTTP, XHMLHttp requests, Postman, request-response pattern (link to workshop by @lucymonie to be added later)  
+10.15 - 13.00 - [introductory workshop](https://github.com/lucymonie/api-workshop): API basics, HTTP, XHMLHttp requests, Postman, request-response pattern
 -- LUNCHTIME 😋 --  
-14.00 - 16.00 - Workshop 2 with GitHub API: making API requests in the browser, callbacks, working with JSON, chaining API requests (link to workshop by @emilyb7 to be added later)  
+14.00 - 16.00 - [Afternoon workshop](https://github.com/emilyb7/workshop-APIs) : making API requests in the browser, callbacks, working with JSON, chaining API requests
 16.00 - 18.00 - biz dev / community Engagement  
 
 
 #### DAY 2
 
-10.00 - 13.00 - @eliascodes's [workshop](https://github.com/eliascodes/workshop-client-side-design) on client-side design (StackOverflow reputation builder)  
+10.00 - 13.00 - @eliascodes's [workshop](https://github.com/eliascodes/workshop-client-side-design) on designing for the client (StackOverflow reputation builder)  
 -- LUNCHTIME 😋 --  
 14.00 - 17.30 workshop continues  
 17.30 - 18.00 Introduce projects  
