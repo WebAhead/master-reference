@@ -50,8 +50,11 @@ Start projects
 
 — LUNCH —
 
-- 14:00 - 18:00<br>
+- 14:00 - 17:00<br>
 Projects
+
+- 17:00 - 18:00<br>
+Gaza Sky Geeks talk
 
 ### Thursday
 
