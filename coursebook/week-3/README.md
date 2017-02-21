@@ -28,7 +28,7 @@
 
 #### DAY 3
 
-10.00 - 11.00 morning challenge on handling multiple / concurrent API requests (a.k.a parallel / batch pattern - link TBC!)  
+10.00 - 11.00 - ['parallel'](/morning-challenge.md) morning challenge
 11.00-13.00 - project Planning  
 -- LUNCHTIME 😋 --  
 14.00 - 17.00 - work on projects  
