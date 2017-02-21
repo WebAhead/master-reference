@@ -3,7 +3,7 @@
 ## Command Line
 1. Research how to:
   + customise your command line
-  + install a program from source
+  + install using a package manager
 2. Create a "workshop", designed to walk the rest of your cohort through the steps (this doesn't need to be long - just one markdown file)
 
 ## Git & GitHub
