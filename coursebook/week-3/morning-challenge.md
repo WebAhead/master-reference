@@ -4,7 +4,7 @@ Complete the 'parallel' function. It should fire all the tasks at the same time,
 
 In case of an error, the final callback should be fired immediately.
 
-More info: [http://caolan.github.io/async/docs.html#parallel]
+More info: http://caolan.github.io/async/docs.html#parallel
 
 While you're working on this, think about when this function might be useful (in the context of what you've been studying this week).
 
