@@ -15,7 +15,7 @@ The primary aim of this project is to get comfortable with setting up a hapi ser
 
 What's also important:
 
-- Use the hapi-auth-cookie module for session management with cookies
+- Use the hapi-auth-cookie module for session management with [cookies](https://github.com/SavageWilliam/hapi-auth-cookie-ws)
 - Use the `server.inject` method to test your server
 - Aim for as high code coverage as possible, on front-end and back-end
 - Try to use basic ES6 syntax
