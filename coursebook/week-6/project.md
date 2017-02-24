@@ -1,3 +1,67 @@
 ## Project
 
-Week's project to be detailed here.
+This week's project will involve making a node.js backend that connects to a database (either hosted on elephantsql.com or locally) and provides this information to the client-side. Some suggested ideas are below. Feel free to modify according to your interest, provided your idea has similar functionality.
+
+
+### Requirements
+
+- Single-page app with a node server and a database
+- Your database comes with a schema, which should be documented in your readme (along with any other architectural decisions)
+- Database hosted on elephant.sql or locally
+- Build script for your database
+- Security concerns appropriately considered (you must protect against script injections!)
+- Good test coverage both server- and client-side
+- Content dynamic, but DOM manipulation kept to a minimum
+- Mobile-first design
+- Clear user journey (even if you take one of our suggested ideas, document the user journey in your readme)
+
+**Note**
+We don't expect you to authenticate users (i.e. have a login or signup page), or even to simulate this feature. We'll cover how to do that properly in later weeks. Since these ideas were designed with Founders & Coders users in mind, we'll rely on trust instead of authentication :)
+
+
+
+### Suggested ideas
+
+#### Founders & Coders book sharing system
+
+As a member of Founders & Coders who has a book I would like to share...
+* I can add a book to the database
+
+As a member of Founders & Coders who is interested in borrowing a book...
+* I can browse for available books
+* I can reserve a book for certain dates
+* I can unreserve a book
+
+Suggested additional requirements / stretch goals:
+* I can rate the book after I've read it
+* Books can simultaneously be reserved by multiple users but for different dates
+
+#### Food / coffee recommendations around Founders & Coders
+
+As a member of or visitor to Founders & Coders...
+* I can browse recommended places to buy food / coffee nearby
+* I can add a new place
+* I can add a rating/review of an existing place
+
+Suggested additional requirements / stretch goals:
+* Multiple locations (e.g. Bethnal Green and Nazareth!)
+* Show the location with Google Maps
+
+#### Founders & Coders events calendar
+
+As a member of Founders & Coders who likes going to talks or meetups...
+* I can add details of an event I'm interested in attending
+* I can browse upcoming events
+* I can register my attendance at an event or post a comment
+
+Suggested additional requirements / stretch goals:
+* Events can be assigned to different categories
+* I can browse past events and write a review
+
+
+### Getting started
+
+Make sure you have a plan, and break the project down into manageable parts. Here are some things to consider:
+* You will need to make the requests and update the DOM in response using client-side JavaScript.
+* As well as serving static HTML and JS files, your server will also need to provide endpoints that return DB query results as JSON. You can query your server from the client using the XMLHttpRequest method.
+* You'll need to be able to make both ```POST```and ```GET``` requests to your server.
