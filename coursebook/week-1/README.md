@@ -28,7 +28,7 @@
 
 ## Day 2
 - 10:00 - 11:00 — Morning Challenge - [Accessibility challenge](https://github.com/njsfield/accessibility-challenge)
-- 11:00 - 12:45 — Git flow walkthrough - Learn Git Basics [from tutorial to end](https://github.com/NataliaLKB/learn-git-basics#tutorial)
+- 11:00 - 12:45 — [Git workshop](https://github.com/jsms90/learn-git-basics)
 - 12:45 - 13:00 — Introduce [Research topics](./research-afternoon.md)
 
 — LUNCH —
@@ -37,7 +37,7 @@
 - 17:30 - 18:00 — Introduce [Project](./project.md)
 
 ## Day 3
-- 10.00 - 11.00 — Morning Challenge - Build Grid System with BEM
+- 10.00 - 11.00 — [Morning Challenge - CSS Gallery Challenge](https://github.com/njsfield/css-gallery-challenge)
 - 11.00 - 13.00 — Projects
 
 — LUNCH —
