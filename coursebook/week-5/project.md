@@ -6,7 +6,7 @@ A news feed is a service that provides users with frequently updated content on 
 
 ### Description
 
-Create a website that will provide a news feed, with the content coming via an API. 
+Create a website that will provide a news feed, with the content sourced via an API. 
 
 ### Example:
 
