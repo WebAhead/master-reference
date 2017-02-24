@@ -2,11 +2,15 @@
 
 News feed web app
 
+A news feed is a service that provides users with frequently updated content on a regular or continuous basis. 
+
 ### Description
 
-A website that will provide a news feed from an API. An example of this could be a news feed of bus times with the data provided by the [TFL API](https://api.tfl.gov.uk/). 
+Create a website that will provide a news feed from an API. 
 
-### Goals:
+An example of this could be a news feed of bus arrivals and departures with the data provided via the [TFL API](https://api.tfl.gov.uk/). As with news feeds this bus times 
+
+### Specs:
 
 1) Use at lease 1 API
 
