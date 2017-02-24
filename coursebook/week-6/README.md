@@ -29,7 +29,7 @@ Then go to [pgexercises](https://www.pgexercises.com/gettingstarted.html) and wo
 
 #### Day 3
 
-10am - 11am: morning challenge (about subqueries, or other more advance SQL commans, TBD)
+10am - 11am: [morning challenge](https://github.com/shiryz/db-morning-challenge)
 
 11am onwards: projects
 
