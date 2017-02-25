@@ -3,12 +3,13 @@
 You should be able to answer the following questions.
 
 ### HTTP
-- What is an HTTP request?
+- What is HTTP?
+- What is an XMLHttpRequest?
 - What are HTTP methods and what does each one do?
 - What is an HTTP status code and what are the most common ones?
 
 ### API
-- What is an API? What is a REST API?
+- What is an API?
 - How do you use an xhr (XMLHttpRequest) to query an API?
 - What is the xhr (XMLHttpRequest) GET method?
 - What is an API key?
