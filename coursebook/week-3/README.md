@@ -11,41 +11,62 @@
 
 #### DAY 1
 
-10.00 - 10.15 - introduction and learning outcomes with week-3 mentors  
-10.15 - 13.00 - [introductory workshop](https://github.com/lucymonie/api-workshop): API basics, HTTP, XHMLHttp requests, Postman, request-response pattern
+- 10.00 - 10.15 <br /> Introduction and learning outcomes with week-3 mentors  
+
+- 10.15 - 12.00 <br /> [Introductory workshop](https://github.com/lucymonie/api-workshop): API basics, HTTP, XHMLHttp requests, request-response pattern
+
+- 12.00 - 13.00 <br /> [XHR workshop](https://github.com/skibinska/xhr-workshop)
+
 -- LUNCHTIME 😋 --  
-14.00 - 16.00 - [Afternoon workshop](https://github.com/emilyb7/workshop-APIs) : making API requests in the browser, callbacks, working with JSON, chaining API requests
-16.00 - 18.00 - biz dev / community Engagement  
+
+- 14.00 - 16.00 <br /> [Afternoon workshop](https://github.com/emilyb7/workshop-APIs) : making API requests in the browser, callbacks, working with JSON, chaining API requests
+
+- 16.00 - 18.00 <br /> Biz Dev / Community Engagement  
 
 
 #### DAY 2
 
-10.00 - 13.00 - @eliascodes's [workshop](https://github.com/eliascodes/workshop-client-side-design) on designing for the client (StackOverflow reputation builder)  
--- LUNCHTIME 😋 --  
-14.00 - 17.30 workshop continues  
-17.30 - 18.00 Introduce projects  
+- 10.00 - 13.00 <br />
+ @eliascodes's [workshop](https://github.com/eliascodes/workshop-client-side-design) on designing for the client (StackOverflow reputation builder)
 
+-- LUNCHTIME 😋 --  
+
+- 14.00 - 17.30 <br /> Workshop continues
+
+- 17.30 - 18.00 <br /> Introduce projects  
 
 #### DAY 3
 
-10.00 - 11.00 - ['parallel'](/coursebook/week-3/morning-challenge.md) morning challenge
-11.00-13.00 - project Planning  
--- LUNCHTIME 😋 --  
-14.00 - 17.00 - work on projects  
+- 10.00 - 11.00 <br /> ['parallel'](/coursebook/week-3/morning-challenge.md) morning challenge
+
+- 11.00 - 13.00 <br /> Project Planning  
+
+-- LUNCHTIME 😋 --
+
+- 14.00 - 17.00 <br /> Work on projects  
 
 #### DAY 4
 
-10.00 - 13.00 - projects  
--- LUNCHTIME 😋 --  
-14.00 - 18.00 - projects (stop work at 18:00!)  
+- 10.00 - 13.00 <br /> Projects  
+
+-- LUNCHTIME 😋 --
+
+- 14.00 - 18.00 <br /> Projects (stop work at 18:00!)  
 
 #### DAY 5  
 
-10.00 - 11.00 - project code review  
-11.00 - 13.00 - respond to issues    
--- LUNCHTIME 😋 --  
-14.00 - 15.00 - group stop-go-continue  
-15.00 - 15.20 - Prepare Presentations  
-15.20 - 16.50 - presentations (20 mins per group)
-16.50 - 17.00 - tea break  
-17.00 - 18.00 - team retrospectives (a.k.a. team stop-go-continue)  
+- 10.00 - 11.00 <br /> Project code review  
+
+- 11.00 - 13.00 <br /> Respond to issues   
+
+-- LUNCHTIME 😋 --
+
+- 14.00 - 15.00 <br /> Group stop-go-continue (Course Coordinator, current week mentors, week 4 mentors)
+
+- 15.00 - 15.20 <br /> Prepare Presentations
+
+- 15.20 - 16.50 <br /> Presentations (1+ current week mentors, 1+ week 4 mentors)
+
+- 16.50 - 17.00 <br /> Tea break  
+
+- 17.00 - 18.00 <br /> Team stop-go-continue (Course Coordinator)
