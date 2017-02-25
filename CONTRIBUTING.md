@@ -44,7 +44,7 @@ Once you have finished your work, push up your branch and make a pull request. M
   1. A good title
   2. Description, with detail of everything in the pull.
   3. Reference to the issue in description.
-  4. Assignees, assign two or more of the designated maintainers.
+  4. Assignees, assign between two and three of the designated maintainers.
 
 A pull request should be as small as possible, this makes the review process fast and easy.
 
