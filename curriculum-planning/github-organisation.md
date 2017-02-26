@@ -8,13 +8,13 @@ To create a new github organisation please complete the following (using this or
 1. Create a GitHub organisation called `FACN`
 2. Create four repositories, and initialise them with a README.md file and a CONTRIBUTING.md file (except for prerequisites-gh-pages):
   + `prerequisites-gh-pages`:
-    + [README.md](https://github.com/FAC10/prerequisites-gh-pages/commit/a8d90543f7115bc9593ef1747ceec7c2a8eb4c3f)
+    + [README.md](https://github.com/FAC10/prerequisites-gh-pages/blob/master/README.md)
   + `research`:
-    + [README.md](https://github.com/FAC10/research/blob/09ac49dde8edd9eab09bfd94f4e064de32fccd99/README.md)
-    + [CONTRIBUTING.md](https://github.com/FAC10/research/blob/6ba3a7baf0ea0996d77fac549ced3c4c016c8a2a/CONTRIBUTING.md)
+    + [README.md](https://github.com/FAC10/research/blob/master/README.md)
+    + [CONTRIBUTING.md](https://github.com/FAC10/research/blob/master/CONTRIBUTING.md)
   + `morning-challenge-solutions`:
-    + [README.md](https://github.com/FAC10/morning-challenge-solutions/blob/bb24a3ac80f0b1334ea0e2725d02d1e059bd6c57/README.md)
-    + [CONTRIBUTING.md](https://github.com/FAC10/morning-challenge-solutions/blob/bb24a3ac80f0b1334ea0e2725d02d1e059bd6c57/CONTRIBUTING.md)
+    + [README.md](https://github.com/FAC10/morning-challenge-solutions/blob/master/README.md)
+    + [CONTRIBUTING.md](https://github.com/FAC10/morning-challenge-solutions/blob/master/CONTRIBUTING.md)
   + `retrospectives`
     + [README.md](https://github.com/FAC10/retrospectives/blob/master/README.md)
     + [CONTRIBUTING.md](https://github.com/FAC10/retrospectives/blob/master/CONTRIBUTING.md)  
