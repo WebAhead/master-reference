@@ -5,7 +5,7 @@ No matter how well a team works together, or how well a week goes, there is alwa
 We end every week with a retrospective. It is a dedicated period of time for students & mentors
 to deliberately reflect together on how we are doing and identify ways to improve.
 
-## Stop Go Continue
+## Cohort retrospective
 
 We have found the simplest & most effective format to run retrospectives is what is called
 a ["stop go continue"](https://www.mountaingoatsoftware.com/agile/scrum/meetings/sprint-retrospective) meeting.
@@ -22,7 +22,7 @@ Once students have filled a whiteboard with their feedback, an assigned facilita
 
 The minutes of these meetings are captured ([London](https://github.com/foundersandcoders/london-curriculum), [Nazareth](https://github.com/foundersandcoders/nazareth-curriculum)), forwarded to mentors of future weeks, and used when we come to prepare for the next curriculum so that we can improve it as a group.
 
-## Project retrospectives
+## Team retrospectives
 
 We also run a smaller "stop go continue" meeting with each [student team](./teams.md) so they are able to reflect on how their group project work went that week.
 
