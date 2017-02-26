@@ -48,6 +48,9 @@ Once you have finished your work, push up your branch and make a pull request. M
 
 A pull request should be as small as possible, this makes the review process fast and easy.
 
+## Instructions for maintainers
+Once a pull request has benn approved by two maintainers it can be merged. In time critical situations, one approval may suffice, as long a the pull is small and is not suggesting any major change.
+
 # Thank you!
 
 P.S. please star this repo.
