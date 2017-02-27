@@ -5,7 +5,14 @@ var todo = (function() {
   // For part one we expect you to use tdd
 
   // each of these functions takes an array todos
-  // [{ id, description, done}]
+  // [todo]
+  // where a todo has the form
+  // {
+  //   id: /*the id of the todo*/,
+  //   description: /*the description of the todo item*/,
+  //   done: /*true or false, indicates whether the todo is done*/
+  // }
+}
 
   var todoFunctions = {
     generateId: (function() {
@@ -14,10 +21,10 @@ var todo = (function() {
         return idCounter++;
       }
     })(),
-    addTodo: function (todos, newElem) {
+    addTodo: function (todos, newTodo) {
       // should leave the input argument todos unchanged
-      // return a new array, it should contain todos with the newElem added to the end. Do not modify the first element.
-      // add an id to the newTodo. you can use the generageId function to create an id.
+      // return a new array, it should contain todos with the newTodo added to the end.
+      // add an id to the newTodo. You can use the generateId function to create an id.
       // hint: array.concat
     },
     deleteTodo: function (todos, idToDelete) {
@@ -28,7 +35,8 @@ var todo = (function() {
     },
     markTodo: function(todos, idToMark) {
       // should leave the input argument todos unchanged
-      // return an array with the done property of idToMark toggled
+      // in the new todo list, all elements will remain unchanged except the on with id: idToMark
+      // this element will have its id toggled
       // hint: array.map
     },
     sortTodos: function(todos, sortFunction) {

@@ -16,6 +16,8 @@ Some things you might want to add for the third part
 
 Todo:
   * read through the file todo.js. Do not worry if it does not all makes sense at first.
+  * set up a new repo for your project this week.
+  * copy and commit the files inside skeleton folder into your repository. **warning** only one person in you time should do this, then everyone else can pull down
   * set up a qunit testing environment in a file called test.html. This will be similar to what you have done before and will need to link in the todo.js file.
   * Using tdd, complete the first part of the exercise.
   * complete the functions createTodoNode and the addTodoForm onsubmit
