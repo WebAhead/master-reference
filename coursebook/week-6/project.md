@@ -1,13 +1,15 @@
 ## Project
 
-This week's project will involve making a node.js backend that connects to a database (either hosted on elephantsql.com or locally) and provides this information to the client-side. Some suggested ideas are below. Feel free to modify according to your interest, provided your idea has similar functionality.
+This week's project will involve setting up a database which you connect to via a node.js server. You'll use your data to make a dynamic single-page web app for your front-end.
+
+Some suggested project ideas are below. Feel free to modify according to your interest, provided your idea has similar functionality.
 
 
 ### Requirements
 
 - Single-page app with a node server and a database
 - Your database comes with a schema, which should be documented in your readme (along with any other architectural decisions)
-- Database hosted on elephant.sql or locally
+- Database hosted on elephant.sql, or Heroku, or locally
 - Build script for your database
 - Security concerns appropriately considered (you must protect against script injections!)
 - Good test coverage both server- and client-side
