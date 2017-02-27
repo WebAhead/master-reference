@@ -3,15 +3,17 @@
 You should be able to answer the following questions.
 
 ### HTTP
-- What is an HTTP request?
+- What is HTTP?
+- What is an XMLHttpRequest?
 - What are HTTP methods and what are the different methods intended for?
 - What is an HTTP status code and what are the most common ones?
 
 ### API
-- What is an API? What is a REST API?
-- How can we query an API from the browser using an the XMLHttpRequest method?
+- What is an API?
+- How do you use an xhr (XMLHttpRequest) to query an API?
+- What is the difference betwee the XHR (XMLHttpRequest) GET and POST methods?
 - What is an API key and why would you want to conceal it?
-- What is JSON? Why is this useful knowledge with regard to APIs and what does it look like?
+- What is JSON? Why is this useful knowledge with regard to APIs?
 
 ### ASYNC
 - What is a callback and why would you use one?
