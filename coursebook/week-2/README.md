@@ -1,10 +1,10 @@
 # Testing week
 
 ## Menu
- - [Learning outcomes](https://github.com/foundersandcoders/master-reference/blob/week-2-testing/coursebook/week-2/learning-outcomes.md)
- - [Research topics](https://github.com/foundersandcoders/master-reference/blob/week-2-testing/coursebook/week-2/research-afternoon.md)
- - [Project](https://github.com/foundersandcoders/master-reference/blob/week-2-testing/coursebook/week-2/project.md)
- - [Resources](https://github.com/foundersandcoders/master-reference/blob/week-2-testing/coursebook/week-2/resources.md)
+ - [Learning outcomes](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/learning-outcomes.md)
+ - [Research topics](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/research-afternoon.md)
+ - [Project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/project.md)
+ - [Resources](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/resources.md)
 
 ## Schedule
 
@@ -35,7 +35,7 @@ Morning challenge - [create a waterfall function](https://github.com/RhodesPeter
 — LUNCH —
 
 - 14.00 - 16:30 <br>
-[Research](https://github.com/foundersandcoders/master-reference/blob/week-2-testing/coursebook/week-2/research-afternoon.md)
+[Research](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/research-afternoon.md)
 
 - 16:30 - 17:30 <br>
 Review and Present research topics
