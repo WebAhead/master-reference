@@ -8,7 +8,7 @@ Build a stopwatch!
 - Split into your groups of 4, then pair up within that group (1 stopwatch per pair).
 - Follow the TDD cycle to create a stopwatch, using ping pong.
 - Before you go off and start building your stopwatch, you may want to spend couple of hours on a Technical Spike.
-  - This will put you in good stead when it comes to building the stopwatch in a TDD manor.
+  - This will put you in good stead when it comes to building the stopwatch in a TDD manner.
 
 **Stopwatch specs:**
 - Start buttom
