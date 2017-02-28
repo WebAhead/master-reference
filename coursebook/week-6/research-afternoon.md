@@ -1,22 +1,22 @@
 ## Research afternoon
 
-### What are databases and why do we need them?
-  - What is a database and what are database guarantees?
-  - When to use a database and when not to?
-  - What are RDBs (Relational Data Bases), what does relational mean?
+### Schemas and relationships
+  - What is a schema and why/when would you need one?
+  - What are primary keys and why do we need them?
+  - Find some examples of visual representations of schemas
+  - Create your own mock schema (you can use a tool like myBalsamiq to sketch it) for a database about Founders & Coders (it's up to you what kind of data this would include)
+  - Try and incorporate as many different kinds of relationship into your schema as you can and be prepared to explain the logic behind it!
 
-### What is the difference between SQL and NoSQL
-  - What is SQL?, research the language history.
-  - What is a NoSQL language?, Find common NoSQL implementations.
-  - When to use NoSQL vs. when to use SQL?
+### Database setup and maintenance
+  - What is a build script and why do you need one? (think ahead to how this might come in useful when working on a project this week)
+  - Create a build script for a simple database (one or two tables only), which you can run locally; check that it works for you and everyone on your team
 
 ### Testing
-  - What are the key considerations for testing a database?
-  - What js/ nodeJs tools are there to test a database?
-  - Why would you mock a database and how does help with testing?
-  - Research the Sinon mock library and prepare a demo on how to it.  
+  - What JavaScript / Node.js tools are available for testing a database?
+  - Why would you mock a database and how does this help with testing?
+  - Research the Sinon mock library and prepare a demo on how to use it.
 
-### Script injections / Safety issues
-  - What are script injections?
+### Script injections / safety issues
+  - What is a script injection and how do these happen?
   - How would you prevent script injections?
-  - What are some key safety issues when using databases?
+  - Prepare a short demonstration of good (and bad?) practices, including some sample code
