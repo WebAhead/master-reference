@@ -7,6 +7,8 @@ Build a stopwatch!
 **Project brief:**
 - Split into your groups of 4, then pair up within that group (1 stopwatch per pair).
 - Follow the TDD cycle to create a stopwatch, using ping pong.
+- Before you go off and start building your stopwatch, you may want to spend couple of hours on a Technical Spike.
+  - This will put you in good stead when it comes to building the stopwatch in a TDD manner.
 
 **Stopwatch specs:**
 - Start buttom
@@ -18,6 +20,7 @@ Build a stopwatch!
 - laps
 - countdown timer
 - split timer
+- use BlanketJS for code coverage (Extra points for 100% code coverage!!! :wink:)
 - add as much functionality as you like! (alarm, translator, speed up/slow down etc.)
 
 **For the purpose of your learning:**
