@@ -45,7 +45,10 @@ Review and Present research topics
 
 ### Wednesday
 
-- 10:00 - 13:00 <br>
+- 10:00 - 11:00 <br>
+Morning challenge - [DOM manipulation](https://github.com/mantagen/DOM-manipulation-Challenge)
+
+- 11:00 - 13:00 <br>
 Start projects
 
 — LUNCH —
