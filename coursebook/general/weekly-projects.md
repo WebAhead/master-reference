@@ -31,3 +31,26 @@ etc.
 This will make it much easier to find your projects in future.
 
 Aside from these repositories, the organisation is yours and you are free to add whatever you would like inside.
+
+## Project Presentation
+
+Your timetable includes 15 mins for your team to discuss how you are going to present your project together.
+**Remember: We want to hear from everyone during your presentation!**
+
+Each team then has 15 minutes to present, with 5 minutes for questions. We will be strict with you on timing, so make sure you use your planning time effectively.
+
+### Structure
+1. Show your readme:
+  + Why, What, How
+    + How did you split up the work?
+    + How did you choose to pair?
+2. Show your use of Github
+  + commit history
+  + PR history
+3. Walk us through the UX (user experience) i.e. demo your website
+  + how well does it conform to your brief - the user stories
+4. Walk us through your code:
+  + talk us through your chosen file structure
+  + code itself: prioritise the things you learned that were new to you, which the rest of your cohort could benefit from hearing about:
+    + something you're proud of, that was really cool
+    + something that you found really hard / struggled with
