@@ -63,10 +63,8 @@
 
 - 14.00 - 15.00 <br /> Group stop-go-continue (Course Coordinator, current week mentors, week 4 mentors)
 
-- 15.00 - 15.20 <br /> Prepare Presentations
+- 15.00 - 16.20 <br /> Presentations (1+ current week mentors, 1+ week 4 mentors)
 
-- 15.20 - 16.50 <br /> Presentations (1+ current week mentors, 1+ week 4 mentors)
+- 16.20 - 17.00 <br /> Team stop-go-continue (Course Coordinator)
 
-- 16.50 - 17.00 <br /> Tea break  
-
-- 17.00 - 18.00 <br /> Team stop-go-continue (Course Coordinator)
+- 17.00 - 18.00 <br /> Alumni presentation (London: Breathe With Me team - TBC.)
