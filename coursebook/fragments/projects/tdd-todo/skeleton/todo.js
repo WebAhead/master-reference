@@ -36,7 +36,7 @@ var todo = (function() {
     markTodo: function(todos, idToMark) {
       // should leave the input argument todos unchanged
       // in the new todo array, all elements will remain unchanged except the one with id: idToMark
-      // this element will have its id toggled
+      // this element will have its done value toggled
       // hint: array.map
     },
     sortTodos: function(todos, sortFunction) {
