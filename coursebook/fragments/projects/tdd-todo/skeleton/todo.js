@@ -35,7 +35,7 @@ var todo = (function() {
     },
     markTodo: function(todos, idToMark) {
       // should leave the input argument todos unchanged
-      // in the new todo list, all elements will remain unchanged except the on with id: idToMark
+      // in the new todo array, all elements will remain unchanged except the one with id: idToMark
       // this element will have its id toggled
       // hint: array.map
     },
