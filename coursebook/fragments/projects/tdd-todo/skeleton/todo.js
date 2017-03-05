@@ -12,7 +12,6 @@ var todo = (function() {
   //   description: /*the description of the todo item*/,
   //   done: /*true or false, indicates whether the todo is done*/
   // }
-}
 
   var todoFunctions = {
     generateId: (function() {
@@ -55,6 +54,7 @@ var todo = (function() {
   ]; // this is our todoList
 
   var controller = {
+    container: document.getElementById('todo-container'),
     createTodoNode: function(todoData) {
       var todoNode = document.createElement('li');
       // you will need to use addEventListener
@@ -76,33 +76,33 @@ var todo = (function() {
       return todoNode;
     },
     render: function(state) {
-      var todoListWrapper = document.getElementById('todo-container');
+      var container = controller.container
       var todoListNode = document.createElement('ul');
       state.forEach(function(todoData) {
         todoListNode.appendChild(controller.createTodoNode(todoData))
       });
 
       // you may want to add a class for css
-      console.log(todoListWrapper.firstChild);
-      todoListWrapper.replaceChild(todoListNode, todoListWrapper.firstChild);
+      container.replaceChild(todoListNode, container.firstChild);
     }
   }
 
   // bind create todo form
   var addTodoForm = document.getElementById('add-todo');
-  addTodoForm.addEventListener('submit', function(event) {
-    // https://developer.mozilla.org/en-US/docs/Web/Events/submit
-    // what does event.preventDefault do?
-    // what is inside event.target?
-    console.log('click');
+  if (addTodoForm) {
+    addTodoForm.addEventListener('submit', function(event) {
+      // https://developer.mozilla.org/en-US/docs/Web/Events/submit
+      // what does event.preventDefault do?
+      // what is inside event.target?
 
-    var description = "?" // event.target ....
+      var description = "?" // event.target ....
 
-    state = state // change this!! you should use todoFunctions.addTodo
-    controller.render();
-  })
+      state = state // change this!! you should use todoFunctions.addTodo
+      controller.render(state);
+    })
+  }
 
+  if (controller.container) controller.render(state);
 
-  controller.render(state);
-
+  return { todoFunctions }
 })();
