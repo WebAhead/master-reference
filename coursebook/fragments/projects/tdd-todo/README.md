@@ -102,11 +102,16 @@ var coffeeNotMade = todo.todoFunctions.markTodo(todos, 1);
 ### Part 2: use the tdd functions to build the app!
 
 #### `createTodoNode`
-You need to complete this function. It take one arguement, this is a todo element.
+You need to complete this function. It take one argument, this is a todo element.
 
-This function returns a dom node. This node is a **l**ist **i**tem (`li`).
+This function returns a DOM node. This node is a **l**ist **i**tem (`li`).
 
-If you build this function correctly the render function will take care of inserting all the todos nodes onto the page!
+If you build this function correctly the render function will take care of inserting all the todo nodes onto the page!
+
+#### Create new todo
+see :`addTodoForm.addEventListener('submit', function(event) {`
+
+Inside this function you need to create a new state with a new todo. 
 
 ### Part 3: have fun!
 
