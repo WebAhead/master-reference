@@ -45,11 +45,8 @@
 
 #### Thursday
 
-- 10:00 - 16:00
+- 10:00 - 18:00
 -- Projects
-
-- 17:00 - 18:00
--- External Speaker/upstairs project ?
 
 #### Friday
 
@@ -57,10 +54,10 @@
 -- Code Review
 
 - 11:00 - 13:00
--- Respond to issues & Group s-g-c
+-- Respond to issues  
 
-- 14:00 - 15:20 -- Presentations (20 mins per group)
+- 14:00 - 15:00 -- Group s-g-c
 
-- 15:20 - 17:00 -- Team s-g-c
+- 15:00 - 16:20 -- Presentations (20 mins per group)
 
-- 17:00 - 18:00 -- Upstairs Project demo/pub
+- 16:20 - 17:00 -- Team s-g-c
