@@ -10,7 +10,7 @@
 
 - 14:00 - 16:00
 -- [Node Girls workshop](https://github.com/node-girls/workshop-cms) (CMS steps at the end are *optional*) -   
-**NOTE TO MENTOR** this might need forking and editing before final release
+**NOTE TO MENTOR** workshop has been improved following feedback from F&C9 and master branch is up-to-date
 
 - 16:00 - 18:00
 -- Business development
