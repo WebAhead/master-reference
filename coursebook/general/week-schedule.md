@@ -1,59 +1,69 @@
 # General Week Schedule
 
+### Monday:
 
-#### Monday
+10:00-10.15 - Introduction to gitbook, learning outcomes & project teams.
 
-09:45 - 10:15 Show and Tell
+Start each week with a mission and a goal.
 
-10:15 - 11:15 Morning challenge
+10.15-13:00 - Workshop 1
 
-11:15 - 13:00 Workshops
+--LUNCH--
 
-14:00 - 18:00 Go through tutorials
+14:00-16:00 - Workshop 2
 
-#### Tuesday
+16:00-18:00 - Business Development / Community Engagement
 
-10:00 - 11:00 Morning Challenge
+### Tuesday:
 
-11:00 - 13:00 Go through tutorials
+10:00-11:00 - Morning Challenge
 
-13:00 - 14:00 Lunch
+11:00-12:45 - Workshop 3
 
-14:00 - 17:30  Readmes/research
+12:45-13:00 - Introduce research topics, assign names on whiteboard and jigsaw teams.
 
-17:30 - 18:00 Project planning
+--LUNCH--
 
-#### Wednesday
+14:00-16:30 - Write research projects
 
-10:00 - 13:00 Projects
+16:30-17:15 - Present research projects
 
-13:00 - 14:00 Lunch
+17:15-18:00 - Whiteboard Walkthrough + Introduce Group Project
 
-14:00 - 18:00 Projects
+### Wednesday:
 
-#### Thursday
+10:00-11:00 - Morning Challenge
 
-10:00 - 13:00 Projects
+11:00-13:00 - Project Planning
 
-13:00 - 14:00 Lunch
+--LUNCH--
 
-14:00 - 17:00 Projects
+14:00-17:00 - Group Project
 
-17:00 - 18:00 Internal project team code review
+17:00-18:00 - External Speaker
 
+### Thursday:
 
-#### Friday
+10:00-13:00 - Group Project
 
-10:00 - 11:00 Code review
+--LUNCH--
 
-11:00 - 13:00 Respond to issues
+14:00-18:00 - Group Project
 
-13:00 - 14:00 Lunch
+### Friday:
 
-14:00 - 15:00 Respond to issues
+10:00-11:00 - Code Review
 
-15:00 - 16:00 Project presentations
+11:00-12:40 - Respond to issues
 
-16:00 - 18:00 Business development, Stop, Go, Continue and Our projects
+12:40-13:00 - Prepare Presentations
 
-Put up a Weekend challenge on github
+--LUNCH--
+
+14:00-15:00 - Classroom S-G-C
+
+15:00-16:20 - Presentations (20 mins per group)
+
+16:20-17:00 - Team Retrospectives (Team S-G-C)
+
+17:00-18:00 - External Speaker or Upstairs Project

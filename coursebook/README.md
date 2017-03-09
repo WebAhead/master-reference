@@ -6,7 +6,7 @@ For general information, including an overview of the course, applicable across 
 
 For materials to complete before arrival, you can find our precourse [here](precourse/README.md).
 
-The first ten weeks comprise the taught part of the curriculum. For materials
+The first eight weeks comprise the taught part of the curriculum. For materials
 related to each week see:
 
 * [Week 1](week-1/README.md)
@@ -17,4 +17,3 @@ related to each week see:
 * [Week 6](week-6/README.md)
 * [Week 7](week-7/README.md)
 * [Week 8](week-8/README.md)
-* [Week 9](week-9/README.md)

@@ -1,5 +1,5 @@
 
->- [Install Node & npm](https://changelog.com/posts/install-node-js-with-homebrew-on-os-x) -- We would recommend installing node & npm using homebrew following this tutorial. Alternatively you can [download here](https://nodejs.org/en/).
+> [Install Node & npm](https://changelog.com/posts/install-node-js-with-homebrew-on-os-x) -- We would recommend installing node & npm using homebrew following this tutorial. Alternatively you can [download here](https://nodejs.org/en/).
 
 ## Resources
 
@@ -7,7 +7,6 @@
 * [Art of Node](https://github.com/maxogden/art-of-node#the-art-of-node) -- beginners guide to Node.
 
 * [learnyounode](https://github.com/workshopper/learnyounode) -- interactive tutorial.
-
 
 #### Further resources
 
@@ -19,6 +18,5 @@ and features.
 * [Egghead.io](https://egghead.io/courses/introduction-to-node-the-fundamentals) -- brilliant set of videos explaining node fundamentals.
 
 * [Stream-handbook](https://github.com/substack/stream-handbook) -- comprehensive guide to streams.
-
 
 * [Heroku: Node.js deployment guide](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction) -- a guide for deploying a node.js app on heroku.
