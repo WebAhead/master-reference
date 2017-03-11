@@ -2,7 +2,7 @@
 
 ### Week structure
 
-#### Monday
+#### Day 1
 
 - 10:00 - 13:00
 -- Intro to servers and Node.js
@@ -15,7 +15,7 @@
 - 16:00 - 18:00
 -- Business development
 
-#### Tuesday
+#### Day 2
 
 - 10:00 - 11:00
 -- ES6 morning challenge (**to be created**)
@@ -33,7 +33,7 @@
   * Core modules (fs, url, path, querystring)
   * module.exports & request/response objects
 
-#### Wednesday
+#### Day 3
 
 - 10:00 - 11:00
 -- Modularisation server components morning challenge  
@@ -43,12 +43,12 @@
 -- Autocomplete project (see project spec [here](./project.md))
   - planning before lunch
 
-#### Thursday
+#### Day 4
 
 - 10:00 - 18:00
 -- Projects
 
-#### Friday
+#### Day 5
 
 - 10:00 - 11:00
 -- Code Review
