@@ -18,7 +18,7 @@
 #### Day 2
 
 - 10:00 - 11:00
--- ES6 morning challenge (**to be created**)
+-- [ES6 morning challenge](./morning-challenge-day-2.md)
 
 - 11:00 - 12:45
 -- [Tape-testing Workshop](https://github.com/matthewglover/tape-testing) (& nodemon)
