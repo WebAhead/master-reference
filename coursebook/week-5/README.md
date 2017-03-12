@@ -16,7 +16,7 @@
 
 #### Tuesday
 
-- 10:00 - 12:45 - [Node shell workshop](https://github.com/bradreeder/Node-Shell-Workshop)
+- 10:00 - 12:45 - [Node shell workshop](https://github.com/msachi/Node-Shell-Workshop)
 
 - 12:45 - 13:00 - Introduce [research topics](./research-afternoon.md)
 
