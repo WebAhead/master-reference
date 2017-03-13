@@ -36,8 +36,7 @@
 #### Day 3
 
 - 10:00 - 11:00
--- Modularisation server components morning challenge  
-(**to be created** - [example SSSK (super simple starter kit for Node.js) repo by Dan](https://github.com/sofer/sssk))
+-- [Modularisation morning challenge](./morning-challenge-day-3.md)
 
 - 11:00 - 18:00
 -- Autocomplete project (see project spec [here](./project.md))
