@@ -1,8 +1,8 @@
 ## Research afternoon
 
-The move from writing JavaScript in the browser to writing in Node.js isn't just about learning a few new pieces of syntax and functionality. So far, all of your code has been on the client side – the 'front end'. Node.js opens up a whole new world (a new, fantastic point of view) of server-side ('back end') coding. 
+The move from writing JavaScript in the browser to writing in Node.js isn't just about learning a few new pieces of syntax and functionality. So far, all of your code has been on the client side – the 'front end'. Node.js opens up a whole new world – a new, fantastic point of view – of coding: the server side, or 'back end'. 
 
-Don't be fooled by the fact that the code looks superficially the same – even though Node and browsers both use JavaScript, the kind of code you're likely to write on the server side will be very different from your client-side code. Most organisations still make a distinction between their back-end developers and front-end developers – and even if you find yourself working across both (the 'full stack'), it's important to understand the distinction in order to maintain the [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns).
+Don't be fooled by the fact that the code looks superficially the same – even though Node and browsers both use JavaScript as a scripting language, the kind of code you're likely to write on the server side will be very different from your client-side code. Most organisations still make a distinction between their back-end developers and front-end developers – and even if you find yourself working across both (the 'full stack'), it's important to understand the distinction in order to maintain the [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns).
 
 Adding a back end doesn't necessarily make your software more complex. Some of the most complex web applications run almost entirely on the front end (so-called 'thick client' apps), while adding some server-side code to handle common tasks like templating can make it much simpler to scale up your website quickly.
 
