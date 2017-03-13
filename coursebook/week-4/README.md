@@ -28,10 +28,10 @@
 
 - 14:00 - 18:00
 -- [Readmes](./research-afternoon.md):
-  * npm modules (package.json, semantic versioning, linting)
-  * Heroku & env2
-  * Core modules (fs, url, path, querystring)
-  * module.exports & request/response objects
+  * Architecting
+  * Engineering
+  * Packaging
+  * Deploying
 
 #### Day 3
 
