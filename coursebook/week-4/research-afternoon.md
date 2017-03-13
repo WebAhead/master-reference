@@ -1,10 +1,14 @@
 ## Research afternoon
 
-The move from writing JavaScript in the browser to writing in Node.js isn't just about learning a few new pieces of syntax and functionality. So far, all of your code has been on the client side – the 'front end'. Node.js opens up a whole new world (a new, fantastic point of view) of server-side ('back end') coding. 
+The move from writing JavaScript in the browser to writing in Node.js isn't just about learning a few new pieces of syntax and functionality. So far, all of your code has been on the client side – the 'front end'. Node.js opens up a whole new world (a new, fantastic point of view) of coding: the server side, or 'back end'. 
 
-Don't be fooled by the fact that the code looks superficially the same – even though Node and browsers both use JavaScript, the kind of code you're likely to write on the server side will be very different from your client-side code. Most organisations still make a distinction between their back-end developers and front-end developers – and even if you find yourself working across both (the 'full stack'), it's important to understand the distinction in order to maintain the [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns).
+Don't be fooled by the fact that the code looks superficially the same – even though Node and browsers both use JavaScript as a scripting language, the kind of code you're likely to write on the server side will be very different from your client-side code. Most organisations still make a distinction between their back-end developers and front-end developers – and even if you find yourself working across both (the 'full stack'), it's important to understand the distinction in order to maintain the [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns).
 
 Adding a back end doesn't necessarily make your software more complex. Some of the most complex web applications run almost entirely on the front end (so-called 'thick client' apps), while adding some server-side code to handle common tasks like templating can make it much simpler to scale up your website quickly.
+
+It's very important to understand how the server and client relate to each other, and the roles that they'll play in your application – the **Architecting** section explores some of those ideas. Node also comes with its own features and approaches that will be unfamiliar if you've only written client-side code before – the **Engineering** section examines a few of the key ones. 
+
+One of the best things about Node is the ease with which you can incorporate other developers' code into your own projects – the **Packaging** section looks into the tools you'll use to manage external dependencies. And finally, you can't just open your back-end code in a browser – you have to deploy it somewhere. The **Deploying** section looks at some of the places you might deploy your code, and some of the things you'll need to bear in mind if your code's going to run in different environments.
 
 
 ### Topic 1: Architecting
@@ -26,7 +30,7 @@ Adding a back end doesn't necessarily make your software more complex. Some of t
 
 - *Input/output (the `fs` and `path` modules)*: What kind of tasks does the `fs` module enable you to perform that you wouldn't be able to in the browser? What are some of the issues of working with paths when accessing a file system? How does the `path` module help, and why should you use it instead of manually writing file paths as strings?
 
-- *Working with URLs* (the `url` and `querystring` modules): What is a `urlObject` and how is it structured? Why is it important to be able to turn JavaScript objects into querystrings and back again? Why is it a bad idea to build a query string manually from other strings (think about URL encoding and escape characters)?
+- *Working with URLs (the `url` and `querystring` modules)*: What is a `urlObject` and how is it structured? Why is it important to be able to turn JavaScript objects into querystrings and back again? Why is it a bad idea to build a query string manually from other strings (think about URL encoding and escape characters)?
 
 
 ### Topic 3: Packaging
@@ -42,6 +46,6 @@ Adding a back end doesn't necessarily make your software more complex. Some of t
 
 ### Topic 4: Deploying
 
-- *Cloud platforms*: Why is it useful to be able to deploy your code to a cloud platform, rather than running it locally? What services are there that can provide you with a platform for your code? [Heroku](http://www.heroku.com) is a good start, but try to find some others. If you have time, try to deploy a simple server to Heroku as a demo.
+- *Cloud platforms*: What is PaaS? Why is it useful to be able to deploy your code to a cloud platform, rather than running it locally? What services are there that can provide you with a platform for your code? [Heroku](http://www.heroku.com) is a good start, but try to find some others. If you have time, try to deploy a simple server to Heroku as a demo.
 
 - *Environment variables*: Why might some variables in your code need to change for different environments? Why is it a bad idea to include those variables in a public repository? What modules might you use to help manage environment variables? (Look at [env2](https://github.com/dwyl/env2) from our neighbours at DWYL.) If you can, write some sample code to show how it works.
