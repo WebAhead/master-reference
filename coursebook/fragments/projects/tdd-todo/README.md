@@ -36,7 +36,7 @@ This functions are in the todoFunctions object in `todo.js`
 
 We will represent a todo as an object with three properties:
 ```js
-var makeTea = {
+{
   id: 0, // this is a unique number, it will be needed to find a todo in a todo list,
   description: "make tea", // this is a string that describes what you need to do,
   done: false // This is true or false, it tells us whether a todo is done or not
@@ -44,7 +44,7 @@ var makeTea = {
 ```
 We will represent a todo array as an array of todo objects. ie
 ```js
-var breakfastTodos = [
+[
   { id: 0, description: 'smash avocados', done: true }, // only for London
   { id: 1, description: 'make coffie', done: false } // useful in morning
 ];
@@ -87,12 +87,12 @@ var todos = [
   {id: 0, description: 'make tea', done: false},
   {id: 1, description: 'make eggs', done: true},
 ]
-var teaMade = todo.todoFunctions.markTodo(todos, 0);
+todo.todoFunctions.markTodo(todos, 0);
 // [
 //   {id: 0, description: 'make tea', done: true},
 //   {id: 1, description: 'make eggs', done: true},
 // ]
-var coffeeNotMade = todo.todoFunctions.markTodo(todos, 1);
+todo.todoFunctions.markTodo(todos, 1);
 // [
 //   {id: 0, description: 'make tea', done: false},
 //   {id: 1, description: 'make eggs', done: false},
@@ -111,7 +111,7 @@ If you build this function correctly the render function will take care of inser
 #### Create new todo
 see :`addTodoForm.addEventListener('submit', function(event) {`
 
-Inside this function you need to create a new state with a new todo. 
+Inside this function you need to create a new state with a new todo.
 
 ### Part 3: have fun!
 
