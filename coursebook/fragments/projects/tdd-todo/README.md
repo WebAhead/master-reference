@@ -19,7 +19,7 @@ Some things you might want to add for the third part
 Todo:
   * read through the file todo.js. Do not worry if it does not all makes sense at first.
   * set up a new repo for your project this week.
-  * copy and commit the files inside skeleton folder into your repository. **warning** only one person in you time should do this, then everyone else can pull down
+  * copy and commit the files inside skeleton folder into your repository. **warning** only one person in you time should do this, then everyone else in your team can pull down.
   * set up a qunit testing environment inside your index.html
   * add some style.
   * now feel free to experiment and add features!
