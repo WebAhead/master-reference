@@ -26,7 +26,7 @@ The minutes of these meetings are captured ([London](https://github.com/founders
 
 We also run a smaller "stop go continue" meeting with each [student team](./teams.md) so they are able to reflect on how their group project work went that week.
 
-At the end, each team member votes on three "stop" or "go" items they consider the highest priority and the three items with the most consensus are recorded as the goals of the group to take forward to the following week. Goals of prior weeks, and recurring items, are revisited in each project retrospective. They are stored in the cohort's github organisation.
+At the end, each team member votes on three "stop" or "go" items they consider the highest priority and the three items with the most consensus are recorded as the goals of the group to take forward to the following week. Goals of prior weeks, and recurring items, are revisited in each project retrospective. Again, these are stored for reference in the respective curriculum repos: [London](https://github.com/foundersandcoders/london-curriculum), [Nazareth](https://github.com/foundersandcoders/nazareth-curriculum).
 
 ### The Prime Directive
 
