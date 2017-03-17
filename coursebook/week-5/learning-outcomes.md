@@ -10,7 +10,6 @@ introduced to more complex Node commands, technology and patterns with the aim t
 
 #### Testing
   - Tape-spec module
-  - Server inject
   - Shot module
   - Error handling & testing for errors
   - Continuous integration with Travis or a similar tool
