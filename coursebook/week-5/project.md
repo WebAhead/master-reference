@@ -27,7 +27,7 @@ This news feed could be created with data provided via the [TFL API](https://api
 
 5) Test your server by injecting fake HTTP requests using Shot. 
 
-6) Host your project on heroku, see resource.
+6) Host your project on heroku, see [resources](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-5/resources.md)
 
 7) Use module.exports and require to break a single large server file into smaller modules.
 
