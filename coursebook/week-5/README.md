@@ -2,7 +2,7 @@
 
 ### Week structure
 
-#### Monday
+#### Day 1
 
 - 10:00 - 10:15 - Intro to Node week 2
 
@@ -14,7 +14,7 @@
 
 - 16:00 - 18:00 - Business development
 
-#### Tuesday
+#### Day 2
 
 - 10:00 - 12:45 - [Node shell workshop](https://github.com/msachi/Node-Shell-Workshop)
 
@@ -28,7 +28,7 @@
 
 - 17:30 - 18:00 - Introduce [project](./project.md)
 
-#### Wednesday
+#### Day 3
 
 - 10:00 - 11:00 - [Morning Challenge: Build Request module](https://github.com/RhodesPeter/request-module-workshop)
 
@@ -40,7 +40,7 @@
 
 - 17:00 - 18:00 — Project Demo from alumni / External speaker
 
-#### Thursday
+#### Day 4
 
 - 10:00 - 13:00 - Projects
 
@@ -48,7 +48,7 @@
 
 - 14:00 - 18:00 - Projects
 
-#### Friday
+#### Day 5
 
 - 10:00 - 11:00 - Code review
 
