@@ -10,7 +10,7 @@
 
 — LUNCH —
 
-- 14:00 - 16:00 - Workshop on error handling & testing for errors (**to be created**)
+- 14:00 - 16:00 - [Workshop on error handling & testing for errors](https://github.com/njsfield/error-handling-workshop)
 
 - 16:00 - 18:00 - Business development
 
