@@ -17,14 +17,26 @@ This news feed could be created with data provided via the [TFL API](https://api
 
 ### Specs:
 
-1) Use at lease 1 API
+1) Use at least 1 API 
 
-2) Your server should contain a minimum of 2 routes
+2) Make your API calls from the back-end using the Request module (or one you build yourself)
 
-3) We expect back-end testing using tape (test as many components as you can) and basic front-end testing.
+3) Your server should contain a minimum of 2 routes
 
-4) Try to host your project on heroku, see resource.
+4) We expect back-end testing using tape (test as many components as you can) and basic front-end testing.
 
-5) Use module.exports and require to break a single large server file into smaller modules.
+5) Test your server by injecting fake HTTP requests using Shot. 
 
-6) Consider what would be a good server file structure based on what we have discussed over the week.
+6) Host your project on heroku, see [resources](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-5/resources.md)
+
+7) Use module.exports and require to break a single large server file into smaller modules.
+
+8) Consider a good server file structure based on what we have discussed over the week.
+
+9) Employ continuous intergration on your project with Travis or a similar tool.
+
+10) Use CodeCov or a similar tool for test coverage.
+
+11) Display continuous intergration and code coverage badges on your project README. 
+
+12) Ensure that errors are handled, if for example a user attempts to make a request to a non-existent route to your server, provide the user with a custom response.    

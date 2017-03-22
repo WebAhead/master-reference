@@ -41,11 +41,14 @@ Morning challenge - [create a waterfall function](https://github.com/RhodesPeter
 Review and Present research topics
 
 - 17:30 - 18:00 <br>
-[Introduce Project](https://github.com/foundersandcoders/master-reference/blob/week-2-testing/coursebook/week-2/project.md)
+[Introduce Project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/project.md)
 
 ### Wednesday
 
-- 10:00 - 13:00 <br>
+- 10:00 - 11:00 <br>
+Morning challenge - [DOM manipulation](https://github.com/mantagen/DOM-manipulation-Challenge)
+
+- 11:00 - 13:00 <br>
 Start projects
 
 — LUNCH —

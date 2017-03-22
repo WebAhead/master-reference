@@ -2,7 +2,7 @@
 
 ### Week structure
 
-#### Monday
+#### Day 1
 
 - 10:00 - 10:15 - Intro to Node week 2
 
@@ -10,13 +10,13 @@
 
 — LUNCH —
 
-- 14:00 - 16:00 - Workshop on error handling & testing for errors (**to be created**)
+- 14:00 - 16:00 - [Workshop on error handling & testing for errors](https://github.com/njsfield/error-handling-workshop)
 
 - 16:00 - 18:00 - Business development
 
-#### Tuesday
+#### Day 2
 
-- 10:00 - 12:45 - [Node shell workshop](https://github.com/bradreeder/Node-Shell-Workshop)
+- 10:00 - 12:45 - [Node shell workshop](https://github.com/msachi/Node-Shell-Workshop)
 
 - 12:45 - 13:00 - Introduce [research topics](./research-afternoon.md)
 
@@ -28,7 +28,7 @@
 
 - 17:30 - 18:00 - Introduce [project](./project.md)
 
-#### Wednesday
+#### Day 3
 
 - 10:00 - 11:00 - [Morning Challenge: Build Request module](https://github.com/RhodesPeter/request-module-workshop)
 
@@ -40,7 +40,7 @@
 
 - 17:00 - 18:00 — Project Demo from alumni / External speaker
 
-#### Thursday
+#### Day 4
 
 - 10:00 - 13:00 - Projects
 
@@ -48,7 +48,7 @@
 
 - 14:00 - 18:00 - Projects
 
-#### Friday
+#### Day 5
 
 - 10:00 - 11:00 - Code review
 
