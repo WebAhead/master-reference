@@ -11,7 +11,7 @@ Then go to [pgexercises](https://www.pgexercises.com/gettingstarted.html) and wo
 
 1pm - 2pm: lunchtime 😋
 
-2pm - 4.30pm: workshop on SQL commands, PSQL and possibly also Elephant SQL - to be written by us, link to be posted here nearer the time!
+2pm - 4.30pm: [workshop on SQL commands and psql](https://github.com/FAC9/postgres-workshop). We will go through this together and first and then work in pairs.
 
 4.30pm - 6pm: biz dev and community outreach
 
