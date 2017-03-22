@@ -42,7 +42,9 @@ Continue work on projects
 
 10am - 11am: code reviews
 
-11am - 1pm: responding to issues and preparing for afternoon presentations
+11am - 12pm: responding to issues
+
+12:40 - 1pm: preparing presentations
 
 1pm - 2pm: lunchtime 😋
 
