@@ -7,7 +7,7 @@ Some suggested project ideas are below. Feel free to modify according to your in
 
 ### Requirements
 
-- Single-page app with a node server and a database
+- Simple web app with a node server and a database
 - Your database comes with a schema, which should be documented in your readme (along with any other architectural decisions)
 - Database hosted on elephant.sql, or Heroku, or locally
 - Build script for your database
