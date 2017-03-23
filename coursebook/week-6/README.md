@@ -23,9 +23,9 @@ Then go to [pgexercises](https://www.pgexercises.com/gettingstarted.html) and wo
 
 1pm - 2pm: lunchtime 😋
 
-2pm - 5.30pm: research
+2pm - 5.30pm: [research](research-afternoon.md)
 
-5.30pm - 6pm: introduce project
+5.30pm - 6pm: introduce [projects](project.md)
 
 #### Day 3
 
