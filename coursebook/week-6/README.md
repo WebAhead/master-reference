@@ -17,9 +17,9 @@ Then go to [pgexercises](https://www.pgexercises.com/gettingstarted.html) and wo
 
 #### Day 2:
 
-10am - 11am: intro to pg module
+10am - 11am: [intro to pg module](https://github.com/shiryz/pg-walkthrough)
 
-11am - 1pm: workshop on making small application with a database (to be posted nearer the time!)
+11am - 1pm: [workshop on making small node app with a database connection](https://github.com/shiryz/pg-workshop)
 
 1pm - 2pm: lunchtime 😋
 
