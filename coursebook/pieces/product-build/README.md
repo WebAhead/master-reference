@@ -16,7 +16,12 @@ Students will complete a two / three week project after the taught course. In te
 ## Timetable
 ### Three week option
 
-1 day: Mini hack, team building, project selection, intro to lean & agile concepts etc.
+1 day:
+  - Technology discussion: Students and mentors discuss technologies they want to learn, so that they can make informed decisions about what tech stack they want to use 
+  - Mini hack,
+  - team building,
+  - project selection,
+  - intro to lean & agile concepts etc.
 1 day: UX workshop, wireframing
 6.5 days: Build sprint 1
 0.5 days: user testing workshop
