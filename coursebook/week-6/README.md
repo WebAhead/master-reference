@@ -6,7 +6,8 @@
 
 10am - 11am: whiteboard walkthrough with introduction to the topic of relational databases and SQL
 
-11am - 1pm: installing Postgres and getting set up, those who finish installing can help others with installation problems.
+11am - 1pm: [installation workshop](https://github.com/dwyl/learn-postgresql)
+, those who finish installing can help others with installation problems.
 Then go to [pgexercises](https://www.pgexercises.com/gettingstarted.html) and work through in pairs if time remaining (help each other first)!
 
 1pm - 2pm: lunchtime 😋
