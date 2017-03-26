@@ -4,12 +4,11 @@
 
 #### Monday
 
-- 10:00 - 13:00 - Intro to hapi.js and libraries / frameworks
+- 10:00 - 10:15 - [Intro](./summary.md) to hapi.js and libraries / frameworks
 
-- 10:30 - 11:30 - Hapi Server & Inert walk-through
+- 10:15 - 11:15 - Hapi Server & Inert [walk-through](https://github.com/msachi/hapi-intro)
 
-- 11:30 - 13:00 - [Make me hapi workshop](https://github.com/hapijs/makemehapi)  
-**NOTE TO MENTOR** this might need forking and editing before final release
+- 11:15 - 13:00 - [Make me hapi workshop](https://github.com/hapijs/makemehapi)  
 
 — LUNCH —
 
@@ -20,7 +19,7 @@
 #### Tuesday
 
 - 10:00 - 11:00 - [Morning challenge - Handlebars](https://github.com/Jbarget/handlebars-morning-challenge)  
-**NOTE TO MENTOR** this might need forking and editing before final release
+**NOTE TO MENTOR** make changes if necessary
 
 - 11:00 - 12:45 - Testing in hapi & server.inject workshop (**to be created**)
 
