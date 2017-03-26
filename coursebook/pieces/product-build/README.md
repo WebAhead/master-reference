@@ -17,7 +17,7 @@ Students will complete a two / three week project after the taught course. In te
 ### Three week option
 
 1 day:
-  - Technology discussion: Students and mentors discuss technologies they want to learn, so that they can make informed decisions about what tech stack they want to use 
+  - Technology discussion: Students and mentors discuss technologies they want to learn, so that they can make informed decisions about what tech stack they want to use
   - Mini hack,
   - team building,
   - project selection,
@@ -27,9 +27,8 @@ Students will complete a two / three week project after the taught course. In te
 0.5 days: user testing workshop
 0.5 days: user testing
 0.5 days: sprint planning
-3.5 days: Build sprint 2
-0.5 days: Launch / presentations
-1 day: Funding proposals / day off ??
+4 days: Build sprint 2
+0.5 days: Launch / presentations / funding proposals
 
 ### Two week option
 
