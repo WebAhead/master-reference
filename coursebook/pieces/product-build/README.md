@@ -22,20 +22,21 @@ Students will complete a two / three week project after the taught course. In te
   - team building,
   - project selection,
   - intro to lean & agile concepts etc.
-1 day: UX workshop, wireframing
-6.5 days: Build sprint 1
-0.5 days: user testing workshop
-0.5 days: user testing
-0.5 days: sprint planning
-4 days: Build sprint 2
-0.5 days: Launch / presentations / funding proposals
+  
+1 day: UX workshop, wireframing   
+6.5 days: Build sprint 1   
+0.5 days: user testing workshop   
+0.5 days: user testing   
+0.5 days: sprint planning   
+4 days: Build sprint 2   
+0.5 days: Launch / presentations / funding proposals  
 
 ### Two week option
 
-1 day: Mini hack, team building, project selection, intro to lean & agile concepts etc.
-0.5 days: UX workshop, wireframing
-6.5 days: Build sprint 1
-0.5 days: user testing workshop
-0.5 days: user testing
-0.5 days: Launch / presentations
-0.5 days: Funding proposal / time off.
+1 day: Mini hack, team building, project selection, intro to lean & agile concepts etc.   
+0.5 days: UX workshop, wireframing   
+6.5 days: Build sprint 1   
+0.5 days: user testing workshop   
+0.5 days: user testing   
+0.5 days: Launch / presentations   
+0.5 days: Funding proposal / time off.   
