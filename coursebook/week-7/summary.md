@@ -1,33 +1,46 @@
 # Week 7
-This week you will be introduced to a Node framework, called *hapi.js* and to a JavaScript templating engine, called *Handlebars.js*. You will then write your own hapi server and build a blog site using a postgreSQL database and server-side template rendering.
+
+This week you will be introduced to a Node framework called *hapi.js*, and to a JavaScript templating engine called *Handlebars.js*. You will then write your own hapi server and build a blog site using a postgreSQL database and server-side template rendering.
 
 As this is the first week when you are introduced to a framework, it's worth saying a few words about abstractions, libraries and frameworks before diving into hapi.js.
 
-### Intro to abstractions/libraries/frameworks
+### Abstractions
+
 Abstraction is a key concept in computer science and can be described as:
-> a manner in which a person interacts with a program or system without directly working with more complex details "under the hood". Complex details that may not be of interest are abstracted away so that the programmer works with only what is necessary to him.
+> [A] manner in which a person interacts with a program or system without directly working with more complex details "under the hood". Complex details that may not be of interest are abstracted away so that the programmer works with only what is necessary to him.
 -[CS50 wiki](http://cs50.wiki/Abstraction)
 
 There are different levels of abstraction that make it easier for the programmer to interact with the language, e.g. use function calls without needing to know what exactly happens when the function is called.
 
 Examples of different levels of abstraction are the *low-level languages* (closer to the machine language) and *high-level languages* (closer to the human language).
 
-Libraries and frameworks are built on the idea of abstraction.
+Libraries and frameworks are built on the idea of abstraction: they both abstract the underlying code.
 
-## What is a library?
-A library is a collection of prewritten code bundled together to provide functionality for a specific area. We can incorporate libraries into our projects to make use of already available code and be more efficient.
+## Libraries and frameworks
 
-#### What is a framework?
-A framework is a more complex level of abstraction that may include libraries, a compiler and other programs used in the software development process. As the name suggests, a framework serves as a foundation on which we can build programs and applications.
+A **library** is a collection of prewritten code, such as routines or class definitions, usually to provide specific functionality. The key idea behind libraries is code reuse: someone writes a bundle of code that is generally useful and can be shared across applications, so that other developers don't have to write it from scratch each time.
 
-## What is hapi.js?
+> Examples of popular JavaScript libraries are jQuery, Underscore, Ramda, Lodash, Moment. Many of the npm modules can be thuought of as libraries, e.g. the Request module.
 
-hapi.js is an open-source framework that provides us with different objects and methods for abstracting HTTP and importantly gives us the ability to easily build in other capabilities using plugins. hapi has a powerful plugin system, that allows us to use smaller, independent modules (i.e. plugins) by registering them directly into the instance of the server we are working on.
+A **framework** includes library features but it is more than a library. It defines a control flow (or a skeleton) of the application even before any custom code is written. Developers fill in the skeleton with their code, and the framework calls the code appropriately.
 
->hapi is a simple to use configuration-centric framework with built-in support for input validation, caching, authentication, and other essential facilities for building web and services applications. hapi enables developers to focus on writing reusable application logic in a highly modular and prescriptive approach.  
--[hapi.js repo on GitHub](https://github.com/hapijs/hapi)
+> Examples of popular front-end JavaScript frameworks are Angular and React. Back-end (Node) frameworks include Express, Hapi, Koa, Sails, Meteor and many more.
 
-## What is Handlebars.js?
+The key difference between a library and a framework is that with the library, you are in control. With the framework, the control is inverted: the framework calls you (_'the Hollywood principle'_).
+
+<img src="assets/library-framework.png" height="230"/>
+
+_Whilst libraries and frameworks are incredibly useful, it's usually a good idea to get comfortable writing vanilla code first, and understand what is happening under the hood._
+
+## hapi.js
+
+hapi.js is an open-source Node framework for building RESTful & Real-Time web applications and services. It has built-in support for input validation, caching, authentication, and other essential facilities for building web and services applications.
+
+It is configuration-centric, fairly heavy-weight, and is renowned for its security and scalability. It was developed by Walmart (!) and was battle-tested during Black Friday without incident.
+
+hapi provides different objects and methods for abstracting HTTP, and gives you the ability to easily build in other capabilities using smaller, independent modules (i.e. plugins). It allows you to use plugins by registering them directly into the instance of the server you are working on.
+
+## Handlebars.js
 
 Handlebars.js is one of the most popular JavaScript templating engines that builds on top of the Mustache templating engine. A template engine is basically software that is designed to combine templates with data in order to generate HTML. Handlebars can be used for both client-side and server-side rendering.
 
