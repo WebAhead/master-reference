@@ -27,6 +27,6 @@ Particularly in the case of physical events, organisers will be happy to help pa
 
 We expect participants to follow these rules in all community interactions, whether professional, social or a mix of both.
 
-If someone has violated these rules, please review the [Complaints Policy](https://github.com/foundersandcoders/london-membership/blob/master/complaints-policy.md) and make a complaint using out 
+If someone has violated these rules, please review the [Complaints Policy](https://github.com/foundersandcoders/london-membership/blob/master/complaints-policy.md) and make a complaint using our 
 [complaints form](https://docs.google.com/forms/d/e/1FAIpQLSd8Xro2JoVJ2_GUtILtX-Hfwlwkb3P3PSKabTPHV29BKqrPYg/viewform).
 
