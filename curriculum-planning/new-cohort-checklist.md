@@ -3,11 +3,11 @@
 The following is a checklist for course coordinators to complete in advance of the start date
 of a new curriculum:
 
-- [ ] Create a [gitter](https://gitter.im/) chatroom for FACN-planning under the foundersandcoders organisation.
-- [ ] Create a [gitter](https://gitter.im/) chatroom for FACN within the foundersandcoders organisation.
+- [ ] Create a [gitter](https://gitter.im/) chatroom for `FAC<number>-planning` under the foundersandcoders organisation.
+- [ ] Create a [gitter](https://gitter.im/) chatroom for `FAC<number>` within the foundersandcoders organisation.
 - [ ] Send contact email (via [mailchimp](https://mailchimp.com/)) out to F&C alumni to begin arranging external speakers dates for the new curriculum. Update the calendar every time a speaker is arranged.
-- [ ] Create a new github organisation for FAC-N according to the outline described [here](./github-organisation.md). [Example](https://github.com/FAC10).
-- [ ] Add new cohort to this FAC-N github organisation.
+- [ ] Create a new github organisation for `FAC<number>` according to the outline described [here](./github-organisation.md). [Example](https://github.com/FAC10).
+- [ ] Add new cohort to this `FAC<number>` github organisation.
 - [ ] Add new cohort to [Founders & Coders](https://github.com/foundersandcoders) organisation.
 - [ ] Ensure all curriculum related files are updated: those in the coursebook [general](https://github.com/foundersandcoders/master-reference/tree/master/coursebook/general) folder & the curriculum ([London](https://github.com/foundersandcoders/london-curriculum), [Nazareth](https://github.com/foundersandcoders/nazareth-curriculum)) repo.
 - [ ] Ensure the [coursebook](https://github.com/foundersandcoders/master-reference/tree/master/coursebook) has been updated by the current mentors before start-date.
