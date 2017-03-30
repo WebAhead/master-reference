@@ -19,7 +19,4 @@ What's also important:
 - Use the `server.inject` method to test your server
 - Aim for as high code coverage as possible, on front-end and back-end
 - Try to use basic ES6 syntax
-
-Stretch Goals:
-
-- Host your website on Heroku - you might find [ElephantSQL](https://www.elephantsql.com/docs/index.html) useful for hosting your database online)
+- Host your website on Heroku - you might find [ElephantSQL](https://www.elephantsql.com/docs/index.html) useful for hosting your database online

@@ -20,7 +20,7 @@ Libraries and frameworks are built on the idea of abstraction: they both abstrac
 
 A **library** is a collection of prewritten code, such as routines or class definitions, usually to provide specific functionality. The key idea behind libraries is code reuse: someone writes a bundle of code that is generally useful and can be shared across applications, so that other developers don't have to write it from scratch each time.
 
-> Examples of popular JavaScript libraries are jQuery, Underscore, Ramda, Lodash, Moment. Many of the npm modules can be thuought of as libraries, e.g. the Request module.
+> Examples of popular JavaScript libraries are jQuery, Underscore, Ramda, Lodash, Moment. Many of the npm modules can be thought of as libraries, e.g. the Request module.
 
 A **framework** includes library features but it is more than a library. It defines a control flow (or a skeleton) of the application even before any custom code is written. Developers fill in the skeleton with their code, and the framework calls the code appropriately.
 
