@@ -8,18 +8,17 @@
 
 - 10:15 - 11:15 - Hapi Server & Inert [walk-through](https://github.com/msachi/hapi-intro)
 
-- 11:15 - 13:00 - [Make me hapi workshop](https://github.com/hapijs/makemehapi)  
+- 11:15 - 13:00 - [Make me hapi workshop](https://github.com/hapijs/makemehapi)
 
 — LUNCH —
 
-- 14:00 - 16:00 - Hapi Vision & Handlebars walk-through & workshop
+- 14:00 - 16:00 - Hapi Vision & Handlebars [walk-through](https://github.com/marisid/handlebars-intro-workshop)
 
 - 16:00 - 18:00 - Business development
 
 #### Tuesday
 
-- 10:00 - 11:00 - [Morning challenge - Handlebars](https://github.com/Jbarget/handlebars-morning-challenge)  
-**NOTE TO MENTOR** make changes if necessary
+- 10:00 - 11:00 - [Morning challenge - Handlebars](https://github.com/Jbarget/handlebars-morning-challenge)
 
 - 11:00 - 12:45 - Testing in hapi & server.inject workshop (**to be created**)
 
