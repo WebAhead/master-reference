@@ -2,7 +2,7 @@
 
 **makemehapi** is a workshop that will run you through a series of challenges ranging from a basic "hello world" server to more advanced exercises dealing with rendering views and helpers functions.
 
-The official workshop lives in this [GitHub repo](https://github.com/msachi/makemehapi), however, it is a little confusing and the wording of exercises isn't always great. To help you out, we've written the guidelines below -- if you follow these you should be fine!
+The official workshop lives in this [GitHub repo](https://github.com/hapijs/makemehapi). It's a great workshop but the instructions for some exercises can be a little confusing. To help you out, we've written the guidelines below, and rephrased the exercise instructions.
 
 To get set up:  
 1) Install makemehapi globally by running `npm install -g makemehapi`  
@@ -42,7 +42,7 @@ Routes are added using the `route` function:
 
 ```js
 server.route({
-    path: '/', 
+    path: '/',
     method:'GET',
     handler: anonOrYourFunction
 });
@@ -99,7 +99,7 @@ function handler (request, reply) {
 ```
 
 ### HANDLING
-Exercise 3 
+Exercise 3
 
 Create a server which responds to requests to the path `/` with a static HTML file named
 `index.html` containing the following:
@@ -146,7 +146,7 @@ need the core Node module `path`, its `join()` method, and the global
 variable `__dirname`.
 
 ### DIRECTORIES
-Exercise 4 
+Exercise 4
 
 Create a server which routes requests to the path `/foo/bar/baz/file.html` to a
 file in a directory, e.g. `public/file.html`. The file should contain the following content:
@@ -186,7 +186,7 @@ path: "/path/to/somewhere/{param}"
 Note the hint from the previous exercise about using `path`, `join()` and `__dirname`.
 
 ### VIEWS
-Exercise 5 
+Exercise 5
 
 Create a server which responds to requests to `/?name=Handling` using a template
 located at `templates/index.html`. The server should respond with the following HTML:
@@ -259,7 +259,7 @@ automatically parsed and aren't declared in the route `path`. They can be access
 ```
 
 ### PROXIES
-Exercise 6 
+Exercise 6
 
 A proxy lets you relay requests from one server/service to another.
 
@@ -294,7 +294,7 @@ handler: {
 ```
 
 ### HELPING
-Exercise 7 
+Exercise 7
 
 Create a server which responds to requests to `/?name=Helping&suffix=!` using
 the template from the VIEWS exercise.
