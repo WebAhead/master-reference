@@ -14,8 +14,10 @@ For each exercise:
 2) Follow the instructions below for that exercise  
 3) To test your code:  
 ~ run `makemehapi` in the Terminal  
-~ navigate to the relevant exercise using the command-line tool  
+~ select the relevant exercise from the displayed list  
 ~ run `makemehapi verify path-to-file` (e.g. `makemehapi verify server.js`, provided you are already in `exercise-1` subfolder)  
+
+_Note: The instructions below are a modified version of those you will see in your Terminal. Please use these to avoid confusion._
 
 ### HELLO HAPI
 Exercise 1
