@@ -20,7 +20,7 @@
 
 - 10:00 - 11:00 - [Morning challenge - Handlebars](https://github.com/Jbarget/handlebars-morning-challenge)
 
-- 11:00 - 12:45 - Testing in hapi & server.inject workshop (**to be created**)
+- 11:00 - 12:45 - Testing in hapi & server.inject workshop [inject](https://github.com/SavageWilliam/injector)
 
 - 12:45 - 13:00 - Introduce [research topics](./research-afternoon.md)
 
