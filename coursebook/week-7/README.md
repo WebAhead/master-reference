@@ -8,7 +8,7 @@
 
 - 10:15 - 11:15 - Hapi Server & Inert [code-along](https://github.com/msachi/hapi-intro)
 
-- 11:15 - 13:00 - [Make me hapi workshop](https://github.com/msachi/makemehapi)
+- 11:15 - 13:00 - [Make me hapi workshop](https://github.com/hapijs/makemehapi)
 
 — LUNCH —
 
