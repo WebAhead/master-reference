@@ -6,7 +6,7 @@
 
 - 10:00 - 10:15 - [Intro](./summary.md) to hapi.js and libraries / frameworks
 
-- 10:15 - 11:15 - Hapi Server & Inert [walk-through](https://github.com/msachi/hapi-intro)
+- 10:15 - 11:15 - Hapi Server & Inert [code-along](https://github.com/msachi/hapi-intro)
 
 - 11:15 - 13:00 - [Make me hapi workshop](https://github.com/msachi/makemehapi)
 
