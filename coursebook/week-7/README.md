@@ -34,7 +34,7 @@
 
 #### Wednesday
 
-- 10:00 - 11:00 - Morning challenge - Setting a cookie (**to be created**)
+- 10:00 - 11:00 - [Workshop - Setting a cookie](https://github.com/SavageWilliam/hapi-auth-cookie-ws)
 
 - 11:00 - 13:00 - Projects (planning)
 
