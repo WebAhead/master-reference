@@ -53,4 +53,4 @@
 
 + 16:15 - 17:15 - Group stop-go-continue
 
-+ 17:15 - 18:00 - Final Q&A to wrap up curriculum / Finish early
++ 17:15 - 18:00 - Final Q&A to wrap up curriculum
