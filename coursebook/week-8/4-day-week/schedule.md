@@ -4,7 +4,7 @@
 
 + 10:00 - 10:15 - Intro to schedule, [summary](../summary.md) & [learning outcomes](../learning-outcomes.md)
 
-+ 10:15 - 10:45 - Whiteboard walkthrough on authorisation
++ 10:15 - 10:45 - Whiteboard walkthrough on authentication
 
 + 10:45 - 11:45 - Whiteboard walkthrough on the OAuth flow
 
