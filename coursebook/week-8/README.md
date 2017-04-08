@@ -45,11 +45,11 @@
 
 — LUNCH —
 
-+ 14:00 - 15:00 - Presentations (4 pairs)
++ 14:00 - 15:00 - Presentations (first half of the groups)
 
 + 15:00 - 15:15 - Break
 
-+ 15:15 - 16:15 - Presentations (4 pairs)
++ 15:15 - 16:15 - Presentations (second half of the groups)
 
 + 16:15 - 17:15 - Group stop-go-continue
 
