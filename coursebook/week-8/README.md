@@ -6,9 +6,11 @@
 
 + 10:00 - 10:15 - Intro to schedule & learning outcomes
 
-+ 10:15 - 11:15 - Whiteboard walkthrough
++ 10:15 - 10:45 - Whiteboard walkthrough on authorisation
 
-+ 11:15 - 13:00 - [Oauth workshop](https://github.com/foundersandcoders/oauth)
++ 10:45 - 11:45 - Whiteboard walkthrough on the OAuth flow
+
++ 11:45 - 13:00 - [OAuth workshop](https://github.com/foundersandcoders/oauth)
 
 — LUNCH —
 
