@@ -8,7 +8,7 @@
 
 + 10:15 - 11:15 - Whiteboard walkthrough
 
-+ 11:15 - 13:00 - Oauth workshop using Github API
++ 11:15 - 13:00 - Oauth workshop
 
 — LUNCH —
 
