@@ -8,11 +8,11 @@
 
 + 10:15 - 11:15 - Whiteboard walkthrough
 
-+ 11:15 - 13:00 - Oauth workshop
++ 11:15 - 13:00 - [Oauth workshop](https://github.com/foundersandcoders/oauth)
 
 — LUNCH —
 
-+ 14:00 - 16:00 - Continue workshop
++ 14:00 - 16:00 - [Continue workshop](https://github.com/foundersandcoders/oauth)
 
 + 16:00 - 18:00 - Business development
 
