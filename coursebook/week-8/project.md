@@ -49,10 +49,11 @@ Acceptance criteria:
 
 Acceptance criteria:
 
-+ [ ] I can click on a button, which allows me to log in via my Github account
-+ [ ] The look of the button should make it obvious
-+ [ ] Once I'm logged in, I should see a list of blog posts
-+ [ ] I shouldn't be left with a blank loading screen for too long during the authorisation process, otherwise I will lose confidence in your website and leave.
++ [ ] I can click on a button next to any of my posts, which takes me to an edit view
++ [ ] I can't see an edit button next to anyone else's posts
++ [ ] Each user has the same experience (but with their own posts)
++ [ ] Clicking "done" / "submit" changes the content for every user to see
++ [ ] Clicking "done" / "submit" takes me to a view of the new, edited version of my blog post
 
 ### Priorities
 + For the purposes of your learning, implementing OAuth is your top priority!
