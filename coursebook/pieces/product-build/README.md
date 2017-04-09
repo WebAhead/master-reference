@@ -14,29 +14,54 @@ Students will complete a two / three week project after the taught course. In te
   7. Teach students about user testing Since the students will have time to build something quite proper, and will be trying to build a real product, this will be a great time to try and do some **real** user testing.
 
 ## Timetable
-### Three week option
 
-1 day:
-  - Technology discussion: Students and mentors discuss technologies they want to learn, so that they can make informed decisions about what tech stack they want to use
-  - Mini hack,
-  - team building,
-  - project selection,
-  - intro to lean & agile concepts etc.
-  
-1 day: UX workshop, wireframing   
-6.5 days: Build sprint 1   
-0.5 days: user testing workshop   
-0.5 days: user testing   
-0.5 days: sprint planning   
-4 days: Build sprint 2   
-0.5 days: Launch / presentations / funding proposals  
+### Day 1
 
-### Two week option
+ - 10:00 - 12:00:
+ -- Technology discussion: Students and mentors discuss technologies they want to learn, so that they can make informed decisions about what tech stack they want to use
 
-1 day: Mini hack, team building, project selection, intro to lean & agile concepts etc.   
-0.5 days: UX workshop, wireframing   
-6.5 days: Build sprint 1   
-0.5 days: user testing workshop   
-0.5 days: user testing   
-0.5 days: Launch / presentations   
-0.5 days: Funding proposal / time off.   
+ - 12:00 - 1:00
+ -- Pitching
+
+ - 2:00 - 5:00
+ -- Wireframing / prototyping
+
+  - 5:00 - 6:00
+  -- Presentations, final team selection
+
+### Day 2
+ 10:00 - 11:00 introduction to agile. Here we should talk about workflow, github, sprints ..
+ 11:00 - 12:00: UX talk
+
+ - 1:00 - 4:30
+ -- Wireframing and prototyping
+
+ - 4:30 - 6:00
+ -- Sprint planning
+
+### Day 3 - 8
+ -- Build sprint one.
+
+### Day 9
+
+ - 10:00 - 1:00
+ -- Finish sprint one
+
+ - 2:00 - 6:00
+ -- User testing workshop
+
+### Day 10
+ - 10:00 - 2:00
+ -- User testing and lunch
+
+ - 2:00 - 4:00
+ -- Demo
+
+ - 4:00 - 6:00
+ -- Sprint planning
+
+### Day 11 - 14
+ -- Build sprint 2
+
+### Day 15
+Launch (:tada:)
