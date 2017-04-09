@@ -26,3 +26,7 @@ If a participant engages in harassing behaviour, the organisers may take any act
 Particularly in the case of physical events, organisers will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event. We value your attendance and contributions to the community.
 
 We expect participants to follow these rules in all community interactions, whether professional, social or a mix of both.
+
+If someone has violated these rules, please review the [Complaints Policy](https://github.com/foundersandcoders/london-membership/blob/master/complaints-policy.md) and make a complaint using our 
+[complaints form](https://docs.google.com/forms/d/e/1FAIpQLSd8Xro2JoVJ2_GUtILtX-Hfwlwkb3P3PSKabTPHV29BKqrPYg/viewform).
+

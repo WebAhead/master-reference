@@ -8,3 +8,4 @@
 | [Functional Programming](https://gitter.im/foundersandcoders/fp)  | Share things about the programming paradigm Functional Programming  | Blogposts, events, resources, general news  |
 | [Freelance Jobs](https://gitter.im/foundersandcoders/freelancers)  | Share openings for enquiries to build prototypes, MVPs and other short term work  | Passing on details about the work  |
 | [Full-time Jobs](https://gitter.im/foundersandcoders/jobs)  | Share job openings at companies that you come across  | Passing on details about openings  |
+| [Queers](https://gitter.im/foundersandcoders/queers)  | Autonomous space for LGBTQ-identified FAC students and alumni  | Sharing details of queer-specific events, general chit-chat |
