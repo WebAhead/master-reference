@@ -63,6 +63,6 @@
 
 + 15:15 - 16:15 - Presentations (second half of the groups)
 
-+ 16:15 - 17:15 - Group stop-go-continue
++ 16:15 - 17:15 - Cohort stop-go-continue
 
 + 17:15 - 18:00 - Final Q&A to wrap up curriculum
