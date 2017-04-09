@@ -6,7 +6,7 @@
 
 + 10:15 - 10:45 - Whiteboard walkthrough on authentication
 
-+ 10:45 - 11:45 - Whiteboard walkthrough on the [OAuth flow](./oauth-flow.png)
++ 10:45 - 11:45 - Whiteboard walkthrough on the [OAuth flow](../oauth-flow.png)
 
 + 11:45 - 13:00 - [OAuth workshop](https://github.com/foundersandcoders/oauth)
 
