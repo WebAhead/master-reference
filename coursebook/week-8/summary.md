@@ -15,7 +15,9 @@ As mentioned already, authorisation is the process by which you determine what a
 
 ## Third-party authentication (OAuth)
 ### What is OAuth?
-OAuth is the delegation of authentication to another entity, (eg Facebook, Twitter, Google). If you're making a tool for developers, you might choose to delegate authentication to Github or Stack Exchange. There's a list of OAuth providers on [Wikipedia](https://en.wikipedia.org/wiki/List_of_OAuth_providers).
+OAuth is an _authorisation_ protocol that enables a 3rd-party application to obtain limited access a user's info. ()[OAuth is not an authentication tool.](https://oauth.net/articles/authentication/))
+
+There's a list of OAuth providers on [Wikipedia](https://en.wikipedia.org/wiki/List_of_OAuth_providers).
 
 ### Why use OAuth?
 - Using a 3rd party to authenticate users means you can skip over issues such validation of user inputs, the need to ensure that usernames are unique, and the insecurity of storing passwords (even when these are encrypted).  
