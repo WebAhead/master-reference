@@ -9,7 +9,7 @@ It's time to bring everything full circle and remind you of the project instruct
 + Don't forget to include a solid readme! You should aim to document as you go. Documentation is _part_ of building each feature. So don't be tempted to leave it until the end :+1:
 + Issues, commits & PRs should all have descriptive titles. Commits and PRs should have thorough descriptions in the body. Every commit and every PR should reference an issue. Your repo should pass the "abducted by aliens" test :wink:
 + Raise an issue for each user story, with details of the acceptance criteria. You will probably want to break each of these down into more granular issues before you start committing against them. (Don't worry too much about this. We will be going over [DWYL's workflow](https://github.com/dwyl/contributing) more in the second half of the programme.)
-+ Now that you have had a number of weeks of writing tests, we expect to see some solid coverage percentages (80%+). The expected percentage would usually be higher in a real project, but we know you only have 2 days. You shouldn't consider this the benchmark either. The higher you can push it, the better.
++ Now that you have had a number of weeks of writing tests, we expect to see some solid coverage percentages.
 
 ### User stories
 
