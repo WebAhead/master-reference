@@ -14,7 +14,7 @@ It's time to bring everything full circle and remind you of the project instruct
 ### User stories
 
 **As a** member of Founders and Coders, who wants to learn from my fellow devs
-> **I want to** log in with my Github account
+> **I want to** log in with my Github account  
 > **So that** I can use my Github organisation's info to see posts from my fellow students.
 
 Acceptance criteria:
@@ -25,7 +25,7 @@ Acceptance criteria:
 + [ ] I shouldn't be left with a blank loading screen for too long during the authorisation process, otherwise I will lose confidence in your website and leave.
 
 **As** any user who is logged in
-> **I want to** see my username & Github profile picture on the homepage
+> **I want to** see my username & Github profile picture on the homepage  
 > **So that** I benefit from logging in with Github OAuth, and don't have to do any profile setup on your site.
 
 Acceptance criteria:
@@ -35,16 +35,16 @@ Acceptance criteria:
 #### Stretch goals - choose _one_ (ONLY IF YOU HAVE TIME)
 
 **As a** paranoid member of the current cohort, who believes in "what happens at FAC stays at FAC"
-> **I want** other's viewing rights to my posts to be restricted
+> **I want** others' viewing rights to my posts to be restricted  
 > **So that** I feel free to be wildly opinionated with my crazy blogging.
 
 Acceptance criteria:
 
 + [ ] Only logged-in members of Founders and Coders can see any of the content on this site
-+ [ ] Anyone who is logged in, but not part of the current cohort, should still see a list of blogs. But they should see nothing that I (the paranoid user) has posted.
++ [ ] Anyone who is logged in, but not part of the current cohort, should still see a list of blogs. But they should see nothing that I (the paranoid user) have posted.
 
 **As** the author of my own posts (any authenticated user)
-> **I want to** be able to edit the posts that I have written (only my own)
+> **I want to** be able to edit the posts that I have written (only my own)  
 > **So that** I can retain editorial control & make sure my online content is the best it can be.
 
 Acceptance criteria:
@@ -65,7 +65,7 @@ Normally, if you were working off someone's existing repo, you would fork it. Bu
 
 Instead:
 1. Create a new, blank repo. Initialise it _without_ a `README.md` or a `.gitignore`
-2. Clone your week 7 project on Github. You will need perform `git clone` from inside a different local directory than the one that contains your first version of the week 7 project.
+2. Clone your week 7 project on Github. You will need to run `git clone` from inside a different local directory than the one that contains your first version of the week 7 project.
 3. `cd` into the new local directory (now the second version of your project)
 4. Remove the contents of the `README.md`, except for the installation instructions, and maybe the overarching user story/ies that got your project to its current state.
 5. Go to the blank repo that you created in step 1 and copy the URL in the same way that you would if you were going to clone it.
