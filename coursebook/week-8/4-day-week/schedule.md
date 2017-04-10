@@ -20,7 +20,7 @@
 
 + 10:00 - 11:00 - Morning challenge
 
-+ 11:00 - 12:45 - [JWT workshop](https://github.com/denesnori/fac10_jwt_workshop)
++ 11:00 - 12:45 - [JWT workshop](https://github.com/foundersandcoders/jwt_workshop)
 
 + 12:45 - 13:00 - Introduce [project](../project.md)
 
