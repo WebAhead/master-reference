@@ -5,7 +5,7 @@ Here is a non-exhaustive list of technolgies you may want to learn about
 
 ### React
 A front-end framework. Mostly used to create the view layer of client side applications.
-Used by many startups and corporates in london, a good thing to learn if trying to get a job as a front end developer in London.
+Used by [many](https://github.com/facebook/react/wiki/sites-using-react) startups and corporates in london, a good thing to learn if trying to get a job as a front end developer in London.
 
 ### Redux
 A state management framework for client-side web applications. Most react projects use redux.
@@ -25,6 +25,9 @@ A data visualisation libary. Very powerful with a steep learning curve.
 
 ### Service Worker Background Push notifications
 Here's the [API](https://developer.mozilla.org/en/docs/Web/API/Push_API), here's a useful backend [library](https://www.npmjs.com/package/web-push).
+
+### Offline-First Progressive Web App
+Good guide [here](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/).
 
 ## Server-side
 
