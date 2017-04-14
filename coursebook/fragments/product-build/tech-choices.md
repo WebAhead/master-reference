@@ -23,6 +23,9 @@ A CSS framework, extremely good for prototyping.
 ### D3
 A data visualisation libary. Very powerful with a steep learning curve.
 
+### Service Worker Background Push notifications
+Here's the [API](https://developer.mozilla.org/en/docs/Web/API/Push_API), here's a useful backend [library](https://www.npmjs.com/package/web-push).
+
 ## Server-side
 
 ### Express
@@ -41,9 +44,6 @@ A no sql document db. Easy to use. Part of the `MEAN` stack.
 
 ### Functional Programming with Ramda
 [Ramda](http://ramdajs.com/docs/). Best to start with [this](https://github.com/MostlyAdequate/mostly-adequate-guide).
-
-### Service Worker Background Push notifications
-Here's the [API](https://developer.mozilla.org/en/docs/Web/API/Push_API), here's a useful backend [library](https://www.npmjs.com/package/web-push).
 
 ### Async/Await
 Now in Node v7, can be transpiled in browsers. Allows promise code to be written that appears synchronous. [API](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function). (There is also a [version of express](http://koajs.com/) that uses it heavily.
