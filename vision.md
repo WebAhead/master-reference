@@ -9,7 +9,7 @@ This is a draft. Along with some of my (@des-des's) ideas, some of this has come
  * To supply a set of resources that can be used to build a curriculum.
  * To allow a single point of collaboration between campuses without impeding on the autonomy of any one campus
 
-## Glossery of Terms
+## Glossary of Terms
 
  * *Curriculum*: An ordered collection of *week*s that will make up the curriculum students will follow at a campus.
  * *Week*: A ordered collection of *part*s that will take 5 days to complete.
