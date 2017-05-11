@@ -14,7 +14,7 @@ To be completed by @harrygfox @nogainbar @bradreeder
 Product build
 
 ### Day 15
-**Morning**
+**Morning**  
 -- Recap from UX week / Intro for FACN1 --
 + How to conduct user testing
   + [Video: How to do a user interview (from Google Ventures updated)](https://www.youtube.com/watch?v=Qq3OiHQ-HCU)
@@ -28,14 +28,12 @@ Aim to speak to 4-5 people
 
 **Afternoon**
 + Presentation planning (incorporating the user feedback)
+  + Briefly go over the idea, as it was defined during the pitch / sprint planning
+  + Demonstrate the existing features, specifically mentioning how well the initial users stories were met  
+  (Think: sprint review that your dev team might do for the PO, or a presentation that the PO might use for further funding)
+  + Describe the next features you would implement  
+  (What did you learn from user testing & how can that inform your next sprint?)
+  + Open up to Q&A from the rest of the cohort
+  + Follow up by describing one technical challenge & one non-technical challenge that your team faced
 + Deliver presentations
 + Stop go continue
-
-#### Presentation structure
-+ Briefly go over the idea, as it was defined during the pitch / sprint planning
-+ Demonstrate the existing features, specifically mentioning how well the initial users stories were met  
-(Think: sprint review that your dev team might do for the PO, or a presentation that the PO might use for further funding)
-+ Describe the next features you would implement  
-(What did you learn from user testing & how can that inform your next sprint?)
-+ Open up to Q&A from the rest of the cohort
-+ Follow up by describing one technical challenge & one non-technical challenge that your team faced
