@@ -17,9 +17,9 @@ Product build
 **Morning**
 -- Recap from UX week / Intro for FACN1 --
 + How to conduct user testing
-  + [Demonstration video]
+  + [Video: How to do a user interview (from Google Ventures updated)](https://www.youtube.com/watch?v=Qq3OiHQ-HCU)
   + [Article: 5 steps to create good user interview questions](https://medium.com/interactive-mind/5-steps-to-create-good-user-interview-questions-by-metacole-a-comprehensive-guide-8a591b0e2162)
-+ [FAC9 tips](https://github.com/FAC9/future-leaders/blob/d12df8559d7464dbc7be509aedea413f9064faca/docs/user-testing-advice.md)
+  + [FAC9 tips](https://github.com/FAC9/future-leaders/blob/d12df8559d7464dbc7be509aedea413f9064faca/docs/user-testing-advice.md)
 
 -- Main portion --
 + Plan your script/questions in your team
