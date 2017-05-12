@@ -1,5 +1,17 @@
 ## Outline
 
+## Introduction
+
+These weeks are to be run in a way that emphasises peer-led learning.
+There are to be **no mentor** roles assigned.
+
+Students should be made aware **the week before** that the learning environment is going to change.
+Students will be expected to
+- determine what they need to know to achieve their learning outcomes
+- do all of their own research in to the relevant areas
+- plan all of their own exercises
+- ask a facilitator for help when all other avenues have been exhausted
+
 This section of the course is three weeks long. In groups of between 2-4 people, you will build a product over two sprints, choosing your own tech stack and following scrum.
 Each project will allow you to further one or more of the following aims: build a product that you care about; learn entrepreneurial skills; and learn new technologies that will directly impact your employability.
 
