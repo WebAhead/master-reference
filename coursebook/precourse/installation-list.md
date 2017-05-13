@@ -7,18 +7,20 @@ For OSX Users:
 - Install [Brew](http://brew.sh/)
 - Optional: iTerm2
 
-For Linux Users:
+For Linux Users:  
 
-- You're set
-- Optional: [Linuxbrew](http://linuxbrew.sh/) (if you don't want to sudo everything)
+| Distro        | Base           | Package Manager | Package Management Helper |  
+|-------------|-------------|-----|-----|  
+| [Ubuntu](https://www.ubuntu.com/) | [Debian](https://www.debian.org/) | [Apt](https://help.ubuntu.com/lts/serverguide/apt.html) | [Linuxbrew](http://linuxbrew.sh/) |  
+| [Antergos](https://antergos.com/) | [Arch](https://www.archlinux.org/) | [pacman](https://wiki.archlinux.org/index.php/pacman) | [packer](https://dominicm.com/install-packer-on-arch-linux/) or [yaourt](https://archlinux.fr/yaourt-en) |
 
 For Windows Users:
 
-- [Install / dual-boot Ubuntu](https://www.ubuntu.com/download/desktop) – we can help:
+- [Dual boot Linux](https://www.howtogeek.com/214571/how-to-dual-boot-linux-on-your-pc/) (we can help!)
 
 Chromebook Users:
 
-- Crouton (or remove ChromeOS and install Ubuntu)
+- [Crouton](https://www.howtogeek.com/162120/how-to-install-ubuntu-linux-on-your-chromebook-with-crouton/) (or remove ChromeOS and install Linux)
 
 For Everyone:
 
