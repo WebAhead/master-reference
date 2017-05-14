@@ -24,7 +24,7 @@ Chromebook Users:
 
 For Everyone:
 
-- Use homebrew/linuxbrew (if you have it) to install [Node](https://nodejs.org/en/download/package-manager/). [This guide](http://blog.teamtreehouse.com/install-node-js-npm-linux) might help you if you're on Linux.
+- Install and manage Node.js using [nvm](https://github.com/creationix/nvm).
 - Install [Atom](https://atom.io/) - download the file or click "Build from source"
 - Install Chrome
 - [Setup SSH access to your Github account](https://help.github.com/articles/generating-an-ssh-key/)
