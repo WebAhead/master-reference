@@ -117,142 +117,142 @@ React - doing all of it in the front-end, no back-end, counter to what FAC teach
 
 ### Pre course material
 
-More emphasis on what’s important
+* More emphasis on what’s important
 
-More back-end - pre-course was very front-end focussed, would be useful to have some back-end as it’s completely unknown to some people.
-Introduce e.g. package.json
+* More back-end - pre-course was very front-end focussed, would be useful to have some back-end as it’s completely unknown to some people.
+* Introduce e.g. package.json
 
-Why are we a full-stack course if most is back-end and only the pre-course is front-end?
+* Why are we a full-stack course if most is back-end and only the pre-course is front-end?
 
-Choose resources wisely, intro to back-end? But need to make sure it’s not too confusing and doesn’t make things worse
+* Choose resources wisely, intro to back-end? But need to make sure it’s not too confusing and doesn’t make things worse
 
-Expectation management —> let people know what to expect from the course, in terms of front and back end
+* Expectation management —> let people know what to expect from the course, in terms of front and back end
 
-Should be a short list of things that you have to do —> this stuff should be assumed knowledge
+* Should be a short list of things that you have to do —> this stuff should be assumed knowledge
 If you want to work on some other things beforehand, offer some resources but say that it won’t be assumed knowledge
 
-Is pre-course something we do because we won’t be doing it on the course, or an intro to the level that we need to be at and we will continue it on the course?
-Better communication —> tell people that they might not understand right now
-Nothing should be introduced that we won’t go over again
+* Is pre-course something we do because we won’t be doing it on the course, or an intro to the level that we need to be at and we will continue it on the course?
+* Better communication —> tell people that they might not understand right now
+* Nothing should be introduced that we won’t go over again?
 
-Shouldn’t necessarily be introduced on GitHub, especially for people who have never really used GitHub before
-Language is important, we should say what should be done i.e. If you don’t know this, you are going to be behind
+* Shouldn’t necessarily be introduced on GitHub, especially for people who have never really used GitHub before
+* Language is important, we should say what should be done i.e. If you don’t know this, you are going to be behind
 
-Some sort of intro to back-end?
+* Some sort of intro to back-end?
 
-For front-end, writing good HTML and CSS is very important
+* For front-end, writing good HTML and CSS is very important
 
-Weekend reading?
+* Weekend reading?
 
 ### Project teams
 
-Ensure that everyone in the team is involved and understanding the code
+* Ensure that everyone in the team is involved and understanding the code
 
-More of an emphasis on going through the code as a team so that everyone understands it
-Explain early on that teams should always share what they’ve done and that everyone in the team understands everything
-Mixed abilities - difficult to understand and share sometimes
+* More of an emphasis on going through the code as a team so that everyone understands it
+* Explain early on that teams should always share what they’ve done and that everyone in the team understands everything
+* Mixed abilities - difficult to understand and share sometimes
 
-Nazareth — big difference in people’s abilities, certain people didn’t always understand
+* Nazareth — big difference in people’s abilities, certain people didn’t always understand
 
-Important skill to be able to understand other people’s code
+* Important skill to be able to understand other people’s code
 
-When it’s something that only one or two people know, everyone should sit down and figure it out together, go through together
+* When it’s something that only one or two people know, everyone should sit down and figure it out together, go through together
 
-Focus on integrating everyone understanding the code into project, make part of the flow?
+* Focus on integrating everyone understanding the code into project, make part of the flow?
 
 ### Code review quality
 
-Code review is useful, but could be more useful. Maybe need someone to look at the whole code base
-Issues should be relevant to what we are trying to implement that week?
-Checklist for code review, need some guidelines on what to review i.e. checklist based on learning outcomes for the week?
-Relying on knowledge of reviewer
+* Code review is useful, but could be more useful. Maybe need someone to look at the whole code base
+* Issues should be relevant to what we are trying to implement that week?
+* Checklist for code review, need some guidelines on what to review i.e. checklist based on learning outcomes for the week?
+* Relying on knowledge of reviewer
 
 ### Lightning talks
 
-Discuss a way to show non-coding related knowledge
-I.e. interesting things from people’s past lives, 15 minute talks
-Integrate this into weekly stop go continue? Takes a long time to prepare something.
-Enforcing it is not ideal, being forced to do an interesting talk is not helpful.
-Open slot where people are encouraged to talk.
-Find a way so that people don’t feel pressured to talk i.e. more of a q&a thing using Nelson’s game
+* Discuss a way to show non-coding related knowledge
+* I.e. interesting things from people’s past lives, 15 minute talks
+* Integrate this into weekly stop go continue? Takes a long time to prepare something.
+* Enforcing it is not ideal, being forced to do an interesting talk is not helpful.
+* Open slot where people are encouraged to talk.
+* Find a way so that people don’t feel pressured to talk i.e. more of a q&a thing using Nelson’s game
 
-Restorative practices - resolve conflicts
+* Restorative practices - resolve conflicts
 
-What’s the aim? Sharing useful knowledge
-Should it be within course time or not?
-FAC is a place where people come to learn
-Show and tell —> previous cohorts showed anything interested they’d learned over the weekend (people didn’t tend to keep to it though)
+* What’s the aim? Sharing useful knowledge
+* Should it be within course time or not?
+* FAC is a place where people come to learn
+* Show and tell —> previous cohorts showed anything interested they’d learned over the weekend (people didn’t tend to keep to it though)
 
-Solution?
-People anonymously make suggestions (could be about anything), group decides what would be useful to hear about by voting.
-Talks are organised for sometime during the course, maybe after 6?
+**Solution?**
+* People anonymously make suggestions (could be about anything), group decides what would be useful to hear about by voting.
+* Talks are organised for sometime during the course, maybe after 6?
 
-Do an ice breaker at first stop go continue
+* Do an ice breaker at first stop go continue
 
 
 ### CSS
 
-Lots of things we build are functional but don’t look good
+* Lots of things we build are functional but don’t look good
 
-CSS often gets left to one person who is good at it / likes it
+* CSS often gets left to one person who is good at it / likes it
 
-Suggest bits of CSS to add for each project
-Could be a requirement for one or two projects e.g. some sort of layout etc.
-If we can afford to have it as a whole week, we should
+* Suggest bits of CSS to add for each project
+* Could be a requirement for one or two projects e.g. some sort of layout etc.
+* If we can afford to have it as a whole week, we should
 
-Is adding a bit of css into morning challenges, into projects going to solve the problem?
+* Is adding a bit of css into morning challenges, into projects going to solve the problem?
 
-For projects, initially templates could be given and projects would build on them
+* For projects, initially templates could be given and projects would build on them
 
-Teaching how to build a layout, box model, etc.
-Best practice for CSS? How you structure CSS so that it’s maintainable
+* Teaching how to build a layout, box model, etc.
+* Best practice for CSS? How you structure CSS so that it’s maintainable
 
-Solution?
-A whole week on HTML and CSS? Or Fit it in throughout the course?
-Collate resources on style guides, best practice etc.
+**Solution?**
+* A whole week on HTML and CSS? Or Fit it in throughout the course?
+* Collate resources on style guides, best practice etc.
 
-Noga, Sophia and Nick —> speak to them about how to take this forward
+* Noga, Sophia and Nick —> speak to them about how to take this forward
 
 
-More of a push to explore different technologies during project weeks (not teaching weeks)
+### More of a push to explore different technologies during project weeks (not teaching weeks)
 
-No frameworks culture sometimes leads to hesitation to use new things
-New things are not scary and we shouldn’t be afraid as we will have to do this in jobs anyway
-React was heavily discouraged for reading week - should be a bit more open
-What is the purpose of those projects? Decide how much to encourage / discourage frameworks
-We shouldn’t be coming out of a bootcamp with a hesitation to explore new things / libraries etc.
-The way it is phrased should not be like it was with us i.e. don’t learn React. Should be up to us what we want to learn
+* No frameworks culture sometimes leads to hesitation to use new things
+* New things are not scary and we shouldn’t be afraid as we will have to do this in jobs anyway
+* React was heavily discouraged for reading week - should be a bit more open
+* What is the purpose of those projects? Decide how much to encourage / discourage frameworks
+* We shouldn’t be coming out of a bootcamp with a hesitation to explore new things / libraries etc.
+* The way it is phrased should not be like it was with us i.e. don’t learn React. Should be up to us what we want to learn
 
 
 ### Bank of best resources
 
-Create some sort of repo where we bring all articles, online courses, meetup info into one place
-Where do we put this? GitHub? Google doc?
-People have different learning styles, good to have links from different people
-(Resource sharing repo https://github.com/foundersandcoders/resource-sharing)
+* Create some sort of repo where we bring all articles, online courses, meetup info into one place
+* Where do we put this? GitHub? Google doc?
+* People have different learning styles, good to have links from different people
+* (Resource sharing repo https://github.com/foundersandcoders/resource-sharing)
 
 
 ### Express vs Hapi
 
-Very difficult to find resources for Hapi e.g. postgres with Hapi, where postgres with Express is easier to find info on
-Both do the same, why not learn the one that has all the resources, larger community to support it
-Doesn’t seem to be a Hapi community
-Express seems really nice and clean
-We were never really given a good reason why we use Hapi, other than we’ll probably learn Express anyway so might as well learn Hapi
-If you’re new to development and there’s an agenda behind why we’re using something, we should be told
+* Very difficult to find resources for Hapi e.g. postgres with Hapi, where postgres with Express is easier to find info on
+* Both do the same, why not learn the one that has all the resources, larger community to support it
+* Doesn’t seem to be a Hapi community
+* Express seems really nice and clean
+* We were never really given a good reason why we use Hapi, other than we’ll probably learn Express anyway so might as well learn Hapi
+* If you’re new to development and there’s an agenda behind why we’re using something, we should be told
 We chose this as an organisation because of x, y and z
 
-If everyone thinks we should do Express, we should propose it as an alternative, then those in favour of Hapi will have to justify why we have to use it (in a consensus based system, members should vote on what we choose)
+* If everyone thinks we should do Express, we should propose it as an alternative, then those in favour of Hapi will have to justify why we have to use it (in a consensus based system, members should vote on what we choose)
 Dwyl repo says why hapi, not hapi vs express
 
-Who decides on curriculum? Consensus based decision from cohort and people in the space who are involved. We are the people building the curriculum so we should be involved in decisions.
+* Who decides on curriculum? Consensus based decision from cohort and people in the space who are involved. We are the people building the curriculum so we should be involved in decisions.
 
-We should come up with proposals and then bring them to another meeting to discuss?
-There needs to be a way for our community to develop the curriculum together, not just the previous cohort, so we can’t just make all the decisions on our own. People who actively participate, consistently, should make up the curriculum committee. Can’t just have cohorts make decisions, then the next cohort overturn it.
+* We should come up with proposals and then bring them to another meeting to discuss?
+* There needs to be a way for our community to develop the curriculum together, not just the previous cohort, so we can’t just make all the decisions on our own. People who actively participate, consistently, should make up the curriculum committee. Can’t just have cohorts make decisions, then the next cohort overturn it.
 
 ### ES6
-Mostly compatible everywhere now, so we should be taught / use it?
-Taught Babel as well so that we can compile back
-Should get too far away from fundamentals though
+* Mostly compatible everywhere now, so we should be taught / use it?
+* Taught Babel as well so that we can compile back
+* Shouldn't get too far away from fundamentals though
 
-Proposal to use ES6 as it’s mostly compatible everywhere and make sure that we also teach Babel so that we are covered for wherever things aren’t compatible
+* Proposal to use ES6 as it’s mostly compatible everywhere and make sure that we also teach Babel so that we are covered for wherever things aren’t compatible
