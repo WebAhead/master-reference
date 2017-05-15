@@ -12,6 +12,6 @@
  + Learn how to conduct user testing interviews
  + Learn how to quickly ideate to solve a problem
 
-### How to contrubute or create READMEs for other developers to learn new technologies.
+### How to contribute or create READMEs for other developers to learn new technologies.
 
 ### Consolidation of course material / Exposure to new technologies
