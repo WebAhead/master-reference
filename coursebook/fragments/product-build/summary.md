@@ -3,7 +3,6 @@
 ## Introduction
 
 These weeks are to be run in a way that emphasises peer-led learning.
-There are to be **no mentor** roles assigned.
 
 Students should be made aware **the week before** that the learning environment is going to change.
 Students will be expected to
