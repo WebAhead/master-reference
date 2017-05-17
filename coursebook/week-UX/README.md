@@ -6,7 +6,7 @@
 
 Go away and think about what you want to build within the scope of a 2 week build. If you want to pitch ideas then choose something you really know about - be the product owners / experts.
 
-When you pitch be prepared to talk about:
+When you pitch be prepared to talk about for 5-10 minutes:
 
 - the idea: what problem you are trying to solve.
 - who your target users are.
@@ -29,7 +29,7 @@ Taken from Google Ventures rules of the game:
 10.15 - 12.15 - IDEO Design Thinking Workshop
 12.15 - 13.00 - Talk: UX Basics / Design Sprints / Production Cycle
 -- LUNCH --
-14.00 - 17.00 - Project Pitches
+14.00 - 17.00 - Project Pitches (see Preparation)
 
 ### Day 2
 
@@ -53,9 +53,9 @@ Taken from Google Ventures rules of the game:
 
 ### Day 4
 
-10.00 - 13.00 - Google Ventures: Thursday (Build Prototype)
+10.00 - 13.00 - [Google Ventures: Thursday (Build Prototype)](./google-ventures-thursday.md)
 -- LUNCH --
-14.00 - 17.00 - Google Ventures: Thursday (Build Prototype)
+14.00 - 17.00 - [Google Ventures: Thursday (Build Prototype)](./google-ventures-thursday.md)
 
 ### Day 5
 

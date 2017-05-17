@@ -9,7 +9,7 @@ User research helps designers and development teams gain insight into the lives 
 
 Often, teams are tasked with designing solutions for individuals different to them. Stereotypes and biases can get in the way or cause them to be guided by wrongful notions about their audience. User research also helps them avoid these pitfalls, providing a clear picture of who they are designing for.
 
-So, how do you conduct user research? Different teams use different approaches and tools. With time, you’ll begin to refine existing research processes and might even create your own. In this Exercise, you will learn to conduct user research using a process Frog Design created, called the Research Learning Spiral.
+So, how do you conduct user research? Different teams use different approaches and tools. With time, you’ll begin to refine existing research processes and might even create your own. In this Exercise, you will learn to conduct user research using a process [Frog Design](https://www.frogdesign.com/) created, called the Research Learning Spiral.
 
 ### Research Learning Spiral
 
