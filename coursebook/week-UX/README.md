@@ -9,10 +9,11 @@
 * [Design Thinking Workshop](./design-thinking-workshop.md)
 * [Persona Interview Workshop](./persona-interview-workshop.md)
 * [Research Afternoon](./research-afternoon.md)
+* [Learning Outcomes](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/fragments/product-build/learning-outcomes.md)
 
 ### Day 1
 
-10.00 - 10.15 - Introduction to the week (learning outcomes)
+10.00 - 10.15 - [Introduction to the week (learning outcomes)](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/fragments/product-build/learning-outcomes.md)
 10.15 - 12.15 - [IDEO Design Thinking Workshop](./design-thinking-workshop.md)
 12.15 - 13.00 - Talk: UX Basics / Design Sprints / Production Cycle
 -- LUNCH --
