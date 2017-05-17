@@ -26,7 +26,7 @@ Taken from Google Ventures rules of the game:
 ### Day 1
 
 10.00 - 10.15 - Introduction to the week (learning outcomes)
-10.15 - 12.15 - IDEO Design Thinking Workshop
+10.15 - 12.15 - [IDEO Design Thinking Workshop](./design-thinking-workshop.md)
 12.15 - 13.00 - Talk: UX Basics / Design Sprints / Production Cycle
 -- LUNCH --
 14.00 - 17.00 - Project Pitches (see Preparation)
