@@ -38,8 +38,6 @@ Taken from Google Ventures rules of the game:
 -- LUNCH --
 14.00 - 17.00 - Google Ventures: Monday
 
-**[Persona Interview Workshop](./persona-interview-workshop.md) to be integrated**
-
 ### Day 3
 
 10.00 - 10.15 - Review notes from yesterday
