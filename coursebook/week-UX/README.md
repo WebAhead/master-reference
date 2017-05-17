@@ -1,5 +1,15 @@
 ## UX week
 
+### Menu
+
+* [Preparation for week](./preparation.md)
+* [Workshop Materials](./materials.md)
+* [Google Ventures: Monday](./google-ventures-monday.md)
+* [Google Ventures: Thursday](./google-ventures-thursday.md)
+* [Design Thinking Workshop](./design-thinking-workshop.md)
+* [Persona Interview Workshop](./persona-interview-workshop.md)
+* [Research Afternoon](./research-afternoon.md)
+
 ### Day 1
 
 10.00 - 10.15 - Introduction to the week (learning outcomes)
