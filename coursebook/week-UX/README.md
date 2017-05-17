@@ -36,7 +36,7 @@ Taken from Google Ventures rules of the game:
 10.00 - 12.15 - [Research Topics](./research-afternoon.md)
 12.15 - 13.00 - Research Presentations
 -- LUNCH --
-14.00 - 17.00 - Google Ventures: Monday
+14.00 - 17.00 - [Google Ventures: Monday](./google-ventures-monday.md)
 
 ### Day 3
 
