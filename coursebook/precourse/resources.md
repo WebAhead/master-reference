@@ -19,13 +19,13 @@ If you have any problems with the following material, feel free to reach out to 
 
 Learn Python The Hard Way has a great [Command Line Interface Crash Course](https://learnpythonthehardway.org/book/appendixa.html). Use this to become familiar with navigating around your computer without using a GUI.
 
-### Git & Github
+### Git & GitHub
 
-[Udacity's git & github course](https://www.udacity.com/course/how-to-use-git-and-github--ud775) is a brilliant set of videos. The course is quite long, so don't worry about completing the whole thing. We will go into more depth in week 1. For now, _just complete lesson 1 (Navigating A Commit History section)_.
+[Udacity's git & GitHub course](https://www.udacity.com/course/how-to-use-git-and-github--ud775) is a brilliant set of videos. The course is quite long, so don't worry about completing the whole thing. We will go into more depth in week 1. For now, _just complete lesson 1 (Navigating A Commit History section)_.
 
 ### Markdown
 
-No github repo is complete without proper documentation. Follow this [markdown tutorial](http://www.markdowntutorial.com/lesson/1/) to learn the syntax that you need to write a banging Readme!
+No GitHub repo is complete without proper documentation. Follow this [markdown tutorial](http://www.markdowntutorial.com/lesson/1/) to learn the syntax that you need to write a banging Readme!
 
 ### Semantic HMTL
 
@@ -67,8 +67,8 @@ This section includes condensed articles/videos that will be beneficial when tac
 
 ### Practical Project
 
-The main [objective](learning-outcomes.md) of your precourse material is to become comfortable with the topics in the material above. However, from our experience, you'll find working on a personal project _very_ useful to cement this knowledge. We recommend that you build (a calculator)[FCC Advanced Front End Development Projects](https://www.freecodecamp.com/challenges/build-a-javascript-calculator)], to apply some of what you've learnt in these resources. Make sure to host your project on github pages. Remember, no frameworks ;)
+The main [objective](learning-outcomes.md) of your precourse material is to become comfortable with the topics in the material above. However, from our experience, you'll find working on a personal project _very_ useful to cement this knowledge. We recommend that you build (a calculator)[FCC Advanced Front End Development Projects](https://www.freecodecamp.com/challenges/build-a-javascript-calculator)], to apply some of what you've learnt in these resources. Make sure to host your project on GitHub pages. Remember, no frameworks ;)
 
-Rather than using Codepen or JS Fiddle, you should do this directly with your text editor, terminal and browser. Start by creating your repo on Github and try to stick to the command line for adding, commiting and pushing your changes as you go. Don't forget to add some documentation ;)
+Rather than using Codepen or JS Fiddle, you should do this directly with your text editor, terminal and browser. Start by creating your repo on GitHub and try to stick to the command line for adding, commiting and pushing your changes as you go. Don't forget to add some documentation ;)
 
 Have fun, and don't hesitate to use your gitter channel! If anyone has already made a calculator and feels that they need a different challenge, please message one of us on there.
