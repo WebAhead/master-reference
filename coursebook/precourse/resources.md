@@ -1,4 +1,4 @@
-# Resources
+# Precourse Material
 
 1. [Command Line](#command-line)
 2. [Git & GitHub](#git-and-github)
@@ -6,7 +6,7 @@
 4. [Semantic HTML](#semantic-html)
 5. [CSS](#css)
 6. [DOM Manipulation](#dom-manipulation)
-7. [Calculator project](#calculator-project)
+7. [Practical project](#practical-project)
 
 Please do not forget that **we don't use frameworks at FAC** – ignore Bootstrap and JQuery, and make sure you work in vanilla HTML, CSS and JavaScript. No [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) either. Head over to our [house rules](../general/house-rules.md) to find out why.
 
@@ -15,19 +15,19 @@ You should also refrain from using ES6 syntax for now, as it is not yet supporte
 If you have any problems with the following material, feel free to reach out to us through your cohort's gitter channel!
 
 
-### Command Line
+## Command Line
 
 Learn Python The Hard Way has a great [Command Line Interface Crash Course](https://learnpythonthehardway.org/book/appendixa.html). Use this to become familiar with navigating around your computer without using a GUI.
 
-### Git & GitHub
+## Git & GitHub
 
 [Udacity's git & GitHub course](https://www.udacity.com/course/how-to-use-git-and-github--ud775) is a brilliant set of videos. The course is quite long, so don't worry about completing the whole thing. We will go into more depth in week 1. For now, _just complete lesson 1 (Navigating A Commit History section)_.
 
-### Markdown
+## Markdown
 
 No GitHub repo is complete without proper documentation. Follow this [markdown tutorial](http://www.markdowntutorial.com/lesson/1/) to learn the syntax that you need to write a banging Readme!
 
-### Semantic HMTL
+## Semantic HMTL
 
 [Here](https://www.youtube.com/watch?gl=GB&hl=en-GB&v=OGg8A2zfWKg) is a 6 minute youtube video to introduce you to the concept of the semantic web. You will be expected to write semantically during week 1, so brush up with the following:
 
@@ -35,8 +35,7 @@ Read [this article](https://www.smashingmagazine.com/2013/01/the-importance-of-s
 
 Head to [this article](https://codepen.io/mi-lee/post/an-overview-of-html5-semantics) for more specific examples of useful semantic tags.
 
-
-### CSS
+## CSS
 
 This section includes condensed articles/videos that will be beneficial when tackling CSS throughout the course;
 
@@ -45,30 +44,19 @@ This section includes condensed articles/videos that will be beneficial when tac
 3. [**CSS Specificity**](https://www.smashingmagazine.com/2007/07/css-specificity-things-you-should-know/) is an essential guide to understanding how CSS rules are applied and how CSS works in general.
 4. [**Rem/Em Units**](https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984) this is another essential guide to help you understand the differences between em and rem units and how to combine them effectively.
 
-### JavaScript
-
-1. [Understanding The Weird Parts: First 3.5 hours](https://www.youtube.com/watch?v=Bv_5Zv5c-Ts) will help build a deeper understanding of many of JavaScripts core concepts. Followed by...
-2. [What the heck is the event loop anyway](https://www.youtube.com/watch?v=8aGhZQkoFbQ) is a half-hour video that you may want to come back to repeatedly throughout the course. It gives a bit of an understanding about how everything fits together and a nice introduction to the concept of callbacks.
-
-## Recommended
-
-### DOM Manipulation
+## DOM Manipulation
 
 1. [Call Me Nick - DOM Manipulation Basics](http://callmenick.com/post/basics-javascript-dom-manipulation) will cover a lot of the basics.
 2. [Appspot's DOM Tutorials: Exercises 1,2 & 3 only](https://dom-tutorials.appspot.com/static/index.html) will help put that into practice.
 
-### Intro to HTTP & APIs
-
-[Learn APIS: First 3 chapters](https://zapier.com/learn/apis/) - 3 articles with interactive questions at the end to introduce HTTP theory.
-
-### Chrome Dev Tools
-
-[Free Code Camp: Chrome Developer Tools](https://www.freecodecamp.com/map) has about 30 minutes worth of video content with quizzes after each video.
-
-### Practical Project
+## Practical Project
 
 The main [objective](learning-outcomes.md) of your precourse material is to become comfortable with the topics in the material above. However, from our experience, you'll find working on a personal project _very_ useful to cement this knowledge. We recommend that you build (a calculator)[FCC Advanced Front End Development Projects](https://www.freecodecamp.com/challenges/build-a-javascript-calculator)], to apply some of what you've learnt in these resources. Make sure to host your project on GitHub pages. Remember, no frameworks ;)
 
 Rather than using Codepen or JS Fiddle, you should do this directly with your text editor, terminal and browser. Start by creating your repo on GitHub and try to stick to the command line for adding, commiting and pushing your changes as you go. Don't forget to add some documentation ;)
 
 Have fun, and don't hesitate to use your gitter channel! If anyone has already made a calculator and feels that they need a different challenge, please message one of us on there.
+
+# Fun optional extras
+
+We do not expect you to do more than what is listed above, but if you have any extra time and would like some more things to look at, here are a few [interesting resources](./optional-extras.md) that you could look at for fun.
