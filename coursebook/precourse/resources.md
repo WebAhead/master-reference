@@ -1,5 +1,7 @@
 # Precourse Material
 
+The purpose of the precourse material is to make sure everyone is familiar with the key concepts that we will be using throughout the course. The learning curve at FAC is steep, and a solid grounding in the fundamentals will help you immensely.
+
 1. [Command Line](#command-line)
 2. [Git & GitHub](#git-and-github)
 3. [Markdown](#markdown)
@@ -17,18 +19,35 @@ If you have any problems with the following material, feel free to reach out to 
 
 ## Command Line
 
-Learn Python The Hard Way has a great [Command Line Interface Crash Course](https://learnpythonthehardway.org/book/appendixa.html). Use this to become familiar with navigating around your computer without using a GUI.
+**Learning outcome:**  
++ Be familiar with navigating around your computer without using a GUI.
+
+**Resources:**  
+Learn Python The Hard Way has a great [Command Line Interface Crash Course](https://learnpythonthehardway.org/book/appendixa.html).
 
 ## Git & GitHub
 
+**Learning outcomes:**
++ Understand the purpose of using Git and GitHub  
++ Know basic git commands like git add, git commit and git push
+
+**Resources:**  
 [Udacity's git & GitHub course](https://www.udacity.com/course/how-to-use-git-and-github--ud775) is a brilliant set of videos. The course is quite long, so don't worry about completing the whole thing. We will go into more depth in week 1. For now, _just complete lesson 1 (Navigating A Commit History section)_.
 
 ## Markdown
 
+**Learning outcome:**  
++ Know markdown syntax well enough to create readmes
+
+**Resources:**  
 No GitHub repo is complete without proper documentation. Follow this [markdown tutorial](http://www.markdowntutorial.com/lesson/1/) to learn the syntax that you need to write a banging Readme!
 
 ## Semantic HMTL
 
+**Learning outcome:**  
++ Be familiar with new HTML5 elements.
+
+**Resources:**  
 [Here](https://www.youtube.com/watch?gl=GB&hl=en-GB&v=OGg8A2zfWKg) is a 6 minute youtube video to introduce you to the concept of the semantic web. You will be expected to write semantically during week 1, so brush up with the following:
 
 Read [this article](https://www.smashingmagazine.com/2013/01/the-importance-of-sections/#the-problem-with-div) to stop using too many divs (divitis). Don't be fooled by the scroll bar - the article isn't particularly long, but there are many comments below.
@@ -37,6 +56,12 @@ Head to [this article](https://codepen.io/mi-lee/post/an-overview-of-html5-seman
 
 ## CSS
 
+**Learning outcomes:**  
++ Be able to apply positioning and layout techniques to solve common problems  
++ Understanding basic CSS rules  
++ Understand the differences between em and rem units and how to combine them effectively  
+
+**Resources:**  
 This section includes condensed articles/videos that will be beneficial when tackling CSS throughout the course;
 
 1. [**Learn Layout**](http://learnlayout.com) is a helpful, lightweight, well-ordered guide that covers a lot of concepts in CSS to help you understand how to create a super basic layout. Additional links are provided in each section for more detailed explanations of concepts.
@@ -46,6 +71,11 @@ This section includes condensed articles/videos that will be beneficial when tac
 
 ## DOM Manipulation
 
+**Learning outcomes:**  
+- Understand what the DOM is
+- Create, access, and style a DOM element
+
+**Resourcs:**  
 1. [Call Me Nick - DOM Manipulation Basics](http://callmenick.com/post/basics-javascript-dom-manipulation) will cover a lot of the basics.
 2. [Appspot's DOM Tutorials: Exercises 1,2 & 3 only](https://dom-tutorials.appspot.com/static/index.html) will help put that into practice.
 
