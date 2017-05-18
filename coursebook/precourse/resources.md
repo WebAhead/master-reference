@@ -1,6 +1,12 @@
 # Resources
 
-F&C is an intense course, and you should make sure you're well-rested and ready to work when you get here. Below is a list of material that will help you to be prepared for the start of the course. The list might look a bit long, but each resource itself is quite short. Doing bitesized chunks little and often should make this manageable before the course begins. Your curriculum is designed with the assumption that you'll be familiar with the high priority resources by week one.
+1. [Command Line](#command-line)
+2. [Git & GitHub](#git-and-github)
+3. [Markdown](#markdown)
+4. [Semantic HTML](#semantic-html)
+5. [CSS](#css)
+6. [DOM Manipulation](#dom-manipulation)
+7. [Calculator project](#calculator-project)
 
 Please do not forget that **we don't use frameworks at FAC** – ignore Bootstrap and JQuery, and make sure you work in vanilla HTML, CSS and JavaScript. That means no [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) either. Head over to our [house rules](../general/house-rules.md) to find out why.
 
@@ -8,7 +14,6 @@ You should also refrain from using ES6 syntax for now, as it is not yet supporte
 
 If you have any problems with the following material, feel free to reach out to us through your cohort's gitter channel!
 
-## High priority
 
 ### Command Line
 
