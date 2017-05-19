@@ -1,11 +1,10 @@
 # Before you start the course
 
-+ [Precourse Material](#precourse-material)
-+ [Installation List](#installation-list)
+The purpose of our [precourse material](#precourse-material) is to make sure that everyone is familiar with the key concepts we will be using throughout the course. A solid grounding in the fundamentals will help you immensely. Please make sure you have finished the precourse material and installed the software on our [Installation List](#installation-list) before day 1 of your course.
+
+We will be having an installation party before the beginning of the course. But if you decide to do this by yourself and you run into difficulties, just get in touch.
 
 ## Precourse Material
-
-The purpose of the precourse material is to make sure everyone is familiar with the key concepts that we will be using throughout the course. A solid grounding in the fundamentals will help you immensely. Please make sure you have finished this before day 1 of your course.
 
 1. [Command Line](#command-line)
 2. [Git & GitHub](#git-and-github)
@@ -101,8 +100,6 @@ If anyone has already made a calculator and feels that they need a different cha
 We do not expect you to do more than what is listed above, but if you have any extra time and would like some more things to look at, here are a few [interesting resources](./optional-extras.md) that you could look at for fun.
 
 ## Installation List
-
-**We'll be having an installation party before the beginning of the course. If you decide to install solo and run into difficulties, just get in touch.**
 
 For OSX Users:
 
