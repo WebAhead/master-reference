@@ -14,7 +14,7 @@ We will be having an installation party shortly before you arrive. But if you ar
 6. [DOM Manipulation](#dom-manipulation)
 7. [Practical project](#practical-project)
 
-Please do not forget that **we don't use frameworks at FAC** – ignore Bootstrap and JQuery, and make sure you work in vanilla HTML, CSS and JavaScript. No [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) either. Head over to our [house rules](../general/house-rules.md) to find out why.
+Please do not forget that **we don't use frameworks at FAC** – ignore Bootstrap and JQuery, and make sure you work in vanilla HTML, CSS and JavaScript. Head over to our [house rules](../general/house-rules.md) to find out why.
 
 If you have any problems with the following material, feel free to reach out to us through your cohort's gitter channel!
 
