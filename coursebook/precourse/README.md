@@ -5,7 +5,7 @@
 
 ## Precourse Material
 
-The purpose of the precourse material is to make sure everyone is familiar with the key concepts that we will be using throughout the course. The learning curve at FAC is steep, and a solid grounding in the fundamentals will help you immensely.
+The purpose of the precourse material is to make sure everyone is familiar with the key concepts that we will be using throughout the course. A solid grounding in the fundamentals will help you immensely. Please make sure you have finished this before day 1 of your course.
 
 1. [Command Line](#command-line)
 2. [Git & GitHub](#git-and-github)
