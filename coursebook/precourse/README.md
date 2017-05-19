@@ -1,8 +1,8 @@
 # Before you start the course
 
-The purpose of our [precourse material](#precourse-material) is to make sure that everyone is familiar with the key concepts we will be using throughout the course. A solid grounding in the fundamentals will help you immensely. Please make sure you have finished the precourse material and installed the software on our [Installation List](#installation-list) before day 1 of your course.
+The purpose of our [precourse material](#precourse-material) is to make sure that everyone is familiar with the key concepts we will be using throughout your time here. A solid grounding in the fundamentals will help you immensely. Please make sure you have finished the precourse material and installed the software on our [Installation List](#installation-list) before day 1 of your course.
 
-We will be having an installation party before the beginning of the course. But if you decide to do this by yourself and you run into difficulties, just get in touch.
+We will be having an installation party shortly before you arrive. But if you are unable to attend, you can also do this by yourself. If you run into any difficulties, just get in touch.
 
 ## Precourse Material
 
