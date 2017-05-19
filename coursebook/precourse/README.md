@@ -17,8 +17,6 @@ The purpose of the precourse material is to make sure everyone is familiar with 
 
 Please do not forget that **we don't use frameworks at FAC** – ignore Bootstrap and JQuery, and make sure you work in vanilla HTML, CSS and JavaScript. No [flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) either. Head over to our [house rules](../general/house-rules.md) to find out why.
 
-You should also refrain from using ES6 syntax for now, as it is not yet supported across all browsers. (More on ES6 to come later on in the course.)
-
 If you have any problems with the following material, feel free to reach out to us through your cohort's gitter channel!
 
 
