@@ -123,7 +123,8 @@ Chromebook Users:
 
 For Everyone:
 
-- Install and manage Node.js using [nvm](https://github.com/creationix/nvm).
+- Install and manage Node.js using [nvm](https://github.com/creationix/nvm).  
+Note: We will be covering Node.js during the course. If you are curious and would like some background reading, [Art of Node](https://github.com/maxogden/art-of-node) is a great resource.
 - Install [Atom](https://atom.io/) - download the file or click "Build from source"
 - Install Chrome
 - [Setup SSH access to your Github account](https://help.github.com/articles/generating-an-ssh-key/)
