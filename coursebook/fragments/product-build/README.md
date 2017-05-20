@@ -2,7 +2,7 @@
 
 ## Menu
  - [Learning outcomes](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/fragments/product-build/learning-outcomes)
- - [Summary](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/fragments/product-build/summery.md)
+ - [Summary](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/fragments/product-build/summary.md)
 
 ## Timetable
 
