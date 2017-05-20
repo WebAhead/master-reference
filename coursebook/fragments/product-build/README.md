@@ -23,7 +23,9 @@ Product build
 
 -- Main portion --
 + Plan your script/questions in your team
-+ **Conduct user testing** - OUTSIDE THE SPACE  
++ **Conduct user testing**  
+  + OUTSIDE THE SPACE  
+  + [Bring people in](https://gist.github.com/njsfield/cad2904e0fa3a74b32fd5accbca50c2e)
 Aim to speak to 4-5 people
 
 **Afternoon**
