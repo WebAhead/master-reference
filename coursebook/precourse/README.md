@@ -44,7 +44,7 @@ _Learning outcome:_
 _Resources:_  
 + No GitHub repo is complete without proper documentation. Follow this [markdown tutorial](http://www.markdowntutorial.com/lesson/1/) to learn the syntax that you need to write a banging Readme!
 
-### Semantic HMTL
+### Semantic HTML
 
 _Learning outcome:_  
 + Be familiar with new HTML5 elements.
