@@ -21,18 +21,22 @@
 
 ### Day 2
 
-10.00 - 12.15 - [Research Topics](./research-afternoon.md)
-12.15 - 13.00 - Research Presentations
+10.00 - 12.15 - [Understanding Your Users](./persona-interview-workshop.md)
+12.15 - 13.00 - Introduction to User Testing
+- Why?
+- Qualitative vs Quantitative data
+- **Exercise:** Plan How - (Who When Where)
 -- LUNCH --
 14.00 - 17.00 - [Google Ventures: Monday](./google-ventures-monday.md)
 
 ### Day 3
 
-10.00 - 10.15 - Review notes from yesterday
-10.15 - 13.00 - Google Ventures: Tuesday (Ideation phase)
+10.00 - 12.00 - Best Practices Workshop
+- UX/UI
+- Usability and Accessibility
+12.00 - 13.00 - Google Ventures: Tuesday (Ideation phase)
 - crazy 8s
 - storyboarding
-- Decision time for your prototype
 -- LUNCH --
 14.00 - 17.00 - Google Ventures: Wednesday (Decision phase)
 - Collective storyboarding
