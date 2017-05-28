@@ -103,7 +103,7 @@ NoSQL database. Fast and scaleable in-memory key-value store. Used for session m
 #### Web-Sockets
 [Native API](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) | [Socket.io](https://socket.io/) | [ws](https://www.npmjs.com/package/ws)
 
-Allows servers to push data to clients, used for push notifaction, real-time colaboration, PWAs.
+Allows servers to push data to clients, used for push notifaction, real-time collaboration, PWAs.
 
 #### MongoDB
 [Site](https://www.mongodb.com/) | [Install](https://docs.mongodb.com/master/administration/install-community/) | [Node Client](https://www.npmjs.com/package/mongoose)
