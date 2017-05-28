@@ -5,7 +5,7 @@ This document will be in two parts. The first part will list technologies that y
 
 ## Contents
 * [Possible Technologies](#possible-technologies)
-  * [Client-side](client-side)
+  * [Client-side](#client-side)
     * [Tachyons](#tachyons)
     * [SASS](#sass)
     * [D3](#d3)
@@ -22,12 +22,12 @@ This document will be in two parts. The first part will list technologies that y
   * [Advanced JavaScript](#advanced-javascript)
     * [Webpack](#webpack)
     * [Babel](#babel)
-    * [Functional Programming with Ramda](#function-programming-with-ramda)
-    * [Async/Await](#async-await)
+    * [Functional Programming with Ramda](#functional-programming-with-ramda)
+    * [Async/Await](#asyncawait)
   * [Advised Tech Stacks](#advised-tech-stacks)
-    * [Hapi + Handlebars + PostgreSQL](#hapi-handlebars-postgresql)
-    * [Express + MongoDB + Handlebars](#express-mongodb-handlebars)
-    * [Hapi + PostgreSQL + React + Redux](#hapi-postgresql-react-redux)
+    * [Hapi + Handlebars + PostgreSQL](#hapi--handlebars--postgresql)
+    * [Express + MongoDB + Handlebars](#express--mongodb--handlebars)
+    * [Hapi + PostgreSQL + React + Redux](#hapi--postgresql--react--redux)
 
 ## Possible Technologies
 
