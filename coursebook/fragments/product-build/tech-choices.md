@@ -24,10 +24,10 @@ This document will be in two parts. The first part will list technologies that y
     * [Babel](#babel)
     * [Functional Programming with Ramda](#functional-programming-with-ramda)
     * [Async/Await](#asyncawait)
-  * [Advised Tech Stacks](#advised-tech-stacks)
-    * [Hapi + Handlebars + PostgreSQL](#hapi--handlebars--postgresql)
-    * [Express + MongoDB + Handlebars](#express--mongodb--handlebars)
-    * [Hapi + PostgreSQL + React + Redux](#hapi--postgresql--react--redux)
+* [Advised Tech Stacks](#advised-tech-stacks)
+  * [Hapi + Handlebars + PostgreSQL](#hapi--handlebars--postgresql)
+  * [Express + MongoDB + Handlebars](#express--mongodb--handlebars)
+  * [Hapi + PostgreSQL + React + Redux](#hapi--postgresql--react--redux)
 
 ## Possible Technologies
 
