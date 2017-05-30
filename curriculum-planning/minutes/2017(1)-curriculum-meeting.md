@@ -1,4 +1,4 @@
-# Minutes from Curriculum Meeting - 1st set of 2017 cohorts (30/05/17)
+# Minutes from 2017 (1) Curriculum Meeting (30/05/17)
 
 **Facilitator:** @bradreeder
 
@@ -37,7 +37,9 @@ Changes to each particular week are usually left to [the planning of that week](
 
 ---
 
-## Research afternoons [#261](https://github.com/foundersandcoders/master-reference/issues/261)  
+## Research afternoons
+[#261](https://github.com/foundersandcoders/master-reference/issues/261)
+
 **Status:** <Passed / blocked / not voted on>
 
 **Minutes:**
@@ -51,7 +53,9 @@ Changes to each particular week are usually left to [the planning of that week](
 
 ---
 
-## Lightning Talks from your Cohort [#254](https://github.com/foundersandcoders/master-reference/issues/254)  
+## Lightning Talks from your Cohort
+[#254](https://github.com/foundersandcoders/master-reference/issues/254)  
+
 **Status:**  
 
 **Minutes:**
@@ -65,7 +69,9 @@ Changes to each particular week are usually left to [the planning of that week](
 
 ---
 
-## Teach a lot more HTML/CSS [#258](https://github.com/foundersandcoders/master-reference/issues/258)  
+## Teach a lot more HTML/CSS
+[#258](https://github.com/foundersandcoders/master-reference/issues/258)  
+
 **Status:**  
 
 **Minutes:**
@@ -80,7 +86,9 @@ Changes to each particular week are usually left to [the planning of that week](
 
 ---
 
-## Hapi vs. Express [#251](https://github.com/foundersandcoders/master-reference/issues/251)  
+## Hapi vs. Express
+[#251](https://github.com/foundersandcoders/master-reference/issues/251)  
+
 **Status:**  
 
 **Minutes:**
@@ -94,7 +102,9 @@ Changes to each particular week are usually left to [the planning of that week](
 
 ---
 
-## Redistribute content of week 8 [#263](https://github.com/foundersandcoders/master-reference/issues/263)  
+## Redistribute content of week 8
+[#263](https://github.com/foundersandcoders/master-reference/issues/263)  
+
 **Status:**  
 
 **Minutes:**
@@ -108,7 +118,9 @@ Changes to each particular week are usually left to [the planning of that week](
 
 ---
 
-## React [#259](https://github.com/foundersandcoders/master-reference/issues/259)  
+## React
+[#259](https://github.com/foundersandcoders/master-reference/issues/259)  
+
 **Status:**  
 
 **Minutes:**
@@ -122,7 +134,9 @@ Changes to each particular week are usually left to [the planning of that week](
 
 ---
 
-## Front End Engineering Content [#264](https://github.com/foundersandcoders/master-reference/issues/264)  
+## Front End Engineering Content
+[#264](https://github.com/foundersandcoders/master-reference/issues/264)  
+
 **Status:**  
 
 **Minutes:**
@@ -132,4 +146,4 @@ Changes to each particular week are usually left to [the planning of that week](
 **Action point(s):**
 +
 +
-+
++ 
