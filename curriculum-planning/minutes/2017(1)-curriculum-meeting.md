@@ -118,8 +118,8 @@ Gone voting…
 PASSED.
 
 
-**Action point(s):** None
-
+**Action point(s):**
+* each set of mentors, when designing the overview of their week, to find space for a 1 hour HTML/CSS workshop
 
 ---
 
@@ -134,7 +134,7 @@ Eoin:  His patreon just doubled
 
 Zooey: Is there anyone who is willing to completely reformulate the course post-hapi? Everything relies on it after it’s introduced? Basically is anyone going to do this?
 
-Elias the Elder: If auth is in vanilla, reduces burden.
+Elias: If auth is in vanilla, reduces burden.
 
 Can do 1-week of hapi last.
 
@@ -180,7 +180,10 @@ PASSED
 
 
 
-**Action point(s):** None
+**Action point(s):**
+* Mentors for the new week 8 are to assess whether they think that writing this week from scratch is do-able in the timeframe.
+* Mentors are encouraged to ask for help from the alumni network
+* If mentors think it is too much of a stretch, revert to using hapi week 1 materials
 
 ---
 
