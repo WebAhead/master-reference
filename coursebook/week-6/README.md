@@ -12,15 +12,15 @@ Then go to [pgexercises](https://www.pgexercises.com/gettingstarted.html) and wo
 
 1pm - 2pm: lunchtime 😋
 
-2pm - 4.30pm: [workshop on SQL commands and psql](https://github.com/FAC9/postgres-workshop). We will go through this together and first and then work in pairs.
+2pm - 4.30pm: [workshop on SQL commands and psql](https://github.com/foundersandcoders/postgres-workshop). We will go through this together and first and then work in pairs.
 
 4.30pm - 6pm: biz dev and community outreach
 
 #### Day 2:
 
-10am - 11am: [intro to pg module](https://github.com/shiryz/pg-walkthrough)
+10am - 11am: [intro to pg module](https://github.com/foundersandcoders/pg-walkthrough)
 
-11am - 1pm: [workshop on making small node app with a database connection](https://github.com/shiryz/pg-workshop)
+11am - 1pm: [workshop on making small node app with a database connection](https://github.com/foundersandcoders/pg-workshop)
 
 1pm - 2pm: lunchtime 😋
 
@@ -30,7 +30,7 @@ Then go to [pgexercises](https://www.pgexercises.com/gettingstarted.html) and wo
 
 #### Day 3
 
-10am - 11am: [morning challenge](https://github.com/shiryz/db-morning-challenge)
+10am - 11am: [morning challenge](https://github.com/foundersandcoders/db-morning-challenge)
 
 11am onwards: projects
 

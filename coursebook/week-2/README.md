@@ -11,7 +11,7 @@
 ### Monday
 
 - 10:00 - 11:00 <br>
-[Intro to testing and QUnit](https://github.com/skibinska/learn-qunit) - [Fizz Buzz](https://github.com/skibinska/fizzbuzz)
+[Intro to testing and QUnit](https://github.com/foundersandcoders/learn-qunit) - [Fizz Buzz](https://github.com/foundersandcoders/fizzbuzz)
 
 - 11:00 - 13:00 <br>
 [DWYL Test Driven Development (TDD) workshop](https://github.com/dwyl/learn-tdd)
@@ -19,7 +19,7 @@
 — LUNCH —
 
 - 14:00 - 16:00 <br>
-Pair programming, ping pong [roman numeral challenge](https://github.com/skibinska/romanizer)
+Pair programming, ping pong [roman numeral challenge](https://github.com/foundersandcoders/romanizer)
 
 - 16:00 - 18:00 <br>
 Business development / community engagement

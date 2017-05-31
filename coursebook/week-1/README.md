@@ -23,12 +23,12 @@
 — LUNCH —
 - 14.00 - 14.50 — Introduction to [Pair Programming](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/pair-programming.md)
 - 14:50 - 15:00 — Toilet/Coffee Break
-- 15:00 - 16:00 — [Accessibility Workshop](https://github.com/jsms90/web-accessibility)
+- 15:00 - 16:00 — [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility)
 - 16.00 - 18.00 — Business Development / Community Outreach
 
 ## Day 2
-- 10:00 - 11:00 — Morning Challenge - [Accessibility challenge](https://github.com/njsfield/accessibility-challenge)
-- 11:00 - 12:45 — [Git workshop](https://github.com/jsms90/learn-git-basics)
+- 10:00 - 11:00 — Morning Challenge - [Accessibility challenge](https://github.com/foundersandcoders/accessibility-challenge)
+- 11:00 - 12:45 — [Git workshop](https://github.com/NataliaLKB/learn-git-basics)
 - 12:45 - 13:00 — Introduce [Research topics](./research-afternoon.md)
 
 — LUNCH —
@@ -37,7 +37,7 @@
 - 17:30 - 18:00 — Introduce [Project](./project.md)
 
 ## Day 3
-- 10.00 - 11.00 — [Morning Challenge - CSS Gallery Challenge](https://github.com/njsfield/css-gallery-challenge)
+- 10.00 - 11.00 — [Morning Challenge - CSS Gallery Challenge](https://github.com/foundersandcoders/css-gallery-challenge)
 - 11.00 - 13.00 — Projects
 
 — LUNCH —

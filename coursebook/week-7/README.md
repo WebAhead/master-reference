@@ -6,13 +6,13 @@
 
 - 10:00 - 10:15 - [Intro](./summary.md) to hapi.js and libraries / frameworks
 
-- 10:15 - 11:15 - Hapi Server & Inert [code-along](https://github.com/msachi/hapi-intro)
+- 10:15 - 11:15 - Hapi Server & Inert [code-along](https://github.com/foundersandcoders/hapi-intro)
 
 - 11:15 - 13:00 - [Make me hapi workshop](./makemehapi-guidelines.md)
 
 — LUNCH —
 
-- 14:00 - 16:00 - Hapi Vision & Handlebars [walk-through](https://github.com/marisid/handlebars-intro-workshop)
+- 14:00 - 16:00 - Hapi Vision & Handlebars [walk-through](https://github.com/foundersandcoders/handlebars-intro-workshop)
 
 - 16:00 - 18:00 - Business development
 
