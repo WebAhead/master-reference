@@ -13,9 +13,9 @@
 
 - 10.00 - 10.15 <br /> Introduction and learning outcomes with week-3 mentors  
 
-- 10.15 - 12.00 <br /> [Introductory workshop](https://github.com/lucymonie/api-workshop): API basics, HTTP, XHMLHttp requests, request-response pattern
+- 10.15 - 12.00 <br /> [Introductory workshop](https://github.com/foundersandcoders/api-workshop): API basics, HTTP, XHMLHttp requests, request-response pattern
 
-- 12.00 - 13.00 <br /> [XHR workshop](https://github.com/skibinska/xhr-workshop)
+- 12.00 - 13.00 <br /> [XHR workshop](https://github.com/foundersandcoders/xhr-workshop)
 
 -- LUNCHTIME 😋 --  
 
@@ -27,7 +27,7 @@
 #### DAY 2
 
 - 10.00 - 13.00 <br />
- @eliascodes's [workshop](https://github.com/eliascodes/workshop-client-side-design) on designing for the client (StackOverflow reputation builder)
+ @eliascodes's [workshop](https://github.com/foundersandcoders/workshop-client-side-design) on designing for the client (StackOverflow reputation builder)
 
 -- LUNCHTIME 😋 --  
 
@@ -37,7 +37,7 @@
 
 #### DAY 3
 
-- 10.00 - 11.00 <br /> ['parallel'](/coursebook/week-3/morning-challenge.md) morning challenge
+- 10.00 - 11.00 <br /> [Parallel function morning challenge (version given to FACN1)](/coursebook/week-3/morning-challenge.md) morning challenge | [Parallel function morning challenge (version given to FAC10)](https://github.com/emilyb7/parallel-challenge-github)
 
 - 11.00 - 13.00 <br /> Project Planning  
 

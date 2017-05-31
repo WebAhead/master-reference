@@ -6,17 +6,19 @@
 
 - 10:00 - 10:15 - Intro to Node week 2
 
-- 10:15 - 13:00 - [Workshop on TDD Node server using Shot and Tape](https://github.com/njsfield/tdd-node-server-with-shot-and-tape)
+- 10:15 - 13:00 - [Workshop on TDD Node server using Shot and Tape](https://github.com/foundersandcoders/tdd-node-server-with-shot-and-tape)
 
 — LUNCH —
 
-- 14:00 - 16:00 - [Workshop on error handling & testing for errors](https://github.com/njsfield/error-handling-workshop)
+- 14:00 - 16:00 - [Workshop on error handling & testing for errors](https://github.com/foundersandcoders/error-handling-workshop)
 
 - 16:00 - 18:00 - Business development
 
 #### Day 2
 
-- 10:00 - 12:45 - [Node shell workshop](https://github.com/msachi/Node-Shell-Workshop)
+- 10:00 - 12:45 - [Node shell workshop](https://github.com/msachi/Node-Shell-Workshop)  
+THIS VERSION SHOULD NOT BE ITERATED UPON. It is a copy of previously existing material from 2 other workshops.  
+This exists here so that you can look through the version as it was delivered to you. For iterations, please use the original.
 
 - 12:45 - 13:00 - Introduce [research topics](./research-afternoon.md)
 
