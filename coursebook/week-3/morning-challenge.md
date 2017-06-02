@@ -1,3 +1,7 @@
+**Author**: [@besarthoxhaj](https://github.com/besarthoxhaj)  
+
+**Maintainer**: TBC
+
 ## Morning challenge - day 3
 
 Complete the 'parallel' function. It should fire all the tasks at the same time, and invoke the final callback when they are all done.
