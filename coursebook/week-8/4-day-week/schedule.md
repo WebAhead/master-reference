@@ -18,7 +18,7 @@
 
 #### Day 2
 
-+ 10:00 - 11:00 - [hapi Authentication Morning challenge](https://github.com/FAC9/READMES/blob/master/hapi/authentication.md#authentication-example)
++ 10:00 - 11:00 - [hapi Authentication Morning challenge](https://github.com/foundersandcoders/hapi-authentication-workshop)
 
 + 11:00 - 12:45 - [JWT workshop](https://github.com/foundersandcoders/jwt_workshop)
 
