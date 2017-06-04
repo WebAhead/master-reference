@@ -8,9 +8,11 @@ The following people are available to review pull requests: [@bradreeder](https:
 
  1. Search this repo's [issues](https://www.github.com/foundersandcoders/master-reference/issues) to see if an issue exists for the problem you are solving.
  2. If the issue does not exist, create it.
- 3. Indicate on the issue that you would like to take it on. Ping one of the reviewers above if you need a response.
- 4. Once you are sure of what you need to do and that it is needed, assign yourself to the issue.
- 5. Clone, and create a new branch for your work
+ 3. If your new issue relates to any others, reference those issues in the body. This enables others to follow the history of the topic.
+ 4. If your new issue relates to a specific week of the course, assign the appropriate label.
+ 5. Indicate on the issue that you would like to take it on. Assign one of the reviewers above if you need a response.
+ 6. Once you are sure of what you need to do and that it is needed, assign yourself to the issue.
+ 7. Clone, and create a new branch for your work
 
 ## Commits
 
