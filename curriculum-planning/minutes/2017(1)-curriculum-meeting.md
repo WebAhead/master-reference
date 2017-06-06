@@ -2,17 +2,17 @@
 
 **Facilitator:** @bradreeder
 
-**Time Keeper:**  
+**Time Keeper:** @alexis-l8
 
-**Mood Monitor:**  
+**Mood Monitor:**
 
-**Record Keeper:**  
+**Record Keeper:** @eliascodes, @smarthutza, @ZooeyMiller
 
-**Vote Taker:**  
+**Vote Taker:** @Samatar26
 
-**Tech (hangouts):**  
+**Tech (hangouts):** @des-des
 
-**Tech (screencast & edit proposals):**
+**Tech (screencast & edit proposals):** @des-des
 
 ## Attendance and voting
 
@@ -148,7 +148,7 @@ Jen: Should we have this discussion now or after the auth week?
 
 Finn: Regardless of the other proposal, we’ll still have one framework week, so important to know what should go into that week.
 
-Zooey: The decision can stand, but the time horizon for actioning it might not be in 
+Zooey: The decision can stand, but the time horizon for actioning it might not be in
 
 Olli: What are the reasons for Hapi?
 
@@ -231,4 +231,4 @@ PASSED
 **Action point(s):**
 +
 +
-+ 
++
