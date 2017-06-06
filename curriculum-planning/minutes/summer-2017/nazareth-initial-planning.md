@@ -1,4 +1,4 @@
-## Nazareth - Summer Cohort Curriculum Planning
+## Nazareth - Summer Cohort Curriculum Planning 2017
 
 + installation party 2-3 days before the course starts
 + more time for workshops
