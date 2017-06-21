@@ -46,7 +46,7 @@ As a member of or visitor to Founders & Coders...
 * I can add a rating/review of an existing place
 
 Suggested additional requirements / stretch goals:
-* Multiple locations (e.g. Bethnal Green and Nazareth!)
+* Multiple locations
 * Show the location with Google Maps
 
 #### Founders & Coders events calendar
