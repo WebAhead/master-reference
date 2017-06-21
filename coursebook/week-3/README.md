@@ -5,7 +5,7 @@
 * [Learning outcomes](/coursebook/week-3/learning-outcomes.md)
 * [Projects](/coursebook/week-3/project.md)
 * [Resources](/coursebook/week-3/resources.md)
-* stop-go-continue [London](https://github.com/foundersandcoders/london-curriculum/blob/master/stop-go-continue/fac-10/week-3.md)  [Nazareth](https://github.com/foundersandcoders/nazareth-curriculum/tree/master/stop-go-continue/fac-n1)
+* Stop-Go-Continue: [London](https://github.com/foundersandcoders/london-curriculum/blob/master/stop-go-continue/fac-10/week-3.md), [Nazareth](https://github.com/foundersandcoders/nazareth-curriculum/tree/master/stop-go-continue/fac-n1), [Gaza](https://github.com/foundersandcoders/gaza-curriculum/tree/master/_stop-go-continue)
 
 ### Schedule
 
