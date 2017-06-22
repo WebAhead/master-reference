@@ -4,7 +4,7 @@
 
 A master reference for the running of [Founders &amp; Coders](http://www.foundersandcoders.org), including the curriculum.
 
-**All pull requests welcome** Checkout our [contribution guidelines](https://github.com/foundersandcoders/master-reference/blob/master/CONTRIBUTING.md).
+**All pull requests welcome**. Checkout our [contribution guidelines](https://github.com/foundersandcoders/master-reference/blob/master/CONTRIBUTING.md).
 
 ## Curriculum
 
