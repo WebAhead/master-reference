@@ -1,21 +1,22 @@
 ## Research topics
 
-### Unit vs Integration testing (4 people)
+### Unit vs integration testing
 - What are the differences
 - What are the pros and cons
 - Create an example of each
 
-### Technical Spikes (4 people)
-- What is it?
-- Why is it helpful?
-- Create an example using your project from last week where a Technical Spike would have been useful.
+### Technical spikes
+- What are they?
+- Why are they helpful?
+- Create an example using your project from last week where a technical spike would have been useful.
 
-### QUnit Assertions (4 people)
-- Research assertions other than `equal()` and provide examples.
-- Research `async()` and create an example of where we can use this to test a function asynchronously.
+### Async testing with Tape
+- Research how to test asynchronous callbacks.
+- Write an asynchronous function and then test it with Tape.
 
 
-### BlanketJS (4 people)
-- What is it?
-- Why is it helpful?
+### Istanbul
+- What is test coverage?
+- What is Istanbul?
+- Why is test coverage helpful?
 - Provide an example of it in use.
