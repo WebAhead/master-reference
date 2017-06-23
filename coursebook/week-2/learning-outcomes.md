@@ -6,11 +6,10 @@ This week you are going to learn about testing practices, methodologies and tech
 
 - What is testing?
 - Why do we do it?
-- Unit & integration tests
-- What is TDD?
-- Red Green Refactor cycle
+- Understand the difference between unit & integration tests
+- What is Test-driven Development?
+- How the Red Green Refactor cycle works
 - How to set up and use npm and Tape
 - The importance of pure functions in testing
 - What callbacks are and how to use them
-- Ping pong coding
-- How to test synchronously & asynchronously
+- How to ping pong code in pairs
