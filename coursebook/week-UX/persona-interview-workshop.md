@@ -9,7 +9,7 @@ User research helps designers and development teams gain insight into the lives 
 
 Often, teams are tasked with designing solutions for individuals different to them. Stereotypes and biases can get in the way or cause them to be guided by wrongful notions about their audience. User research also helps them avoid these pitfalls, providing a clear picture of who they are designing for.
 
-So, how do you conduct user research? Different teams use different approaches and tools. With time, you’ll begin to refine existing research processes and might even create your own. In this Exercise, you will learn to conduct user research using a process [Frog Design](https://www.frogdesign.com/) created, called the Research Learning Spiral.
+So, how do you conduct user research? Different teams use different approaches and tools. With time, you’ll begin to refine existing research processes and might even create your own. In this Exercise, you will learn to conduct user research using a process called the Research Learning Spiral, created by [Frog Design.](https://www.frogdesign.com/)
 
 ### Research Learning Spiral
 
@@ -21,19 +21,18 @@ The Research Learning Spiral (RLS) is a five-step process that will help you gat
 4. Conduct - Executing Your Plan
 5. Synthesize - Making Sense of Everything
 
-For more information about Frog’s RLS, check out this article: https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/
+For more information about Frog’s RLS, check out the [5 step process for conducting user research](https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/).
 
 ----------
 
 ### Personas
 
 Often as part of the UX research process, design teams build a set of imaginary users which are called - Personas.
-Personas are representations of clusters of users with similar needs, goals, and behaviors. While a user persona is generally depicted as a single individual, this persona represents a group.
+Personas are representations of clusters of users with similar needs, goals, and behaviors. Although a user persona is depicted as a single individual, the persona represents a group.
 
 Good personas help communicate and synthesize user research findings. They are realistic and paint a clear picture of a user’s goals, needs, and behaviors. They don’t need to be complicated or long. In fact, succinct, relaxed stories tend to be more effective.
 
-Check out this short blog post about ‘Personas’ from mailchimp’s UX research team:
-https://blog.mailchimp.com/new-mailchimp-user-persona-research/
+Check out this [short blog post](https://blog.mailchimp.com/new-mailchimp-user-persona-research/) about ‘Personas’ from mailchimp’s UX research team:
 
 ----------
 
@@ -95,7 +94,7 @@ Start by answering the “5W + H” (Who, What, When, Where, Why and How) questi
 -  
 
 ———————————————————————————————————————
-#### Why is your persona choosing to use what you’ve designed and what drives this behaviour?
+#### Why is your persona choosing to use what you’ve designed and what drives this behavior?
 
 -  
 -  
@@ -129,7 +128,7 @@ In a few bullet points- by building this app, what are you looking to prove?
 
 #### Step 3 - Methods
 
-Now that you went through the first two stages of the RLS, write the imaginary interview for your persona.
+Now that you have gone through the first two stages of the RLS, write the imaginary interview for your persona.
 
 Divide your interview into three stages, each stage leading to a deeper and more tailored understanding of your persona and their possible use of your app:
 
@@ -150,24 +149,24 @@ Be sure to write down the details about your Persona. Create a profile which inc
 - Any interests they are willing to share (maybe they play tennis?)
 
 Check out these great short articles about conducting user interviews:
-https://medium.com/interactive-mind/5-steps-to-create-good-user-interview-questions-by-metacole-a-comprehensive-guide-8a591b0e2162
 
-http://theuxreview.co.uk/user-interviews-the-beginners-guide/
+* [5 steps to creating good user interview questions](https://medium.com/interactive-mind/5-steps-to-create-good-user-interview-questions-by-metacole-a-comprehensive-guide-8a591b0e2162)
+* [User interviews - the beginner's guide](http://theuxreview.co.uk/user-interviews-the-beginners-guide/)
 
 ----------
 ### Conduct
 
-Now its time to take your plan into action!
+Now its time to turn your plan into action!
 
-After you have written your interview, try to ‘step into the shoes’ of your imaginary user and answer those questions as if you were them!
+After you have written your interview, try to step into the shoes of your imaginary user and answer those questions as if you were them!
 
-Try to think and impersonate that ‘Persona’, which is basically one archetypical imaginary user of your app. Remember - While a user persona is generally depicted as a single individual, this persona represents a group.
+Try to think and impersonate that ‘Persona’, which is basically one archetypical imaginary user of your app. Remember - while a user persona is generally depicted as a single individual, this persona represents a group.
 
 ----------
 
 ### Synthesis
 
-This is the time and place to make sense of it all. Write in a few bullets points what are possible insights you might have gained. Go back to your Hypothesis - could you say that it is still true? or perhaps by going through the RLS, you find out some surprising facts…
+This is the time and place to make sense of it all. Write in a few bullets points what are possible insights you might have gained. Go back to your Hypothesis - could you say that it is still true? Or perhaps by going through the RLS, you may find out some surprising facts…
 
 “From the interview I conducted with my Persona, I came across a few interesting findings….”
 
