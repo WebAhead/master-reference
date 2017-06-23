@@ -15,7 +15,7 @@
 **Tech (screencast & edit proposals):** @des-des
 
 ## Attendance and voting
-
+TBD
 
 ---
 
@@ -33,12 +33,14 @@ Changes to each particular week are usually left to [the planning of that week](
 4. [Hapi vs. Express](#hapi-vs-express)
 5. [Redistribute content of week 8](#redistribute-content-of-week-8)
 6. [React](#react)
-7. [Front End Engineering Content](#front-end-engineering-content)
+7. [Bundling Workshop](#front-end-engineering-content)
 
 ---
 
 ## Research afternoons
 [#261](https://github.com/foundersandcoders/master-reference/issues/261)
+
+**Record Keeper:** @ZooeyMiller
 
 **Status:** blocked
 
@@ -84,6 +86,8 @@ conversation diverged to process
 ## Lightning Talks from your Cohort
 [#254](https://github.com/foundersandcoders/master-reference/issues/254)  
 
+**Record Keeper:** @ZooeyMiller
+
 **Status:**  was not taken to vote
 
 **Minutes:**
@@ -110,6 +114,8 @@ time is tight and we have decided not to vote on this.
 
 ## Teach a lot more HTML/CSS
 [#258](https://github.com/foundersandcoders/master-reference/issues/258)  
+
+**Record Keeper:** @eliascodes
 
 **Status:**  PASSED.
 
@@ -165,6 +171,8 @@ PASSED.
 ## Hapi vs. Express
 [#251](https://github.com/foundersandcoders/master-reference/issues/251)  
 
+**Record Keeper:** @eliascodes
+
 **Status:** PASSED
 
 **Minutes:**
@@ -187,7 +195,7 @@ Jen: Should we have this discussion now or after the auth week?
 
 Finn: Regardless of the other proposal, we’ll still have one framework week, so important to know what should go into that week.
 
-Zooey: The decision can stand, but the time horizon for actioning it might not be in
+Zooey: The decision can stand, but the time horizon for actioning it might not be in the next cohort.
 
 Olli: What are the reasons for Hapi?
 
@@ -227,34 +235,36 @@ PASSED
 ---
 
 ## Redistribute content of week 8
-
 [#263](https://github.com/foundersandcoders/master-reference/issues/263)
+
+**Record Keeper:** @eliascodes
 
 **Status:** Passed
 
 **Minutes:**
 
-Owen can help with developing authentication workshops.
+Eoin can help with developing authentication workshops.
 
 Ronan would also support a vanilla Node authentication workshop.
 
 Setting up a cookie in vanilla Node would make students have a better understanding of how it all works; hapi-auth-cookie makes everything seem too abstract
 
-Week 5: server side validation
-Week 6: stays the same
-Week 7: authentication
-Week 8: server side frame framework and templating
+Week 5: server side validation  
+Week 6: stays the same  
+Week 7: authentication  
+Week 8: server side frame framework and templating  
 
 **Action point(s):**
 
-+ Authentication week resources to be developed by FAC10 (with the support of alumni)
++ Authentication week resources to be developed by alumni (with the support of FAC10)
 + Server side validation workshop for week 5 to be developed by FAC10.
 
 ---
 
 ## React
-
 [#259](https://github.com/foundersandcoders/master-reference/issues/259)
+
+**Record Keeper:** @smarthutza
 
 **Status:** Not taken to vote
 
@@ -269,23 +279,24 @@ An optional workshop is a bad idea. Whoever wants to learn React should use the 
 Perhaps a design pattern workshop would be better if we make the IP Cortex workshop much shorter.
 
 Action point(s):
-+ Dwyl workshop about Elm architecture should be moved into week 10
++ Dwyl workshop about Elm architecture in JS should be moved into week 10
 + FAC10 should focus on developing the existing week 1-8 curriculum
 + We form a working group and we sit down and find a solution  
 
 ---
 
 ## Bundling Workshop
-
 [#276](https://github.com/foundersandcoders/master-reference/issues/276)
+
+**Record Keeper:** @smarthutza
 
 **Status:** Passed
 
-Minutes:
+**Minutes:**
 
 Everybody agrees that our course wasn’t very front end oriented. Everybody agrees that the curriculum should contain more front end workshops/morning challenges.
 
 Action point(s):
 
-+ Ronan will create a half a day workshop: https://github.com/foundersandcoders/master-reference/issues/276
++ Ronan will create a half a day workshop
 + We will discuss where exactly to insert it, perhaps in week 10.
