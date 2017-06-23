@@ -2,14 +2,10 @@
 
 ### Menu
 
-* [Preparation for week](./preparation.md)
-* [Workshop Materials](./materials.md)
-* [Google Ventures: Monday](./google-ventures-monday.md)
-* [Google Ventures: Thursday](./google-ventures-thursday.md)
-* [Design Thinking Workshop](./design-thinking-workshop.md)
-* [Persona Interview Workshop](./persona-interview-workshop.md)
-* [Research Afternoon](./research-afternoon.md)
 * [Learning Outcomes](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/fragments/product-build/learning-outcomes.md)
+* [Pitch Preparation](./preparation.md)
+* [Materials](./materials.md)
+* [Research Afternoon](./research-afternoon.md)
 
 ### Day 1
 
