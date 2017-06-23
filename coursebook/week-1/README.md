@@ -5,7 +5,8 @@
 - [Research topics](./research-afternoon.md)
 - [Project](./project.md)
 - [Resources](./resources.md)
-- Stop Go Continue: [London](https://github.com/foundersandcoders/london-curriculum/tree/master/stop-go-continue), [Nazareth](https://github.com/foundersandcoders/nazareth-curriculum/tree/master/stop-go-continue)
+- Stop Go Continue: [London](https://github.com/foundersandcoders/london-curriculum/tree/master/stop-go-continue), [Nazareth](https://github.com/foundersandcoders/nazareth-curriculum/tree/master/stop-go-continue),
+[Gaza](https://github.com/foundersandcoders/gaza-curriculum/tree/master/_stop-go-continue)
 
 
 ## Day 1
@@ -17,8 +18,10 @@
     - [House rules](../general/house-rules.md)
     - [Becoming a mentor](../general/tips-for-mentoring.md) - [contributing to the `master reference`](https://github.com/foundersandcoders/master-reference/blob/master/CONTRIBUTING.md)
     - [Future membership to Founders and Coders](https://github.com/foundersandcoders/london-programme/blob/master/membership.md)
-    - Campus-specific information - [London](https://github.com/foundersandcoders/london-curriculum), [Nazareth](https://github.com/foundersandcoders/nazareth-curriculum)
-    - Structure of Github organisation & repositories - [London](https://github.com/FAC10), [Nazareth](https://github.com/FACN1) (1 mentor & Course Coordinator)
+    - Campus-specific information - [London](https://github.com/foundersandcoders/london-curriculum), [Nazareth](https://github.com/foundersandcoders/nazareth-curriculum),
+    [Gaza](https://github.com/foundersandcoders/gaza-curriculum/)
+    - Structure of Github organisation & repositories - [London](https://github.com/FAC10), [Nazareth](https://github.com/FACN1) (1 mentor & Course Coordinator),
+    [Gaza]()
 
 — LUNCH —
 - 14.00 - 14.50 — Introduction to [Pair Programming](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/pair-programming.md)

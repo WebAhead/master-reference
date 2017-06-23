@@ -50,7 +50,7 @@ As a **client with JavaScript disabled in their browser for security reasons**
 
 ## Build Process (Wednesday-Thursday)
 
-Your team needs to set up a new repository under the relevant Github organisation - [London: `FAC10`](https://github.com/FAC10) and [Nazareth: `FAC1-Nazareth`](https://github.com/FAC1-Nazareth), and work together over the next few days to commit changes to this repository.
+Your team needs to set up a new repository under your cohorts Github organisation and work together over the next few days to commit changes to this repository.
 
 Your repo should contain a README file with these three points -
 - WHY (describing the purpose)
@@ -59,7 +59,7 @@ Your repo should contain a README file with these three points -
 
 You may also add more ambitious features in the README which describes **stretch goals**. Feel free to add the user stories from this project guide into your README too.
 
-When working together, groups should split into pairs to complete project tasks, making sure they are constantly communicating with each other. __Please note that although in the [git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two) you were instructed to work in pairs and merge eachother's pull requests, as you're working in teams of four now, you will be merging the other pair's pull requests!__
+When working together, groups should split into pairs to complete project tasks, making sure they are constantly communicating with each other. __Please note that although in the [git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two) you were instructed to work in pairs and merge each other's pull requests, as you're working in teams of four now, you will be merging the other pair's pull requests!__
 
 However you decide to individualise your site is up to you, but aim to satisfy the user stories.
 
@@ -79,9 +79,8 @@ Your blog should have profiles of each of your group members and each profile sh
 - Ensure your site is accessible. We will be checking your site for it's accessibility coverage by using [a variety of accessibility tools](https://github.com/jsms90/web-accessibility#tools-that-can-help).
 
 
-**Note: You should stop working on your profile after 6PM thursday.**
+**Note: You should stop working on your profile after 6PM thursday. This prevents someone from writing code which the other members of the team might not have seen before you present your project and allows everybody to be on the same wavelength.**
 
-**WORKING ON YOUR SITE FROM HOME AFTER 6PM THURSDAY BAD, DON'T DO IT**
 
 **On Friday morning, you'll be swapping code with another team and raising issues on their code, before resolving issues that you have received.**
 
