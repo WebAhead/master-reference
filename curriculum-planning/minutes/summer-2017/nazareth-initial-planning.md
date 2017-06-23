@@ -20,32 +20,32 @@ week 1
   + Git workshop should code along
   + Git workshop should have been done on students project
   + Glossary of terms and commands for git
-  + Replace ACC WS with CSS WSS(FB, MQ)
-  + Combine ACC WS with MC
+  + Replace accessibility workshop with CSS workshop (flexbox, media queries)
+  + Combine accessibility workshop with morning challenge
 
 Esraa note: I dont think TDD is that simple as introduced in the second week.
 Lubs: Easy to understand the concept, hard to implement it
 week 2
-  + It will be helpful to introduce TDD with real project(Code along)
-  + introduction to better layout practices/structure/design pattern(Elias workshop from week3 can be helpful here, Naz cohort didnt do it fully)
+  + It will be helpful to introduce TDD with real project (Code along)
+  + introduction to better layout practices/structure/design pattern (Elias workshop from week3 can be helpful here, Naz cohort didn't do it fully)
   + was not easy to understand the skeleton code
 
 week 3
-  + Parallel functions MC was good
-  + Elias WS should  be in week 2**
+  + Parallel functions morning challenge was good
+  + Elias workshop should be in week 2
 
 week 4
-  + Node Girls workshop was really good(if you finish it...give more time)
-  + Tape-testing workshop isnot helpful because its copy-paste
+  + Node Girls workshop was really good (if you finish it...give more time)
+  + Tape-testing workshop is not helpful because its copy-paste
   + Make sure everyone understand what is NPM
   + Make sure everyone understand node core packages exist
-  + Modularise a Node.js server MC +1
+  + Modularise a Node.js server morning challenge +1
 
 week 5
   + Shot and Tape workshop can be in week 4
-  + Error handling workshop required alot direction from mentors
-  + Node Shell workshop was good and provided useful info for some     students but its not clear why we teach it
-  + MC- build request module +1
+  + Error handling workshop required a lot of direction from mentors
+  + Node Shell workshop was good and provided useful info for some students but its not clear why we teach it
+  + Morning challenge - build request module +1
   + The project was smiliar to previous weeks
 
 weeks 5 & 4 GN
@@ -53,9 +53,9 @@ weeks 5 & 4 GN
   + more general introduction to node
 
 week 6
-  + what is postgreSQL ?
-  + why postgreSQL ?
-  + installtion should be moved before day 1
+  + what is postgreSQL?
+  + why postgreSQL?
+  + installation should be moved before day 1
   + production db and dev db
   + config.env is not covered
 
@@ -64,8 +64,8 @@ GN about backend FWs
 
 week 7
   + make me hapi +1
-  + Testing in hapi & server.inject workshop**(FACN1 didnt finish the workshop becuase they didnt feel its the time for it)
-  + more HBS
+  + Testing in hapi & server.inject workshop (FACN1 didnt finish the workshop becuase they didnt feel its the time for it)
+  + more handlebars
 
 week 8
   + more basic intro to auth
