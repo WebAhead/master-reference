@@ -15,7 +15,7 @@
 **Tech (screencast & edit proposals):** @des-des
 
 ## Attendance and voting
-TBD
+[Voting](https://docs.google.com/spreadsheets/d/1_pqo-2Gzzba16rJYretpgZpgUx1GgkEv2-s4NqhzgHo/edit#gid=2014897855)
 
 ---
 
