@@ -10,7 +10,7 @@ The teams stay together for the following weeks:
 Your mentors will let you know which teams you will be in at the beginning of weeks: 1, 4 & 7. Have a chat with your team when it first forms, and come up with a team name.
 
 ## Creating repositories for each project
-Inside your GitHub organisation - [London](https://github.com/FAC10), [Nazareth](https://github.com/FACN1) - you will see three repositories that have been created for you:
+Inside your GitHub organisation you will see three repositories that have been created for you:
 + `prerequisites-gh-pages`
 + `research`
 + `morning-challenge-solutions`

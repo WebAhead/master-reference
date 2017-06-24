@@ -62,7 +62,7 @@
 
 — LUNCH —
 
-- 14:00 - 15:00 - [Group stop-go-continue](https://github.com/foundersandcoders/london-curriculum/tree/master/stop-go-continue) (Course Coordinator, current week mentors, week 2 mentors)
+- 14:00 - 15:00 - Group Stop-Go-Continue: [London](https://github.com/foundersandcoders/london-curriculum/tree/master/stop-go-continue), [Nazareth](https://github.com/foundersandcoders/nazareth-curriculum/tree/master/stop-go-continue), [Gaza](https://github.com/foundersandcoders/gaza-curriculum/tree/master/_stop-go-continue) (Course Coordinator, current week mentors, week 2 mentors)
 
 - 15:00 - 16:20 - Presentations (1+ current week mentors, 1+ week 2 mentors)
 
