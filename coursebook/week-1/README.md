@@ -9,19 +9,15 @@
 
 
 ## Day 1
-- 10.00 - 11.00 — Introduction & Name game  
-(As many members of Founders and Coders as possible! Directors, Course Coordinator, previous cohort & other alumni)
-- 11.00 - 11.30 — [Welcome talk](https://github.com/foundersandcoders/master-reference/blob/master/about.md) (Directors)
-- 11.30 - 13.00 — Course overview (1 mentor & Course Coordinator)
-    - [Code of Conduct](https://github.com/foundersandcoders/master-reference/blob/master/code_of_conduct.md)
-    - [House rules](../general/house-rules.md)
-    - [Becoming a mentor](../general/tips-for-mentoring.md) - [contributing to the `master reference`](https://github.com/foundersandcoders/master-reference/blob/master/CONTRIBUTING.md)
-    - [Future membership to Founders and Coders](https://github.com/foundersandcoders/london-programme/blob/master/membership.md)
-    - Campus-specific information - [London](https://github.com/foundersandcoders/london-curriculum), [Nazareth](https://github.com/foundersandcoders/nazareth-curriculum)
-    - Structure of Github organisation & repositories - [London](https://github.com/FAC10), [Nazareth](https://github.com/FACN1) (1 mentor & Course Coordinator)
-
+- 10.00 - 10.30 — [Welcome talk](https://github.com/foundersandcoders/master-reference/blob/master/about.md) (Directors)
+- 10:30 - 11:30 — Name game with as many members of Founders and Coders as possible!
+- 11:30 - 11:40 - Toilet/Coffee Break
+- 11:40 - 12:10 - Talk on consensus
+- 12:10 - 13.00 — Introduction to [Pair Programming](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/pair-programming.md)
 — LUNCH —
-- 14.00 - 14.50 — Introduction to [Pair Programming](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/pair-programming.md)
+- 14:00 - 14:50 — Course overview (1 mentor & Course Coordinator)
+  - [Code of Conduct](https://github.com/foundersandcoders/master-reference/blob/master/code_of_conduct.md)
+  - [House rules](../general/house-rules.md)
 - 14:50 - 15:00 — Toilet/Coffee Break
 - 15:00 - 16:00 — [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility)
 - 16.00 - 18.00 — Business Development / Community Outreach
