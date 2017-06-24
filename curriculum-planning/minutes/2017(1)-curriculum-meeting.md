@@ -33,7 +33,7 @@ Changes to each particular week are usually left to [the planning of that week](
 4. [Hapi vs. Express](#hapi-vs-express)
 5. [Redistribute content of week 8](#redistribute-content-of-week-8)
 6. [React](#react)
-7. [Bundling Workshop](#front-end-engineering-content)
+7. [Bundling Workshop](#bundling-workshop)
 
 ---
 
