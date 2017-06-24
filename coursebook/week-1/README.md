@@ -5,7 +5,7 @@
 - [Research topics](./research-afternoon.md)
 - [Project](./project.md)
 - [Resources](./resources.md)
-- Stop Go Continue: [London](https://github.com/foundersandcoders/london-curriculum/tree/master/stop-go-continue), [Nazareth](https://github.com/foundersandcoders/nazareth-curriculum/tree/master/stop-go-continue)
+
 
 
 ## Day 1
@@ -14,7 +14,9 @@
 - 11:30 - 11:40 - Toilet/Coffee Break
 - 11:40 - 12:10 - Talk on consensus
 - 12:10 - 13.00 — Introduction to [Pair Programming](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/pair-programming.md)
+
 — LUNCH —
+
 - 14:00 - 14:50 — Course overview (1 mentor & Course Coordinator)
   - [Code of Conduct](https://github.com/foundersandcoders/master-reference/blob/master/code_of_conduct.md)
   - [House rules](../general/house-rules.md)
@@ -52,7 +54,7 @@
 - 12.45 - 13.00 — Plan presentations
 
 — LUNCH —
-- 14.00 - 15.00 — [Group stop-go-continue](https://github.com/foundersandcoders/london-curriculum/tree/master/stop-go-continue) (Course Coordinator, current week mentors, week 2 mentors)
+- 14.00 - 15.00 — Group stop-go-continue (Course Coordinator, current week mentors, week 2 mentors)
 - 15.00 - 16.20 — Presentations (1+ current week mentors, 1+ week 2 mentors)
 - 16.20 - 17.00 — Team stop-go-continue (Course Coordinator)
 - 17.00 - 18.00 — Project Demo from alumni / External speaker
