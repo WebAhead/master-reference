@@ -20,8 +20,7 @@
     - [Future membership to Founders and Coders](https://github.com/foundersandcoders/london-programme/blob/master/membership.md)
     - Campus-specific information - [London](https://github.com/foundersandcoders/london-curriculum), [Nazareth](https://github.com/foundersandcoders/nazareth-curriculum),
     [Gaza](https://github.com/foundersandcoders/gaza-curriculum/)
-    - Structure of Github organisation & repositories - [London](https://github.com/FAC10), [Nazareth](https://github.com/FACN1) (1 mentor & Course Coordinator),
-    [Gaza]()
+    - Structure of Github organisation & repositories
 
 — LUNCH —
 - 14.00 - 14.50 — Introduction to [Pair Programming](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/pair-programming.md)
