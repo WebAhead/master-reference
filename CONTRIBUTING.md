@@ -1,6 +1,6 @@
 Inspired by [dwyl's contribution workflow](https://www.github.com/dwyl/contributing).
 
-The following people are available to review pull requests: [@bradreeder](https://github.com/bradreeder), [@des-des](https://github.com/des-des), [@jsms90](https://github.com/jsms90) [@sofer](https://github.com/sofer), [@iteles](https://github.com/iteles) or [@nelsonic](https://github.com/nelsonic).
+The following people are available to review pull requests: [@bradreeder](https://github.com/bradreeder), [@des-des](https://github.com/des-des), [@jsms90](https://github.com/jsms90), [@eliascodes](https://github.com/eliascodes), [@sofer](https://github.com/sofer), [@iteles](https://github.com/iteles) or [@nelsonic](https://github.com/nelsonic).
 
 # Contribution guidelines
 
