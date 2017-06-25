@@ -6,7 +6,7 @@
   + install using a package manager
 2. Create a "workshop", designed to walk the rest of your cohort through the steps (this doesn't need to be long - just one markdown file)
 
-## Regular Expression
+## Regular Expressions
 1. Research:
   + How to use regex
     + (basic) pattern creation and repetitions
