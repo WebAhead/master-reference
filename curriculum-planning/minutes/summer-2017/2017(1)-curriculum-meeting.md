@@ -2,20 +2,20 @@
 
 **Facilitator:** @bradreeder
 
-**Time Keeper:**  
+**Time Keeper:** @alexis-l8
 
-**Mood Monitor:**  
+**Mood Monitor:**
 
-**Record Keeper:**  
+**Record Keeper:** @eliascodes, @smarthutza, @ZooeyMiller
 
-**Vote Taker:**  
+**Vote Taker:** @Samatar26
 
-**Tech (hangouts):**  
+**Tech (hangouts):** @des-des
 
-**Tech (screencast & edit proposals):**
+**Tech (screencast & edit proposals):** @des-des
 
 ## Attendance and voting
-
+[Voting](https://docs.google.com/spreadsheets/d/1_pqo-2Gzzba16rJYretpgZpgUx1GgkEv2-s4NqhzgHo/edit#gid=2014897855)
 
 ---
 
@@ -33,44 +33,89 @@ Changes to each particular week are usually left to [the planning of that week](
 4. [Hapi vs. Express](#hapi-vs-express)
 5. [Redistribute content of week 8](#redistribute-content-of-week-8)
 6. [React](#react)
-7. [Front End Engineering Content](#front-end-engineering-content)
+7. [Bundling Workshop](#bundling-workshop)
 
 ---
 
 ## Research afternoons
 [#261](https://github.com/foundersandcoders/master-reference/issues/261)
 
-**Status:** <Passed / blocked / not voted on>
+**Record Keeper:** @ZooeyMiller
+
+**Status:** blocked
 
 **Minutes:**
+sohil communicates research afternoon is there so that each group condenses 4 hrs of research into 30 mins so each other group just has to read 30 mins of info
 
+jen brings up scrapping research afternoon entirely rather than reformulating in terms of this proposal.
 
+eoin suggests there being 'spike mornings' directly before projects where people in groups do research on each project.
+
+sohil asks for clarification on what a spike is and how it will happen during 'spike mornings' (who would do it, how many etc etc)
+
+zooey clarifies a part of this proposal was also taking out irrelevant research/spike topics
+
+eoin suggests pulling out main things that are most important from research afternoon fro spike mornings.
+
+oli concurs that some topics should be broken out into proper workshops and some should be left as spikes/research
+
+jen suggests that rebranding research afternoon as spike afternoon is a bad choice
+
+jessica suggests that optional spikes are not a good idea because people can often forget.
+
+antonio suggests that good readmes on projects are as good as if not better that research afternoons
+
+there was a lot of clarification of what we were voting on
+
+straw polling:
+* modify research afternoons as proposed in this issue
+* scrap research afternoon, add extra time to start of projects
+* scrap research afternoon, replace with a workshop/tbd.
+
+Clarification of proposal was scrapping vs. keeping, and not what would take up the time left by it not being there
+
+1 block
+
+conversation diverged to process
 
 **Action point(s):**
-+
-+
-+
++ Research afternoons will not be scrapped for this curriculum. A task group needs to form to suggest how research afternoons should be approached for this curriculum.
 
 ---
 
 ## Lightning Talks from your Cohort
 [#254](https://github.com/foundersandcoders/master-reference/issues/254)  
 
-**Status:**  
+**Record Keeper:** @ZooeyMiller
+
+**Status:**  was not taken to vote
 
 **Minutes:**
+(I forgot to take minutes sorry)
 
+general conversation was clarification of whether it would be mandatory vs. set some time aside
 
+then clarification about what time and particularities of how this would happen.
+Time suggested:
+* monday morning
+* thursday afternoon
+* tuesday morning 15 mins
+* post 6pm or lunch time.
+
+straw poll:
+* happen in curriculum hrs - 5 ldn
+* out of curriculum hrs - 9 ldn 7naz
+* not at all
+
+time is tight and we have decided not to vote on this.
 
 **Action point(s):**
-+
-+
-+
-
----
++ We form a working group and we sit down and find a solution  
 
 ## Teach a lot more HTML/CSS
 [#258](https://github.com/foundersandcoders/master-reference/issues/258)  
+
+**Record Keeper:** @eliascodes
 
 **Status:**  PASSED.
 
@@ -126,6 +171,8 @@ PASSED.
 ## Hapi vs. Express
 [#251](https://github.com/foundersandcoders/master-reference/issues/251)  
 
+**Record Keeper:** @eliascodes
+
 **Status:** PASSED
 
 **Minutes:**
@@ -148,7 +195,7 @@ Jen: Should we have this discussion now or after the auth week?
 
 Finn: Regardless of the other proposal, we’ll still have one framework week, so important to know what should go into that week.
 
-Zooey: The decision can stand, but the time horizon for actioning it might not be in 
+Zooey: The decision can stand, but the time horizon for actioning it might not be in the next cohort.
 
 Olli: What are the reasons for Hapi?
 
@@ -188,47 +235,68 @@ PASSED
 ---
 
 ## Redistribute content of week 8
-[#263](https://github.com/foundersandcoders/master-reference/issues/263)  
+[#263](https://github.com/foundersandcoders/master-reference/issues/263)
 
-**Status:**  
+**Record Keeper:** @eliascodes
+
+**Status:** Passed
 
 **Minutes:**
 
+Eoin can help with developing authentication workshops.
 
+Ronan would also support a vanilla Node authentication workshop.
+
+Setting up a cookie in vanilla Node would make students have a better understanding of how it all works; hapi-auth-cookie makes everything seem too abstract
+
+Week 5: server side validation  
+Week 6: stays the same  
+Week 7: authentication  
+Week 8: server side frame framework and templating  
 
 **Action point(s):**
-+
-+
-+
+
++ Authentication week resources to be developed by alumni (with the support of FAC10)
++ Server side validation workshop for week 5 to be developed by FAC10.
 
 ---
 
 ## React
-[#259](https://github.com/foundersandcoders/master-reference/issues/259)  
+[#259](https://github.com/foundersandcoders/master-reference/issues/259)
 
-**Status:**  
+**Record Keeper:** @smarthutza
+
+**Status:** Not taken to vote
 
 **Minutes:**
+The first 8 weeks are too packed. There would be no room for React. So perhaps it should be week 9 or 10.
 
+A single day React workshop as a small introduction (similar to the chatbot workshop) would make people understand there is a different way of writing front end code.
 
+One day workshop would not be enough. An introduction is not interesting enough and it does not cover all the necessary things to learn.
 
-**Action point(s):**
-+
-+
-+
+An optional workshop is a bad idea. Whoever wants to learn React should use the online tutorials.
+Perhaps a design pattern workshop would be better if we make the IP Cortex workshop much shorter.
+
+Action point(s):
++ Dwyl workshop about Elm architecture in JS should be moved into week 10
++ FAC10 should focus on developing the existing week 1-8 curriculum
++ We form a working group and we sit down and find a solution  
 
 ---
 
-## Front End Engineering Content
-[#264](https://github.com/foundersandcoders/master-reference/issues/264)  
+## Bundling Workshop
+[#276](https://github.com/foundersandcoders/master-reference/issues/276)
 
-**Status:**  
+**Record Keeper:** @smarthutza
+
+**Status:** Passed
 
 **Minutes:**
 
+Everybody agrees that our course wasn’t very front end oriented. Everybody agrees that the curriculum should contain more front end workshops/morning challenges.
 
+Action point(s):
 
-**Action point(s):**
-+
-+
-+ 
++ Ronan will create a half a day workshop
++ We will discuss where exactly to insert it, perhaps in week 10.

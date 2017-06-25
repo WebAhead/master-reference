@@ -55,4 +55,4 @@ Continue work on projects
 
 4.30pm - 5.30pm classroom stop-go-continue
 
-5.30pm - home time, pub, whatever you do in Nazareth
+5.30pm - home time!
