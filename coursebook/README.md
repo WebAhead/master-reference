@@ -15,5 +15,5 @@ related to each week see:
 * [Week 4](week-4/README.md) - Node.js 1/2
 * [Week 5](week-5/README.md) - Node.js 2/2
 * [Week 6](week-6/README.md) - PostgreSQL
-* [Week 7](week-7/README.md) - Hapi views
-* [Week 8](week-8/README.md) - Hapi authentication
+* Week 7 - Authentication
+* Week 8 - Express
