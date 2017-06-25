@@ -50,7 +50,7 @@ As a **client with JavaScript disabled in their browser for security reasons**
 
 ## Build Process (Wednesday-Thursday)
 
-Your team needs to set up a new repository under your cohorts Github organisation and work together over the next few days to commit changes to this repository.
+Your team needs to set up a new repository under your cohort's Github organisation and work together over the next few days to commit changes to this repository.
 
 Your repo should contain a README file with these three points -
 - WHY (describing the purpose)
