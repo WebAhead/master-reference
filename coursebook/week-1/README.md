@@ -26,7 +26,7 @@
 
 ## Day 2
 - 10:00 - 11:00 — Morning Challenge - [Accessibility challenge](https://github.com/foundersandcoders/accessibility-challenge)
-- 11:00 - 12:45 — [Git workshop](https://github.com/NataliaLKB/learn-git-basics)
+- 11:00 - 12:45 — [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two)
 - 12:45 - 13:00 — Introduce [Research topics](./research-afternoon.md)
 
 — LUNCH —
