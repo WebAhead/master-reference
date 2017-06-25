@@ -7,9 +7,12 @@ var todoFunctions = {
   // You do not need to understand the implementation of this function.
   generateId: (function() {
     var idCounter = 0;
-    return function() {
-      return idCounter++;
-    };
+
+    function incrementCounter() {
+      return (idCounter += 1);
+    }
+
+    return incrementCounter;
   })(),
   addTodo: function(todos, newTodo) {
     // should leave the input argument todos unchanged

@@ -67,5 +67,5 @@
     container.replaceChild(todoListNode, container.firstChild);
   };
 
-  if (container) render(state);
+  if (container) renderState(state);
 })();
