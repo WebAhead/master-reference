@@ -20,13 +20,13 @@ The feedback can range broadly from environmental concerns, to timetabling, to f
 
 Once students have filled a whiteboard with their feedback, an assigned facilitator will read each point and they are discussed by the group. Every student votes at the end on a single "stop", "go", and "continue" item they consider the highest priority. The points with the most votes are then recorded as key action points.
 
-The minutes of these meetings are captured ([London](https://github.com/foundersandcoders/london-curriculum), [Nazareth](https://github.com/foundersandcoders/nazareth-curriculum)), forwarded to mentors of future weeks, and used when we come to prepare for the next curriculum so that we can improve it as a group.
+The minutes of these meetings are captured ([London](https://github.com/foundersandcoders/london-curriculum), [Nazareth](https://github.com/foundersandcoders/nazareth-curriculum), [Gaza](https://github.com/foundersandcoders/gaza-curriculum/tree/master/_stop-go-continue)), forwarded to mentors of future weeks, and used when we come to prepare for the next curriculum so that we can improve it as a group.
 
 ## Team retrospectives
 
 We also run a smaller "stop go continue" meeting with each [student team](./teams.md) so they are able to reflect on how their group project work went that week.
 
-At the end, each team member votes on three "stop" or "go" items they consider the highest priority. The three items with the most votes are then recorded, and taken forward as goals for the following week. Goals of prior weeks, and recurring items, are revisited in each project retrospective. Again, these are stored for reference in the respective curriculum repos: [London](https://github.com/foundersandcoders/london-curriculum), [Nazareth](https://github.com/foundersandcoders/nazareth-curriculum).
+At the end, each team member votes on three "stop" or "go" items they consider the highest priority. The three items with the most votes are then recorded, and taken forward as goals for the following week. Goals of prior weeks, and recurring items, are revisited in each project retrospective. Again, these are stored for reference in the respective curriculum repos: [London](https://github.com/foundersandcoders/london-curriculum), [Nazareth](https://github.com/foundersandcoders/nazareth-curriculum), [Gaza](https://github.com/foundersandcoders/gaza-curriculum).
 
 ### The Prime Directive
 

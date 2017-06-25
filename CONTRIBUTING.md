@@ -1,18 +1,26 @@
 Inspired by [dwyl's contribution workflow](https://www.github.com/dwyl/contributing).
 
-The following people are available to review pull requests: [@bradreeder](https://github.com/bradreeder), [@des-des](https://github.com/des-des), [@sofer](https://github.com/sofer), [@iteles](https://github.com/iteles) or [@nelsonic](https://github.com/nelsonic).
+The following people are available to review pull requests: [@bradreeder](https://github.com/bradreeder), [@des-des](https://github.com/des-des), [@jsms90](https://github.com/jsms90) [@sofer](https://github.com/sofer), [@iteles](https://github.com/iteles) or [@nelsonic](https://github.com/nelsonic).
 
 # Contribution guidelines
 
 ## Before starting work
 
- 1. Search this repo's [issues](https://www.github.com/foundersandcoders/master-reference/issues) to see if an issue exists for the problem you are solving
+ 1. Search this repo's [issues](https://www.github.com/foundersandcoders/master-reference/issues) to see if an issue exists for the problem you are solving.
  2. If the issue does not exist, create it.
- 3. Indicate on the issue that you would like to take it on. Ping one of the reviewer above if you need a response.
- 4. Once you are sure of what you need to do and that it is needed, assign yourself to the issue.
- 5. Clone, and create a new branch for your work
+ 3. If your new issue relates to any others, reference those issues in the body. This enables others to follow the history of the topic.
+ 4. If your new issue relates to a specific week of the course, assign the appropriate label.
+ 5. Indicate on the issue that you would like to take it on. Assign one of the reviewers above if you need a response.
+ 6. Once you are sure of what you need to do and that it is needed, assign yourself to the issue.
+ 7. Clone, and create a new branch for your work
 
-## Multiline commit messages
+## Commits
+
+Remember to keep your commits granular and their messages short but descriptive.
+
+**It is important that you reference an issue in each commit.**
+
+### Multiline messages
 
 You will want to space your commit messages over more than one line. Commit without the `-m` to bring up a text editor in which to write the commit message.
 
@@ -35,15 +43,13 @@ short description under 50 chars.
 related #[issue number]
 ```
 
-It is important that you reference an issue in each commit.
-
 ## Pull Requests
 
 Once you have finished your work, push up your branch and make a pull request. Make sure it has the following
 
   1. A good title
   2. Description, with detail of everything in the pull.
-  3. Reference to the issue in description.
+  3. Reference to any/all related issues in description.
   4. Assignees, assign between two and three of the designated maintainers.
 
 A pull request should be as small as possible, this makes the review process fast and easy.

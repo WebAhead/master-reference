@@ -5,7 +5,7 @@
 * [Learning outcomes](/coursebook/week-3/learning-outcomes.md)
 * [Projects](/coursebook/week-3/project.md)
 * [Resources](/coursebook/week-3/resources.md)
-* stop-go-continue [London](https://github.com/foundersandcoders/london-curriculum/blob/master/stop-go-continue/fac-10/week-3.md)  [Nazareth](https://github.com/foundersandcoders/nazareth-curriculum/tree/master/stop-go-continue/fac-n1)
+* Stop-Go-Continue: [London](https://github.com/foundersandcoders/london-curriculum/blob/master/stop-go-continue/fac-10/week-3.md), [Nazareth](https://github.com/foundersandcoders/nazareth-curriculum/tree/master/stop-go-continue/fac-n1), [Gaza](https://github.com/foundersandcoders/gaza-curriculum/tree/master/_stop-go-continue)
 
 ### Schedule
 
@@ -37,7 +37,7 @@
 
 #### DAY 3
 
-- 10.00 - 11.00 <br /> [Parallel function morning challenge (version given to FACN1)](/coursebook/week-3/morning-challenge.md) morning challenge | [Parallel function morning challenge (version given to FAC10)](https://github.com/emilyb7/parallel-challenge-github)
+- 10.00 - 11.00 <br /> Parallel function morning challenge - [FACN1 version](/coursebook/week-3/morning-challenge.md) | [FAC10 version](https://github.com/emilyb7/parallel-challenge-github)
 
 - 11.00 - 13.00 <br /> Project Planning  
 
