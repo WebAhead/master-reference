@@ -18,12 +18,12 @@ Browse through each of these repos, to find the answers to the following questio
 + What is the charitable purpose of FAC international?
 
 ### Programme
-This repo stores everything that is specific to your campus. It's where you should go if you want to discuss the running of FAC London, or propose any changes.
+This repo stores everything that is specific to your campus. It's where you should go if you want to discuss the running of your campus, or propose any changes.
 
 Choose your campus, to continue the hunt:
-+ [London](https://github.com/foundersandcoders/london-programme)
-+ [Nazareth](https://github.com/foundersandcoders/nazareth-programme)
-+ [Gaza](https://github.com/foundersandcoders/gaza-programme)
++ [London](https://github.com/foundersandcoders/london-programme/blob/master/github-scavenger-hunt.md)
++ [Nazareth](https://github.com/foundersandcoders/nazareth-programme/blob/master/github-scavenger-hunt.md)
++ [Gaza](https://github.com/foundersandcoders/gaza-programme/blob/master/github-scavenger-hunt.md)
 
 ### Master reference
 #### Overview
