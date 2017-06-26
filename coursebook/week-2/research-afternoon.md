@@ -1,22 +1,25 @@
 ## Research topics
 
 ### Unit vs integration testing
-- What are the differences
-- What are the pros and cons
-- Create an example of each
+- What is a unit test?
+- What is an integration test?
+- When would you use each kind of test?
 
 ### Technical spikes
-- What are they?
-- Why are they helpful?
-- Create an example using your project from last week where a technical spike would have been useful.
+- What are technical spikes?
+- When and why would a spike be useful?
+- How would you successfully spike on a topic?
+- Give an example of how a spike could have helped with last week's projects.
 
 ### Async testing with Tape
-- Research how to test asynchronous callbacks.
-- Write an asynchronous function and then test it with Tape.
+- How do you test asynchronous functions?
+- What Tape assertions would be useful here?
+- Write tests for the functions in the callback morning challenge.
 
 
-### Istanbul
+### Test coverage
 - What is test coverage?
-- What is Istanbul?
-- Why is test coverage helpful?
-- Provide an example of it in use.
+- Why is test coverage useful?
+- What are Istanbul and nyc?
+- How would you use them to improve your testing?
+- Use Istanbul/nyc to calculate your code coverage for the TDD workshop.
