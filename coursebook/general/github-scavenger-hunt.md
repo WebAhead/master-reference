@@ -2,7 +2,7 @@
 
 From our curriculum to the running of our campuses, at Founders and Coders we track all our discussions and decision making via GitHub. By using GitHub as our single source of truth, we reduce the cognitive overload that's involved when constantly switching between mediums of communication.
 
-We aim for hyper-transparency in the running of the organisation, to enable the greatest level of contribution from our members. In order to get involved, you will need to get acquainted with our GitHub repos.
+We aim for transparency in the running of the organisation, to enable the greatest level of contribution from our members. In order to get involved, you will need to get acquainted with our GitHub repos.
 
 There are 3 main repos that you should bookmark:
 
@@ -35,7 +35,7 @@ Choose your campus, to continue the hunt:
 The coursebook contains some general overview files, as well as the content of each week.
 + What will you be doing after reading week?
 + How many hours do you spend on business development / community engagement per week?
-+ When do you projects start and finish?
++ When do your projects start and finish?
 + How long do you have to prepare your presentations?
 + Where can you find extra resources that might compliment your learning during the week?
 
