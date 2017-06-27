@@ -22,7 +22,7 @@ Introduction to testing and TDD
 — LUNCH —
 
 - 14:00 - 16:00 <br>
-Roman numerals TDD code-along
+Roman numerals TDD code-along - [final solution](https://github.com/foundersandcoders/roman-numeral-tdd-codealong)
 
 - 16:00 - 18:00 <br>
 Business development / community engagement
