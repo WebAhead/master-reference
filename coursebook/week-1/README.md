@@ -40,7 +40,7 @@
 
 — LUNCH —
 - 14.00 - 17.30 — Projects
-- 17.30 - 18.00 — FAC Values talk
+- 17.30 - 18.00 — [FAC Community talk](https://docs.google.com/presentation/d/188OOWrbC7vN4wHA8BHFljuhbaHLaPwA6_6a1Xgrny5Y/edit#slide=id.g17ad3aa125_0_655)
 
 ## Day 4
 - 10.00 - 13.00 — Projects
