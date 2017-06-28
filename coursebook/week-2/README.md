@@ -11,7 +11,7 @@
 ### Monday
 
 - 10:00 - 10:30 <br>
-[Intro to NPM](https://github.com/oliverjam/npm-introduction)
+[Intro to NPM](https://github.com/foundersandcoders/npm-introduction)
 
 - 10:30 - 11:00 <br>
 Introduction to testing and TDD
