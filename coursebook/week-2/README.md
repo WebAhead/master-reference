@@ -69,11 +69,8 @@ Projects
 
 — LUNCH —
 
-- 14:00 - 17:00<br>
+- 14:00 - 18:00
 Projects
-
-- 17:00 - 18:00 <br>
-External speaker
 
 ### Friday
 
@@ -88,8 +85,11 @@ Respond to issues
 - 14:00 - 14:45 <br>
 Group stop-go-continue
 
-- 14:45 - 17:00 <br>
+- 14:45 - 16:20 <br>
 Present projects
 
-- 17:00 - 18:00 <br>
+- 16:20 - 17:00 <br>
 Team stop-go-continue
+
+- 17:00 - 18:00 <br>
+External speaker
