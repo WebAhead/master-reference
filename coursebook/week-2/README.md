@@ -14,7 +14,7 @@
 [Intro to NPM](https://github.com/foundersandcoders/npm-introduction)
 
 - 10:30 - 11:00 <br>
-Introduction to testing and TDD
+[Introduction to testing and TDD](https://github.com/foundersandcoders/testing-tdd-intro)
 
 - 11:00 - 13:00 <br>
 [DWYL Tape (TDD) workshop](https://github.com/dwyl/learn-tape)
