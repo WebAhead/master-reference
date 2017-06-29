@@ -6,25 +6,34 @@ The aim for the next couple of days is to build a basic To-do app. This file wil
 
 This project is split into three parts:
 
-  * The first part should be done TDD. You will create the logic needed to modify your to-do list and will not interact with the DOM. Write your tests in `skeleton/test.js`
-  * The second part involves rendering the to-do list to the DOM;
-  * The third part involves adding your own features.
-
-Some things you might want to add for the third part:
-
-  * Edit to-do text
-  * Style using css
-  * Remove the mark button and listen for clicks on the whole todo item.
+  1. Use TDD to create the logic needed to modify your to-do list. This code will not interact with the DOM. Write your tests in `skeleton/test.js`
+  2. Render the to-do list to the DOM
+  3. Add your own features
 
 ## Setup
 
-Todo:
-  * Read through `skeleton/logic.js`. Do not worry if it does not all makes sense at first.
+  * Read through `skeleton/logic.js`. Don't worry if it does not all makes sense at first.
   * Set up a new repo for your project this week.
   * Copy and commit the files inside skeleton folder into your repository. **warning** only one person in your team should do this, then everyone else can pull the same repo.
-  * Install Tape and anything else you want to test with.
+  * `npm init`, then install Tape and anything else you want to test with.
 
 ## The project
+
+### User stories:
+
+As a disorganised person I want to:
+ 
+ * enter tasks I need to do into a web page
+ * view the tasks I have added in a list
+ * mark tasks as complete
+
+#### Stretch goals
+
+As a disorganised person I want to:
+
+ * edit my to-dos
+ * click on any part of a to-do to mark it as complete
+ * use a nicely designed interface
 
 ### Part one: create some pure functions
 
@@ -140,8 +149,7 @@ Inside this function you need to create a new state with a new to-do.
 
 ### Part 3: have fun!
 
-You can add features, like sort or update description.
+You can add features, like filtering by completed or editing descriptions.
 
-You can make it look pretty, using CSS.
+Try to make it look pretty, using CSS.
 
-You can add integration tests!
