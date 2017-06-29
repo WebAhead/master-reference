@@ -19,7 +19,7 @@ The following people are available to review pull requests: [@bradreeder](https:
 `week-<name-here>` - if your new issue relates to a specific week of the course (e.g. `week-toolkit`)
 `week-epic` - you are conducting a planning phase which encompass many changes to a particular week
 `bug` - something in this repo is broken (e.g. a link)
-`discuss` - you need the community's decision before you are able to complete any work
+`discuss` - you'd like the community's input before you start any work
 `question` - you're not actually sure whether this is an issue or not and would like confirmation
 `help wanted` - you would like some help in completing work on this issue
 
