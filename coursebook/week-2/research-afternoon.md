@@ -11,11 +11,10 @@
 - How would you successfully spike on a topic?
 - Give an example of how a spike could have helped with last week's projects.
 
-### Async testing with Tape
-- How do you test asynchronous functions?
-- What Tape assertions would be useful here?
-- Write tests for the functions in the callback morning challenge.
-
+### Software development methodologies
+- What is the traditional software development life-cycle?
+- How does agile differ from traditional waterfall methodologies?
+- How does the general software development life-cycle differ from the TDD cycle?
 
 ### Test coverage
 - What is test coverage?
