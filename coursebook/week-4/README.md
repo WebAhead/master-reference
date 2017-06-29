@@ -55,8 +55,10 @@
 - 11:00 - 13:00
 -- Respond to issues  
 
-- 14:00 - 15:00 -- Group s-g-c
+- 14:00-15:00 -[Cohort Stop Go Continue (retrospective)](./retrospectives.md#cohort-retrospective)
 
-- 15:00 - 16:20 -- Presentations (20 mins per group)
+- 15:00-15:40 - [Team retrospectives](./retrospectives.md#team-retrospective)
 
-- 16:20 - 17:00 -- Team s-g-c
+- 15:40-17:00 - Presentations (20 mins per group)
+
+- 17:00-18:00 - External Speaker or Alumni Project Presentation

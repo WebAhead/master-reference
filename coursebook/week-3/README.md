@@ -61,10 +61,10 @@
 
 -- LUNCHTIME 😋 --
 
-- 14.00 - 15.00 <br /> Group stop-go-continue (Course Coordinator, current week mentors, week 4 mentors)
+- 14:00-15:00 -[Cohort Stop Go Continue (retrospective)](./retrospectives.md#cohort-retrospective)
 
-- 15.00 - 16.20 <br /> Presentations (1+ current week mentors, 1+ week 4 mentors)
+- 15:00-15:40 - [Team retrospectives](./retrospectives.md#team-retrospective)
 
-- 16.20 - 17.00 <br /> Team stop-go-continue (Course Coordinator)
+- 15:40-17:00 - Presentations (20 mins per group)
 
-- 17.00 - 18.00 <br /> Alumni presentation (London: Breathe With Me team - TBC.)
+- 17:00-18:00 - External Speaker or Alumni Project Presentation

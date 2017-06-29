@@ -49,10 +49,10 @@ Continue work on projects
 
 1pm - 2pm: lunchtime 😋
 
-2pm - 3.30pm - presentations
+14:00-15:00 -[Cohort Stop Go Continue (retrospective)](./retrospectives.md#cohort-retrospective)
 
-3.30pm - 4.30pm - team retrospectives
+15:00-15:40 - [Team retrospectives](./retrospectives.md#team-retrospective)
 
-4.30pm - 5.30pm classroom stop-go-continue
+15:40-17:00 - Presentations (20 mins per group)
 
-5.30pm - home time!
+17:00-18:00 - External Speaker or Alumni Project Presentation

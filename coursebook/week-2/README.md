@@ -82,11 +82,10 @@ Respond to issues
 
 — LUNCH —
 
-- 14:00 - 14:45 <br>
-Group stop-go-continue
+- 14:00-15:00 -[Cohort Stop Go Continue (retrospective)](./retrospectives.md#cohort-retrospective)
 
-- 14:45 - 17:00 <br>
-Present projects
+- 15:00-15:40 - [Team retrospectives](./retrospectives.md#team-retrospective)
 
-- 17:00 - 18:00 <br>
-Team stop-go-continue
+- 15:40-17:00 - Presentations (20 mins per group)
+
+- 17:00-18:00 - External Speaker or Alumni Project Presentation
