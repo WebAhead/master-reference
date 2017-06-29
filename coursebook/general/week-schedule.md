@@ -62,8 +62,8 @@ Start each week with a mission and a goal.
 
 14:00-15:00 - Classroom S-G-C
 
-15:00-16:20 - Presentations (20 mins per group)
+15:00-15:40 - Team Retrospectives (Team S-G-C)
 
-16:20-17:00 - Team Retrospectives (Team S-G-C)
+15:40-17:00 - Presentations (20 mins per group)
 
 17:00-18:00 - External Speaker or Alumni Project Presentation
