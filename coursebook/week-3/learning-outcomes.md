@@ -26,3 +26,7 @@ You should be able to answer the following questions.
 - Introduction to the concept and importance of software architecture.
 - File structure planning and how white-board planning an app
 - IIFEs and modular architecture
+
+### FRONT-END SKILLS
+- How to apply Flexbox to page content in a responsive design.
+- Compatibility issues to be mindful of with Flexbox
