@@ -37,7 +37,7 @@
 
 #### DAY 3
 
-- 10.00 - 11.00 <br /> [Parallel function morning challenge](/coursebook/week-3/morning-challenge.md) | 
+- 10.00 - 11.00 <br /> [Parallel function morning challenge](/coursebook/week-3/morning-challenge.md)
 
 - 11.00 - 13.00 <br /> Project Planning  
 
