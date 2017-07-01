@@ -1,21 +1,24 @@
 ## Research topics
 
-### Unit vs Integration testing (4 people)
-- What are the differences
-- What are the pros and cons
-- Create an example of each
+### Unit vs integration testing
+- What is a unit test?
+- What is an integration test?
+- When would you use each kind of test?
 
-### Technical Spikes (4 people)
-- What is it?
-- Why is it helpful?
-- Create an example using your project from last week where a Technical Spike would have been useful.
+### Technical spikes
+- What are technical spikes?
+- When and why would a spike be useful?
+- How would you successfully spike on a topic?
+- Give an example of how a spike could have helped with last week's projects.
 
-### QUnit Assertions (4 people)
-- Research assertions other than `equal()` and provide examples.
-- Research `async()` and create an example of where we can use this to test a function asynchronously.
+### Software development methodologies
+- What is the traditional software development life-cycle?
+- How does agile differ from traditional waterfall methodologies?
+- How does the general software development life-cycle differ from the TDD cycle?
 
-
-### BlanketJS (4 people)
-- What is it?
-- Why is it helpful?
-- Provide an example of it in use.
+### Test coverage
+- What is test coverage?
+- Why is test coverage useful?
+- What are Istanbul and nyc?
+- How would you use them to improve your testing?
+- Use Istanbul/nyc to calculate your code coverage for the TDD workshop.
