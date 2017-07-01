@@ -18,4 +18,11 @@ You should be able to answer the following questions.
 ### ASYNC
 - What is a callback and why would you use one?
 - Why do we need asynchronous functionality in our code?
-- What do we mean by a "parallel function"? Why is this useful when querying APIs?
+- What do we mean by a "parallel function"?
+- Why are parallel functions useful when querying APIs?
+- How to implement a parallel function.
+
+### SOFTWARE ARCHITECTURE
+- Introduction to the concept and importance of software architecture.
+- File structure planning and how white-board planning an app
+- IIFEs and modular architecture
