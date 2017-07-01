@@ -1,6 +1,5 @@
 ## Resources
 
-### Recommended
 - XMLHttpRequest - http://www.w3schools.com/xml/xml_http.asp,
 - What is an API? In English, please. - https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82#.8hjwc8zg1
 - What is an API (Youtube video) - https://www.youtube.com/watch?v=s7wmiS2mSXY
@@ -19,7 +18,6 @@ follow [this link](https://www.getpostman.com/docs/introduction)
 
 **Use postman:** read about postman in the documentation [here](https://www.getpostman.com/docs/requests).
 
-### Optional
 ##### REST
 - REST and HTTP - http://restcookbook.com/Miscellaneous/rest-and-http/
 - Best practices to build RESTful web services - https://www.infosys.com/digital/insights/Documents/restful-web-services.pdf
@@ -28,3 +26,15 @@ follow [this link](https://www.getpostman.com/docs/introduction)
 - CORS support https://www.html5rocks.com/en/tutorials/cors/#toc-adding-cors-support-to-the-server
 - Access control https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
 - CORS guidelines https://www.w3.org/TR/cors/
+
+##### Flexbox
+- Flexbox Froggy http://flexboxfroggy.com/
+- A Complete Guide to Flexbox https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+##### Software Architecture Design
+- The Importance of Software Architecture http://csse.usc.edu/GSAW/gsaw2003/s13/northrop.pdf
+- MSDN's comprehensive guide to software architecture https://msdn.microsoft.com/en-gb/library/ee658098.aspx
+
+##### Modular Pattern
+- Mastering the Module Pattern https://toddmotto.com/mastering-the-module-pattern/
+- JavaScript Module Pattern: In Depth http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
