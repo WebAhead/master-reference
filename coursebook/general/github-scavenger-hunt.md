@@ -4,13 +4,19 @@ From our curriculum to the running of our campuses, at Founders and Coders we tr
 
 We aim for transparency in the running of the organisation, to enable the greatest level of contribution from our members. In order to get involved, you will need to get acquainted with our GitHub repos.
 
-There are 3 main repos that you should bookmark:
+There are 3 main repos that you should bookmark & "watch":
 
 | Repo | Purpose |
 | ---- | --- |
 | [`london-programme`](https://github.com/foundersandcoders/london-programme) / [`nazareth-programme`](https://github.com/foundersandcoders/nazareth-programme) / [`gaza-programme`](https://github.com/foundersandcoders/gaza-programme) | The running of your campus |
 | [`international`](https://github.com/foundersandcoders/international) | The charitable organisation that sets up and supports new campuses |
 | [`master-reference`](https://github.com/foundersandcoders/master-reference) | Our curriculum |
+
+![github watching button](./github-watch-unwatch.png)
+
+On the top right-hand corner of the screen, you will see a bell. If you "watch" a repository, you can use GitHub's in-app notification system for updates.
+
+![github notification bell](./github-notification-bell.png)
 
 Browse through each of these repos, to find the answers to the following questions.
 
