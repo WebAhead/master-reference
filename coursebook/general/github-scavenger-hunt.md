@@ -4,9 +4,7 @@ From our curriculum to the running of our campuses, at Founders and Coders we tr
 
 We aim for transparency in the running of the organisation, to enable the greatest level of contribution from our members. In order to get involved, you will need to get acquainted with our GitHub repos.
 
-**Bookmark & "watch" the following repos**
-
-![github watching button](./github-watch-unwatch.png)
+**Bookmark the following repos**
 
 | Repo | Purpose |
 | ---- | --- |
