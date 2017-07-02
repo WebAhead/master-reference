@@ -14,7 +14,7 @@ There are 3 main repos that you should bookmark & "watch":
 
 ![github watching button](./github-watch-unwatch.png)
 
-On the top right-hand corner of the screen, you will see a bell. If you "watch" a repository, you can use GitHub's in-app notification system for updates.
+On the top right-hand corner of the screen, you will see a bell. If you "watch" a repository, you can use GitHub's in-app notification system for updates. Otherwise your email inbox will get full very quickly.
 
 ![github notification bell](./github-notification-bell.png)
 
