@@ -12,14 +12,16 @@
 - 10.00 - 10.30 — [Welcome talk](https://github.com/foundersandcoders/master-reference/blob/master/about.md) (Directors)
 - 10:30 - 11:30 — Name game with as many members of Founders and Coders as possible!
 - 11:30 - 11:40 - Toilet/Coffee Break
-- 11:40 - 12:10 - Talk on consensus
+- 11:40 - 12:10 - Course overview
+    - [Code of Conduct](https://github.com/foundersandcoders/master-reference/blob/master/code_of_conduct.md)
+    - [House rules](../general/house-rules.md)
+    - Campus-specific info
+    - Introduce gitter channels
 - 12:10 - 13.00 — Introduction to [Pair Programming](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/pair-programming.md)
 
 — LUNCH —
 
-- 14:00 - 14:50 — Course overview (1 mentor & Course Coordinator)
-  - [Code of Conduct](https://github.com/foundersandcoders/master-reference/blob/master/code_of_conduct.md)
-  - [House rules](../general/house-rules.md)
+- 14:00 - 14:50 — Talk on consensus
 - 14:50 - 15:00 — Toilet/Coffee Break
 - 15:00 - 16:00 — [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility)
 - 16.00 - 18.00 — Business Development / Community Outreach
