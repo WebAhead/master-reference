@@ -20,16 +20,19 @@ Don't worry if you don't finish the kata. The aim is to learn the process. 15 mi
 
 ## Coding questions crib sheet  
 
+### Functions
 + When defining a new function, are we using sensible names?
 + Is it obvious at first glance what the procedure is for?  
 + What are the inputs for the function?
 + And are these inputs reflected in the arguments?  
 + What do you expect the function return value to be?
+
+### Variables
 + Are you using sensible names for all your variables?
 + Is it obvious at first glance what each of them is being used for?  
 + As you work through the problem, are you working from the outside in or are you trying to solve the problem in a linear sequence from top to bottom? (try working from the outside in, always thinking about the inputs and outputs of the code block you are working on)
 
-### Testing week onwards
+### Tests
 + What's a sensible first test for a function?
 + Is this the simplest possible test that you can think of?  
 + As you work through the problem, are all your passing tests still passing? If not, why not?  
