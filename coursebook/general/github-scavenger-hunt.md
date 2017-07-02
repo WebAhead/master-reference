@@ -1,4 +1,4 @@
-## London's GitHub Scavenger Hunt
+## GitHub Scavenger Hunt
 
 From our curriculum to the running of our campuses, at Founders and Coders we track all our discussions and decision making via GitHub. By using GitHub as our single source of truth, we reduce the cognitive overload that's involved when constantly switching between mediums of communication.
 
