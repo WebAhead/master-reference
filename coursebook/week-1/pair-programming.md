@@ -3,7 +3,7 @@
 1. Find a partner and work from one computer together (close the other laptop)
 2. Choose a kata on codewars, preferably one that neither of you have completed before
 3. Read through the [different pair programming methods](#methods) & choose one that you want to try
-4. Attempt the kata, using this type of pair programming.
+4. Attempt the kata, using this pair programming method.
     + Pair for up to 30 minutes
     + Swap roles after 15 minutes
     + If in doubt, follow the coding questions [crib sheet](#coding-questions-crib-sheet)
