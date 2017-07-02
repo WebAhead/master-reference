@@ -51,7 +51,7 @@
 ## Day 5
 - 10.00 - 11.00 — [Code review](../general/code-reviews.md) (1 alumnus per project)
 - 11.00 - 12.45 — Respond to issues
-- 12.45 - 13.00 — Plan presentations
+- 12.45 - 13.00 — [Plan presentations](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/weekly-projects.md#project-presentation)
 
 — LUNCH —
 - 14.00 - 15.00 — Group stop-go-continue (Course Coordinator, current week mentors, week 2 mentors)
