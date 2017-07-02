@@ -10,16 +10,19 @@
 
 ### Monday
 
-- 10:00 - 11:00 <br>
-[Intro to testing and QUnit](https://github.com/foundersandcoders/learn-qunit) - [Fizz Buzz](https://github.com/foundersandcoders/fizzbuzz)
+- 10:00 - 10:30 <br>
+[Intro to NPM](https://github.com/foundersandcoders/npm-introduction)
+
+- 10:30 - 11:00 <br>
+[Introduction to testing and TDD](https://github.com/foundersandcoders/testing-tdd-intro)
 
 - 11:00 - 13:00 <br>
-[DWYL Test Driven Development (TDD) workshop](https://github.com/dwyl/learn-tdd)
+[DWYL Tape (TDD) workshop](https://github.com/dwyl/learn-tape)
 
 — LUNCH —
 
 - 14:00 - 16:00 <br>
-Pair programming, ping pong [roman numeral challenge](https://github.com/foundersandcoders/romanizer)
+Roman numerals TDD code-along - [final solution](https://github.com/foundersandcoders/roman-numeral-tdd-codealong)
 
 - 16:00 - 18:00 <br>
 Business development / community engagement
@@ -27,10 +30,10 @@ Business development / community engagement
 ### Tuesday
 
 - 10:00 - 11:00 <br>
-Morning challenge - [create a waterfall function](https://github.com/RhodesPeter/waterfall-function-workshop)
+Morning challenge - [traffic light callbacks](https://github.com/foundersandcoders/morning-challenge-traffic-lights)
 
 - 11:00 - 13:00 <br>
-[Pure functions workshop](https://github.com/Jwhiles/pure-functions-easy-testing) as an introduction to testing things like stopwatches 😉
+[Pure functions workshop](https://github.com/Jwhiles/pure-functions-easy-testing) as an introduction to writing testable code :smile:
 
 — LUNCH —
 
@@ -57,7 +60,7 @@ Start projects
 Projects
 
 - 17:00 - 18:00<br>
-[Gaza Sky Geeks](https://gazaskygeeks.com/) talk
+External speaker
 
 ### Thursday
 
@@ -66,11 +69,8 @@ Projects
 
 — LUNCH —
 
-- 14:00 - 17:00<br>
+- 14:00 - 18:00
 Projects
-
-- 17:00 - 18:00 <br>
-[Huw Davies](https://github.com/hdrdavies) talk on testing
 
 ### Friday
 
@@ -85,8 +85,11 @@ Respond to issues
 - 14:00 - 14:45 <br>
 Group stop-go-continue
 
-- 14:45 - 17:00 <br>
+- 14:45 - 16:20 <br>
 Present projects
 
-- 17:00 - 18:00 <br>
+- 16:20 - 17:00 <br>
 Team stop-go-continue
+
+- 17:00 - 18:00 <br>
+External speaker
