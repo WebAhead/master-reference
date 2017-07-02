@@ -1,18 +1,24 @@
-# Pair programming   
+# Pair programming
 
-## Three other kinds of pairing exercise
+1. Find a partner and work from one computer together (close the other laptop)
+2. Choose a kata on codewars, preferably one that neither of you have completed before
+3. Read through the [different pair programming methods](#methods) & choose one that you want to try
+4. Attempt the kata, using this type of pair programming.
+    + Pair for up to 30 minutes
+    + Swap roles after 15 minutes
+    + If in doubt, follow the coding questions [crib sheet](#coding-questions-crib-sheet)
 
-+ Pair for up to 30 minutes
-+ Swap roles after 15 minutes
-+ If in doubt, follow the coding questions crib sheet  
+Don't worry if you don't finish the kata. The aim is to learn the process. 15 minutes before the end, we will come together and discuss which method you chose and how you found it.
+
+## Methods
 
 **The driving test.** One student sits at the computer and the other student acts as examiner. the student being examined should explain their thinking as they work. Whenever the examiner thinks the other student is being too quiet or does not understand something, she can ask for more information, but otherwise should offer no advice nor provide any feedback.  
 
 **The back-seat driver.** This is similar to the driving test, but in this case the examiner sits at the keyboard and follows the instructions of the other student. Again, the examiner should provide no advice, but can request clarification or an explanation of why she is being asked to do something.  
 
-**The driving instructor.** In this case, the person not at the keyboard should lead a discussion about the code through a series of questions. If desired, she can use the coding questions crib sheet for assistance.  
+**The driving instructor.** In this case, the person not at the keyboard should lead a discussion about the code through a series of questions. If desired, she can use the coding questions crib sheet for assistance.
 
-##Coding questions crib sheet  
+## Coding questions crib sheet  
 
 + When defining a new function, are we using sensible names?
 + Is it obvious at first glance what the procedure is for?  
