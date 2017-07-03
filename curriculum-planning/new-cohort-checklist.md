@@ -3,6 +3,7 @@
 The following is a checklist for course coordinators to complete in advance of the start date
 of a new curriculum:
 
+- [ ] Send acceptance email to successful candidates, including a link to the precourse material
 - [ ] Introduce current mentors to the [gitter](https://gitter.im/) chatroom for `current-mentors` under the `foundersandcoders` organisation.
 - [ ] Send contact email (via [mailchimp](https://mailchimp.com/)) out to FAC alumni to begin arranging external speakers dates for the new curriculum.
 - [ ] Use the Google spreadsheet of past alumni who gave talks / external speakers, stored in `school-curriculum`, to continue arranging external speaker dates for the new curriculum. Update the list from last curriculum if necessary.
