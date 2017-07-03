@@ -13,7 +13,9 @@ This week you are going to learn about the basic tools required to work in a tea
 + Gitflow and use of github
   + Learn commands such as `git status`, `git add`, `git commit` and more!
 + Accessibility
-  + Making your website accessible to anybody
+  + Understand why you should consider accessibility when building software
+  + Find out about various tools that can help you assess and improve the accessibility of a site
+  + Practice using a few of these tools
 + Pair programming
   + What it means to pair
   + How to effectively pair program

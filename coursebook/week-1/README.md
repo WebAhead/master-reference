@@ -21,7 +21,7 @@
   - [Code of Conduct](https://github.com/foundersandcoders/master-reference/blob/master/code_of_conduct.md)
   - [House rules](../general/house-rules.md)
 - 14:50 - 15:00 — Toilet/Coffee Break
-- 15:00 - 16:00 — [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility)
+- 15:00 - 16:00 — [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility/blob/master/putting-yourself-in-someone-elses-shoes.md)
 - 16.00 - 18.00 — Business Development / Community Outreach
 
 ## Day 2
