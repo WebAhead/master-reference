@@ -1,14 +1,12 @@
 **Author**: [@besarthoxhaj](https://github.com/besarthoxhaj)  
 
 **Maintainer**: TBC
-## Parallel Functions Workshop
+## Parallel Functions Morning Challenge
 
 When making API calls, exactly how quickly you receive a response can depend on several factors: the speed of your connection, the performance of your code, and the performance of the API that you're calling.
 Often, you will want to process the response that you receive for an API (like perhaps updating the DOM, or even making more API calls based on the response of the first), but you will probably only want to run that processes ONLY once you've received a response from the API call. Otherwise you may get an error message like ```cannot read property of null```.
 
 This is where parallel functions come in handy....
-
-## Morning challenge - day 3
 
 Below is an array of functions (the ```tasks``` array), each one set to run at different delays (kind of like the delays you might experience when retrieving data form an API).
 
