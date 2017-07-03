@@ -54,7 +54,8 @@
 - 12.45 - 13.00 — Plan presentations
 
 — LUNCH —
-- 14.00 - 15.00 — Group stop-go-continue (Course Coordinator, current week mentors, week 2 mentors)
-- 15.00 - 16.20 — Presentations (1+ current week mentors, 1+ week 2 mentors)
-- 16.20 - 17.00 — Team stop-go-continue (Course Coordinator)
-- 17.00 - 18.00 — Project Demo from alumni / External speaker
+
+- 14:00-15:00 -[Cohort Stop Go Continue (retrospective)](./retrospectives.md#cohort-retrospective)
+- 15:00-15:40 - [Team retrospectives](./retrospectives.md#team-retrospective)
+- 15:40-17:00 - Presentations (20 mins per group)
+- 17:00-18:00 - External Speaker or Alumni Project Presentation
