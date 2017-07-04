@@ -1,6 +1,6 @@
 ## Learning outcomes
 
-You should be able to answer the following questions.
+You should gain an understanding of the following:
 
 ### HTTP
 - What is HTTP?
@@ -23,9 +23,7 @@ You should be able to answer the following questions.
 - How to implement a parallel function.
 
 ### SOFTWARE ARCHITECTURE
-- Introduction to the concept and importance of software architecture.
-- File structure planning and how white-board planning an app
-- IIFEs and modular architecture
+- Understand the basic elements of software design in JavaScript, including closures, abstraction, module pattern.
 
 ### FRONT-END SKILLS
 - How to apply Flexbox to page content in a responsive design.
