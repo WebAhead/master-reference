@@ -4,7 +4,7 @@
 ## Parallel Functions Morning Challenge
 
 When making API calls, exactly how quickly you receive a response can depend on the speed of your connection, connection latency, and the performance of the API that you're calling.
-When making several API calls, or reading data from several files at the same time, the order in which each task is completed will depend on how quickly a response can be retrieved, which may not always be the same order that the tasks were called.
+When making several API calls, or reading data from several files at the same time, the order in which each task is completed will depend on how quickly the response/data can be retrieved/extracted, which may not always be the same order that the tasks were called.
 
 Parallel functions can help to run several tasks at the same time, and return the values of those tasks in the order they were called.
 
