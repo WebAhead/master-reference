@@ -3,8 +3,8 @@
 **Maintainer**: TBC
 ## Parallel Functions Morning Challenge
 
-When making API calls, exactly how quickly you receive a response can depend on the speed of your connection, and the performance speed of the API that you're calling.
-When making several API call, or reading data from several files at the same time, the order in which each task returns will depend on how quickly each task can be completed, which may not always be the same order that the tasks were called.
+When making API calls, exactly how quickly you receive a response can depend on the speed of your connection, connection latency, and the performance of the API that you're calling.
+When making several API calls, or reading data from several files at the same time, the order in which each task is completed will depend on how quickly a response can be retrieved, which may not always be the same order that the tasks were called.
 
 Parallel functions can help to run several tasks at the same time, and return the values of those tasks in the order they were called.
 
@@ -18,7 +18,9 @@ TIP: You might want to use [Repl.it](https://repl.it/languages/javascript) to co
 
 While you're working on this, think about when this function might be useful (in the context of what you've been studying this week).
 
-More info: http://caolan.github.io/async/docs.html#parallel
+More info:
+http://caolan.github.io/async/docs.html#parallel
+https://brandonwamboldt.ca/asynchronous-javascript-with-callbacks-1769/
 
 
 ```js
