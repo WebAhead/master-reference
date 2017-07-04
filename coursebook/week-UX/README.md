@@ -31,7 +31,7 @@
 
 -- LUNCH --
 
-14.00 - 17.00 - [Google Ventures: Monday](./google-ventures-monday.md)
+14.00 - 17.00 - [Google Ventures: Day 1](./google-ventures-day-1.md)
 
 ### Day 3
 
@@ -40,14 +40,14 @@
 - UX/UI
 - Usability and Accessibility
 
-12.00 - 13.00 - Google Ventures: Tuesday (Ideation phase)
+12.00 - 13.00 - Google Ventures: Day 2 (Ideation phase)
 
 - crazy 8s
 - storyboarding
 
 -- LUNCH --
 
-14.00 - 17.00 - Google Ventures: Wednesday (Decision phase)
+14.00 - 17.00 - Google Ventures: Day 3 (Decision phase)
 
 - Collective storyboarding
 - Prepare for User Testing - who / how / what / why
@@ -55,15 +55,15 @@
 
 ### Day 4
 
-10.00 - 13.00 - [Google Ventures: Thursday (Build Prototype)](./google-ventures-thursday.md)
+10.00 - 13.00 - [Google Ventures: Day 4 (Build Prototype)](./google-ventures-day-4.md)
 
 -- LUNCH --
 
-14.00 - 17.00 - [Google Ventures: Thursday (Build Prototype)](./google-ventures-thursday.md)
+14.00 - 17.00 - [Google Ventures: Day 4 (Build Prototype)](./google-ventures-day-4.md)
 
 ### Day 5
 
-10.00 - 13.00 - Google Ventures: Friday (User Testing)
+10.00 - 13.00 - Google Ventures: Day 5 (User Testing)
 
 -- LUNCH --
 

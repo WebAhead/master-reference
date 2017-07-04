@@ -1,6 +1,6 @@
-## GV Sprint Monday
+## GV Sprint: Day 1
 
-**Monday is basically going to be a lot of standing around a whiteboard and talking to each other.**
+**Day 1 is basically going to be a lot of standing around a whiteboard and talking to each other.**
 
 You’re going to end the week with a real prototype and some data. This does not mean that you have to make every decision perfectly you just need to keep moving through the sprint. Making your prototype and testing it is going to give you the best possible start to the project.
 

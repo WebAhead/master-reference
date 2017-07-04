@@ -1,6 +1,6 @@
 # General Week Schedule
 
-### Monday:
+### Day 1:
 
 10:00-10.15 - Introduction to gitbook, learning outcomes & project teams.
 
@@ -14,7 +14,7 @@ Start each week with a mission and a goal.
 
 16:00-18:00 - Business Development / Community Engagement
 
-### Tuesday:
+### Day 2:
 
 10:00-11:00 - Morning Challenge
 
@@ -30,7 +30,7 @@ Start each week with a mission and a goal.
 
 17:15-18:00 - Whiteboard Walkthrough + Introduce Group Project
 
-### Wednesday:
+### Day 3:
 
 10:00-11:00 - Morning Challenge
 
@@ -42,7 +42,7 @@ Start each week with a mission and a goal.
 
 17:00-18:00 - External Speaker
 
-### Thursday:
+### Day 4:
 
 10:00-13:00 - Group Project
 
@@ -50,7 +50,7 @@ Start each week with a mission and a goal.
 
 14:00-18:00 - Group Project
 
-### Friday:
+### Day 5:
 
 10:00-11:00 - Code Review
 

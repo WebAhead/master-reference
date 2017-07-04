@@ -1,4 +1,4 @@
-# Final Project / _Hackathon_ `->` Hard Deadline: Friday 16:00
+# Final Project / _Hackathon_ `->` Hard Deadline: Day 4 16:00
 
 Once you are _reasonably_ confident in your Elm skills,
 it's time to _use_ those super-powers for _good_.
@@ -172,7 +172,7 @@ and have done the initial research, it's time to dive into the "One Day Sprint"!
 + Use _any_/_all_ skills you have accumulated in the past 11.5 weeks
 to _produce_ something useful.
 
-### Step 6: _Finish_ by 16:00 on Friday
+### Step 6: _Finish_ by 16:00 on Day 4
 
 _Finishing_ something is _hard_.
 The whole _point_ of learning "continuous delivery" and the "agile methodology"

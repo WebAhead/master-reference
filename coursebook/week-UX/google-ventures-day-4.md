@@ -1,4 +1,4 @@
-## Thursday Running Order
+## Day 4 Running Order
 
 ### Today is Prototyping Day
 
