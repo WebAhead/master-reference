@@ -3,7 +3,7 @@
 ## Menu
  - [Learning outcomes](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/learning-outcomes.md)
  - [Research topics](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/research-afternoon.md)
- - [Project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/project.md)
+ - [Project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/project)
  - [Resources](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/resources.md)
 
 ## Schedule
@@ -44,7 +44,7 @@ Morning challenge - [traffic light callbacks](https://github.com/foundersandcode
 Review and Present research topics
 
 - 17:30 - 18:00 <br>
-[Introduce Project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/project.md)
+[Introduce Project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/project)
 
 ### Wednesday
 
