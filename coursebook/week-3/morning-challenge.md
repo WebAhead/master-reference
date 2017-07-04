@@ -3,10 +3,10 @@
 **Maintainer**: TBC
 ## Parallel Functions Morning Challenge
 
-When making API calls, exactly how quickly you receive a response can depend on several factors: the speed of your connection, the performance of your code, and the performance of the API that you're calling.
-Often, you will want to process the response that you receive for an API (like perhaps updating the DOM, or even making more API calls based on the response of the first), but you will probably only want to run that processes ONLY once you've received a response from the API call. Otherwise you may get an error message like ```cannot read property of null```.
+When making API calls, exactly how quickly you receive a response can depend on the speed of your connection, and the performance speed of the API that you're calling.
+When making several API call, or reading data from several files at the same time, the order in which each task returns will depend on how quickly each task can be completed, which may not always be the same order that the tasks were called.
 
-This is where parallel functions come in handy....
+Parallel functions can help to run several tasks at the same time, and return the values of those tasks in the order they were called.
 
 Below is an array of functions (the ```tasks``` array), each one set to run at different delays (kind of like the delays you might experience when retrieving data form an API).
 
