@@ -10,7 +10,7 @@ During the planning phase we suggest you spend time on:
 * Considering your user journey
 * Deciding what you need to build for your Minimum Viable Product (MVP) and splitting up the tasks
 
-You'll have most of day 3 and all of day 4 to work on your project, with code reviews on the morning of day 5. On day 5 we'll have final presentations in the afternoon.
+You'll have most of day 3 and all of day 4 to work on your project. On day 5 we'll have code reviews in the morning and final presentations in the afternoon.
 
 
 ### Choosing your APIs
