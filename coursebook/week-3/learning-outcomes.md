@@ -1,6 +1,6 @@
 ## Learning outcomes
 
-You should be able to answer the following questions.
+You should gain an understanding of the following:
 
 ### HTTP
 - What is HTTP?
@@ -18,4 +18,16 @@ You should be able to answer the following questions.
 ### ASYNC
 - What is a callback and why would you use one?
 - Why do we need asynchronous functionality in our code?
-- What do we mean by a "parallel function"? Why is this useful when querying APIs?
+- What do we mean by a "parallel function"?
+- Why are parallel functions useful when querying APIs?
+- How to implement a parallel function.
+
+### SOFTWARE ARCHITECTURE
+- The concept and importance of software architecture
+- File structure planning and how to white-board plan an app
+- The basic elements of software design in JavaScript, including closures, abstraction, module pattern.
+
+
+### FRONT-END SKILLS
+- How to apply Flexbox to page content in a responsive design.
+- Compatibility issues to be mindful of with Flexbox
