@@ -21,7 +21,7 @@
 
 — LUNCH —
 
-- 14:00 - 14:50 — Talk on consensus
+- 14:00 - 14:50 — Talk on consensus based decision-making
 - 14:50 - 15:00 — Toilet/Coffee Break
 - 15:00 - 16:00 — [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility)
 - 16.00 - 18.00 — Business Development / Community Outreach
