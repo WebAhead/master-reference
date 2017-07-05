@@ -107,7 +107,7 @@ For Linux Users:
 
 | Distro        | Base           | Package Manager | Package Management Helper |  
 |-------------|-------------|-----|-----|  
-| [Ubuntu](https://www.ubuntu.com/) | [Debian](https://www.debian.org/) | [Apt](https://help.ubuntu.com/lts/serverguide/apt.html) | [Linuxbrew](http://linuxbrew.sh/) |  
+| [Ubuntu](https://www.ubuntu.com/) | [Debian](https://www.debian.org/) | [Apt](https://help.ubuntu.com/lts/serverguide/apt.html) | N/A |  
 | [Antergos](https://antergos.com/) | [Arch](https://www.archlinux.org/) | [pacman](https://wiki.archlinux.org/index.php/pacman) | [packer](https://dominicm.com/install-packer-on-arch-linux/) or [yaourt](https://archlinux.fr/yaourt-en) |
 
 For Windows Users:
