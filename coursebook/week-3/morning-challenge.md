@@ -1,16 +1,27 @@
 **Author**: [@besarthoxhaj](https://github.com/besarthoxhaj)  
 
 **Maintainer**: TBC
+## Parallel Functions Morning Challenge
 
-## Morning challenge - day 3
+When making API calls, exactly how quickly you receive a response can depend on the speed of your connection, connection latency, and the performance of the API that you're calling.
+When making several API calls, or reading data from several files at the same time, the order in which each task is completed will depend on how quickly the response/data can be retrieved/extracted, which may not always be the same order that the tasks were called.
+
+Parallel functions can help to run several tasks at the same time, and return the values of those tasks in the order they were called.
+
+Below is an array of functions (the ```tasks``` array), each one set to run at different delays (kind of like the delays you might experience when retrieving data form an API).
 
 Complete the 'parallel' function. It should fire all the tasks at the same time, and invoke the final callback when they are all done.
 
 In case of an error, the final callback should be fired immediately.
 
-More info: http://caolan.github.io/async/docs.html#parallel
+TIP: You might want to use [Repl.it](https://repl.it/languages/javascript) to complete this challenge so you can see whats happening in your code.
 
 While you're working on this, think about when this function might be useful (in the context of what you've been studying this week).
+
+More info:
+http://caolan.github.io/async/docs.html#parallel
+https://brandonwamboldt.ca/asynchronous-javascript-with-callbacks-1769/
+
 
 ```js
 

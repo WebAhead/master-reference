@@ -37,7 +37,7 @@
 
 #### DAY 3
 
-- 10.00 - 11.00 <br /> Parallel function morning challenge - [FACN1 version](/coursebook/week-3/morning-challenge.md) | [FAC10 version](https://github.com/emilyb7/parallel-challenge-github)
+- 10.00 - 11.00 <br /> [Parallel function morning challenge](/coursebook/week-3/morning-challenge.md)
 
 - 11.00 - 13.00 <br /> Project Planning  
 
