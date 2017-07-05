@@ -2,7 +2,7 @@
 
 ### Week structure
 
-#### Monday
+#### Day 1
 
 - 10:00 - 10:15 - [Intro](./summary.md) to hapi.js and libraries / frameworks
 
@@ -16,7 +16,7 @@
 
 - 16:00 - 18:00 - Business development
 
-#### Tuesday
+#### Day 2
 
 - 10:00 - 11:15 - [Morning challenge - Handlebars](https://github.com/Jbarget/handlebars-morning-challenge)
 
@@ -32,7 +32,7 @@
 
 - 17:30 - 18:00 - Introduce [project](./project.md)
 
-#### Wednesday
+#### Day 3
 
 - 10:00 - 11:00 - [Workshop - Setting a cookie](https://github.com/SavageWilliam/hapi-auth-cookie-ws)
 
@@ -44,7 +44,7 @@
 
 - 17:00 - 18:00 — Project Demo from alumni / External speaker
 
-#### Thursday
+#### Day 4
 
 - 10:00 - 13:00 - Projects
 
@@ -52,7 +52,7 @@
 
 - 14:00 - 18:00 - Projects
 
-#### Friday
+#### Day 5
 
 - 10:00 - 11:00 - Code review
 

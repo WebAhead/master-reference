@@ -48,7 +48,7 @@ As a **client with JavaScript disabled in their browser for security reasons**
 
 > so that I **don't feel like I'm completely in the stone age**.
 
-## Build Process (Wednesday-Thursday)
+## Build Process (Days 3 and 4)
 
 Your team needs to set up a new repository under your cohort's Github organisation and work together over the next few days to commit changes to this repository.
 
@@ -65,7 +65,7 @@ However you decide to individualise your site is up to you, but aim to satisfy t
 
 Your blog should have profiles of each of your group members and each profile should include links to your *Linkedin*, *Github* and *Codewars* accounts.
 
-## Publishing (Before 6PM Thursday)
+## Publishing (Before 6PM Day 4)
 
 - On completion, your site should be published via *github pages*. You may decide to publish early (perhaps to check how it looks on mobile?)
 - Your README should also include a link to the live site (you can also add a direct link next to the description at the top of your repo, so that others can clearly find your live site).
@@ -79,12 +79,11 @@ Your blog should have profiles of each of your group members and each profile sh
 - Ensure your site is accessible. We will be checking your site for it's accessibility coverage by using [a variety of accessibility tools](https://github.com/jsms90/web-accessibility#tools-that-can-help).
 
 
-**Note: You should stop working on your profile after 6PM thursday. This prevents someone from writing code which the other members of the team might not have seen before you present your project and allows everybody to be on the same wavelength.**
+**Note: You should stop working on your profile after 6PM on day 4. This prevents someone from writing code which the other members of the team might not have seen before you present your project and allows everybody to be on the same wavelength.**
 
+**On the morning of day 5, you'll be swapping code with another team and raising issues on their code, before resolving issues that you have received.**
 
-**On Friday morning, you'll be swapping code with another team and raising issues on their code, before resolving issues that you have received.**
-
-**You will present your project to the rest of the cohort on Friday afternoon, so aim to factor in at least 15 minutes on Thursday to discuss how you will present your work.**
+**You will present your project to the rest of the cohort on the afternoon of day 5, so aim to factor in at least 15 minutes on day 4 to discuss how you will present your work.**
 
 **Also, if you don't manage to complete the project, or if it doesn't work by the time it comes to presenting- don't fear! You should aim to present your progress to the rest of the cohort, not a fully polished finished site.**
 

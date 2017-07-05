@@ -8,7 +8,7 @@
 
 ## Schedule
 
-### Monday
+### Day 1
 
 - 10:00 - 10:30 <br>
 [Intro to NPM](https://github.com/foundersandcoders/npm-introduction)
@@ -27,7 +27,7 @@ Roman numerals TDD code-along - [final solution](https://github.com/foundersandc
 - 16:00 - 18:00 <br>
 Business development / community engagement
 
-### Tuesday
+### Day 2
 
 - 10:00 - 11:00 <br>
 Morning challenge - [traffic light callbacks](https://github.com/foundersandcoders/morning-challenge-traffic-lights)
@@ -46,7 +46,7 @@ Review and Present research topics
 - 17:30 - 18:00 <br>
 [Introduce Project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/project)
 
-### Wednesday
+### Day 3
 
 - 10:00 - 11:00 <br>
 Morning challenge - [DOM manipulation](https://github.com/mantagen/DOM-manipulation-Challenge)
@@ -62,7 +62,7 @@ Projects
 - 17:00 - 18:00<br>
 External speaker
 
-### Thursday
+### Day 4
 
 - 10:00 - 13:00 <br>
 Projects
@@ -72,7 +72,7 @@ Projects
 - 14:00 - 18:00
 Projects
 
-### Friday
+### Day 5
 
 - 10:00 - 11:00 <br>
 [Code review](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/code-reviews.md)
