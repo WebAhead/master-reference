@@ -23,7 +23,10 @@ You should gain an understanding of the following:
 - How to implement a parallel function.
 
 ### SOFTWARE ARCHITECTURE
-- Understand the basic elements of software design in JavaScript, including closures, abstraction, module pattern.
+- The concept and importance of software architecture
+- File structure planning and how to white-board plan an app
+- The basic elements of software design in JavaScript, including closures, abstraction, module pattern.
+
 
 ### FRONT-END SKILLS
 - How to apply Flexbox to page content in a responsive design.
