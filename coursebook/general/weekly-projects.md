@@ -44,8 +44,7 @@ Each team then has 15 minutes to present, with 5 minutes for questions. We will 
     + Talk through the Why, What, How of your project
     + How did you split up the work?
     + How did you choose to pair?
-2. Walk us through the UX (user experience) i.e. demo your website
-    + How well does it conform to your brief - the user stories
+2. Demo your website and explain how it conforms to your brief i.e. the user stories
 3. Walk us through your code. Prioritise the things you learned that were new to you, which the rest of your cohort could benefit from hearing about:
     + something you're proud of
     + something that you found really hard / struggled with
