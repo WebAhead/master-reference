@@ -100,6 +100,7 @@
 ### Day 2
 | Part | London | Nazareth | Gaza |
 | ---- | ------ | -------- | ---- |
+| Flexbox | Lead: Martha (@smarthutza) <br><br> Support: Lucy (@lucyrose93) Jack (@JWLD) |  |
 | Software Architecture Design | Lead: Lucy (@lucyrose93) <br><br> Support: Martha (@smarthutza) Jack (@JWLD) |  |
 | Modular Pattern Workshop | Lead: Jack (@JWLD) <br><br> Support: Martha (@smarthutza) Lucy (@lucyrose93) |  |
 | Introduce project | Martha (@smarthutza) |  |
