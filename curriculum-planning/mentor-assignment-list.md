@@ -19,7 +19,7 @@
 | Intro to pair programming | Samatar (@Samatar26) Antonio (@antoniotrkdz) | Lubes (@mattlub) Suha (@Suuuuha) |
 | Course overview | Cleo (@Cleop) | @m4v15 @Suuuuha |
 | Accessibility workshop | Samatar (@Samatar26) Antonio (@antoniotrkdz) | Hiba (@hibaakel) Mavis (@m4v15) |
-| Biz dev | Jen (@jsms90) | Rebecca (@rebeccaradding) |
+| Business development | Lead: Jen (@jsms90) <br><br> Support: Cleo (@Cleop) Bradley (@bradreeder) Benji (@benjaminlees) Zooey (@ZooeyMiller) Finn (@finnhodgkin) Rebecca (@rebeccaradding) | Rebecca (@rebeccaradding) |
 
 ### Day 2
 | Part | London | Nazareth | Gaza |
@@ -58,7 +58,7 @@
 | Introduction to testing and TDD | Lead: Oli (@oliverjam) <br><br> Support: Finn (@finnhodgkin) |  |
 | DWYL's learn-tape workshop |  Lead: Oli (@oliverjam) <br><br> Support: Finn (@finnhodgkin) |  |
 | Roman numerals TDD code-along | Lead: Oli (@oliverjam) <br><br> Support: Finn (@finnhodgkin) |  |
-| Biz dev | Jen (@jsms90) |  |
+| Business development | Cleo (@Cleop) Bradley (@bradreeder) Jen (@jsms90) |  |
 
 ### Day 2
 | Part | London | Nazareth | Gaza |
@@ -95,7 +95,7 @@
 | API intro workshop | Lucy (@lucyrose93) Martha (@smarthutza) Jack (@JWLD) |  |
 | XHR workshop | Lucy (@lucyrose93) Martha (@smarthutza) Jack (@JWLD) |  |
 | GitHub API | Lucy (@lucyrose93) Martha (@smarthutza) Jack (@JWLD) |  |
-| Biz dev | Jen (@jsms90) |  |
+| Business development | Cleo (@Cleop) Bradley (@bradreeder) Jen (@jsms90) Joe (@freelancedad) |  |
 
 ### Day 2
 | Part | London | Nazareth | Gaza |
