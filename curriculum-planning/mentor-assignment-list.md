@@ -102,13 +102,13 @@
 | ---- | ------ | -------- | ---- |
 | Software Architecture Design | Lead: Lucy (@lucyrose93) <br><br> Support: Martha (@smarthutza) Jack (@JWLD) |  |
 | Modular Pattern Workshop | Lead: Jack (@JWLD) <br><br> Support: Martha (@smarthutza) Lucy (@lucyrose93) |  |
-| Introduce project |   |  |
+| Introduce project | Martha (@smarthutza) |  |
 
 ### Day 3
 | Part | London | Nazareth | Gaza |
 | ---- | ------ | -------- | ---- |
 | Parallel function morning challenge |  |  |
-| Project Support | Lucy (@lucyrose93) Martha (@smarthutza) Jack (@JWLD) |
+| Project Support | Martha (@smarthutza) Jack (@JWLD) |
 
 ### Day 4
 | Part | London | Nazareth | Gaza |
