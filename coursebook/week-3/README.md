@@ -36,7 +36,7 @@
 -- LUNCHTIME 😋 --  
 
 - 14.00 - 17.00 <br />
-[Software Design Workshop]()
+[Software Design Workshop](https://github.com/foundersandcoders/ws-software-design-js)
 
 - 17.15 - 18.00 <br />
 [Introduce Projects](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-3/project.md) & Start Planning Architecture
