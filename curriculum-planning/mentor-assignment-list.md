@@ -108,7 +108,7 @@
 ### Day 3
 | Part | London | Nazareth | Gaza |
 | ---- | ------ | -------- | ---- |
-| Parallel function morning challenge |  |  |
+| Parallel function morning challenge | Lead: Lucy (@lucyrose93) <br><br> Support: Martha (@smarthutza) Jack (@JWLD) |  |
 | Project Support | Martha (@smarthutza) Jack (@JWLD) |
 
 ### Day 4
