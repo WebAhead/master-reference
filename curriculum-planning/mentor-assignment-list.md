@@ -1,52 +1,52 @@
 ## Summer 2017
 | Week | London mentors | Nazareth mentors | Gaza mentors |
 | ---- | ------ | ------ | ------ |
-| [Week 1](#week-1) | Samatar (@Samatar26) Antonio (@antoniotrkdz) | Matt Lubes (@mattlub) Matt Davis (@m4v15) |
-| [Week 2](#week-2) | Oli (@oliverjam) Finn (@finnhodgkin) | Matt Davis (@m4v15) Reem (@RQ16) |
-| [Week 3](#week-3) | Delivering:<br>Lucy (@lucyrose93) Martha (@smarthutza) Jack (@JWLD) <br><br>Planning:<br>Edgar (@edgarfinn) | Mohamed (@MohamedOmarii) Hiba (@hibaakel) |
-| [Week 4](#week-4) | Zooey (@ZooeyMiller) Yvonne (@yvonne-liu) | Mohamed (@MohamedOmarii) Hiba (@hibaakel) Zooey (@ZooeyMiller) Yvonne (@yvonne-liu) Finn (@finnhodgkin) |
-| [Week 5](#week-5) | Joey (@joeylouise) Maja (@majakudlicka) | Mario (@Karyum) |
-| [Week 6](#week-6) | Alice (@ConchobarMacNessa) Philippa (@pbywater) Elias (@macintoshhelper)| Mario (@Karyum) Suha (@Suuuuha) |
-| [Week 7](#week-7) | Alexis (@alexis-l8) Jessica (@bo-bok) | Mario (@Karyum) Suha (@Suuuuha) Lawson (@philawsophizing) |
-| [Week 8](#week-8) | Akin (@Akin909) Piotr (@PiotrBerebecki) | Mario (@Karyum) Lawson (@philawsophizing) |
+| [Week 1](#week-1) | **Delivering & planning:**<br>Samatar (@Samatar26)<br>Antonio (@antoniotrkdz) | **Delivering:**<br>Matt Lubes (@mattlub)<br>Matt Davis (@m4v15) |
+| [Week 2](#week-2) | **Delivering & planning:**<br>Oli (@oliverjam)<br>Finn (@finnhodgkin) | **Delivering:**<br>Matt Davis (@m4v15)<br>Reem (@RQ16) |
+| [Week 3](#week-3) | **Delivering:**<br>Lucy (@lucyrose93)<br>Martha (@smarthutza)<br>Jack (@JWLD)<br><br>**Planning:**<br>Edgar (@edgarfinn) | **Delivering:**<br>Mohamed (@MohamedOmarii)<br>Hiba (@hibaakel) |
+| [Week 4](#week-4) | **Delivering & planning:**<br>Zooey (@ZooeyMiller)<br>Yvonne (@yvonne-liu) | **Delivering:**<br>Mohamed (@MohamedOmarii)<br>Hiba (@hibaakel)<br>Zooey (@ZooeyMiller)<br>Yvonne (@yvonne-liu)<br>Finn (@finnhodgkin) |
+| [Week 5](#week-5) | **Delivering & planning:**<br>Joey (@joeylouise)<br>Maja (@majakudlicka) | **Delivering:**<br>Mario (@Karyum) |
+| [Week 6](#week-6) | **Delivering & planning:**<br>Alice (@ConchobarMacNessa)<br>Philippa (@pbywater)<br>Elias (@macintoshhelper)| **Delivering:**<br>Mario (@Karyum)<br>Suha (@Suuuuha) |
+| [Week 7](#week-7) | **Delivering**<br>Alexis (@alexis-l8)<br>Jessica (@bo-bok)<br><br>**Planning**<br>Ronan (@ronanyeah)<br>Eoin (@des-des)<br>Alexis (@alexis-l8)<br>Jessica (@bo-bok) | **Delivering:**<br>Mario (@Karyum) Suha (@Suuuuha) Lawson (@philawsophizing) |
+| [Week 8](#week-8) | **Delivering & planning:**<br>Akin (@Akin909)<br>Piotr (@PiotrBerebecki) | **Delivering:**<br>Mario (@Karyum)<br>Lawson (@philawsophizing) |
 
 ## Week 1
 ### Day 1
 | Part | London | Nazareth | Gaza |
 | ---- | ------ | -------- | ---- |
-| Welcome talk | Dan (@sofer) Ines (@iteles) | Dan (@sofer) |
+| Welcome talk | Dan (@sofer)<br>Ines (@iteles) | Dan (@sofer) |
 | Talk on consensus | Zooey (@ZooeyMiller) | Rebecca (@rebeccaradding) |
-| Intro to pair programming | Samatar (@Samatar26) Antonio (@antoniotrkdz) | Lubes (@mattlub) Suha (@Suuuuha) |
-| Course overview | Cleo (@Cleop) | @m4v15 @Suuuuha |
-| Accessibility workshop | Samatar (@Samatar26) Antonio (@antoniotrkdz) | Hiba (@hibaakel) Mavis (@m4v15) |
-| Business development | Lead: Jen (@jsms90) <br><br> Support: Cleo (@Cleop) Bradley (@bradreeder) Benji (@benjaminlees) Zooey (@ZooeyMiller) Finn (@finnhodgkin) Rebecca (@rebeccaradding) | Rebecca (@rebeccaradding) |
+| Intro to pair programming | Samatar (@Samatar26)<br>Antonio (@antoniotrkdz) | Lubes (@mattlub)<br>Suha (@Suuuuha) |
+| Course overview | Cleo (@Cleop) | Mavis (@m4v15)<br>Suha (@Suuuuha) |
+| Accessibility workshop | Samatar (@Samatar26)<br>Antonio (@antoniotrkdz) | Hiba (@hibaakel)<br>Mavis (@m4v15) |
+| Business development | **Lead:**<br>Jen (@jsms90)<br><br>**Support:**<br>Cleo (@Cleop)<br>Bradley (@bradreeder)<br>Benji (@benjaminlees)<br>Zooey (@ZooeyMiller)<br>Finn (@finnhodgkin)<br>Rebecca (@rebeccaradding) | **Lead:**<br>Rebecca (@rebeccaradding)<br><br>**Support:**<br>Dan (@sofer)<br>Shireen (@shiryz)<br>Jen (@jsms90) |
 
 ### Day 2
 | Part | London | Nazareth | Gaza |
 | ---- | ------ | -------- | ---- |
-| Accessibility morning challenge | Samatar (@Samatar26) Antonio (@antoniotrkdz) | Mohamed (@MohamedOmarii) |
-| Git workshop | Samatar (@Samatar26) Antonio (@antoniotrkdz) | Lubes (@mattlub) Mohamed (@MohamedOmarii) Mario (@Karyum) |
+| Accessibility morning challenge | Samatar (@Samatar26)<br>Antonio (@antoniotrkdz) | Mohamed (@MohamedOmarii) |
+| Git workshop | Samatar (@Samatar26)<br>Antonio (@antoniotrkdz) | Lubes (@mattlub)<br>Mohamed (@MohamedOmarii)<br>Mario (@Karyum) |
 | Intro to research | Samatar (@Samatar26) | Mavis (@m4v15) |
-| Introduce project | Antonio (@antoniotrkdz) | Lubes (@mattlub) Mavis (@m4v15) |
+| Introduce project | Antonio (@antoniotrkdz) | Lubes (@mattlub)<br>Mavis (@m4v15) |
 
 ### Day 3
 | Part | London | Nazareth | Gaza |
 | ---- | ------ | -------- | ---- |
-| CSS morning challenge | Samatar (@Samatar26) Antonio (@antoniotrkdz) | Mohamed (@MohamedOmarii) |
-| FAC values talk | Mark (@markwilliamfirth) | Dan (@sofer) Rebecca (@rebeccaradding) |
-| Project Support | Samatar (@Samatar26) Antonio (@antoniotrkdz) |
+| CSS morning challenge | Samatar (@Samatar26)<br>Antonio (@antoniotrkdz) | Mohamed (@MohamedOmarii) |
+| FAC values talk | Mark (@markwilliamfirth) | Dan (@sofer)<br>Rebecca (@rebeccaradding) |
+| Project Support | Samatar (@Samatar26)<br>Antonio (@antoniotrkdz) |
 
 ### Day 4
 | Part | London | Nazareth | Gaza |
 | ---- | ------ | -------- | ---- |
-| Project Support | Samatar (@Samatar26) Antonio (@antoniotrkdz) |
+| Project Support | Samatar (@Samatar26)<br>Antonio (@antoniotrkdz) |
 
 ### Day 5
 | Part | London | Nazareth | Gaza |
 | ---- | ------ | -------- | ---- |
-| Code review | Samatar (@Samatar26) Antonio (@antoniotrkdz) Zooey (@ZooeyMiller) Jen (@jsms90) | Mario (@Karyum) Lubes (@mattlub) Mavis (@m4v15) Mohamed (@MohamedOmarii) Shireen (@shiryz) |
-| Presentation guidelines | Samatar (@Samatar26) | Lubes (@mattlub) Mavis (@m4v15) Mohamed (@MohamedOmarii) |
-| SGC Facilitation | Jen (@jsms90)<br>(cohort only - no team SGCs) | Lubes (@mattlub) Mavis (@m4v15) Reem (@RQ16) |
+| Code review | Samatar (@Samatar26)<br>Antonio (@antoniotrkdz)<br>Zooey (@ZooeyMiller)<br>Jen (@jsms90) | Mario (@Karyum)<br>Lubes (@mattlub)<br>Mavis (@m4v15)<br>Mohamed (@MohamedOmarii)<br>Shireen (@shiryz) |
+| Presentation guidelines | Samatar (@Samatar26) | Lubes (@mattlub)<br>Mavis (@m4v15)<br>Mohamed (@MohamedOmarii) |
+| SGC Facilitation | Jen (@jsms90)<br>(cohort only - no team SGCs) | Lubes (@mattlub)<br>Mavis (@m4v15)<br>Reem (@RQ16) |
 | SGC Note taking | Samatar (@Samatar26) |  |
 
 
@@ -54,38 +54,38 @@
 ### Day 1
 | Part | London | Nazareth | Gaza |
 | ---- | ------ | -------- | ---- |
-| Intro to NPM | Lead: Oli (@oliverjam) <br><br> Support: Finn (@finnhodgkin) | Matt Davis (@m4v15) Reem (@RQ16) |
-| Introduction to testing and TDD | Lead: Oli (@oliverjam) <br><br> Support: Finn (@finnhodgkin) | Matt Davis (@m4v15) Reem (@RQ16) |
-| DWYL's learn-tape workshop |  Lead: Oli (@oliverjam) <br><br> Support: Finn (@finnhodgkin) | Matt Davis (@m4v15) Reem (@RQ16) |
-| Roman numerals TDD code-along | Lead: Oli (@oliverjam) <br><br> Support: Finn (@finnhodgkin) | Matt Davis (@m4v15) Reem (@RQ16) |
-| Business development | Cleo (@Cleop) Bradley (@bradreeder) Jen (@jsms90) | Matt Davis (@m4v15) Reem (@RQ16)  |
+| Intro to NPM | **Lead:**<br>Oli (@oliverjam)<br><br>**Support:**<br>Finn (@finnhodgkin) |  |
+| Introduction to testing and TDD | **Lead:**<br>Oli (@oliverjam)<br><br>**Support:**<br>Finn (@finnhodgkin) |  |
+| DWYL's learn-tape workshop | **Lead:**Oli (@oliverjam)<br><br>**Support:**<br>Finn (@finnhodgkin) |  |
+| Roman numerals TDD code-along | **Lead:**<br>Oli (@oliverjam)<br><br>**Support:**<br>Finn (@finnhodgkin) |  |
+| Business development | **Meetups:**<br>Cleo (@Cleop)<br><br>**Environment:**<br>Bradley (@bradreeder)<br><br>**Rest:**<br>Jen (@jsms90) |  |
 
 ### Day 2
 | Part | London | Nazareth | Gaza |
 | ---- | ------ | -------- | ---- |
-| Traffic light callbacks challenge | Lead: Finn (@finnhodgkin) <br><br> Support: Oli (@oliverjam) | Matt Davis (@m4v15) Reem (@RQ16) |
-| Pure functions workshop | Lead: Oli (@oliverjam) <br><br> Support: Finn (@finnhodgkin) | @mattlub @rq16 |
-| Intro to research | Oli (@oliverjam) Finn (@finnhodgkin) | Matt Davis (@m4v15) Reem (@RQ16) |
-| Introduce project | Oli (@oliverjam) Finn (@finnhodgkin)  |  |
+| Traffic light callbacks challenge | **Lead:**<br>Finn (@finnhodgkin)<br><br>**Support:**<br>Oli (@oliverjam) |  |
+| Pure functions workshop | **Lead:**<br>Oli (@oliverjam)<br><br>**Support:**<br>Finn (@finnhodgkin) |  |
+| Intro to research | Oli (@oliverjam)<br>Finn (@finnhodgkin) |  |
+| Introduce project | Oli (@oliverjam)<br>Finn (@finnhodgkin)  |  |
 
 ### Day 3
 | Part | London | Nazareth | Gaza |
 | ---- | ------ | -------- | ---- |
-| Morning challenge - DOM manipulation | Lead: Finn (@finnhodgkin) <br><br> Support: Oli (@oliverjam) | @karyum |
-| Project Support | Oli (@oliverjam) Finn (@finnhodgkin) Zooey (@ZooeyMiller) | 
+| Morning challenge - DOM manipulation | **Lead:**<br>Finn (@finnhodgkin)<br><br>**Support:**Oli (@oliverjam) |  |
+| Project Support | Oli (@oliverjam)<br>Finn (@finnhodgkin)<br>Zooey (@ZooeyMiller) |
 
 ### Day 4
 | Part | London | Nazareth | Gaza |
 | ---- | ------ | -------- | ---- |
-| Project Support | Oli (@oliverjam) Finn (@finnhodgkin) Zooey (@ZooeyMiller) |
+| Project Support | Oli (@oliverjam)<br>Finn (@finnhodgkin)<br>Zooey (@ZooeyMiller) |
 
 ### Day 5
 | Part | London | Nazareth | Gaza |
 | ---- | ------ | -------- | ---- |
-| Code review | Zooey (@ZooeyMiller) Oli (@oliverjam) Finn (@finnhodgkin) |  |
+| Code review | Zooey (@ZooeyMiller)<br>Oli (@oliverjam)<br>Finn (@finnhodgkin) |  |
 | Presentation guidelines | Oli (@oliverjam) |  |
 | Cohort SGC Facilitation | Zooey (@ZooeyMiller) |  |
-| Project group SGC Facilitation | Oli (@oliverjam) Finn (@finnhodgkin) Jen (@jsms90) |  |
+| Project group SGC Facilitation | Oli (@oliverjam)<br>Finn (@finnhodgkin)<br>Jen (@jsms90) |  |
 | SGC Note taking | Finn (@finnhodgkin) |  |
 
 ## Week 3
@@ -93,34 +93,34 @@
 | Part | London | Nazareth | Gaza |
 | ---- | ------ | -------- | ---- |
 | Introduction and learning outcomes | Lucy (@lucyrose93) |  |
-| API intro workshop | Lucy (@lucyrose93) Martha (@smarthutza) Jack (@JWLD) |  |
-| XHR workshop | Lucy (@lucyrose93) Martha (@smarthutza) Jack (@JWLD) |  |
-| GitHub API | Lucy (@lucyrose93) Martha (@smarthutza) Jack (@JWLD) |  |
-| Business development | Cleo (@Cleop) Bradley (@bradreeder) Jen (@jsms90) Joe (@freelancedad) |  |
+| API intro workshop | Lucy (@lucyrose93)<br>Martha (@smarthutza)<br>Jack (@JWLD) |  |
+| XHR workshop | Lucy (@lucyrose93)<br>Martha (@smarthutza)<br>Jack (@JWLD) |  |
+| GitHub API | Lucy (@lucyrose93)<br>Martha (@smarthutza)<br>Jack (@JWLD) |  |
+| Business development | **Meetups:**<br>Cleo (@Cleop)<br><br>**Environment:**<br>Bradley (@bradreeder)<br><br>**Calendar:**<br>Jen (@jsms90)<br>Joe (@freelancedad)<br><br>**Rest:**<br>Jen (@jsms90) |  |
 
 ### Day 2
 | Part | London | Nazareth | Gaza |
 | ---- | ------ | -------- | ---- |
-| Flexbox | Lead: Martha (@smarthutza) <br><br> Support: Lucy (@lucyrose93) Jack (@JWLD) |  |
-| Software Architecture Design | Lead: Lucy (@lucyrose93) <br><br> Support: Martha (@smarthutza) Jack (@JWLD) |  |
-| Modular Pattern Workshop | Lead: Jack (@JWLD) <br><br> Support: Martha (@smarthutza) Lucy (@lucyrose93) |  |
+| Flexbox | **Lead:**<br>Martha (@smarthutza)<br><br>**Support:**<br>Lucy (@lucyrose93)<br>Jack (@JWLD) |  |
+| Software Architecture Design | **Lead:**<br>Lucy (@lucyrose93)<br><br>**Support:**Martha (@smarthutza)<br>Jack (@JWLD) |  |
+| Modular Pattern Workshop | **Lead:**<br>Jack (@JWLD)<br><br>**Support:**<br>Martha (@smarthutza)<br>Lucy (@lucyrose93) |  |
 | Introduce project | Lucy (@lucyrose93)  |  |
 
 ### Day 3
 | Part | London | Nazareth | Gaza |
 | ---- | ------ | -------- | ---- |
-| Parallel function morning challenge | Lead: Lucy (@lucyrose93) <br><br> Support: Martha (@smarthutza) Jack (@JWLD) |  |
-| Project Support | Martha (@smarthutza) Jack (@JWLD) |
+| Parallel function morning challenge | **Lead:**<br>Lucy (@lucyrose93)<br><br>**Support:**<br>Martha (@smarthutza)<br>Jack (@JWLD) |  |
+| Project Support | Martha (@smarthutza)<br>Jack (@JWLD) |
 
 ### Day 4
 | Part | London | Nazareth | Gaza |
 | ---- | ------ | -------- | ---- |
-| Project Support | Martha (@smarthutza) Jack (@JWLD) |
+| Project Support | Martha (@smarthutza)<br>Jack (@JWLD) |
 
 ### Day 5
 | Part | London | Nazareth | Gaza |
 | ---- | ------ | -------- | ---- |
-| Code review | Lucy (@lucyrose93) Martha (@smarthutza) Jack (@JWLD) Zooey (@ZooeyMiller) Finn (@finnhodgkin) |  |
+| Code review | Lucy (@lucyrose93)<br>Martha (@smarthutza)<br>Jack (@JWLD)<br>Zooey (@ZooeyMiller)<br>Finn (@finnhodgkin) |  |
 | Presentation guidelines |  |  |
 | Cohort SGC Facilitation |  |  |
 | Project group SGC Facilitation |  |  |
