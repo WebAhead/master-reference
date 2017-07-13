@@ -46,7 +46,7 @@
 | ---- | ------ | -------- | ---- |
 | Code review | Samatar (@Samatar26) Antonio (@antoniotrkdz) Zooey (@ZooeyMiller) Jen (@jsms90) | Mario (@Karyum) Lubes (@mattlub) Mavis (@m4v15) Mohamed (@MohamedOmarii) Shireen (@shiryz) |
 | Presentation guidelines | Samatar (@Samatar26) | Lubes (@mattlub) Mavis (@m4v15) Mohamed (@MohamedOmarii) |
-| SGC Facilitation | Jen (@jsms90) | Lubes (@mattlub) Mavis (@m4v15) Reem (@RQ16) |
+| SGC Facilitation | Jen (@jsms90)<br>(cohort only - no team SGCs) | Lubes (@mattlub) Mavis (@m4v15) Reem (@RQ16) |
 | SGC Note taking | Samatar (@Samatar26) |  |
 
 
@@ -84,7 +84,8 @@
 | ---- | ------ | -------- | ---- |
 | Code review | Zooey (@ZooeyMiller) Oli (@oliverjam) Finn (@finnhodgkin) |  |
 | Presentation guidelines | Oli (@oliverjam) |  |
-| SGC Facilitation | Zooey (@ZooeyMiller) |  |
+| Cohort SGC Facilitation | Zooey (@ZooeyMiller) |  |
+| Project group SGC Facilitation | Oli (@oliverjam) Finn (@finnhodgkin) Jen (@jsms90) |  |
 | SGC Note taking | Finn (@finnhodgkin) |  |
 
 ## Week 3
@@ -121,4 +122,6 @@
 | ---- | ------ | -------- | ---- |
 | Code review | Lucy (@lucyrose93) Martha (@smarthutza) Jack (@JWLD) Zooey (@ZooeyMiller) Finn (@finnhodgkin) |  |
 | Presentation guidelines |  |  |
+| Cohort SGC Facilitation |  |  |
+| Project group SGC Facilitation |  |  |
 | SGC Note taking |  |  |
