@@ -26,14 +26,20 @@
 
 #### DAY 2
 
-- 10.00 - 13.00 <br />
- @eliascodes's [workshop](https://github.com/foundersandcoders/workshop-client-side-design) on designing for the client (StackOverflow reputation builder)
+- 10.00 - 11:00 <br />
+[Flexbox Froggy](http://flexboxfroggy.com/)
+- 11.00 - 11:30 <br />
+[Flexbox Dice Morning Challenge](https://github.com/smarthutza/flexbox-workshop)
+- 11.45 - 13.00 <br />
+[Software Architecture Workshop](https://github.com/foundersandcoders/Workshop-Software-Architecture-Design)
 
 -- LUNCHTIME 😋 --  
 
-- 14.00 - 17.30 <br /> Workshop continues
+- 14.00 - 17.00 <br />
+[Software Design Workshop](https://github.com/foundersandcoders/ws-software-design-js)
 
-- 17.30 - 18.00 <br /> Introduce projects  
+- 17.15 - 18.00 <br />
+[Introduce Projects](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-3/project.md) & Start Planning Architecture
 
 #### DAY 3
 
