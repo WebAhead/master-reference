@@ -12,6 +12,8 @@ Don't worry if you don't finish the kata. The aim is to learn the process. 15 mi
 
 ## Methods
 
+**Ping pong.** _This is the preferred pairing method in FAC, but we advise you wait until after testing week (week 2) before trying it out._ One student starts by creating a single failing test and then each student takes it in turns to first write code to make the test pass and then to write a new failing test before passing the keyboard back to their partner.  
+
 **The driving test.** One student sits at the computer and the other student acts as examiner. the student being examined should explain their thinking as they work. Whenever the examiner thinks the other student is being too quiet or does not understand something, she can ask for more information, but otherwise should offer no advice nor provide any feedback.  
 
 **The back-seat driver.** This is similar to the driving test, but in this case the examiner sits at the keyboard and follows the instructions of the other student. Again, the examiner should provide no advice, but can request clarification or an explanation of why she is being asked to do something.  
