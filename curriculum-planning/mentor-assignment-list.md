@@ -7,7 +7,7 @@
 | [Week 4](#week-4) | **Delivering & planning:**<br>Zooey (@ZooeyMiller)<br>Yvonne (@yvonne-liu) | **Delivering:**<br>Mohamed (@MohamedOmarii)<br>Hiba (@hibaakel)<br>Zooey (@ZooeyMiller)<br>Yvonne (@yvonne-liu)<br>Finn (@finnhodgkin) |
 | [Week 5](#week-5) | **Delivering & planning:**<br>Joey (@joeylouise)<br>Maja (@majakudlicka) | **Delivering:**<br>Mario (@Karyum) |
 | [Week 6](#week-6) | **Delivering & planning:**<br>Alice (@ConchobarMacNessa)<br>Philippa (@pbywater)<br>Elias (@macintoshhelper)| **Delivering:**<br>Mario (@Karyum)<br>Suha (@Suuuuha) |
-| [Week 7](#week-7) | **Delivering**<br>Alexis (@alexis-l8)<br>Jessica (@bo-bok)<br><br>**Planning**<br>Ronan (@ronanyeah)<br>Eoin (@des-des)<br>Alexis (@alexis-l8)<br>Jessica (@bo-bok) | **Delivering:**<br>Mario (@Karyum) Suha (@Suuuuha) Lawson (@philawsophizing) |
+| [Week 7](#week-7) | **Delivering**<br>Alexis (@alexis-l8)<br>Jessica (@bo-bok)<br><br>**Planning**<br>Ronan (@ronanyeah)<br>Eoin (@des-des)<br>Alexis (@alexis-l8)<br>Jessica (@bo-bok) | **Delivering:**<br>Mario (@Karyum)<br>Suha (@Suuuuha)<br>Lawson (@philawsophizing) |
 | [Week 8](#week-8) | **Delivering & planning:**<br>Akin (@Akin909)<br>Piotr (@PiotrBerebecki) | **Delivering:**<br>Mario (@Karyum)<br>Lawson (@philawsophizing) |
 
 ## Week 1
@@ -56,7 +56,7 @@
 | ---- | ------ | -------- | ---- |
 | Intro to NPM | **Lead:**<br>Oli (@oliverjam)<br><br>**Support:**<br>Finn (@finnhodgkin) |  |
 | Introduction to testing and TDD | **Lead:**<br>Oli (@oliverjam)<br><br>**Support:**<br>Finn (@finnhodgkin) |  |
-| DWYL's learn-tape workshop | **Lead:**Oli (@oliverjam)<br><br>**Support:**<br>Finn (@finnhodgkin) |  |
+| DWYL's learn-tape workshop | **Lead:**<br>Oli (@oliverjam)<br><br>**Support:**<br>Finn (@finnhodgkin) |  |
 | Roman numerals TDD code-along | **Lead:**<br>Oli (@oliverjam)<br><br>**Support:**<br>Finn (@finnhodgkin) |  |
 | Business development | **Meetups:**<br>Cleo (@Cleop)<br><br>**Environment:**<br>Bradley (@bradreeder)<br><br>**Rest:**<br>Jen (@jsms90) |  |
 
@@ -71,7 +71,7 @@
 ### Day 3
 | Part | London | Nazareth | Gaza |
 | ---- | ------ | -------- | ---- |
-| Morning challenge - DOM manipulation | **Lead:**<br>Finn (@finnhodgkin)<br><br>**Support:**Oli (@oliverjam) |  |
+| Morning challenge - DOM manipulation | **Lead:**<br>Finn (@finnhodgkin)<br><br>**Support:**<br>Oli (@oliverjam) |  |
 | Project Support | Oli (@oliverjam)<br>Finn (@finnhodgkin)<br>Zooey (@ZooeyMiller) |
 
 ### Day 4
@@ -102,7 +102,7 @@
 | Part | London | Nazareth | Gaza |
 | ---- | ------ | -------- | ---- |
 | Flexbox | **Lead:**<br>Martha (@smarthutza)<br><br>**Support:**<br>Lucy (@lucyrose93)<br>Jack (@JWLD) |  |
-| Software Architecture Design | **Lead:**<br>Lucy (@lucyrose93)<br><br>**Support:**Martha (@smarthutza)<br>Jack (@JWLD) |  |
+| Software Architecture Design | **Lead:**<br>Lucy (@lucyrose93)<br><br>**Support:**<br>Martha (@smarthutza)<br>Jack (@JWLD) |  |
 | Modular Pattern Workshop | **Lead:**<br>Jack (@JWLD)<br><br>**Support:**<br>Martha (@smarthutza)<br>Lucy (@lucyrose93) |  |
 | Introduce project | Lucy (@lucyrose93)  |  |
 
