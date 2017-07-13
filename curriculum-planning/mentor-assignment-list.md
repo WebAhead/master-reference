@@ -54,25 +54,25 @@
 ### Day 1
 | Part | London | Nazareth | Gaza |
 | ---- | ------ | -------- | ---- |
-| Intro to NPM | Lead: Oli (@oliverjam) <br><br> Support: Finn (@finnhodgkin) |  |
-| Introduction to testing and TDD | Lead: Oli (@oliverjam) <br><br> Support: Finn (@finnhodgkin) |  |
-| DWYL's learn-tape workshop |  Lead: Oli (@oliverjam) <br><br> Support: Finn (@finnhodgkin) |  |
-| Roman numerals TDD code-along | Lead: Oli (@oliverjam) <br><br> Support: Finn (@finnhodgkin) |  |
-| Business development | Cleo (@Cleop) Bradley (@bradreeder) Jen (@jsms90) |  |
+| Intro to NPM | Lead: Oli (@oliverjam) <br><br> Support: Finn (@finnhodgkin) | Matt Davis (@m4v15) Reem (@RQ16) |
+| Introduction to testing and TDD | Lead: Oli (@oliverjam) <br><br> Support: Finn (@finnhodgkin) | Matt Davis (@m4v15) Reem (@RQ16) |
+| DWYL's learn-tape workshop |  Lead: Oli (@oliverjam) <br><br> Support: Finn (@finnhodgkin) | Matt Davis (@m4v15) Reem (@RQ16) |
+| Roman numerals TDD code-along | Lead: Oli (@oliverjam) <br><br> Support: Finn (@finnhodgkin) | Matt Davis (@m4v15) Reem (@RQ16) |
+| Business development | Cleo (@Cleop) Bradley (@bradreeder) Jen (@jsms90) | Matt Davis (@m4v15) Reem (@RQ16)  |
 
 ### Day 2
 | Part | London | Nazareth | Gaza |
 | ---- | ------ | -------- | ---- |
-| Traffic light callbacks challenge | Lead: Finn (@finnhodgkin) <br><br> Support: Oli (@oliverjam) |  |
-| Pure functions workshop | Lead: Oli (@oliverjam) <br><br> Support: Finn (@finnhodgkin) |  |
-| Intro to research | Oli (@oliverjam) Finn (@finnhodgkin) |  |
+| Traffic light callbacks challenge | Lead: Finn (@finnhodgkin) <br><br> Support: Oli (@oliverjam) | Matt Davis (@m4v15) Reem (@RQ16) |
+| Pure functions workshop | Lead: Oli (@oliverjam) <br><br> Support: Finn (@finnhodgkin) | @mattlub @rq16 |
+| Intro to research | Oli (@oliverjam) Finn (@finnhodgkin) | Matt Davis (@m4v15) Reem (@RQ16) |
 | Introduce project | Oli (@oliverjam) Finn (@finnhodgkin)  |  |
 
 ### Day 3
 | Part | London | Nazareth | Gaza |
 | ---- | ------ | -------- | ---- |
-| Morning challenge - DOM manipulation | Lead: Finn (@finnhodgkin) <br><br> Support: Oli (@oliverjam) |  |
-| Project Support | Oli (@oliverjam) Finn (@finnhodgkin) Zooey (@ZooeyMiller) |
+| Morning challenge - DOM manipulation | Lead: Finn (@finnhodgkin) <br><br> Support: Oli (@oliverjam) | @karyum |
+| Project Support | Oli (@oliverjam) Finn (@finnhodgkin) Zooey (@ZooeyMiller) | 
 
 ### Day 4
 | Part | London | Nazareth | Gaza |
