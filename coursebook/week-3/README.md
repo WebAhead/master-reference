@@ -26,9 +26,9 @@
 
 #### DAY 2
 
-- 10.00 - 11:00 <br />
+- 10:00 - 10:45 <br />
 [Flexbox Froggy](http://flexboxfroggy.com/)
-- 11.00 - 11:30 <br />
+- 10:45 - 11:45 <br />
 [Flexbox Dice Morning Challenge](https://github.com/smarthutza/flexbox-workshop)
 - 11.45 - 13.00 <br />
 [Software Architecture Workshop](https://github.com/foundersandcoders/Workshop-Software-Architecture-Design)
