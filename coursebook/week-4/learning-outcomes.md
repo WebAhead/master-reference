@@ -10,7 +10,7 @@
 - Understand basic ES6 syntax and general file system manipulation
 - Understand what a node module is and the different types of modules
 - Understand and use basic core modules (e.g. `http`, `fs`, `querystring`, `url`) and some of their properties and methods
-- Understanding the structure of an URL and its supporting modules
+- Understand the structure of a URL
 - Understand the `request` and `response` objects and some of their properties and methods
 - Understand how to set up a server with different endpoints and http methods (e.g. `GET`, `POST`)
 
@@ -29,7 +29,7 @@
 - Understand how to run tests in parallel with developing code
 
 #### Accessibility
-- Understand how to make accessible web apps
+- Understand how to make your web apps more accessible, specifically with using `ARIA Live Regions` and keyboard controls
 - _"It's all in the semantics"_
 
 ### Revision questions
