@@ -16,9 +16,7 @@
 
 #### Day 2
 
-- 10:00 - 12:45 - [Node shell workshop](https://github.com/msachi/Node-Shell-Workshop)  
-THIS VERSION SHOULD NOT BE ITERATED UPON. It is a copy of previously existing material from 2 other workshops.  
-This exists here so that you can look through the version as it was delivered to you. For iterations, please use the original.
+- 10:00 - 12:45 - [Node shell workshop](https://github.com/foundersandcoders/Node-Shell-Workshop/)
 
 - 12:45 - 13:00 - Introduce [research topics](./research-afternoon.md)
 
