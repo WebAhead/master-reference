@@ -7,9 +7,10 @@
 #### Node server basics
 - Understand what is Node.js
 - Understand how running Node differs from running JavaScript in your browser
-- Be introduced to ES6 syntax and general file system manipulation
+- Understand basic ES6 syntax and general file system manipulation
 - Understand what a node module is and the different types of modules
-- Understand and use basic core modules (e.g. `http`, `fs`, `querystring`) and some of their properties and methods
+- Understand and use basic core modules (e.g. `http`, `fs`, `querystring`, `url`) and some of their properties and methods
+- Understand the structure of a URL
 - Understand the `request` and `response` objects and some of their properties and methods
 - Understand how to set up a server with different endpoints and http methods (e.g. `GET`, `POST`)
 
@@ -26,6 +27,10 @@
 #### Back-end testing
 - Understand how to test server functionality using `tape`
 - Understand how to run tests in parallel with developing code
+
+#### Accessibility
+- Understand how to make your web apps more accessible, specifically with using `ARIA Live Regions` and keyboard controls
+- _"It's all in the semantics"_
 
 ### Revision questions
 - What is a server and what is Node.js?
