@@ -125,3 +125,41 @@
 | Cohort SGC Facilitation |  |  |
 | Project group SGC Facilitation |  |  |
 | SGC Note taking |  |  |
+
+## Week 4
+### Day 1
+| Part | London | Nazareth | Gaza |
+| ---- | ------ | -------- | ---- |
+| Intro to servers and Node.js | **Lead:**<br>Zooey (@ZooeyMiller)<br><br>**Support:**<br>Yvonne (@yvonne-liu) |  |
+| Node Intro Workshop | **Lead:**<br>Yvonne (@yvonne-liu)<br><br>**Support:**<br>Zooey (@ZooeyMiller) |  |
+| Node Girls workshop | Zooey (@ZooeyMiller)<br>Yvonne (@yvonne-liu) |  |
+| Business development | **Meetups:**<br>Cleo (@Cleop)<br><br>**Environment:**<br>Bradley (@bradreeder)<br><br>**Calendar:**<br>Jen (@jsms90)<br>Joe (@freelancedad)<br><br>**Rest:**<br>Jen (@jsms90) |  |
+
+### Day 2
+| Part | London | Nazareth | Gaza |
+| ---- | ------ | -------- | ---- |
+| ES6 morning challenge | **Lead:**<br>Zooey (@ZooeyMiller)<br><br>**Support:**<br>Yvonne (@yvonne-liu) |  |
+| Node Girls workshop (continued) | Zooey (@ZooeyMiller)<br>Yvonne (@yvonne-liu) |  |
+| Modularisation challenge | **Lead:**<br>Zooey (@ZooeyMiller)<br><br>**Support:**<br>Yvonne (@yvonne-liu) |  |
+| Introduce research afternoon | **Lead:**<br>Yvonne (@yvonne-liu)<br><br>**Support:**<br>Zooey (@ZooeyMiller) |  |
+| Introduce project | **Lead:**<br>Yvonne (@yvonne-liu)<br><br>**Support:**<br>Zooey (@ZooeyMiller) |  |
+
+### Day 3
+| Part | London | Nazareth | Gaza |
+| ---- | ------ | -------- | ---- |
+| Accessibility morning challenge | **Lead:**<br>Yvonne (@yvonne-liu)<br><br>**Support:**<br>Zooey (@ZooeyMiller) |  |
+| Project Support | Yvonne (@yvonne-liu)<br>Zooey (@ZooeyMiller) |
+
+### Day 4
+| Part | London | Nazareth | Gaza |
+| ---- | ------ | -------- | ---- |
+| Project Support | Yvonne (@yvonne-liu)<br>Zooey (@ZooeyMiller) |
+
+### Day 5
+| Part | London | Nazareth | Gaza |
+| ---- | ------ | -------- | ---- |
+| Code review | Yvonne (@yvonne-liu)<br>Zooey (@ZooeyMiller)<br>Finn (@finnhodgkin) |  |
+| Presentation guidelines |  |  |
+| Cohort SGC Facilitation | FAC11 member<br>(+ Yvonne (@yvonne-liu)) |  |
+| SGC Note taking | Zooey (@ZooeyMiller) |  |
+| Project group SGC Facilitation | Yvonne (@yvonne-liu)<br>Zooey (@ZooeyMiller)<br>Jen (@jsms90) |  |
