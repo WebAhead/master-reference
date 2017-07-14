@@ -18,7 +18,7 @@
 
 * [Using `body-parser` when handling POST requests with Express](https://www.gitbook.com/book/kevinchisholm/handling-post-requests-with-express-and-node-js/details)
 
-* [Handle GET and POST Request in Express](https://codeforgeek.com/2014/09/handle-get-post-request-express-4/)
+* [Handle GET and POST requests in Express](https://codeforgeek.com/2014/09/handle-get-post-request-express-4/)
 
 * [Handle GET and POST requests - video tutorial](https://www.youtube.com/watch?v=Sb8xyCa2p7A)
 
