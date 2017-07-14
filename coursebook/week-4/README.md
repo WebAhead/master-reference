@@ -9,38 +9,45 @@
 & [Node Intro Workshop](https://github.com/foundersandcoders/Node-Intro-Workshop)
 
 - 14:00 - 16:00
--- [Node Girls workshop](https://github.com/node-girls/workshop-cms) (CMS steps at the end are *optional*) -   
-**NOTE TO MENTOR** workshop has been improved following feedback from F&C9 and master branch is up-to-date
-
+-- [Node Girls workshop](https://github.com/node-girls/workshop-cms) (Day of 1 of 2)
 - 16:00 - 18:00
 -- Business development
 
 #### Day 2
 
-- 10:00 - 11:00
+- 10:00 - 11:30
 -- [ES6 morning challenge](./morning-challenge-day-2.md)
 
-- 11:00 - 12:45
--- [Tape-testing Workshop](https://github.com/matthewglover/tape-testing) (& nodemon)
+- 11:30 - 12:45
+-- [Node Girls workshop](https://github.com/node-girls/workshop-cms) (Day of 2 of 2)
 
 - 12:45 - 13:00
--- Intro to readme topics + project teams
+-- Intro to research topics for research afternoon
 
-- 14:00 - 18:00
--- [Readmes](./research-afternoon.md):
-  * Architecting
-  * Engineering
-  * Packaging
-  * Deploying
+- 14:00 - 16:30
+-- [Research Afternoon](./research-afternoon.md)
+
+- 16:30 - 17:30
+-- Review and Present research topics
+
+- 17:30 - 18:00
+-- [Introduce Project](./project.md)
 
 #### Day 3
 
 - 10:00 - 11:00
 -- [Modularisation morning challenge](./morning-challenge-day-3.md)
 
-- 11:00 - 18:00
--- Autocomplete project (see project spec [here](./project.md))
-  - planning before lunch
+- 11:00 - 13:00
+-- Start project
+
+-- LUNCH --
+
+- 14:00 - 17:00
+-- Projects
+
+- 17:00 - 18:00
+-- External speaker 
 
 #### Day 4
 
