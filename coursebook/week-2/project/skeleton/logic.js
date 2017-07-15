@@ -38,3 +38,9 @@ var todoFunctions = {
     // hint: array.slice, array.sort
   },
 };
+
+
+// Export todoFunctions for testing with tape
+if (typeof module !== 'undefined') {
+  module.exports = todoFunctions;
+}
