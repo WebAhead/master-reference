@@ -28,10 +28,6 @@
 - Understand how to test server functionality using `tape`
 - Understand how to run tests in parallel with developing code
 
-#### Accessibility
-- Understand how to make your web apps more accessible, specifically with using `ARIA Live Regions` and keyboard controls
-- _"It's all in the semantics"_
-
 ### Revision questions
 - What is a server and what is Node.js?
 - What types of Node modules are there?

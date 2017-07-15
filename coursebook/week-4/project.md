@@ -22,8 +22,6 @@ Your task is to build a site which will update as you type (an autocompleter), a
 
 4) Consider what would be a good __server file structure__ based on what we have discussed over the week.
 
-5) Your website should be designed with accessibility in mind! See [this list of accessibility tips](https://www.marcozehe.de/2015/12/14/the-web-accessibility-basics/)
-
 
 #### Example
 
