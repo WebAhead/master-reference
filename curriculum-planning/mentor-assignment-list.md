@@ -3,7 +3,7 @@
 | ---- | ------ | ------ | ------ |
 | [Week 1](#week-1) | **Delivering & planning:**<br>Samatar (@Samatar26)<br>Antonio (@antoniotrkdz) | **Delivering:**<br>Matt Lubes (@mattlub)<br>Matt Davis (@m4v15) |
 | [Week 2](#week-2) | **Delivering & planning:**<br>Oli (@oliverjam)<br>Finn (@finnhodgkin) | **Delivering:**<br>Matt Davis (@m4v15)<br>Reem (@RQ16) |
-| [Week 3](#week-3) | **Delivering:**<br>Lucy (@lucyrose93)<br>Martha (@smarthutza)<br>Jack (@JWLD)<br><br>**Planning:**<br>Edgar (@edgarfinn) | **Delivering:**<br>Mohamed (@MohamedOmarii)<br>Hiba (@hibaakel) |
+| [Week 3](#week-3) | **Delivering:**<br>Lucy (@lucyrose93)<br>Martha (@smarthutza)<br>Jack (@JWLD)<br><br>**Planning:**<br>Edgar (@edgarfinn) | **Delivering:**<br>Mohamed (@MohamedOmarii)<br>Hiba (@hibaakel)<br> Lubes (@mattlub) |
 | [Week 4](#week-4) | **Delivering & planning:**<br>Zooey (@ZooeyMiller)<br>Yvonne (@yvonne-liu) | **Delivering:**<br>Mohamed (@MohamedOmarii)<br>Hiba (@hibaakel)<br>Zooey (@ZooeyMiller)<br>Yvonne (@yvonne-liu)<br>Finn (@finnhodgkin) |
 | [Week 5](#week-5) | **Delivering & planning:**<br>Joey (@joeylouise)<br>Maja (@majakudlicka) | **Delivering:**<br>Mario (@Karyum) |
 | [Week 6](#week-6) | **Delivering & planning:**<br>Alice (@ConchobarMacNessa)<br>Philippa (@pbywater)<br>Elias (@macintoshhelper)| **Delivering:**<br>Mario (@Karyum)<br>Suha (@Suuuuha) |
