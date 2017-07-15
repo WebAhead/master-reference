@@ -1,6 +1,6 @@
 # Coursebook
 
-Welcome to the coursebook for F&C!
+Welcome to the coursebook for FAC!
 
 For general information, including an overview of the course, applicable across the curriculum [start here](general/README.md).
 
