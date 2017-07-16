@@ -13,7 +13,7 @@
 
 - 10.00 - 10.15 <br /> Introduction and learning outcomes with week-3 mentors  
 
-- 10.15 - 12.00 <br /> [Introductory workshop](https://github.com/foundersandcoders/api-workshop): API basics, HTTP, XHMLHttp requests, request-response pattern
+- 10.15 - 12.00 <br /> [Introductory workshop](https://github.com/foundersandcoders/api-workshop): API basics, HTTP, XMLHttp requests, request-response pattern
 
 - 12.00 - 13.00 <br /> [XHR workshop](https://github.com/foundersandcoders/xhr-workshop)
 
