@@ -5,11 +5,9 @@ Schedule
 
 ### Day 1:
 
-10:00-10.15 - Introduction to gitbook, learning outcomes & project teams.
+10:00-10.15 - [Learning outcomes for this week](./learning-outcomes.md)
 
-Start each week with a mission and a goal.
-
-10.15-13:00 - Workshop 1
+10.15-13:00 - Workshop 1 - [Introduction to Express](https://github.com/PiotrBerebecki/express-workshop)
 
 --LUNCH--
 
@@ -72,4 +70,3 @@ teams.
 15:40-17:00 - Presentations (20 mins per group)
 
 17:00-18:00 - External Speaker or Alumni Project Presentation
-
