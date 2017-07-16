@@ -5,7 +5,7 @@ Schedule
 
 ### Day 1:
 
-10:00-10.15 - [Learning outcomes for this week](./learning-outcomes.md)
+10:00-10.15 - Learning outcomes for this week
 
 10.15-13:00 - Workshop 1 - [Introduction to Express](https://github.com/PiotrBerebecki/express-workshop)
 
