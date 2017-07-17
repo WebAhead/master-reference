@@ -54,24 +54,24 @@
 ### Day 1
 | Part | London | Nazareth | Gaza |
 | ---- | ------ | -------- | ---- |
-| Intro to NPM | **Lead:**<br>Oli (@oliverjam)<br><br>**Support:**<br>Finn (@finnhodgkin) |  |
-| Introduction to testing and TDD | **Lead:**<br>Oli (@oliverjam)<br><br>**Support:**<br>Finn (@finnhodgkin) |  |
-| DWYL's learn-tape workshop | **Lead:**<br>Oli (@oliverjam)<br><br>**Support:**<br>Finn (@finnhodgkin) |  |
-| Roman numerals TDD code-along | **Lead:**<br>Oli (@oliverjam)<br><br>**Support:**<br>Finn (@finnhodgkin) |  |
-| Business development | **Meetups:**<br>Cleo (@Cleop)<br><br>**Environment:**<br>Bradley (@bradreeder)<br><br>**Rest:**<br>Jen (@jsms90) |  |
+| Intro to NPM | **Lead:**<br>Oli (@oliverjam)<br><br>**Support:**<br>Finn (@finnhodgkin) | Matt Davis (@m4v15) Reem (@RQ16) |
+| Introduction to testing and TDD | **Lead:**<br>Oli (@oliverjam)<br><br>**Support:**<br>Finn (@finnhodgkin) | Matt Davis (@m4v15)<br>Reem (@RQ16) |
+| DWYL's learn-tape workshop | **Lead:**<br>Oli (@oliverjam)<br><br>**Support:**<br>Finn (@finnhodgkin) | Matt Davis (@m4v15)<br>Reem (@RQ16) |
+| Roman numerals TDD code-along | **Lead:**<br>Oli (@oliverjam)<br><br>**Support:**<br>Finn (@finnhodgkin) | Matt Davis (@m4v15)<br>Reem (@RQ16) |
+| Business development | **Meetups:**<br>Cleo (@Cleop)<br><br>**Environment:**<br>Bradley (@bradreeder)<br><br>**Rest:**<br>Jen (@jsms90) | Matt Davis (@m4v15)<br>Reem (@RQ16) |
 
 ### Day 2
 | Part | London | Nazareth | Gaza |
 | ---- | ------ | -------- | ---- |
-| Traffic light callbacks challenge | **Lead:**<br>Finn (@finnhodgkin)<br><br>**Support:**<br>Oli (@oliverjam) |  |
-| Pure functions workshop | **Lead:**<br>Oli (@oliverjam)<br><br>**Support:**<br>Finn (@finnhodgkin) |  |
-| Intro to research | Oli (@oliverjam)<br>Finn (@finnhodgkin) |  |
-| Introduce project | Oli (@oliverjam)<br>Finn (@finnhodgkin)  |  |
+| Traffic light callbacks challenge | **Lead:**<br>Finn (@finnhodgkin)<br><br>**Support:**<br>Oli (@oliverjam) | Matt Davis (@m4v15)<br>Reem (@RQ16) |
+| Pure functions workshop | **Lead:**<br>Oli (@oliverjam)<br><br>**Support:**<br>Finn (@finnhodgkin) | Matt Lubes (@mattlub)<br>Reem (@RQ16) |
+| Intro to research | Oli (@oliverjam)<br>Finn (@finnhodgkin) | Matt Davis (@m4v15)<br>Reem (@RQ16) |
+| Introduce project | Oli (@oliverjam)<br>Finn (@finnhodgkin)  | Matt Davis (@m4v15)<br>Reem (@RQ16) |
 
 ### Day 3
 | Part | London | Nazareth | Gaza |
 | ---- | ------ | -------- | ---- |
-| Morning challenge - DOM manipulation | **Lead:**<br>Finn (@finnhodgkin)<br><br>**Support:**<br>Oli (@oliverjam) |  |
+| Morning challenge - DOM manipulation | **Lead:**<br>Finn (@finnhodgkin)<br><br>**Support:**<br>Oli (@oliverjam) | Mario (@Karyum) |
 | Project Support | Oli (@oliverjam)<br>Finn (@finnhodgkin)<br>Zooey (@ZooeyMiller) |
 
 ### Day 4
