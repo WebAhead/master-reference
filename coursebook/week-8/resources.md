@@ -2,6 +2,8 @@
 
 * [What is Express and why do we use it - video tutorial](https://www.youtube.com/watch?v=45dAt9Gz8rE)
 
+* [Express API reference](https://expressjs.com/en/4x/api.html)
+
 * [Express hello world example](https://expressjs.com/en/starter/hello-world.html)
 
 * [Express basic routing](https://expressjs.com/en/starter/basic-routing.html)
@@ -11,8 +13,6 @@
 * [Express middleware](https://expressjs.com/en/guide/writing-middleware.html) - learn how middleware functions fit into application’s request-response cycle
 
 * [How to serve static files with Express](http://www.fullstacktraining.com/articles/how-to-serve-static-files-with-express)
-
-* [Express API reference](https://expressjs.com/en/4x/api.html)
 
 * [Learn and Understand Node - video tutorial - Section 9 - Express](https://www.udemy.com/understand-nodejs/learn/v4/content)
 
