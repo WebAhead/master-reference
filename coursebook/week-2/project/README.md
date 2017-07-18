@@ -22,7 +22,7 @@ This project is split into three parts:
 ### User stories:
 
 As a disorganised person I want to:
- 
+
  * enter tasks I need to do into a web page so that I don't forget them
  * view the tasks I have added in a list so that I can plan my day
  * mark tasks as complete so that I can focus on the tasks I have left
@@ -83,7 +83,7 @@ Add to-do takes two arguments, a to-do array and a to-do element. The to-do elem
 ```js
 var todos = [];
 var newTodo = { description: 'make smoothie out of things that should really be cooked' };
-var updatedTodos = todo.todoFunctions.addTodo(todos, newTodos);
+var updatedTodos = todoFunctions.addTodo(todos, newTodos);
 console.log(updatedTodos)
 //  [
 //    {
@@ -97,7 +97,7 @@ console.log(updatedTodos)
 ```js
 var todos = [{ description: 'make tea' }];
 var makeEggs = { description: 'make eggs' };
-var updatedTodos = todo.todoFunctions.addTodo(todos, makeEggs);
+var updatedTodos = todoFunctions.addTodo(todos, makeEggs);
 console.log(updatedTodos)
 //  [
 //    {
@@ -109,7 +109,7 @@ console.log(updatedTodos)
 //      done: false,
 //     }
 //  ]
-console.log(todos) // [{ description: 'make eggs' }]
+console.log(todos) // [{ description: 'make tea' }]
 ```
 
 ##### `markTodo`
@@ -121,12 +121,12 @@ var todos = [
   {id: 0, description: 'make tea', done: false},
   {id: 1, description: 'make eggs', done: true},
 ]
-todo.todoFunctions.markTodo(todos, 0);
+todoFunctions.markTodo(todos, 0);
 // [
 //   {id: 0, description: 'make tea', done: true},
 //   {id: 1, description: 'make eggs', done: true},
 // ]
-todo.todoFunctions.markTodo(todos, 1);
+todoFunctions.markTodo(todos, 1);
 // [
 //   {id: 0, description: 'make tea', done: false},
 //   {id: 1, description: 'make eggs', done: false},
@@ -152,5 +152,4 @@ Inside this function you need to create a new state with a new to-do.
 
 You can add features, like filtering by completed or editing descriptions.
 
-Try to make it look pretty, using CSS.
-
+Try to make it look pretty using CSS.
