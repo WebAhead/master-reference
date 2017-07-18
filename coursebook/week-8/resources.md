@@ -32,6 +32,8 @@
 
 * [Introduction to using `validator` to validate and sanitise strings](https://codeforgeek.com/2015/03/string-validation-package-nodejs/)
 
+* [A validation middleware for express using the Joi validation suite from authors of the Hapi server framework](https://www.npmjs.com/package/express-joi)
+
 * [How to use `express-validator` to validate form data; and `express-session` to manage user sessions](https://www.youtube.com/watch?v=hE5zeEiVqpw)
 
 * [Cookie management in Express using `cookie-parser`](https://www.codementor.io/noddy/cookie-management-in-express-js-du107rmna)
