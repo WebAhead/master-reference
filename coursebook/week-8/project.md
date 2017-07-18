@@ -15,4 +15,4 @@ The primary aim of this project is to get comfortable with setting up an Express
 
 - Include tests and set up code coverage.
 - Use Heroku or a similar service to host the app and the database.
-- Try to include ES6 syntax.
+- Try to include ES6 syntax on the server.
