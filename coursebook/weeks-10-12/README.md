@@ -7,8 +7,7 @@
 ## Timetable
 
 ### Day 1-5
-Design sprint.
-To be completed by @harrygfox @nogainbar @bradreeder
+[Design sprint](./design-sprint)
 
 ### Day 6-14
 Product build
