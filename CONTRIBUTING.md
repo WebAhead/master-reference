@@ -23,14 +23,17 @@ The following people are available to review pull requests: [@bradreeder](https:
 `question` - you're not actually sure whether this is an issue or not and would like confirmation
 `help wanted` - you would like some help in completing work on this issue
 
-## Commits
+## Starting work
 
+Please follow [these guidelines on ettiquette](https://gist.github.com/mikepea/863f63d6e37281e329f8), in order to make the most of GitHub as a communication tool :tada:
+
+### Commits
 The commit history of each file should tell a story
 + [Describe your changes well](https://gist.github.com/mikepea/863f63d6e37281e329f8#describe-your-changes-well-in-each-commit)
 + [Commits should be granular](https://gist.github.com/mikepea/863f63d6e37281e329f8#keep-it-small)
 + **It is important that you reference an issue in each commit** - use [multiline messages](#multiline-messages)
 
-### Multiline messages
+#### Multiline messages
 
 You will want to space your commit messages over more than one line. Commit without the `-m` to bring up a text editor in which to write the commit message.
 
@@ -53,7 +56,7 @@ short description under 50 chars.
 related #[issue number]
 ```
 
-## Pull Requests
+### Pull Requests
 
 Once you have finished your work, push up your branch and make a pull request. Remember, a pull request should be as small as possible. This makes the review process quick and easy.
 
