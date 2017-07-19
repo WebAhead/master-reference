@@ -1,7 +1,5 @@
 Inspired by [dwyl's contribution workflow](https://www.github.com/dwyl/contributing).
 
-The following people are available to review pull requests: [@bradreeder](https://github.com/bradreeder), [@des-des](https://github.com/des-des), [@jsms90](https://github.com/jsms90), [@eliascodes](https://github.com/eliascodes), [@sofer](https://github.com/sofer), [@iteles](https://github.com/iteles) or [@nelsonic](https://github.com/nelsonic).
-
 # Contribution guidelines
 
 ## Before starting work
@@ -65,7 +63,14 @@ Make sure your PR has the following
   1. [A descriptive title](https://gist.github.com/mikepea/863f63d6e37281e329f8#ensure-there-is-a-solid-title-and-summary) - distinct from others and therefore searchable
   2. [A body with details of everything in the pull.](https://gist.github.com/mikepea/863f63d6e37281e329f8#ensure-there-is-a-solid-title-and-summary)
   3. Reference to any/all related issues in description.
-  4. Assignees, assign between two and three of the designated maintainers.
+  4. Assignees - add the following people to every PR:
+    + [@bradreeder](https://github.com/bradreeder)
+    + [@des-des](https://github.com/des-des)
+    + [@jsms90](https://github.com/jsms90)
+    + [@eliascodes](https://github.com/eliascodes)
+    + [@sofer](https://github.com/sofer)
+    + [@iteles](https://github.com/iteles)
+    + [@nelsonic](https://github.com/nelsonic)
 
 ## Instructions for maintainers
 Once a pull request has been approved by two maintainers it can be merged. In time critical situations, one approval may suffice, as long a the pull request is small and is not suggesting any major change.
