@@ -69,7 +69,7 @@ Make sure your PR has the following
   1. [A descriptive title](https://gist.github.com/mikepea/863f63d6e37281e329f8#ensure-there-is-a-solid-title-and-summary) - distinct from others and therefore searchable
   2. [A body with details of everything in the pull.](https://gist.github.com/mikepea/863f63d6e37281e329f8#ensure-there-is-a-solid-title-and-summary)
   3. Reference to any/all related issues in description.
-  4. Assignees - add the following people to every PR:
+  4. Assignees - add all the maintainers of `master-reference` to every PR:
     + [@bradreeder](https://github.com/bradreeder)
     + [@des-des](https://github.com/des-des)
     + [@jsms90](https://github.com/jsms90)
@@ -77,6 +77,9 @@ Make sure your PR has the following
     + [@sofer](https://github.com/sofer)
     + [@iteles](https://github.com/iteles)
     + [@nelsonic](https://github.com/nelsonic)
+  5. Reviewers
+    + add anyone other than the maintainers, who you think should be aware of you contents of your PR (e.g. anyone else who has collaborated with you on this issue, anyone mentioned in the file you are uploading)
+    + if your PR _requires_ a review from a particular person / people _before_ it is ready to be merged, specify this within the body of your PR
 
 ## Instructions for maintainers
 Once a pull request has been approved by two maintainers it can be merged. In time critical situations, one approval may suffice, as long a the pull request is small and is not suggesting any major change.
