@@ -2,7 +2,6 @@
 
 ### Menu
 
-* [Learning Outcomes](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/fragments/product-build/learning-outcomes.md)
 * [Pitch Preparation](./preparation.md)
 * [Materials](./materials.md)
 * [Research Afternoon](./research-afternoon.md)
