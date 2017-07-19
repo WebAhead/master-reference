@@ -25,9 +25,10 @@ The following people are available to review pull requests: [@bradreeder](https:
 
 ## Commits
 
-Remember to keep your commits granular and their messages short but descriptive.
-
-**It is important that you reference an issue in each commit.**
+The commit history of each file should tell a story
++ [Describe your changes well](https://gist.github.com/mikepea/863f63d6e37281e329f8#describe-your-changes-well-in-each-commit)
++ [Commits should be granular](https://gist.github.com/mikepea/863f63d6e37281e329f8#keep-it-small)
++ **It is important that you reference an issue in each commit** - use [multiline messages](#multiline-messages)
 
 ### Multiline messages
 
@@ -54,14 +55,14 @@ related #[issue number]
 
 ## Pull Requests
 
-Once you have finished your work, push up your branch and make a pull request. Make sure it has the following
+Once you have finished your work, push up your branch and make a pull request. Remember, a pull request should be as small as possible. This makes the review process quick and easy.
 
-  1. A good title
-  2. Description, with detail of everything in the pull.
+Make sure your PR has the following
+
+  1. [A descriptive title](https://gist.github.com/mikepea/863f63d6e37281e329f8#ensure-there-is-a-solid-title-and-summary) - distinct from others and therefore searchable
+  2. [A body with details of everything in the pull.](https://gist.github.com/mikepea/863f63d6e37281e329f8#ensure-there-is-a-solid-title-and-summary)
   3. Reference to any/all related issues in description.
   4. Assignees, assign between two and three of the designated maintainers.
-
-A pull request should be as small as possible, this makes the review process fast and easy.
 
 ## Instructions for maintainers
 Once a pull request has been approved by two maintainers it can be merged. In time critical situations, one approval may suffice, as long a the pull request is small and is not suggesting any major change.
