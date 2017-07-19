@@ -78,7 +78,8 @@ Make sure your PR has the following
     + [@iteles](https://github.com/iteles)
     + [@nelsonic](https://github.com/nelsonic)
   5. Reviewers
-    + add anyone other than the maintainers, who you think should be aware of you contents of your PR (e.g. anyone else who has collaborated with you on this issue, anyone mentioned in the file you are uploading)
+    + add anyone other than the maintainers, who you think should be aware of you contents of your PR  
+    e.g. anyone else who has collaborated with you on this issue / anyone mentioned in the file you are uploading / mentors delivering this material in another campus
     + if your PR _requires_ a review from a particular person / people _before_ it is ready to be merged, specify this within the body of your PR
 
 ## Instructions for maintainers
