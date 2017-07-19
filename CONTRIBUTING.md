@@ -2,6 +2,12 @@ Inspired by [dwyl's contribution workflow](https://www.github.com/dwyl/contribut
 
 # Contribution guidelines
 
++ [Before starting work](#before-starting-work)
++ [Starting work](#starting-work)
+  + [Commits](#commits)
+  + [Pull requests](pull-requests)
++ [Instructions for maintainers](#instructions-for-maintainers)
+
 ## Before starting work
 
  1. Search this repo's [issues](https://www.github.com/foundersandcoders/master-reference/issues) to see if an issue exists for the problem you are solving.
