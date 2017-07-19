@@ -6,9 +6,7 @@ For general information, including an overview of the course, applicable across 
 
 For materials to complete before arrival, you can find our precourse [here](precourse/README.md).
 
-The first eight weeks comprise the taught part of the curriculum. For materials
-related to each week see:
-
+The first eight weeks will provide you with the necessary building blocks for creating a web app:
 * [Week 1](week-1/README.md) - Toolkit
 * [Week 2](week-2/README.md) - Testing
 * [Week 3](week-3/README.md) - APIs
@@ -17,3 +15,6 @@ related to each week see:
 * [Week 6](week-6/README.md) - PostgreSQL
 * Week 7 - Authentication
 * Week 8 - Express
+
+The second half of the curriculum is focused on longer projects and introduces you to client interaction:
++ [Weeks 10-12](./week-10-12) - self-selected project
