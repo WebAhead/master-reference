@@ -29,8 +29,6 @@ Inspired by [dwyl's contribution workflow](https://www.github.com/dwyl/contribut
 
 ## Starting work
 
-Please follow [these guidelines on ettiquette](https://gist.github.com/mikepea/863f63d6e37281e329f8), in order to make the most of GitHub as a communication tool :tada:
-
 ### Commits
 The commit history of each file should tell a story
 + [Describe your changes well](https://gist.github.com/mikepea/863f63d6e37281e329f8#describe-your-changes-well-in-each-commit)
