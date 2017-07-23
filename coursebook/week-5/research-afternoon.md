@@ -2,7 +2,7 @@
 
 ## Node Shell project
 
-1. Using the instructions [here](https://github.com/foundersandcoders/Node-Shell-Workshop/blob/master/PROJECT.md), create your own test-runner (a test-runner is a program that when you pipe the results of your tests into, will read the results of those tests and provide you with useful information about them e.g. `tap-spec`, `tap-nyan`)
+1. Using the instructions [here](https://github.com/foundersandcoders/Node-Shell-Workshop/blob/master/PROJECT.md), create your own test output formatter (a test output formatter is a program that when you pipe the results of your tests into, will read the results of those tests and provide you with useful information about them e.g. `tap-spec`, `tap-nyan`)
 2. (Bonus) Publish your package to [npm](https://github.com/foundersandcoders/Node-Shell-Workshop/blob/master/PROJECT.md#publishing-to-npm)
 
 ## Continuous Integration
