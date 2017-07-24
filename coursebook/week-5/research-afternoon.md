@@ -1,10 +1,9 @@
 # Research Afternoon
 
-## Code Coverage
+## Node Shell project
 
-1. Research what Code Coverage is and why it's useful for TDD.
-2. Create a basic Node project on Github that includes some tests with Tape, then use a code coverage tool to generate a report and upload it to be visible online. I'd recommend using [Istanbul](https://istanbul.js.org/), [this](https://github.com/dwyl/learn-istanbul#what) excellent tutorial will come in handy.
-3. (Bonus) after uploading the report online, display the [coverage](https://camo.githubusercontent.com/f6d345530f0293eb1b2bbe0efe2d1af354483ffa/68747470733a2f2f636f6465636f762e696f2f67682f6e6a736669656c642f6d79736974652f6272616e63682f6d61737465722f67726170682f62616467652e737667) .svg file provided and display it at the top of your projects' README.md file.
+1. Using the instructions [here](https://github.com/foundersandcoders/Node-Shell-Workshop/blob/master/PROJECT.md), create your own test output formatter (a test output formatter is a program that when you pipe the results of your tests into, will read the results of those tests and provide you with useful information about them e.g. `tap-spec`, `tap-nyan`)
+2. (Bonus) Publish your package to [npm](https://github.com/foundersandcoders/Node-Shell-Workshop/blob/master/PROJECT.md#publishing-to-npm)
 
 ## Continuous Integration
 
