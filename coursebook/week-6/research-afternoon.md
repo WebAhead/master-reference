@@ -7,12 +7,13 @@
 
 ### Database setup and maintenance
   - What is a build script and why do you need one? (think ahead to how this might come in useful when working on a project this week)
+  - What is database migration?
   - Create a build script for a simple database (one or two tables only), which you can run locally. Check that it works for you and everyone on your team
 
 ### Testing
   - What JavaScript / Node.js tools are available for testing a database?
   - Why would you mock a database and how does this help with testing?
-  - Research the Sinon mock library and prepare a demo on how to use it.
+  - Research testing a mock database with tape and prepare a short demonstration of how you would do this.
 
 ### Script injections / safety issues
   - What is a script injection and how do these happen?
