@@ -1,8 +1,8 @@
 # Product Build
 
 ## Menu
- - [Learning outcomes](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/fragments/product-build/learning-outcomes)
- - [Summary](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/fragments/product-build/summary.md)
+ - [Learning outcomes](./learning-outcomes)
+ - [Summary](./summary.md)
 
 ## Timetable
 
