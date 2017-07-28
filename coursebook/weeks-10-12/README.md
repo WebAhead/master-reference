@@ -1,7 +1,7 @@
 # Product Build
 
 ## Menu
- - [Learning outcomes](./learning-outcomes)
+ - [Learning outcomes](./learning-outcomes.md)
  - [Summary](./summary.md)
 
 ## Timetable
