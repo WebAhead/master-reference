@@ -17,4 +17,4 @@ The first eight weeks will provide you with the necessary building blocks for cr
 * Week 8 - Express
 
 The second half of the curriculum is focused on longer projects and introduces you to client interaction:
-+ [Weeks 10-12](./week-10-12) - self-selected project
++ [Weeks 10-12](./weeks-10-12) - self-selected project
