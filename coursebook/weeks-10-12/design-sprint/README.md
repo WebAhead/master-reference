@@ -2,14 +2,13 @@
 
 ### Menu
 
-* [Learning Outcomes](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/fragments/product-build/learning-outcomes.md)
 * [Pitch Preparation](./preparation.md)
 * [Materials](./materials.md)
 * [Research Afternoon](./research-afternoon.md)
 
 ### Day 1
 
-10.00 - 10.15 - [Introduction to the week (learning outcomes)](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/fragments/product-build/learning-outcomes.md)
+10.00 - 10.15 - [Introduction to the week (learning outcomes)](../learning-outcomes.md)
 
 10.15 - 12.15 - [IDEO Design Thinking Workshop](./design-thinking-workshop.md)
 

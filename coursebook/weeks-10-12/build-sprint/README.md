@@ -1,17 +1,8 @@
-# Product Build
+### Day 6
+Pitch ideas
 
-## Menu
- - [Learning outcomes](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/fragments/product-build/learning-outcomes)
- - [Summary](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/fragments/product-build/summary.md)
-
-## Timetable
-
-### Day 1-5
-Design sprint.
-To be completed by @harrygfox @nogainbar @bradreeder
-
-### Day 6-14
-Product build
+### Day 7 - 14
+This is an opportunity for teams to be more self-directed in their project building. [Choice of tech stack](./tech-choices.md) is entirely up to the team and the decision should be made jointly.
 
 ### Day 15
 **Morning**  
