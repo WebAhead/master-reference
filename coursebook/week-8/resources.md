@@ -40,8 +40,8 @@
 
 * [Logging with `morgan`](https://www.npmjs.com/package/morgan)
 
-* [Test a Node RESTful API](https://scotch.io/tutorials/test-a-node-restful-api-with-mocha-and-chai)
+* [Testing Express APIs with Tape and Supertest](https://puigcerber.com/2015/11/27/testing-express-apis-with-tape-and-supertest/)
+
+* [Testing Express APIs with Supertest](https://www.codementor.io/knownasilya/testing-express-apis-with-supertest-du107mcv2)
 
 * [Unit testing Express routers](http://evanshortiss.com/development/javascript/2016/04/15/express-testing-using-ioc.html)
-
-* [Test your REST api](https://codeforgeek.com/2015/07/unit-testing-nodejs-application-using-mocha/)
