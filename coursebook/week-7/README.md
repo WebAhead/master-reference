@@ -8,7 +8,7 @@ Create this file and then update the wording and the links later, via the separa
 
 - 10:00 - 10:15 - Introduction to learning outcomes
 
-- 10:15 - 13:00 - Workshop 1
+- 10:15 - 13:00 - Workshop on [Password Management](https://github.com/foundersandcoders/ws-password-management)
 
 — LUNCH —
 
