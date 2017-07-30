@@ -20,7 +20,7 @@ Create this file and then update the wording and the links later, via the separa
 
 - 10:00-11:00 - Morning Challenge 1
 
-- 11:00-12:45 - Workshop 3
+- 11:00-12:45 - Workshop on [Session Management](https://github.com/foundersandcoders/ws-session-management)[WIP]
 
 - 12:45 - 13:00 - Introduce [research topics](./research-afternoon.md)
 
