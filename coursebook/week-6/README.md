@@ -8,7 +8,7 @@
 
 11am - 1pm: [installation instructions](https://github.com/macintoshhelper/learn-sql/blob/master/postgresql/setup.md)
 , those who finish installing can help others with installation problems.
-Then go to [pgexercises](https://www.pgexercises.com/gettingstarted.html) and work through in pairs if time remaining (help each other first)!
+Then go to [`sql-commands-intro` workshop](https://github.com/foundersandcoders/sql-commands-intro/) and work through in pairs if time remaining (help each other first)!
 
 1pm - 2pm: lunchtime 😋
 
