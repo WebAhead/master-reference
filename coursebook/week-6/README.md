@@ -6,7 +6,7 @@
 
 10am - 11am: whiteboard walkthrough with introduction to the topic of relational databases and SQL
 
-11am - 1pm: [installation workshop](https://github.com/dwyl/learn-postgresql)
+11am - 1pm: [installation instructions](https://github.com/macintoshhelper/learn-sql/blob/master/postgresql/setup.md)
 , those who finish installing can help others with installation problems.
 Then go to [pgexercises](https://www.pgexercises.com/gettingstarted.html) and work through in pairs if time remaining (help each other first)!
 
