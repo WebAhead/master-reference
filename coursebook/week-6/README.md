@@ -18,7 +18,7 @@ Then go to [`sql-commands-intro` workshop](https://github.com/foundersandcoders/
 
 #### Day 2:
 
-10am - 11am: [intro to pg module](https://github.com/foundersandcoders/pg-walkthrough)
+10am - 11am: [pg module code along](https://github.com/foundersandcoders/pg-walkthrough)
 
 11am - 1pm: [workshop on making small node app with a database connection](https://github.com/foundersandcoders/pg-workshop)
 
