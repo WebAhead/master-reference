@@ -11,7 +11,7 @@ Schedule
 
 --LUNCH--
 
-14:00-16:00 - Workshop 2
+14:00-16:00 - Workshop 2 - [Handlebars](https://github.com/PiotrBerebecki/express-handlebars-workshop)
 
 16:00-18:00 - Business Development / Community Engagement
 
