@@ -12,9 +12,9 @@ Then go to [`sql-commands-intro` workshop](https://github.com/foundersandcoders/
 
 1pm - 2pm: lunchtime 😋
 
-2pm - 4.30pm: [workshop on SQL commands and psql](https://github.com/foundersandcoders/postgres-workshop).
+2pm - 4.00pm: [workshop on SQL commands and psql](https://github.com/foundersandcoders/postgres-workshop).
 
-4.30pm - 6pm: biz dev and community outreach
+4.00pm - 6pm: biz dev and community outreach
 
 #### Day 2:
 
