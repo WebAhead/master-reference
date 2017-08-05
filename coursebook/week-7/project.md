@@ -1,7 +1,7 @@
 ## Project
 ### Task
 
-You are free to create any kind of site that you like, so get creative!
+You are free to create any kind of site that you like, so get creative! Just make sure you fulfill the requirements below.
 
 You should create your site from a user-centred design perspective. So when your team decides what you want to build, make sure you start your planning phase with user stories. You want to make sure that you are building the most important features first :tad
 
