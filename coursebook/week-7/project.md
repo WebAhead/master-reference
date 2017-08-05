@@ -28,3 +28,6 @@ Roles and permissions:
 More features:
 + [ ] Add comment functionality to posts
 + [ ] Add like functionality to posts
+
+#### Examples
+You could use auth to make a game, a todo app, a [twitter clone](http://canaryapp.herokuapp.com/) :heart: or whatever.
