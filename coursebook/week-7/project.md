@@ -12,9 +12,8 @@ The only limits are that your project must fulfill the requirements below.
 + [ ] Client-side _and_ server-side validation on login form, including error handling that provides feedback to users
 + [ ] Users only have to log in once (i.e. implement a cookie-based session on login)
 + [ ] Username is visible on each page of the site after logging in
-+ [ ] Authenticated users should be able to add new content (CREATE) & edit the content that they have submitted (UPDATE).
-+ [ ] An unauthenticated user should be able to view the content (i.e. READ)
 + [ ] Name of the author should be visible against each post
++ [ ] There should be protected routes and unprotected routes that depend on the user having a cookie or not (or what level of access they have).
 + [ ] Website content should be stored in a database
 
 Note:
