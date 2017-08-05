@@ -1,6 +1,5 @@
 ## Project
 ### Task
-Create a CMS (Content Management System) - a website which allows you to manage your site's content without any technical training. But what does "managing" your content mean? Essentially, this boils down to performing CRUD operations (CREATE, READ, UPDATE & DELETE) on your site's content.
 
 You are free to create any kind of site that you like, so get creative! But if your team is really stuck, there are [some examples below](#examples).
 
