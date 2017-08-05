@@ -1,9 +1,9 @@
 ## Project
 ### Task
 
-You are free to create any kind of site that you like, so get creative! But if your team is really stuck, there are [some examples below](#examples).
+You are free to create any kind of site that you like, so get creative!
 
-You should create your site from a user-centred design perspective. So when your team decides what you want to build, make sure you start your planning phase with user stories. You want to make sure that you are building the most important features first :tada:
+You should create your site from a user-centred design perspective. So when your team decides what you want to build, make sure you start your planning phase with user stories. You want to make sure that you are building the most important features first :tad
 
 ### Requirements
 + [ ] Login form with 2 fields - username and password
@@ -26,5 +26,3 @@ Roles and permissions:
 More features:
 + [ ] Add comment functionality to posts
 + [ ] Add like functionality to posts
-
-### Examples
