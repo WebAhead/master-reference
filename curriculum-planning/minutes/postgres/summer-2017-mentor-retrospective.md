@@ -2,6 +2,10 @@
 Alice & Philippa:
 + Much better than ours (FAC10's). They got it pretty well. All the installation issues were sorted out.
 
+@macintoshhelper:
++ The week seemed good. Installation and pg went well. The `postgres-workshop` workshop went a little slowly - might be worth cutting out easier questions, and have some explanations/resources for JOINs here, maybe a code-along for explaining JOINs.
++ Could have covered some things in more detail: JOINs, schemas, user permissions/security
+
 Jen:
 + This week feels very much like a work in progress to me. FAC10 struggled so much with this week that it feels like a lot of it hasn't been fully user tested before. So this week there was a real push around raising issues as/when they arose.
 + Really need to rename the workshops to something more descriptive & define learning outcomes for each one, so there is a clear separation between the things people are supposed to gain from each one.
@@ -12,6 +16,10 @@ Jen:
 ### [Steve's talk](https://docs.google.com/presentation/d/1OHoYDQoMkSiJI8X_SEq28z3tkw6MDbHRfHtKDwAphZg/edit#slide=id.p)
 Alice & Philippa:
 + Same as what we had in FAC10. Really good intro to the way databases work. Nothing I would change.
+
+@macintoshhelper:
++ Good overview. People didn't seem to wonder/question what a database is needed for, which seemed to be an issue before.
++ A more in-depth explanation of static file vs database might be nice.
 
 Jen:
 + If we're going to include more mentor-led material, it's essential that this is recorded, so we can make it available to other campuses.
@@ -28,6 +36,10 @@ Alice & Philippa:
 + Some misleading things but they're all in issues. Elias might even have sorted them out?
 + Remember [one thing that caused confusion](https://github.com/macintoshhelper/learn-sql/issues/8) - some commands for MAC installation that would have made sense as one big script but had comments in, so needed to be done line by line.
 
+@macintoshhelper:
++ This went much better than before. The main issues should be solved now.
++ Any further feedback would be great, especially on Linux (people using other distros, etc).
+
 Jen:
 + Elias did an amazing job. The instructions are really comprehensive. But there were still [a few issues](https://github.com/macintoshhelper/learn-sql/issues?q=is%3Aopen+is%3Aissue). The reason this wasn't a problem was because the mentors and I were very very active in floating and helping.
 + With something like installation instructions, it's very difficult to cater for all the different scenarios that might arise, especially since this is the first time Elias' setup instructions had been used with a cohort. One thing that _really_ helps is to really hammer home the message for students to raise issues based on their experiences. You can gain a lot from them screen shotting their error messages, for example.
@@ -38,6 +50,8 @@ Jen:
 
 ### [Day 1 Afternoon workshop](https://github.com/foundersandcoders/postgres-workshop/tree/156cc84cc7af703977c9c9f4e171c96276a2672a)
 
+@macintoshhelper:
++ This went quite well, but people didn't get much time to do some of the JOIN/subquery stuff. Removing more basic questions and replacing with simple JOINs with explanations would be good.
 
 ### [Code along](https://github.com/foundersandcoders/pg-walkthrough/tree/80cf77383662a782a104daa60ce97f3f2fb3c641)
 Alice & Philippa:
@@ -46,6 +60,12 @@ Alice & Philippa:
 + There's a lot of conceptual stuff to get your head around in `db_connection.js`. Still felt like complete magic to me. Actually learned a lot of it myself while Elias was walking students through it.
 + Jen and Alina were ill that day & I (Alice) was there when they were caught up & Yahia was explaining it to them so well. He knew it line by line!
 + Kind of find code alongs useful, because things get explained to you in more depth than you usually do. But because everything is new to you, you don't actually understand everything as fully as you think you do at the time. Then later you realise there are all these holes in your knowledge and you don't really get it.
+
+@macintoshhelper:
++ This was good, better than FACN1. An emphasis on understanding it completely resulted in it taking a long time.
++ I've refactored the mentor walkthrough so code is written first in chunks, then explanations are given after on ES6, pool, etc.
++ Making sure people have an understanding of how pools/connections work, number of max connections is good - so people avoid database apps from crashing due to pool query callbacks hanging.
++ Encouraging people to write notes in comments would be great - so they can return to their own explanations.
 
 #### Do code alongs even work??
 + Alice: I find the explanation line by line really really good. But I don't know whether they need to be typing it out themselves at the same time.
@@ -79,6 +99,9 @@ Alice & Philippa:
 + Ideally have some kind of session on testing where we work through it together instead.
 + Sometimes research afternoons are more beneficial than others. This isn't one of them.
 
+@macintoshhelper:
++ Might be nice for people to collaborate on improving a central README for their topic. For database testing, it would give people somewhere to start, but they might find a way of improving it.
+
 Jen:
 + Lots of mounting frustration with research topics. Especially when the questions aren't fully vetted. Ideally, when the week gets created, people would be attempting the research themselves, based on the questions that are being asked, to see whether it's achievable to google those terms and get something useful back. Or at least have in mind what we want students to get out of that research topic.
 + During presentations, students often ask mentors about things which they couldn't find the answer to themselves. At that point, it becomes obvious that there was no particular plan for what the students were supposed to get out of answering the question.
@@ -104,6 +127,9 @@ Alice & Philippa:
 + This week was a bit weird. Felt like they didn't really need us.
 + Had a few questions during office hours and had people come upstairs once. But very little.
 + Had an easier time than us because we scrapped ElephantSQL :+1:
+
+@macintoshhelper:
++ Having specific SQL query requirements would be good: such as requiring a JOIN, SELECT, INSERT INTO, subquery, etc.
 
 Jen:
 + Project brief could be improved to ensure that students end up using more complex SQL commands? (debatable)
