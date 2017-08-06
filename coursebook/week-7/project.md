@@ -1,7 +1,7 @@
 ## Project
 ### Task
 
-<p style="text-align: center;">You are free to create any kind of site that you like, so get creative!</p>
+You are free to create any kind of site that you like, so get creative!
 
 Make sure you're creating your site from a user-centred design perspective, by starting your planning phase with user stories. You always want to be building the most important features first.
 
