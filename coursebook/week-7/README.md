@@ -1,9 +1,5 @@
 ## Week Schedule and Responsibilities
 
-See [general week structure](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/week-schedule.md#general-week-schedule) for us to follow.
-
-Create this file and then update the wording and the links later, via the separate issues on each "part"
-
 #### Day 1
 
 - 10:00 - 10:15 - Introduction to learning outcomes
@@ -12,13 +8,13 @@ Create this file and then update the wording and the links later, via the separa
 
 — LUNCH —
 
-- 14:00 - 16:00 - Workshop 2
+- 14:00 - 16:00 - Workshop on [Cookies](https://github.com/foundersandcoders/ws-cookies)
 
 - 16:00 - 18:00 - Business development
 
 #### Day 2
 
-- 10:00-11:00 - Morning Challenge 1
+- 10:00-11:00 - Morning Challenge on [Client Side Validation](https://github.com/foundersandcoders/mc-client-side-validation)
 
 - 11:00-12:45 - Workshop on [Session Management](https://github.com/foundersandcoders/ws-session-management)[WIP]
 
@@ -34,7 +30,7 @@ Create this file and then update the wording and the links later, via the separa
 
 #### Day 3
 
-- 10:00 - 11:00 - Morning Challenge 2
+- 10:00 - 11:00 - Morning Challenge on [Callbacks](https://github.com/foundersandcoders/mc-do-this-then-do-that)
 
 - 11:00 - 13:00 - Projects (planning)
 
@@ -42,7 +38,7 @@ Create this file and then update the wording and the links later, via the separa
 
 - 14:00 - 17:00 - Projects
 
-- 17:00 - 18:00 - External Speaker: Enrique Comba [8th Light](https://8thlight.com/)
+- 17:00 - 18:00 - External Speaker or Alumni Project Presentation
 
 #### Day 4
 
