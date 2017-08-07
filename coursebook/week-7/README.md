@@ -4,7 +4,9 @@
 
 - 10:00 - 10:15 - Introduction to [learning outcomes](./learning-outcomes.md)
 
-- 10:15 - 13:00 - Workshop on [Password Management](https://github.com/foundersandcoders/ws-password-management)
+- 10:15 - 11:00 - Presentation on [Password Management](https://drive.google.com/open?id=0BxXF_LZcFnS5amt6U3BCejd0cGc)
+
+- 11:00 - 13:00 - Workshop on [Password Management](https://github.com/foundersandcoders/ws-password-management)
 
 — LUNCH —
 
