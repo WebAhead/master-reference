@@ -16,7 +16,7 @@
 
 - 10:00-11:00 - Morning Challenge on [Client Side Validation](https://github.com/foundersandcoders/mc-client-side-validation)
 
-- 11:00-12:45 - Workshop on [Session Management](https://github.com/foundersandcoders/ws-session-management)[WIP]
+- 11:00-12:45 - Workshop on [Session Management](https://github.com/foundersandcoders/ws-session-management)
 
 - 12:45 - 13:00 - Introduce [research topics](./research-afternoon.md)
 
