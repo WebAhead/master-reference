@@ -2,7 +2,7 @@
 
 #### Day 1
 
-- 10:00 - 10:15 - Introduction to learning outcomes
+- 10:00 - 10:15 - Introduction to [learning outcomes](./learning-outcomes.md)
 
 - 10:15 - 13:00 - Workshop on [Password Management](https://github.com/foundersandcoders/ws-password-management)
 
