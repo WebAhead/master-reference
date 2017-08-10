@@ -11,22 +11,23 @@ Schedule
 
 --LUNCH--
 
-14:00-16:00 - Workshop 2
+14:00-16:00 - Workshop 2 - [Handlebars](https://github.com/PiotrBerebecki/express-handlebars-workshop)
 
 16:00-18:00 - Business Development / Community Engagement
 
 ### Day 2:
 
-10:00-11:00 - Morning Challenge
+10:00-11:00 - Morning Challenge - [Create an Animated App
+Drawer](https://github.com/Akin909/morning-challenge-animated-app-drawer)
 
-11:00-12:45 - Workshop 3
+11:00-12:45 - Workshop 3 - [Creating and Testing Express Routes](https://github.com/Akin909/express-and-testing-workshop)
 
 12:45-13:00 - Introduce research topics, assign names on whiteboard and jigsaw
 teams.
 
 --LUNCH--
 
-14:00-16:30 - Write research projects
+14:00-16:30 - [Research Topics](./research-afternoon.md)
 
 16:30-17:15 - Present research projects
 
