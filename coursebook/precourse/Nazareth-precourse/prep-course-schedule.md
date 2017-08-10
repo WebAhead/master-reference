@@ -14,7 +14,7 @@
 #### Use [This](https://docs.google.com/spreadsheets/d/1_1VHwPyfwxBSUF16I2o4WBQTi-cZsjjFLhSfUyOfisk/edit?usp=sharing) to take attendance.
 
 # Week 1 Installation
-- Introduce yourself and other mentors and explain whats going to happen in the prep-course, and what do they need to reach to able to accepted to the course ( kinda like learning outcomes @Suuuuha wanted to do it)
+- Introduce yourself and other mentors and explain whats going to happen in the prep-course, and what they have to accomplish in order to get accepted.
 - Linux installation link [Here](http://www.everydaylinuxuser.com/2015/11/how-to-install-ubuntu-linux-alongside.html)
 - After they get Linux [send them this cli guide](https://learnpythonthehardway.org/book/appendixa.html)
 - If theres more time start basic html on [FCC](https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works)
