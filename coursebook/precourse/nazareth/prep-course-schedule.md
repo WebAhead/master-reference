@@ -11,7 +11,7 @@
 
 **Week 5-8** - TBD
 
-#### Use [This](https://docs.google.com/spreadsheets/d/1_1VHwPyfwxBSUF16I2o4WBQTi-cZsjjFLhSfUyOfisk/edit?usp=sharing) to take attendance.
+#### Use [This spreadsheet](https://docs.google.com/spreadsheets/d/1_1VHwPyfwxBSUF16I2o4WBQTi-cZsjjFLhSfUyOfisk/edit?usp=sharing) to take attendance.
 
 # Week 1 Installation
 - Introduce yourself and other mentors and explain whats going to happen in the prep-course, and what they have to accomplish in order to get accepted.
