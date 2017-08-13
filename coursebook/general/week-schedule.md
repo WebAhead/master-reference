@@ -50,6 +50,8 @@ Start each week with a mission and a goal.
 
 14:00-18:00 - Group Project
 
+Throughout the day - walks with students (for pastoral care and employment support).
+
 ### Day 5:
 
 10:00-11:00 - Code Review
