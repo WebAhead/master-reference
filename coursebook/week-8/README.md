@@ -37,7 +37,7 @@ teams.
 
 ### Day 3:
 
-10:00-11:00 - Morning Challenge
+10:00-11:00 - [Express-Handlebars - Morning Challenge](https://github.com/foundersandcoders/express-handlebars-challenge)
 
 11:00-13:00 - Project Planning
 
