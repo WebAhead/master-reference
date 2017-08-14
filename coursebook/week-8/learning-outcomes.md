@@ -10,7 +10,6 @@
 - Learn how to use Handlebars views, layouts and partials
 - Learn how to use Handlebars helpers
 - Learn how to tests an Express app
-- Learn how to include Travis CI continuous integration in an Express app
 - Learn how to integrate a PostgreSQL database with an Express app
 - Learn how to deploy an Express app to Heroku
 - Learn how to set up [an animated app drawer](http://www.material-ui.com/#/components/drawer)
