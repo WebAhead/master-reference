@@ -7,11 +7,13 @@ Schedule
 
 10:00-10.15 - Learning outcomes for this week
 
-10.15-13:00 - Workshop 1 - [Introduction to Express](https://github.com/PiotrBerebecki/express-workshop)
+10:15-10:30 - [Introduction to Express](https://github.com/foundersandcoders/introduction-to-express)
+
+10.30-13:00 - Workshop 1 - [Express-Workshop](https://github.com/foundersandcoders/express-workshop)
 
 --LUNCH--
 
-14:00-16:00 - Workshop 2 - [Handlebars](https://github.com/PiotrBerebecki/express-handlebars-workshop)
+14:00-16:00 - Workshop 2 - [Handlebars](https://github.com/foundersandcoders/express-handlebars-workshop)
 
 16:00-18:00 - Business Development / Community Engagement
 
