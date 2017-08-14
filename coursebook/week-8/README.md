@@ -7,9 +7,9 @@ Schedule
 
 10:00-10.15 - Learning outcomes for this week
 
-10:15-10:40 - [Introduction to Express](https://github.com/foundersandcoders/introduction-to-express)
+10:15-10:30 - [Introduction to Express](https://github.com/foundersandcoders/introduction-to-express)
 
-10.15-13:00 - Workshop 1 - [Express-Workshop](https://github.com/foundersandcoders/express-workshop)
+10.30-13:00 - Workshop 1 - [Express-Workshop](https://github.com/foundersandcoders/express-workshop)
 
 --LUNCH--
 
