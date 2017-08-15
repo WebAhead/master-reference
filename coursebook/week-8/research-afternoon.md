@@ -9,7 +9,7 @@
 - What are express middlewares?
 - What functionality do they provide?
 - What are some examples of useful express middleware and 
-how do you use them ([several userful examples](https://blog.jscrambler.com/setting-up-5-useful-middlewares-for-an-express-api/))
+how do you use them ([several useful examples](https://blog.jscrambler.com/setting-up-5-useful-middlewares-for-an-express-api/))
 
 ## Session-management in Express
 - What are sessions?
