@@ -4,20 +4,20 @@ Noga, Bradley, Jen, MG, Shireen, Dan, Yvonne, Mavis
 
 ## [Agenda](https://github.com/foundersandcoders/master-reference/issues/583)
 
-+ [Weeks 10-16 schedule](#weeks-10-16-schedule)
-+ [UX/UI week name change](#ux-ui-week-name-change)
++ [Weeks 10-16 schedule](#weeks-10-16)
++ [UX/UI week name change](#uxui-week-name-change)
 + [Who are the Product Owners?](#who-are-the-product-owners)
 + [Can students build on a project that already exists?](#can-students-build-on-a-project-that-already-exists)
 + [Facilitating the creation of self-selected student groups](#facilitating-the-creation-of-self-selected-student-groups)
 + [Quality of project proposed](#quality-of-project-proposed)
 + [Direct students to use prototyping tools in week 10 instead of HTML & CSS](#direct-students-to-use-prototyping-tools-in-week-10-instead-of-html--css)
 + [Ensure that user testing is incorporated into week 10 & 12 in all locations](#ensure-that-user-testing-is-incorporated-into-week-10--12-in-all-locations)
-+ [Document/prepare resources that can be used across campuses](#document-prepare-resources-that-can-be-used-across-campuses)
++ [Document/prepare resources that can be used across campuses](#documentprepare-resources-that-can-be-used-across-campuses)
 + [AOB](#aob)
   + [Tech choices](#tech-choices)
   + [Group sizes](#group-sizes)
-  + [Ceremonies & planning](#cermonies-and-planning)
-  + [Timing in London (bank holiday)](#timing-in-london--bank-holiday)
+  + [Ceremonies & planning](#ceremonies-scrum-master-role--planning-techniques)
+  + [Timing in London (bank holiday)](#timing-in-london-bank-holiday)
 
 
 ## [Weeks 10-16](https://github.com/foundersandcoders/master-reference/issues/500)
