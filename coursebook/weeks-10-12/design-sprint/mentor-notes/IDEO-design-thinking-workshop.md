@@ -1,8 +1,17 @@
-## Timeline for Design thinking workshop:
+This workshop is taken directly from the Institute of Design at Stanford. The original workshop description and materials can be found on [their website](https://dschool-old.stanford.edu/groups/designresources/wiki/4dbb2/The_Wallet_Project.html).
 
-### Music and time keeping
+### Workshop
 
-EMPATHY (in pair)
+Follow [these facilitator notes](./GiftGiving-FacilitatorNotes.pdf).
+
+Use the projector to display a stopwatch (e.g. [timeme](http://www.timeme.com)) as the minutes count down. The following intervals have been set for you:
++ [3min:](http://www.timeme.com/timer.htm?17px07ps0s10660501/Stopwatch)
++ [4min:](http://www.timeme.com/timer.htm?17pyo7ps0s10660501/Stopwatch)
++ [10min:](http://www.timeme.com/timer.htm?17q8o7ps0s10660501/Stopwatch)
+
+Play the music below for each stage on the students' worksheets:
+
+#### EMPATHY (in pair)
 
 Interview
 
@@ -14,7 +23,7 @@ Dig deeper
 - [4min (A to B)](https://www.youtube.com/watch?v=kbxtYqA6ypM)
 - [4min (B to A)](https://www.youtube.com/watch?v=o_eA3T513UQ)
 
-DEFINE (not in pair)
+#### DEFINE (not in pair)
 
 Capture findings
 
@@ -24,7 +33,7 @@ Define problem statement
 
 - [3min](https://www.youtube.com/watch?v=oCRe9iPpQZI)
 
-IDEATE
+#### IDEATE
 
 Sketch (not in pair)
 
@@ -35,30 +44,24 @@ Share feedback (in pair)
 - [4min (A to B)](https://www.youtube.com/watch?v=S6lDGgs7jAc&list=RDQMUqmTUCLnz1o&index=2)
 - [4min (B to A)](https://www.youtube.com/watch?v=S6lDGgs7jAc&list=RDQMUqmTUCLnz1o&index=2)(continued)
 
-ITERATE
+#### ITERATE
 
 Reflect & generate (not in pair)
 
 - [3min](https://www.youtube.com/watch?v=2aSha-H77fo)
 
-PROTOTYPE
+#### PROTOTYPE
 
 Build (not in pair)
 
 - [10min](https://www.youtube.com/watch?v=_ODLWylMHeQ&list=PLoUZqmCTYNyXJnGX2Lebb4rS30GgyKgGY)
 
-TEST
+#### TEST
 
 Share your solutions (in pairs)
 
 - [4min (A to B)](https://www.youtube.com/watch?v=pv9EhaymgFE&list=PLTJbkLqS41WY5UnNrwM29D9fa05m9gP1M)
 - [4min (B to A)](https://www.youtube.com/watch?v=k-e6aMv6B8c&list=PLTJbkLqS41WY5UnNrwM29D9fa05m9gP1M&index=4)
-
-Stopwatch:
-
-- [3min:](http://www.timeme.com/timer.htm?17px07ps0s10660501/Stopwatch)
-- [4min:](http://www.timeme.com/timer.htm?17pyo7ps0s10660501/Stopwatch)
-- [10min:](http://www.timeme.com/timer.htm?17q8o7ps0s10660501/Stopwatch)
 
 CONCLUSIONS AND REFLECTIONS
 
