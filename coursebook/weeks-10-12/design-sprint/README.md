@@ -18,9 +18,7 @@
 
 -- LUNCH --
 
-14.00 - 17.00 - [Project Pitches](./preparation.md)
-
-17:00 - 18:00 - "History of the web" talk
+14.00 - 18.00 - [Project Pitches](./preparation.md)
 
 ### Day 2
 
