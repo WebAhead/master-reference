@@ -14,7 +14,7 @@
 
 12:00 - 12:15 - Break
 
-12.15 - 13.00 - Talk: UX Basics / Design Sprints / Production Cycle
+12.15 - 13.00 - [Design Thinking Basics](https://docs.google.com/presentation/d/1URTHmtKcxXUz2figOyczww41j8a1JhA5P18tpN-6CTU/edit?usp=sharing)
 
 -- LUNCH --
 
