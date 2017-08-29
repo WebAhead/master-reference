@@ -1,5 +1,20 @@
 This workshop is taken directly from the Institute of Design at Stanford. The original workshop description and materials can be found on [their website](https://dschool-old.stanford.edu/groups/designresources/wiki/4dbb2/The_Wallet_Project.html).
 
+## Preparation
+
+Buy the following materials:
+- scissors
+- foil
+- masking tape
+- lollipops
+- glue sticks
+- brown paper
+- coloured paper
+
+Arrange the tables in the room to enable face-to-face interaction between students.
+
+Print one [set of worksheets](./GiftGiving-Worksheets.pdf) for each student.
+
 ### Workshop
 
 Follow [these facilitator notes](./GiftGiving-FacilitatorNotes.pdf).
