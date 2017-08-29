@@ -20,6 +20,8 @@
 
 14.00 - 17.00 - [Project Pitches](./preparation.md)
 
+17:00 - 18:00 - "History of the web" talk
+
 ### Day 2
 
 10.00 - 12.15 - [Understanding Your Users](./persona-interview-workshop.md)
