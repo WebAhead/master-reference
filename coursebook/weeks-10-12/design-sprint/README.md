@@ -12,6 +12,8 @@
 
 10.30 - 12.00 - [IDEO Design Thinking Workshop](./GiftGiving-Worksheets.pdf)
 
+12:00 - 12:15 - Break
+
 12.15 - 13.00 - Talk: UX Basics / Design Sprints / Production Cycle
 
 -- LUNCH --
