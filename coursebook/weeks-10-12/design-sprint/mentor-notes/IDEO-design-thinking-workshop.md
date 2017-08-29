@@ -1,4 +1,6 @@
-This workshop is taken directly from the Institute of Design at Stanford. The original workshop description and materials can be found on [their website](https://dschool-old.stanford.edu/groups/designresources/wiki/4dbb2/The_Wallet_Project.html).
+In order to prepare, go through the [virtual crash course video](https://dschool.stanford.edu/resources/virtual-crash-course-video) from the Institute of Design at Stanford.
+
+The following has been taken from ["how to kick off a crash course"](https://dschool.stanford.edu/resources/gear-up-how-to-kick-off-a-crash-course).
 
 ## Preparation
 
