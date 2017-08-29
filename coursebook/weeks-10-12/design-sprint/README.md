@@ -10,7 +10,7 @@
 
 10.00 - 10.30 - Introduction to the internal project - [learning outcomes](../learning-outcomes.md) & design thinking week [slides deck](https://docs.google.com/presentation/d/1CiYH-jdV3OojT3mUITuTBCao6IeZyNkI8xF2G2B6vDA/edit?ts=59a18a95#slide=id.g35f391192_00)
 
-10.30 - 12.15 - [IDEO Design Thinking Workshop](./design-thinking-workshop.md)
+10.30 - 12.00 - [IDEO Design Thinking Workshop](./GiftGiving-Worksheets.pdf)
 
 12.15 - 13.00 - Talk: UX Basics / Design Sprints / Production Cycle
 
