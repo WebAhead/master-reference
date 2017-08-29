@@ -18,7 +18,7 @@
 
 -- LUNCH --
 
-14.00 - 18.00 - [Project Pitches](./preparation.md)
+14.00 - 17.00 - [Project Pitches](./preparation.md)
 
 ### Day 2
 
