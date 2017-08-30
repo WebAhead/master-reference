@@ -21,15 +21,15 @@
 ### Day 2
 
 #### Empathise
-10.00 - 11.00 - Research Learning Spiral
+10.00 - 11.00 - [Research Learning Spiral - Objectives & Hypotheses](./research-learning-spiral.md)
 
-11.00 - 13.00 - Secondary Research
+11.00 - 13.00 - [Conduct - Secondary Research](./research-learning-spiral.md#secondary-research)
 
 -- LUNCH --
 
-14.00 - 14.45 - User Personas
+14.00 - 14.45 - [Conduct - User Personas](./research-learning-spiral.md#user-personas)
 
-14.45 - 15.30 - User Interviews
+14.45 - 15.30 - [Conduct - User Interviews](./research-learning-spiral.md#surveying)
 
 #### Define
 

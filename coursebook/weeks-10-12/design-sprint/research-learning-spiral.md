@@ -1,7 +1,5 @@
 ## Empathise
 
-### User Research
-
 Understanding is the key to problem solving.
 Without a solid grasp on what a problem is, where it originates, and what feeds it, any solution you arrive at will be inadequate. To gain this understanding, you’ll need to conduct user research.
 
@@ -16,7 +14,7 @@ So, how do you conduct user research? Different teams use different approaches a
 The Research Learning Spiral (RLS) is a five-step process that will help you gather knowledge about your users and their needs. The five steps in RLS are:
 
 1. [Objectives - Why You Are Conducting Research?](#objectives)
-2. [Hypotheses - What You Are Looking to Prove?](#hypothesis)
+2. [Hypotheses - What You Are Looking to Prove?](#hypotheses)
 3. [Methods - Selecting Research Methods](#methods)
 4. [Conduct - Executing Your Plan](#conduct)
 5. [Synthesis - Making Sense of Everything](#synthesis)
@@ -93,7 +91,7 @@ Start by answering the “5W + H” (Who, What, When, Where, Why and How) questi
 ———————————————————————————————————————
 
 ----------
-### Hypothesis
+### Hypotheses
 
 In a few bullet points- by building this app, what are you looking to prove?
 
