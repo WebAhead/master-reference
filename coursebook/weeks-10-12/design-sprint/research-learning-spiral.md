@@ -152,6 +152,8 @@ In your team hang up on the wall an A1 piece of paper and on it draw an imaginar
 - Things they like/dont like
 - Technology- apps and social networks they might use
 
+You can use [this PDF](./creating-a-user-persona.pdf) to help you.
+
 **Do not worry if this exercise feels contrived.** If it does, it is likely you haven’t done enough research yet to know your service user in realistic detail. The point of creating a user-persona is to come up with your best guess as to who your user is based on what we know right now. We all have to start somewhere.
 
 When we do user-testing and surveying later in the week you will have the chance to verify and reflect on how accurate your hypothesis are. A user-persona isn’t a static creation you do once - it’s a dynamic representation of your own understanding that you return to and modify as it develops.
