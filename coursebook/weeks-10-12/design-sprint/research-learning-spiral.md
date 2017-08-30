@@ -140,7 +140,7 @@ In your team hang up on the wall an A1 piece of paper and on it draw an imaginar
 
 When we do user-testing and surveying later in the week you will have the chance to verify and reflect on how accurate your hypothesis are. A user-persona isn’t a static creation you do once - it’s a dynamic representation of your own understanding that you return to and modify as it develops.
 
-### Surveying
+#### Surveying
 
 Divide your interview into three stages, each stage leading to a deeper and more tailored understanding of your persona and their possible use of your app:
 
@@ -164,6 +164,13 @@ Check out these great short articles about conducting user interviews:
 
 * [5 steps to creating good user interview questions](https://medium.com/interactive-mind/5-steps-to-create-good-user-interview-questions-by-metacole-a-comprehensive-guide-8a591b0e2162)
 * [User interviews - the beginner's guide](http://theuxreview.co.uk/user-interviews-the-beginners-guide/)
+
+**TASK:**
+Now its time to take your plan into action!
+
+After you have written your interview, try to ‘step into the shoes’ of your imaginary user and answer those questions as if you were them!
+
+Try to think and impersonate that ‘Persona’, which is basically one archetypical imaginary user of your app. Remember - While a user persona is generally depicted as a single individual, this persona represents a group.
 
 ----------
 
