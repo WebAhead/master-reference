@@ -123,7 +123,14 @@ If you are curious to learn about other research methods in your own time, IDEO 
 Now that you have gone through the first two stages of the RLS, let's begin by conducting our chosen research methods.
 
 ### Secondary Research
-http://www.designkit.org/methods/21
+From http://www.designkit.org/methods/21:
+> 1. Once you know your design challenge, it’s time to start learning about its broader context. You can bone up quickly by exploring the most recent news in the field. Use the Internet, newspapers, magazines, or journals to know what’s new.
+>
+> 2. Try to find recent innovations in your particular area. They could be technological, behavioral, or cultural. Understanding the edge of what’s possible will help you ask great questions.
+>
+> Take a look at other solutions in your area. Which ones worked? Which ones didn’t? Are there any that feel similar to what you might design? Any solutions that have inspired you to make one of your own?
+>
+> 4. Because interviews can be highly qualitative, use your Secondary Research to get the facts and figures you need to understand the context of your challenge.
 
 ### User Personas
 Materials: A4 paper, markers, pens, post-its
