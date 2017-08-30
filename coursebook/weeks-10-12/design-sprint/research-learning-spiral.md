@@ -27,17 +27,6 @@ For more information about Frog’s RLS, check out the [5 step process for condu
 
 ----------
 
-### Personas
-
-Often as part of the UX research process, design teams build a set of imaginary users which are called - Personas.
-Personas are representations of clusters of users with similar needs, goals, and behaviors. Although a user persona is depicted as a single individual, the persona represents a group.
-
-Good personas help communicate and synthesize user research findings. They are realistic and paint a clear picture of a user’s goals, needs, and behaviors. They don’t need to be complicated or long. In fact, succinct, relaxed stories tend to be more effective.
-
-Check out this [short blog post](https://blog.mailchimp.com/new-mailchimp-user-persona-research/) about ‘Personas’ from mailchimp’s UX research team:
-
-----------
-
 #### Objectives
 
 Start by answering the “5W + H” (Who, What, When, Where, Why and How) questions:
@@ -112,7 +101,27 @@ In a few bullet points- by building this app, what are you looking to prove?
 
 #### Step 3 - Methods
 
-Now that you have gone through the first two stages of the RLS, write the imaginary interview for your persona.
+----------
+### Conduct
+
+Now its time to turn your plan into action!
+
+After you have written your interview, try to step into the shoes of your imaginary user and answer those questions as if you were them!
+
+Try to think and impersonate that ‘Persona’, which is basically one archetypical imaginary user of your app. Remember - while a user persona is generally depicted as a single individual, this persona represents a group.
+
+----------
+
+### Personas
+
+Often as part of the UX research process, design teams build a set of imaginary users which are called - Personas.
+Personas are representations of clusters of users with similar needs, goals, and behaviors. Although a user persona is depicted as a single individual, the persona represents a group.
+
+Good personas help communicate and synthesize user research findings. They are realistic and paint a clear picture of a user’s goals, needs, and behaviors. They don’t need to be complicated or long. In fact, succinct, relaxed stories tend to be more effective.
+
+Check out this [short blog post](https://blog.mailchimp.com/new-mailchimp-user-persona-research/) about ‘Personas’ from mailchimp’s UX research team:
+
+### Surveying
 
 Divide your interview into three stages, each stage leading to a deeper and more tailored understanding of your persona and their possible use of your app:
 
@@ -136,15 +145,6 @@ Check out these great short articles about conducting user interviews:
 
 * [5 steps to creating good user interview questions](https://medium.com/interactive-mind/5-steps-to-create-good-user-interview-questions-by-metacole-a-comprehensive-guide-8a591b0e2162)
 * [User interviews - the beginner's guide](http://theuxreview.co.uk/user-interviews-the-beginners-guide/)
-
-----------
-### Conduct
-
-Now its time to turn your plan into action!
-
-After you have written your interview, try to step into the shoes of your imaginary user and answer those questions as if you were them!
-
-Try to think and impersonate that ‘Persona’, which is basically one archetypical imaginary user of your app. Remember - while a user persona is generally depicted as a single individual, this persona represents a group.
 
 ----------
 
