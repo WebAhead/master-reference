@@ -111,13 +111,7 @@ If you are curious to learn about other research methods in your own time, IDEO 
 ----------
 ### Conduct
 
-Now its time to turn your plan into action!
-
-After you have written your interview, try to step into the shoes of your imaginary user and answer those questions as if you were them!
-
-Try to think and impersonate that ‘Persona’, which is basically one archetypical imaginary user of your app. Remember - while a user persona is generally depicted as a single individual, this persona represents a group.
-
-----------
+Now that you have gone through the first two stages of the RLS, let's begin by conducting our chosen research methods.
 
 ### Personas
 
