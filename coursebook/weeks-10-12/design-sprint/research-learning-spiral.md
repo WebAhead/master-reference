@@ -122,10 +122,10 @@ If you are curious to learn about other research methods in your own time, IDEO 
 
 Now that you have gone through the first two stages of the RLS, let's begin by conducting our chosen research methods.
 
-#### Secondary Research
+### Secondary Research
 http://www.designkit.org/methods/21
 
-#### User Personas
+### User Personas
 Materials: A4 paper, markers, pens, post-its
 
 Hopefully through your secondary research you have started learning a little about your target service user. It’s time now to come up with your own representation of them - an imaginary user called a persona.
@@ -149,7 +149,7 @@ In your team hang up on the wall an A1 piece of paper and on it draw an imaginar
 
 When we do user-testing and surveying later in the week you will have the chance to verify and reflect on how accurate your hypothesis are. A user-persona isn’t a static creation you do once - it’s a dynamic representation of your own understanding that you return to and modify as it develops.
 
-#### Surveying
+### Surveying
 
 Divide your interview into three stages, each stage leading to a deeper and more tailored understanding of your persona and their possible use of your app:
 
