@@ -143,8 +143,9 @@ Good personas help communicate and synthesise user research findings. They are r
 Check out this [short blog post](https://blog.mailchimp.com/new-mailchimp-user-persona-research/) about ‘Personas’ from mailchimp’s UX research team.
 
 **TASK:**
-In your team hang up on the wall an A1 piece of paper and on it draw an imaginary user persona based upon your findings and speculations so far. Using either post-its or pens write around the character, fleshing them out, their story, in as much detail as possible.
+In your team hang up on the wall an A1 piece of paper and on it draw an imaginary user persona based upon your findings and speculations so far. You can use [this PDF](./creating-a-user-persona.pdf) to help you.
 
+Using either post-its or pens write around the character, fleshing them out, their story, in as much detail as possible:
 - Who are they? Where are they from?
 - What are their goals and motivations?
 - What are their frustrations? How are they feeling?
@@ -152,7 +153,6 @@ In your team hang up on the wall an A1 piece of paper and on it draw an imaginar
 - Things they like/dont like
 - Technology- apps and social networks they might use
 
-You can use [this PDF](./creating-a-user-persona.pdf) to help you.
 
 **Do not worry if this exercise feels contrived.** If it does, it is likely you haven’t done enough research yet to know your service user in realistic detail. The point of creating a user-persona is to come up with your best guess as to who your user is based on what we know right now. We all have to start somewhere.
 
