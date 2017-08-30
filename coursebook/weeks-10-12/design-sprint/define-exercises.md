@@ -17,8 +17,16 @@ Remember: ‘needs’ should be verbs.
 ![problem statement worksheet](./problem-statement.png)
 
 ### How Might We exercise
-Turning problems into opportuntities
-1. Look at the “THEMES” and Sentences we created.
-2. Put the letters “HMW” in the top left corner of your post it
-3. Convert the sentences and themes into HMW questions, Write them on a sticky note
-4. Peel off the note and stick to the wall
+This exercise is about turning problems into opportunities
+
+Each member of the team needs to follow the steps below individually (without discussing):
+1. Convert the problem statements into questions that finish the sentence "How might we..."
+1. Write each question on a sticky note, with the letters “HMW” in the top left corner
+1. Peel off the note and stick to the wall
+
+Once all of your team members have their questions on the wall, read through what you have each created and...
+1. Identify themes and common patterns among the ideas
+1. Move the post its to group the post its with similar themes
+1. Make a record of them themes you need to address
+
+![HMW](./HMW.png)
