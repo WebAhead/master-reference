@@ -17,4 +17,8 @@ Remember: ‘needs’ should be verbs.
 ![problem statement worksheet](./problem-statement.png)
 
 ### How Might We exercise
-http://www.designkit.org/methods/3
+Turning problems into opportuntities
+1. Look at the “THEMES” and Sentences we created.
+2. Put the letters “HMW” in the top left corner of your post it
+3. Convert the sentences and themes into HMW questions, Write them on a sticky note
+4. Peel off the note and stick to the wall
