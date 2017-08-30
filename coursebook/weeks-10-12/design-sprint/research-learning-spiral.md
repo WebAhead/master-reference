@@ -11,6 +11,13 @@ So, how do you conduct user research? Different teams use different approaches a
 
 ### Research Learning Spiral
 
+**Materials:**
+- Post-its in various colours
+- big post its
+- paper whiteboards
+- white paper
+- sharpies
+
 The Research Learning Spiral (RLS) is a five-step process that will help you gather knowledge about your users and their needs. The five steps in RLS are:
 
 1. [Objectives - Why You Are Conducting Research?](#objectives)
