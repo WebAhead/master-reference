@@ -20,17 +20,20 @@
 
 ### Day 2
 
-10.00 - 12.15 - [Understanding Your Users](./persona-interview-workshop.md)
+#### Empathise
+10.00 - 11.00 - Research Learning Spiral
 
-12.15 - 13.00 - Introduction to User Testing
-
-- Why?
-- Qualitative vs Quantitative data
-- **Exercise:** Plan How - (Who When Where)
+11.00 - 13.00 - Secondary Research
 
 -- LUNCH --
 
-14.00 - 17.00 - [Google Ventures: Day 1](./google-ventures-day-1.md)
+14.00 - 14.45 - User Personas
+
+14.45 - 15.30 - User Interviews
+
+#### Define
+
+15.30 - 17.00 - Point of View, Problem Statement & How Might We
 
 ### Day 3
 
