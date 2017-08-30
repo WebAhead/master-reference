@@ -113,14 +113,32 @@ If you are curious to learn about other research methods in your own time, IDEO 
 
 Now that you have gone through the first two stages of the RLS, let's begin by conducting our chosen research methods.
 
-### Personas
+#### Secondary Research
+http://www.designkit.org/methods/21
 
-Often as part of the UX research process, design teams build a set of imaginary users which are called - Personas.
-Personas are representations of clusters of users with similar needs, goals, and behaviors. Although a user persona is depicted as a single individual, the persona represents a group.
+#### User Personas
+Materials: A4 paper, markers, pens, post-its
 
-Good personas help communicate and synthesize user research findings. They are realistic and paint a clear picture of a user’s goals, needs, and behaviors. They don’t need to be complicated or long. In fact, succinct, relaxed stories tend to be more effective.
+Hopefully through your secondary research you have started learning a little about your target service user. It’s time now to come up with your own representation of them - an imaginary user called a persona.
 
-Check out this [short blog post](https://blog.mailchimp.com/new-mailchimp-user-persona-research/) about ‘Personas’ from mailchimp’s UX research team:
+Personas are representations of clusters of users with similar needs, goals, and behaviours. While a user persona is generally depicted as a single individual, this persona represents a group.
+Good personas help communicate and synthesise user research findings. They are realistic and paint a clear picture of a user’s goals, needs, and behaviours. They don’t need to be complicated or long. In fact, succinct, relaxed stories tend to be more effective.
+
+Check out this [short blog post](https://blog.mailchimp.com/new-mailchimp-user-persona-research/) about ‘Personas’ from mailchimp’s UX research team.
+
+**TASK:**
+In your team hang up on the wall an A1 piece of paper and on it draw an imaginary user persona based upon your findings and speculations so far. Using either post-its or pens write around the character, fleshing them out, their story, in as much detail as possible.
+
+- Who are they? Where are they from?
+- What are their goals and motivations?
+- What are their frustrations? How are they feeling?
+- What are their aspirations?
+- Things they like/dont like
+- Technology- apps and social networks they might use
+
+**Do not worry if this exercise feels contrived.** If it does, it is likely you haven’t done enough research yet to know your service user in realistic detail. The point of creating a user-persona is to come up with your best guess as to who your user is based on what we know right now. We all have to start somewhere.
+
+When we do user-testing and surveying later in the week you will have the chance to verify and reflect on how accurate your hypothesis are. A user-persona isn’t a static creation you do once - it’s a dynamic representation of your own understanding that you return to and modify as it develops.
 
 ### Surveying
 
