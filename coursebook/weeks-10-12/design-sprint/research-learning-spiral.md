@@ -98,8 +98,15 @@ In a few bullet points- by building this app, what are you looking to prove?
 -  
 ----------
 
+### Methods
 
-#### Step 3 - Methods
+This step is dedicated towards choosing the best research methods to test your hypothesis and acquire the most validated learning. As a classroom, we will use the same research methods for this design sprint.
+
+The methods we will introduce you to are **secondary research** and **surveying**.
+
+We will also have you construct a **user persona** - or representation of who you think your typical user is - as a means of reflecting on this research.
+
+If you are curious to learn about other research methods in your own time, IDEO has a valuable [directory of methods](http://www.designkit.org/methods).
 
 ----------
 ### Conduct
