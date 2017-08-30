@@ -33,7 +33,7 @@
 
 #### Define
 
-15.30 - 17.00 - Point of View, Problem Statement & How Might We
+15.30 - 17.00 - [Point of View exercise](./define-exercises#point-of-view) & [How Might We exercise](./define-exercises#how-might-we)
 
 ### Day 3
 
