@@ -1,11 +1,13 @@
 ### Project: Literature Study Tool
+![owen whiteboard version](./owen-whiteboard.png)
 
-![Owen](./owen.png)
 
 **Quotes:**  
 I want to pass my exams but don’t know where to start.  
 We’ve just seen a past paper and there’s no way I’ll be able to do it!  
 I’m just no good at English.  
+
+![Owen](./owen.png)
 
 **Key Facts:**  
 Name: Owen  
