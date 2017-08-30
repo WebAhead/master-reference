@@ -27,11 +27,12 @@ For more information about Frog’s RLS, check out the [5 step process for condu
 
 ----------
 
-#### Objectives
+### Objectives
 
 Start by answering the “5W + H” (Who, What, When, Where, Why and How) questions:
 
-#### Who am I designing for?
+**Who** am I designing for?  
+(This question helps you to determine prospective audiences for your design work, defining their demographics.)
 
 -  
 -  
@@ -40,7 +41,8 @@ Start by answering the “5W + H” (Who, What, When, Where, Why and How) questi
 -
 
 ———————————————————————————————————————
-#### What kinds of tasks and goals will your persona be accomplishing as he/she is using your website or app?
+**What** kinds of tasks and goals will your persona be accomplishing as he/she is using your website or app?  
+(This question clarifies what people might be doing, as well as what they’re using in your website, application or product.)
 
 -  
 -  
@@ -49,7 +51,8 @@ Start by answering the “5W + H” (Who, What, When, Where, Why and How) questi
 -  
 
 ———————————————————————————————————————
-#### When will your persona be engaging with your product?
+**When** will your persona be engaging with your product?  
+(This question helps you to determine the points in time when people might use particular products or technologies, as well as daily routines and rhythms of behaviour that might need to be explored.)
 
 -  
 -  
@@ -58,7 +61,8 @@ Start by answering the “5W + H” (Who, What, When, Where, Why and How) questi
 -  
 
 ———————————————————————————————————————
-#### Where will your persona be using what you are designing?
+**Where** will your persona be using what you are designing?  
+(This question helps you to determine contexts of use — physical locations where people perform certain tasks or use key technologies — as well as potential destinations on the Internet or devices that a user might want to access.)
 
 -  
 -  
@@ -67,7 +71,8 @@ Start by answering the “5W + H” (Who, What, When, Where, Why and How) questi
 -  
 
 ———————————————————————————————————————
-#### Why is your persona choosing to use what you’ve designed and what drives this behavior?
+**Why** is your persona choosing to use what you’ve designed and what drives this behavior?  
+(This question helps you to explain the underlying emotional and rational drivers of what a person is doing, and the root reasons for that behaviour.)
 
 -  
 -  
@@ -76,7 +81,8 @@ Start by answering the “5W + H” (Who, What, When, Where, Why and How) questi
 -  
 
 ———————————————————————————————————————
-#### How will they be using it?
+**How** will they be using it?  
+(This question helps you go into detail on what explicit actions or steps people take in order to perform tasks or reach their goals.)
 
 -  
 -  
@@ -87,7 +93,7 @@ Start by answering the “5W + H” (Who, What, When, Where, Why and How) questi
 ———————————————————————————————————————
 
 ----------
-#### Hypothesis
+### Hypothesis
 
 In a few bullet points- by building this app, what are you looking to prove?
 
