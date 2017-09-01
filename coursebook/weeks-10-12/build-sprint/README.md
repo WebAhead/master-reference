@@ -1,5 +1,5 @@
 ### Day 6
-Pitch ideas
+10.00 - 10.15 - Introduction to build sprint schedule & [learning outcomes i.e. Agile roles & practices](../learning-outcomes.md)
 
 ### Day 7 - 14
 This is an opportunity for teams to be more self-directed in their project building. [Choice of tech stack](./tech-choices.md) is entirely up to the team and the decision should be made jointly.
