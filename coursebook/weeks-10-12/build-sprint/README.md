@@ -3,10 +3,25 @@
 
 10.15 - 10.45 - Workflow talk
 
-### Day 7 - 14
-This is an opportunity for teams to be more self-directed in their project building. [Choice of tech stack](./tech-choices.md) is entirely up to the team and the decision should be made jointly.
+10.45 - 12.00 - [Sprint planning](https://github.com/dwyl/process-handbook#sprint-planning)
+(Note: you may want to factor in technical spikes to your build time estimates, depending on your [choice of tech stack](./tech-choices.md))
 
-### Day 15
+12:00 - 13:00 - Build
+
+-- LUNCH --
+
+14.00 - 18.00 - Build
+
+### Day 7 - 13
+10.00 - 10.15 - Stand-up
+
+10.15 - 13.00 - Build
+
+-- LUNCH --
+
+14.00 - 18.00 - Build
+
+### Day 14
 **Morning**  
 -- Recap from UX week / Intro for FACN1 --
 + How to conduct user testing
@@ -30,5 +45,12 @@ Aim to speak to 4-5 people
   (What did you learn from user testing & how can that inform your next sprint?)
   + Open up to Q&A from the rest of the cohort
   + Follow up by describing one technical challenge & one non-technical challenge that your team faced
-+ Deliver presentations
-+ Stop go continue
+
+### Day 15
+10.00 - 12.30 - [Sprint review](https://github.com/dwyl/process-handbook#the-demo)
+
+12.30 - 13.00 - [Sprint retrospective](https://github.com/dwyl/process-handbook#retrospective)
+
+-- LUNCH --
+
+14.00 - 15.00 - [Sprint planning](https://github.com/dwyl/process-handbook#sprint-planning) (for next iteration)
