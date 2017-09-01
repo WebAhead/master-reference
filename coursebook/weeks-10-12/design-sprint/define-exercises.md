@@ -27,6 +27,6 @@ Each member of the team needs to follow the steps below individually (without di
 Once all of your team members have their questions on the wall, read through what you have each created and...
 1. Identify themes and common patterns among the ideas
 1. Move the post its to group the post its with similar themes
-1. Make a record of them themes you need to address
+1. Make a record of themes you need to address
 
 ![HMW](./HMW.png)
