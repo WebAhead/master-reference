@@ -15,7 +15,7 @@ Buy the following materials:
 
 Arrange the tables in the room to enable face-to-face interaction between students.
 
-Print one [set of worksheets](./GiftGiving-Worksheets.pdf) for each student.
+Print one [set of worksheets](../GiftGiving-Worksheets.pdf) for each student.
 
 ### Workshop
 
