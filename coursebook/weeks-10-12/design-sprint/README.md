@@ -63,10 +63,10 @@
 
 14.00 - 16.00 - Prototyping
 
-16.00 - 18.00 - [Scripting user interviews](../user-testing.md)
+16.00 - 18.00 - [Scripting user interviews](../user-testing.md#1-planning)
 
 ### Day 5
-10.00 - 12.30 - User-testing
+10.00 - 12.30 - [User-testing](../user-testing.md#3-test-day-pre-test)
 
 12.30 - 13.00 - [Testing synthesis](./research-learning-spiral.md#synthesis) + presentation preparation
 
