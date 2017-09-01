@@ -59,11 +59,13 @@
 
 ### Day 4
 
-10.00 - 13.00 - [Google Ventures: Day 4 (Build Prototype)](./google-ventures-day-4.md)
+10.00 - 13.00 - Prototyping
 
 -- LUNCH --
 
-14.00 - 17.00 - [Google Ventures: Day 4 (Build Prototype)](./google-ventures-day-4.md)
+14.00 - 17.00 - Prototyping
+
+17.00 - 18.00 - [Scripting user interviews](../user-testing.md)
 
 ### Day 5
 
