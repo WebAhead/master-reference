@@ -63,9 +63,9 @@
 
 -- LUNCH --
 
-14.00 - 17.00 - Prototyping
+14.00 - 16.00 - Prototyping
 
-17.00 - 18.00 - [Scripting user interviews](../user-testing.md)
+16.00 - 18.00 - [Scripting user interviews](../user-testing.md)
 
 ### Day 5
 
