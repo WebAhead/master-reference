@@ -203,7 +203,7 @@ Try to think and impersonate that ‘Persona’, which is basically one archetyp
 
 This is the time and place to make sense of it all. Write in a few bullets points what are possible insights you might have gained. Go back to your Hypothesis - could you say that it is still true? Or perhaps by going through the RLS, you may find out some surprising facts…
 
-“From the interview I conducted with my Persona, I came across a few interesting findings….”
+“From the interviews, I came across a few interesting findings….”
 
 -  
 -  
