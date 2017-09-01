@@ -135,7 +135,7 @@ From http://www.designkit.org/methods/21:
 >
 > 2. Try to find recent innovations in your particular area. They could be technological, behavioral, or cultural. Understanding the edge of what’s possible will help you ask great questions.
 >
-> Take a look at other solutions in your area. Which ones worked? Which ones didn’t? Are there any that feel similar to what you might design? Any solutions that have inspired you to make one of your own?
+> 3. Take a look at other solutions in your area. Which ones worked? Which ones didn’t? Are there any that feel similar to what you might design? Any solutions that have inspired you to make one of your own?
 >
 > 4. Because interviews can be highly qualitative, use your Secondary Research to get the facts and figures you need to understand the context of your challenge.
 
