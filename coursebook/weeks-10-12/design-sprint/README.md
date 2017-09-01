@@ -72,8 +72,8 @@
 
 -- LUNCH --
 
-14.00 - 15.00 - Stop Go Continue
+14.00 - 16.00 - Prototype presentations
 
-15.00 - 17.00 - Prototype presentations
+16.00 - 17.00 - Stop Go Continue
 
 17.00 - 18.00 - Talk on Agile ceremonies & the Scrum Master role
