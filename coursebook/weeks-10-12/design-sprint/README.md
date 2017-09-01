@@ -38,32 +38,32 @@
 15.30 - 17.00 - [Point of View exercise](./define-exercises.md#point-of-view) & [How Might We exercise](./define-exercises.md#how-might-we)
 
 ### Day 3
+10.00 - 11.00 - Big Picture Goal
 
-10.00 - 12.00 - Best Practices Workshop
+11.00 - 12.00 - Identify one user journey
 
-- UX/UI
-- Usability and Accessibility
-
-12.00 - 13.00 - Google Ventures: Day 2 (Ideation phase)
-
-- crazy 8s
-- storyboarding
+#### Ideate
+12.00 - 13.00 - Your idea as a messaging app
 
 -- LUNCH --
 
-14.00 - 17.00 - Google Ventures: Day 3 (Decision phase)
+14.00 - 15.00 - Crazy 8s
 
-- Collective storyboarding
-- Prepare for User Testing - who / how / what / why
-  - Writing a script and preparing questions
+15.00 - 16.00 - Storyboard a user journey
+
+16.00 - 16.30 - Figma & Invision demos - [part 1](https://drive.google.com/file/d/0B89QUJBPl5FKOUZlYWtyekZ0RFU/view?usp=sharing) & [part 2](https://drive.google.com/file/d/0B89QUJBPl5FKX0lLbDBjSmZIQ3M/view?usp=sharing)
+
+16.30 - 18.00 - Prototyping
 
 ### Day 4
 
-10.00 - 13.00 - [Google Ventures: Day 4 (Build Prototype)](./google-ventures-day-4.md)
+10.00 - 13.00 - Prototyping
 
 -- LUNCH --
 
-14.00 - 17.00 - [Google Ventures: Day 4 (Build Prototype)](./google-ventures-day-4.md)
+14.00 - 16.00 - Prototyping
+
+16.00 - 18.00 - [Scripting user interviews](../user-testing.md)
 
 ### Day 5
 10.00 - 12.30 - User-testing
