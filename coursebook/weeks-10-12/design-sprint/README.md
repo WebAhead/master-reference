@@ -33,24 +33,17 @@
 14.00 - 17.00 - [Google Ventures: Day 1](./google-ventures-day-1.md)
 
 ### Day 3
-
-10.00 - 12.00 - Best Practices Workshop
-
-- UX/UI
-- Usability and Accessibility
-
-12.00 - 13.00 - Google Ventures: Day 2 (Ideation phase)
-
-- crazy 8s
-- storyboarding
+10.00 - 13.00 - Big Picture Goal
 
 -- LUNCH --
 
-14.00 - 17.00 - Google Ventures: Day 3 (Decision phase)
+14.00 - 15.30 - Ideation exercises
 
-- Collective storyboarding
-- Prepare for User Testing - who / how / what / why
-  - Writing a script and preparing questions
+15.30 - 15.45 - Break
+
+15.45 - 16.15 - Figma & Invision demos
+
+16.15 - 18.00 - Prototyping
 
 ### Day 4
 
