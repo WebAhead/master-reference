@@ -33,17 +33,22 @@
 14.00 - 17.00 - [Google Ventures: Day 1](./google-ventures-day-1.md)
 
 ### Day 3
-10.00 - 13.00 - Big Picture Goal
+10.00 - 11.00 - Big Picture Goal
+
+11.00 - 12.00 - Identify one user journey
+
+#### Ideate
+12.00 - 13.00 - Your idea as a messaging app
 
 -- LUNCH --
 
-14.00 - 15.30 - Ideation exercises
+14.00 - 15.00 - Crazy 8s
 
-15.30 - 15.45 - Break
+15.00 - 16.00 - Storyboard a user journey
 
-15.45 - 16.15 - Figma & Invision demos - [part 1](https://drive.google.com/file/d/0B89QUJBPl5FKOUZlYWtyekZ0RFU/view?usp=sharing) & [part 2](https://drive.google.com/file/d/0B89QUJBPl5FKX0lLbDBjSmZIQ3M/view?usp=sharing)
+16.00 - 16.30 - Figma & Invision demos - [part 1](https://drive.google.com/file/d/0B89QUJBPl5FKOUZlYWtyekZ0RFU/view?usp=sharing) & [part 2](https://drive.google.com/file/d/0B89QUJBPl5FKX0lLbDBjSmZIQ3M/view?usp=sharing)
 
-16.15 - 18.00 - Prototyping
+16.30 - 18.00 - Prototyping
 
 ### Day 4
 
