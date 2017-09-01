@@ -63,14 +63,17 @@
 
 14.00 - 16.00 - Prototyping
 
-16.00 - 18.00 - [Scripting user interviews](../user-testing.md)
+16.00 - 18.00 - [Scripting user interviews](../user-testing.md#1-planning)
 
 ### Day 5
+10.00 - 12.30 - [User-testing](../user-testing.md#3-test-day-pre-test)
 
-10.00 - 13.00 - Google Ventures: Day 5 (User Testing)
+12.30 - 13.00 - [Testing synthesis](./research-learning-spiral.md#synthesis) + presentation preparation
 
 -- LUNCH --
 
-14.00 - 16.00 - Group Presentations
+14.00 - 16.00 - Prototype presentations
 
-16.00 - 17.00 - Stop, Go, Continue
+16.00 - 17.00 - Stop Go Continue
+
+17.00 - 18.00 - Talk on Agile ceremonies & the Scrum Master role
