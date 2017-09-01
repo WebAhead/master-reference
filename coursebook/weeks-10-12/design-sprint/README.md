@@ -66,11 +66,14 @@
 14.00 - 17.00 - [Google Ventures: Day 4 (Build Prototype)](./google-ventures-day-4.md)
 
 ### Day 5
+10.00 - 12.30 - User-testing
 
-10.00 - 13.00 - Google Ventures: Day 5 (User Testing)
+12.30 - 13.00 - [Testing synthesis](./research-learning-spiral.md#synthesis) + presentation preparation
 
 -- LUNCH --
 
-14.00 - 16.00 - Group Presentations
+14.00 - 15.00 - Stop Go Continue
 
-16.00 - 17.00 - Stop, Go, Continue
+15.00 - 17.00 - Prototype presentations
+
+17.00 - 18.00 - Talk on Agile ceremonies & the Scrum Master role
