@@ -21,30 +21,19 @@
 
 14.00 - 18.00 - Build
 
+
 ### Day 14
-**Morning**  
--- Recap from UX week / Intro for FACN1 --
-+ How to conduct user testing
-  + [Video: How to do a user interview (from Google Ventures updated)](https://www.youtube.com/watch?v=Qq3OiHQ-HCU)
-  + [Article: 5 steps to create good user interview questions](https://medium.com/interactive-mind/5-steps-to-create-good-user-interview-questions-by-metacole-a-comprehensive-guide-8a591b0e2162)
-  + [FAC9 tips](https://github.com/FAC9/future-leaders/blob/d12df8559d7464dbc7be509aedea413f9064faca/docs/user-testing-advice.md)
+10.00 - 11.00 - Write user interview script
 
--- Main portion --
-+ Plan your script/questions in your team
-+ **Conduct user testing**  
-  + OUTSIDE THE SPACE  
-  + [Bring people in](https://gist.github.com/njsfield/cad2904e0fa3a74b32fd5accbca50c2e)
-Aim to speak to 4-5 people
+11.00 - 13.00 - Conduct user interviews
 
-**Afternoon**
-+ Presentation planning (incorporating the user feedback)
-  + Briefly go over the idea, as it was defined during the pitch / sprint planning
-  + Demonstrate the existing features, specifically mentioning how well the initial users stories were met  
-  (Think: sprint review that your dev team might do for the PO, or a presentation that the PO might use for further funding)
-  + Describe the next features you would implement  
-  (What did you learn from user testing & how can that inform your next sprint?)
-  + Open up to Q&A from the rest of the cohort
-  + Follow up by describing one technical challenge & one non-technical challenge that your team faced
+-- LUNCH --
+
+13.00 - 16.00 - Conduct user interviews
+
+16.00 - 17.00 - Synthesise user interview results
+
+17.30 - 18.00 - [Demo prep](https://github.com/dwyl/process-handbook#sprint-demo-prep)
 
 ### Day 15
 10.00 - 12.30 - [Sprint review](https://github.com/dwyl/process-handbook#the-demo)
