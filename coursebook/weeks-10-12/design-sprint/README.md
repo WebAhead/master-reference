@@ -41,7 +41,7 @@
 
 15.30 - 15.45 - Break
 
-15.45 - 16.15 - Figma & Invision demos
+15.45 - 16.15 - Figma & Invision demos - [part 1](https://drive.google.com/file/d/0B89QUJBPl5FKOUZlYWtyekZ0RFU/view?usp=sharing) & [part 2](https://drive.google.com/file/d/0B89QUJBPl5FKX0lLbDBjSmZIQ3M/view?usp=sharing)
 
 16.15 - 18.00 - Prototyping
 
