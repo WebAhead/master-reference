@@ -1,4 +1,4 @@
-## UX week
+## Design Thinking Week
 
 ### Menu
 
@@ -8,11 +8,13 @@
 
 ### Day 1
 
-10.00 - 10.15 - [Introduction to the week (learning outcomes)](../learning-outcomes.md)
+10.00 - 10.30 - Introduction to the internal project - [learning outcomes](../learning-outcomes.md) & design thinking week [slides deck](https://docs.google.com/presentation/d/1CiYH-jdV3OojT3mUITuTBCao6IeZyNkI8xF2G2B6vDA/edit?ts=59a18a95#slide=id.g35f391192_00)
 
-10.15 - 12.15 - [IDEO Design Thinking Workshop](./design-thinking-workshop.md)
+10.30 - 12.00 - [IDEO Design Thinking Workshop](./GiftGiving-Worksheets.pdf)
 
-12.15 - 13.00 - Talk: UX Basics / Design Sprints / Production Cycle
+12:00 - 12:15 - Break
+
+12.15 - 13.00 - [Design Thinking Basics](https://docs.google.com/presentation/d/1URTHmtKcxXUz2figOyczww41j8a1JhA5P18tpN-6CTU/edit?usp=sharing)
 
 -- LUNCH --
 
@@ -20,17 +22,20 @@
 
 ### Day 2
 
-10.00 - 12.15 - [Understanding Your Users](./persona-interview-workshop.md)
+#### Empathise
+10.00 - 11.00 - [Research Learning Spiral - Objectives & Hypotheses](./research-learning-spiral.md)
 
-12.15 - 13.00 - Introduction to User Testing
-
-- Why?
-- Qualitative vs Quantitative data
-- **Exercise:** Plan How - (Who When Where)
+11.00 - 13.00 - [Conduct - Secondary Research](./research-learning-spiral.md#secondary-research)
 
 -- LUNCH --
 
-14.00 - 17.00 - [Google Ventures: Day 1](./google-ventures-day-1.md)
+14.00 - 14.45 - [Conduct - User Personas](./research-learning-spiral.md#user-personas)
+
+14.45 - 15.30 - [Conduct - User Interviews](./research-learning-spiral.md#surveying)
+
+#### Define
+
+15.30 - 17.00 - [Point of View exercise](./define-exercises.md#point-of-view) & [How Might We exercise](./define-exercises.md#how-might-we)
 
 ### Day 3
 10.00 - 11.00 - Big Picture Goal
