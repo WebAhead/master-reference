@@ -43,3 +43,5 @@
 -- LUNCH --
 
 14.00 - 15.00 - [Sprint planning](https://github.com/dwyl/process-handbook#sprint-planning) (for next iteration)
+
+15.00 - 16.00 - Create [case studies](https://github.com/foundersandcoders/case-studies)
