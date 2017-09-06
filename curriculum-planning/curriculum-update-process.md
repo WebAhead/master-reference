@@ -31,10 +31,10 @@ Week | Volunteer
 
 ## Timeline
 
-_Week of September 6:_
+_Week of September 6_
 - A curriculum working group member will open empty issues in `master-reference` for each of the 8 weeks, assigning the week facilitator
 
-_Week of September 11:_
+_Week of September 11_
 - Course facilitators at each campus set aside approximately one hour for students to assign themselves to each of the 8 weeks, ensuring that each group has at least one representative from each campus
 - Students spend at least two in-class hours reviewing their week's materials and the SGC notes taken all three campuses 
 - Students start posting suggestions for updates to their week's open issue
