@@ -43,7 +43,7 @@ _Week of September 18_
 - In advance, course faciliators will identify a single time slot when students from all campuses can meet (remotely) with their facilitator
 - At the appointed time, facilitators meet (remotely) with their groups to discuss the comments raised thus far
 
-_Week of September 25 _
+_Week of September 25_
 - Course facilitators allocate time for students to browse issues for all weeks, reading input from all three campuses and offering comments to other groups
 - Facilitators meet with their groups for a second time to review comments and prepare a final list of suggested updates/amendments to the week
 - Week facilitator finalises the list of amendments/updates for approval by the working group and posts the list for review
