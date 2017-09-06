@@ -25,7 +25,7 @@ Week | Volunteer
 3 | Jessica Salmon
 4 | Yvonne Liu
 5 | Finn Hodgkin
-6 | Sohil
+6 | Sohil Pandya
 7 | Ronan McCabe
 8 | Eoin McCarthy
 
