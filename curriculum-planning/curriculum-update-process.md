@@ -25,16 +25,16 @@ Week | Volunteer
 3 | Jessica Salmon
 4 | Yvonne Liu
 5 | Finn Hodgkin
-6 | Sohil
+6 | Sohil Pandya
 7 | Ronan McCabe
 8 | Eoin McCarthy
 
 ## Timeline
 
-_Week of September 6:_
+_Week of September 6_
 - A curriculum working group member will open empty issues in `master-reference` for each of the 8 weeks, assigning the week facilitator
 
-_Week of September 11:_
+_Week of September 11_
 - Course facilitators at each campus set aside approximately one hour for students to assign themselves to each of the 8 weeks, ensuring that each group has at least one representative from each campus
 - Students spend at least two in-class hours reviewing their week's materials and the SGC notes taken all three campuses 
 - Students start posting suggestions for updates to their week's open issue
@@ -43,7 +43,7 @@ _Week of September 18_
 - In advance, course faciliators will identify a single time slot when students from all campuses can meet (remotely) with their facilitator
 - At the appointed time, facilitators meet (remotely) with their groups to discuss the comments raised thus far
 
-_Week of September 25 _
+_Week of September 25_
 - Course facilitators allocate time for students to browse issues for all weeks, reading input from all three campuses and offering comments to other groups
 - Facilitators meet with their groups for a second time to review comments and prepare a final list of suggested updates/amendments to the week
 - Week facilitator finalises the list of amendments/updates for approval by the working group and posts the list for review
