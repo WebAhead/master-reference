@@ -21,13 +21,13 @@ Interested in volunteering? Please contact @des-des to join a group.
 Week | Volunteer 
 ----- | --------
 1 | Jen Spencer
-2 | Zooey Miller
+2 | Zooey Miller, Oliver (@oliverjam)
 3 | Jessica Salmon
 4 | Yvonne Liu
 5 | Finn Hodgkin
 6 | Sohil Pandya
 7 | Ronan McCabe
-8 | Eoin McCarthy
+8 | Eoin McCarthy (@des-des)
 
 ## Timeline
 
