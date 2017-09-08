@@ -26,3 +26,4 @@
   - Deployment (e.g. Heroku)
   - Continuous Integration (e.g. Travis)
   - Linter
+  - File structure
