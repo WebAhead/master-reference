@@ -19,7 +19,7 @@
 
 -- LUNCH --
 
-14.00 - 18.00 - Curriculum planning
+14.00 - 18.00 - Build
 
 ### Day 3
 10.00 - 10.15 - Stand-up
