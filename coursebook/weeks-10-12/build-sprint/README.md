@@ -4,14 +4,11 @@
 
 10.15 - 10.45 - Workflow talk
 
-10.45 - 12.00 - [Sprint planning](https://github.com/dwyl/process-handbook#sprint-planning)
-(Note: you may want to factor in technical spikes to your build time estimates, depending on your [choice of tech stack](./tech-choices.md))
-
-12:00 - 13:00 - Build
+10.45 - 13.00 - [Plan & set up](./preparing-for-build-sprint.md)
 
 -- LUNCH --
 
-14.00 - 16.00 - Build
+14.00 - 16.00 - [Continue planning & setting up](./preparing-for-build-sprint.md)
 
 16.00 - 18.00 - Business Development
 
