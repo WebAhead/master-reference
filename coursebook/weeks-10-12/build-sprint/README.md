@@ -45,9 +45,7 @@
 14.00 - 18.00 - Build
 
 ### Day 5
-10.00 - 11.00 - Today I Learned
-
-11.00 - 11.15 - Stand-up
+10.00 - 10.15 - Stand-up
 
 10.15 - 13.00 - Build
 
@@ -61,7 +59,9 @@
 
 ## Second week
 ### Day 6
-10.00 - 10.15 - Stand-up
+10.00 - 11.00 - Today I Learned
+
+11.00 - 11.15 - Stand-up
 
 10.15 - 13.00 - Build
 
