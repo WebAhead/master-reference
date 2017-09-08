@@ -5,6 +5,8 @@
 
 1. Talk through your [choice of tech stack](./tech-choices.md) with the help of your mentors.
 
+1. You may choose to run through the architectural flow of your app at this point.
+
 1. [Sprint planning](https://github.com/dwyl/process-handbook#sprint-planning) with your Product Owner and Scrum Master:
   - Write out your tasks to be done in issues. Add:
     - pictures of your wireframes
@@ -23,3 +25,4 @@
 1. Set up your environment
   - Deployment (e.g. Heroku)
   - Continuous Integration (e.g. Travis)
+  - Linter
