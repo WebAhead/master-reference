@@ -1,10 +1,10 @@
 ## First week
 ### Day 1
-10.00 - 10.15 - Introduction to build sprint schedule & [learning outcomes i.e. Agile roles & practices](../learning-outcomes.md)
+10.00 - 10.30 - Introduction to build sprint schedule & [learning outcomes i.e. Agile roles & practices](../learning-outcomes.md)
 
-10.15 - 10.45 - Workflow talk
+10.30 - 11.30 - Workflow talk
 
-10.45 - 13.00 - [Plan & set up](./preparing-for-build-sprint.md)
+11.30 - 13.00 - [Plan & set up](./preparing-for-build-sprint.md)
 
 -- LUNCH --
 
