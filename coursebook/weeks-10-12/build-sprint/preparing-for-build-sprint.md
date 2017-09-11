@@ -8,7 +8,8 @@
 1. You may choose to run through the architectural flow of your app at this point.
 
 1. [Sprint planning](https://github.com/dwyl/process-handbook#sprint-planning) with your Product Owner and Scrum Master:
-  - Write out your tasks to be done in issues. Add:
+  - Write out your tasks to be done in issues. Start with an issue per user story.
+  - Add:
     - pictures of your wireframes
     - acceptance criteria (define these with your PO)
     - priority labels (immport DWYL labels)
