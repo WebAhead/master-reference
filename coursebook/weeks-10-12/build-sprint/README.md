@@ -56,7 +56,7 @@
 
 ## Second week
 ### Day 6
-10.00 - 11.00 - Today I Learned
+10.00 - 11.00 - [Today I Learned](./today-i-learned.md)
 
 11.00 - 11.15 - Stand-up
 
