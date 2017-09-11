@@ -89,13 +89,13 @@
 17.00 - 18.00 - Speaker
 
 ### Day 9
-10.00 - 11.00 - Write user interview script
+10.00 - 11.00 - [Planning & scripting user interviews](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/weeks-10-12/user-testing.md#1-planning)
 
-11.00 - 13.00 - Conduct user interviews
+11.00 - 13.00 - [Conduct user interviews](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/weeks-10-12/user-testing.md#3-test-day-pre-test)
 
 -- LUNCH --
 
-13.00 - 16.00 - Conduct user interviews
+13.00 - 16.00 - [Conduct user interviews (continued)](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/weeks-10-12/user-testing.md#3-test-day-pre-test)
 
 16.00 - 17.00 - Synthesise user interview results
 
