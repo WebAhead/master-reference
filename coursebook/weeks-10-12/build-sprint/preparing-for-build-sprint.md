@@ -6,24 +6,28 @@
 
 ## [Sprint planning](https://github.com/dwyl/process-handbook#sprint-planning)
 
-With your Product Owner and Scrum Master:
-- Write out your tasks to be done in issues. Start with an issue per user story.
-- Add:
-  - pictures of your wireframes
-  - acceptance criteria (define these with your PO)
-  - priority labels (immport DWYL labels)
-  - time estimates
-  - order the issues in your milestone accordingly
-  - assign issues
+With your Product Owner and Scrum Master, write out your tasks to be done in issues.
+
+Start with an issue per user story & break these into sub-issues as/when necessary.
+
+Each issue should contain:
+- pictures of your wireframes
+- acceptance criteria (define these with your PO)
+- a priority label ([import DWYL labels](https://label-sync.herokuapp.com/login))
+- a time estimate
+
+Then
+- order the issues in your milestone accordingly
+- assign issues
 
 Note: you may want to factor in technical spikes to your build time estimates, depending on your choice of tech stack.
 
 ## Starting work
-1. Write your initial `README.md`
+1. Write your initial `README.md`  
 Remember: You will have a time slot ("Today I Learned" in the 2nd week) for a quick show and tell. If you update your documentation as you go, you can use this to showcase what you have learned to the rest of your cohort.
 
 1. Set up your environment
-  - Deployment (e.g. Heroku)
-  - Continuous Integration (e.g. Travis)
-  - Linter
-  - File structure
+    - Deployment (e.g. Heroku)
+    - Continuous Integration (e.g. Travis)
+    - Linter
+    - File structure
