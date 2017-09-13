@@ -1,32 +1,117 @@
+## First week
+### Day 1
+10.00 - 10.30 - Introduction to build sprint schedule & [learning outcomes i.e. Agile roles & practices](../learning-outcomes.md)
+
+10.30 - 11.30 - Workflow talk
+
+11.30 - 13.00 - [Plan & set up](./preparing-for-build-sprint.md)
+
+-- LUNCH --
+
+14.00 - 16.00 - [Continue planning & setting up](./preparing-for-build-sprint.md)
+
+16.00 - 18.00 - Business Development
+
+### Day 2
+10.00 - 10.15 - Stand-up
+
+10.15 - 13.00 - Build
+
+-- LUNCH --
+
+14.00 - 18.00 - Build
+
+### Day 3
+10.00 - 10.15 - Stand-up
+
+10.15 - 13.00 - Build
+
+-- LUNCH --
+
+14.00 - 17.00 - Build
+
+17.00 - 18.00 - Speaker
+
+### Day 4
+10.00 - 10.15 - Stand-up
+
+10.15 - 13.00 - Build
+
+-- LUNCH --
+
+14.00 - 18.00 - Build
+
+### Day 5
+10.00 - 10.15 - Stand-up
+
+10.15 - 13.00 - Build
+
+-- LUNCH --
+
+14.00 - 16.00 - Build
+
+16.00 - 17.00 - Stop Go Continue
+
+17.00 - 18.00 - Speaker
+
+## Second week
 ### Day 6
-Pitch ideas
+10.00 - 11.00 - [Today I Learned](./today-i-learned.md)
 
-### Day 7 - 14
-This is an opportunity for teams to be more self-directed in their project building. [Choice of tech stack](./tech-choices.md) is entirely up to the team and the decision should be made jointly.
+11.00 - 11.15 - Stand-up
 
-### Day 15
-**Morning**  
--- Recap from UX week / Intro for FACN1 --
-+ How to conduct user testing
-  + [Video: How to do a user interview (from Google Ventures updated)](https://www.youtube.com/watch?v=Qq3OiHQ-HCU)
-  + [Article: 5 steps to create good user interview questions](https://medium.com/interactive-mind/5-steps-to-create-good-user-interview-questions-by-metacole-a-comprehensive-guide-8a591b0e2162)
-  + [FAC9 tips](https://github.com/FAC9/future-leaders/blob/d12df8559d7464dbc7be509aedea413f9064faca/docs/user-testing-advice.md)
+10.15 - 13.00 - Build
 
--- Main portion --
-+ Plan your script/questions in your team
-+ **Conduct user testing**  
-  + OUTSIDE THE SPACE  
-  + [Bring people in](https://gist.github.com/njsfield/cad2904e0fa3a74b32fd5accbca50c2e)
-Aim to speak to 4-5 people
+-- LUNCH --
 
-**Afternoon**
-+ Presentation planning (incorporating the user feedback)
-  + Briefly go over the idea, as it was defined during the pitch / sprint planning
-  + Demonstrate the existing features, specifically mentioning how well the initial users stories were met  
-  (Think: sprint review that your dev team might do for the PO, or a presentation that the PO might use for further funding)
-  + Describe the next features you would implement  
-  (What did you learn from user testing & how can that inform your next sprint?)
-  + Open up to Q&A from the rest of the cohort
-  + Follow up by describing one technical challenge & one non-technical challenge that your team faced
-+ Deliver presentations
-+ Stop go continue
+14.00 - 16.00 - Build
+
+16.00 - 18.00 - Business Development
+
+### Day 7
+10.00 - 10.15 - Stand-up
+
+10.15 - 13.00 - Build
+
+-- LUNCH --
+
+14.00 - 18.00 - Curriculum planning
+
+### Day 8
+10.00 - 10.15 - Stand-up
+
+10.15 - 13.00 - Build
+
+-- LUNCH --
+
+14.00 - 17.00 - Build
+
+17.00 - 18.00 - Speaker
+
+### Day 9
+10.00 - 11.00 - [Planning & scripting user interviews](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/weeks-10-12/user-testing.md#1-planning)
+
+11.00 - 13.00 - [Conduct user interviews](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/weeks-10-12/user-testing.md#3-test-day-pre-test)
+
+-- LUNCH --
+
+13.00 - 16.00 - [Conduct user interviews (continued)](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/weeks-10-12/user-testing.md#3-test-day-pre-test)
+
+16.00 - 17.00 - Synthesise user interview results
+
+17.30 - 18.00 - [Demo prep](https://github.com/dwyl/process-handbook#sprint-demo-prep)
+
+### Day 10
+10.00 - 12.30 - [Sprint review](https://github.com/dwyl/process-handbook#the-demo)
+
+12.30 - 13.00 - [Sprint retrospective](https://github.com/dwyl/process-handbook#retrospective)
+
+-- LUNCH --
+
+14.00 - 15.00 - [Sprint planning](https://github.com/dwyl/process-handbook#sprint-planning) (for next iteration)
+
+15.00 - 16.00 - Create [case studies](https://github.com/foundersandcoders/case-studies)
+
+16.00 - 17.00 - Stop Go Continue
+
+17.00 - 18.00 - Speaker
