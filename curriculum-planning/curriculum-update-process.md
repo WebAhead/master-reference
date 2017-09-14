@@ -22,7 +22,7 @@ Week | Volunteer
 ----- | --------
 1 | Jen Spencer
 2 | Zooey Miller, Oliver (@oliverjam)
-3 | Jessica Salmon
+3 | Matt Gregory @mantagen
 4 | Yvonne Liu
 5 | Finn Hodgkin
 6 | Sohil Pandya
