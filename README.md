@@ -109,3 +109,13 @@ Below is a list of potential weeks, that might make up a curriculum, and each on
 
 ### Express
 [Open issues](https://github.com/foundersandcoders/master-reference/issues?q=is%3Aopen+is%3Aissue+label%3Aweek-express)
+
+#### Workshops
+* [Introduction to Express JS workshop](https://github.com/foundersandcoders/introduction-to-express)
+* [Express Code-Along workshop](https://github.com/foundersandcoders/express-workshop)
+* [Express Handlebars workshop](https://github.com/foundersandcoders/express-handlebars-workshop)
+* [Express and testing workshop](https://github.com/foundersandcoders/express-and-testing-workshop)
+
+#### Morning challenges
+* [Making an animated App drawer challenge](https://github.com/foundersandcoders/morning-challenge-animated-app-drawer)
+* [Express handlebars Challenge](https://github.com/foundersandcoders/express-handlebars-challenge)
