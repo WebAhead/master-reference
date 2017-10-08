@@ -45,10 +45,8 @@ _Other:_
 - `freelance-networking-and-resources`
 - `old-task-groups`
 
-
 _Client projects:_
-- [`carrier-pigeon`](https://github.com/foundersandcoders/carrier-pigeon)
-- [`childline-yoti`](https://github.com/foundersandcoders/childline-yoti)
+- In a small number of cases, we host client projects on private repositories, when we have not yet convinced them of the benefits of open source!
 
 ## Accessing private repositories
 
