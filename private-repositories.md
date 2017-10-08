@@ -40,7 +40,7 @@ _International:_
 
 _Other:_
 - `graduate-mvps`
-- `testimonial`
+- `testimonials`
 - `freelancing`
 - `freelance-networking-and-resources`
 - `old-task-groups`
