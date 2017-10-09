@@ -33,7 +33,7 @@ Business development / community engagement
 Morning challenge - [traffic light callbacks](https://github.com/foundersandcoders/morning-challenge-traffic-lights)
 
 - 11:00 - 13:00 <br>
-[Pure functions workshop](https://github.com/Jwhiles/pure-functions-easy-testing) as an introduction to writing testable code :smile:
+[Pure functions workshop](https://github.com/foundersandcoders/pure-functions-easy-testing) as an introduction to writing testable code :smile:
 
 — LUNCH —
 
