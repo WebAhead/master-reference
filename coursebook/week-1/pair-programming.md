@@ -1,7 +1,13 @@
 # Pair programming
 
+## Learning Outcomes
+* Learn a variety of techniques for how to pair programme
+* Feel more comfortable with pairing
+* Understand the benefits of pairing 
+
+## Task
 1. Find a partner and work from one computer together (close the other laptop)
-2. Choose a kata on codewars, preferably one that neither of you have completed before
+2. Choose a 8kyu kata on codewars, preferably one that neither of you have completed before
 3. Read through the [different pair programming methods](#methods) & choose one that you want to try
 4. Attempt the kata, using this pair programming method.
     + Pair for up to 30 minutes
