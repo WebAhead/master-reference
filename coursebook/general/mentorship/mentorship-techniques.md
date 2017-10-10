@@ -1,6 +1,9 @@
-# 10 tips for teaching code
+# Mentorship techniques
 
 1. Always ask questions first. Most of the time the students actually know the answer, but just don’t feel confident in it.
+  + What did you google for?
+  + Have you asked the other members of your team?
+  + Have you asked other students outside of your team? [If you know a team that has worked through the same problem, point them to that team]
 2. Encourage the students to type and not copy paste.
 3. The student should always be in control of the keyboard and mouse (don’t type for them)
 4. Draw things out! Keep a notepad and pen with you and prepare yourself to draw out the problems/solutions to visually aid your explanations
@@ -11,10 +14,7 @@
 9. Work collaboratively with your students. If you have two or more students, you should work with all of them. Don't focus all your attention on one of them.
 10. Assume that anyone you're teaching has no knowledge but infinite intelligence.
 
-###Before the course we suggest you...
+### Before the course we suggest you...
 
 * Run through some of the material with someone who hasn’t coded before - This is deployed to Read the docs for easy viewing
 * Get more practise! We recommend mentoring at [codebar](https://codebar.io/member/new). Many of the attendees there are new to programming so it is good preparation for the course.
-
-
-##### #thanxNathalia for sending us these tips!
