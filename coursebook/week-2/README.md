@@ -30,7 +30,7 @@ Business development / community engagement
 ### Day 2
 
 - 10:00 - 11:00 <br>
-Morning challenge - [DOM manipulation](https://github.com/mantagen/DOM-manipulation-Challenge)
+Morning challenge - [DOM manipulation](https://github.com/foundersandcoders/DOM-manipulation-Challenge)
 
 - 11:00 - 13:00 <br>
 [Pure functions workshop](https://github.com/foundersandcoders/pure-functions-easy-testing) as an introduction to writing testable code :smile:
