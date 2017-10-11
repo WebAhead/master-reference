@@ -16,17 +16,18 @@
     - [House rules](../general/house-rules.md)
     - Campus-specific info
     - Introduce gitter channels
- 
+
 
 — LUNCH —
 
 - 14:00 - 14:50 — Introduction to [Pair Programming](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/pair-programming.md)
 - 14:50 - 15:00 — Toilet/Coffee Break
 - 15:00 - 16:00 — [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility/blob/master/putting-yourself-in-someone-elses-shoes.md)
-- 16.00 - 18.00 — [Github Scavenger Hunt - master reference](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/github-scavenger-hunt.md)  
+- 16.00 - 17.00 — [Github Scavenger Hunt - master reference](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/github-scavenger-hunt.md)  
 Github Scavenger Hunt - campus specific  
 [London](https://github.com/foundersandcoders/london-programme/blob/master/github-scavenger-hunt.md)  
 [Nazareth](https://github.com/foundersandcoders/nazareth-programme/blob/master/github-scavenger-hunt.md)
+- 17:00 - 18:00 — Introduction to consensus based decision-making
 
 ## Day 2
 - 10:00 - 11:00 — Morning Challenge - [Accessibility challenge](https://github.com/foundersandcoders/accessibility-challenge)
@@ -34,8 +35,7 @@ Github Scavenger Hunt - campus specific
 - 12:45 - 13:00 — Introduce [Research topics](./research-afternoon.md)
 
 — LUNCH —
-- 14.00 - 16:45 — Research / TBC
-- 16:45 - 17:30 — Introduction to consensus based decision-making
+- 14.00 - 17:30 — Research / TBC
 - 17:30 - 18:00 — Introduce [Project](./project.md)
 
 ## Day 3
