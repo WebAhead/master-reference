@@ -51,7 +51,7 @@
 - 14.00 - 18.00 — Projects
 
 ## Day 5
-- 10.00 - 11.00 — [Code review](../general/code-reviews.md) (1 alumnus per project)
+- 10.00 - 11.00 — [Code review](./codereviewsintro.md) (1 alumnus per project)
 - 11.00 - 12.45 — Respond to issues
 - 12.45 - 13.00 — [Plan presentations](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/weekly-projects.md#project-presentation)
 
