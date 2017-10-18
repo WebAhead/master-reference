@@ -1,4 +1,7 @@
 # Mentorship techniques
+
+See [the slides](https://docs.google.com/presentation/d/1aYncaSB8ffVnccyBIisftG0FaBZK-RUHe2UM5AC4m-o/edit?usp=sharing).
+
 Mentorship is about building relationships and empowering students' confidence in their own abilities.
 
 1. Always ask questions first. Most of the time the students actually know the answer, but just don’t feel confident in it.
