@@ -11,10 +11,12 @@
 - How would you successfully spike on a topic?
 - Give an example of how a spike could have helped with last week's projects.
 
-### Software development methodologies
-- What is the traditional software development life-cycle?
-- How does agile differ from traditional waterfall methodologies?
-- How does the general software development life-cycle differ from the TDD cycle?
+### DOM manipulation
+- How can you use JavaScript to create an HTML element and then add it to your webpage? How would you replace an existing element with it?
+- How would you add a `<li>` element to the start of a `<ul>`?
+- What is a JavaScript Event? What does event.preventDefault() do and why might you use it?
+- What is a NodeList? How is it different from an Array?
+- What are the security concerns around `Element.innerHTML` and what could you use instead?
 
 ### Test coverage
 - What is test coverage?

@@ -30,10 +30,10 @@ Business development / community engagement
 ### Day 2
 
 - 10:00 - 11:00 <br>
-Morning challenge - [traffic light callbacks](https://github.com/foundersandcoders/morning-challenge-traffic-lights)
+Morning challenge - [DOM manipulation](https://github.com/foundersandcoders/DOM-manipulation-Challenge)
 
 - 11:00 - 13:00 <br>
-[Pure functions workshop](https://github.com/Jwhiles/pure-functions-easy-testing) as an introduction to writing testable code :smile:
+[Pure functions workshop](https://github.com/foundersandcoders/pure-functions-easy-testing) as an introduction to writing testable code :smile:
 
 — LUNCH —
 
@@ -49,7 +49,7 @@ Review and Present research topics
 ### Day 3
 
 - 10:00 - 11:00 <br>
-Morning challenge - [DOM manipulation](https://github.com/mantagen/DOM-manipulation-Challenge)
+Morning challenge - [traffic light callbacks](https://github.com/foundersandcoders/morning-challenge-traffic-lights)
 
 - 11:00 - 13:00 <br>
 Start projects

@@ -162,3 +162,38 @@
 | Cohort SGC Facilitation | FAC11 member<br>(+ Yvonne (@yvonne-liu)) |  |
 | SGC Note taking | Zooey (@ZooeyMiller) |  |
 | Project group SGC Facilitation | Yvonne (@yvonne-liu)<br>Zooey (@ZooeyMiller)<br>Jen (@jsms90) |  |
+
+## Week 5
+### Day 1
+| Part | London | Nazareth | Gaza |
+| ---- | ------ | -------- | ---- |
+| Learning outcomes | Joey (@joeylouise) |  |
+| Workshop on TDD Node server using Shot and Tape | **Lead:**<br>Joey (@joeylouise)<br><br>**Support:**<br>Maja (@majakudlicka) |  |
+| Workshop on error handling & testing for errors | **Lead:**<br>Maja (@majakudlicka)<br><br>**Support:**<br>Joey (@joeylouise) |  |
+| Business development | **Meetups:**<br>Cleo (@Cleop)<br><br>**Environment:**<br>Bradley (@bradreeder)<br><br>**Outreach:**<br>Benji (@benjaminlees)<br><br>**Diversity:**<br>Claire (@claireinez)<br><br>**Rest:**<br>Jen (@jsms90) |  |
+
+### Day 2
+| Part | London | Nazareth | Gaza |
+| ---- | ------ | -------- | ---- |
+| Node shell workshop | Joey (@joeylouise) |  |
+| Introduce research afternoon | Joey (@joeylouise)<br>Maja (@majakudlicka) |  |
+| Introduce project | Maja (@majakudlicka) |  |
+
+### Day 3
+| Part | London | Nazareth | Gaza |
+| ---- | ------ | -------- | ---- |
+| Request module challenge | Joey (@joeylouise) |  |
+| Project Support | Joey (@joeylouise) |
+
+### Day 4
+| Part | London | Nazareth | Gaza |
+| ---- | ------ | -------- | ---- |
+| Project Support | Maja (@majakudlicka) |
+
+### Day 5
+| Part | London | Nazareth | Gaza |
+| ---- | ------ | -------- | ---- |
+| Code review | Joey (@joeylouise)<br>Maja (@majakudlicka)<br> |  |
+| Cohort SGC Facilitation | Jen (@jsms90) |  |
+| SGC Note taking | Joey (@joeylouise) |  |
+| Project group SGC Facilitation | Joey (@joeylouise)<br>Maja (@majakudlicka)<br>Jen (@jsms90) |  |
