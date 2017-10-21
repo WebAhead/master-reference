@@ -31,28 +31,28 @@ function parallel (tasks, callback) {
 parallel([
   function(callback) {
     setTimeout(function() {
-      callback(undefined,1);
+      callback(null,1);
     },2000);
   },
   function(callback) {
     setTimeout(function() {
-      callback(undefined,2);
+      callback(null,2);
     },1000);
   },
   function(callback) {
     setTimeout(function() {
-      callback('boom',3);
+      callback(null,3);
     },1500);
   },
-  function(callback) {
-    setTimeout(function() {
-      callback('boom',undefined);
-    },1200);
-  }
+  // function(callback) {
+  //   setTimeout(function() {
+  //     callback('boom');
+  //   },1200);
+  // }
 ], function(err,result) {
   if (err) {
-    console.log('err',err); // undefined
+    console.log('err: ',err); // boom
   } else {
-    console.log('result',result); // [1,2,3]
+    console.log('result: ',result); // [1,2,3]
   }
 });
