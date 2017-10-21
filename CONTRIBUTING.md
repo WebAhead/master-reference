@@ -1,8 +1,12 @@
 Inspired by [dwyl's contribution workflow](https://www.github.com/dwyl/contributing).
 
-The following people are available to review pull requests: [@bradreeder](https://github.com/bradreeder), [@des-des](https://github.com/des-des), [@jsms90](https://github.com/jsms90), [@eliascodes](https://github.com/eliascodes), [@sofer](https://github.com/sofer), [@iteles](https://github.com/iteles) or [@nelsonic](https://github.com/nelsonic).
-
 # Contribution guidelines
+
++ [Before starting work](#before-starting-work)
++ [Starting work](#starting-work)
+  + [Commits](#commits)
+  + [Pull requests](pull-requests)
++ [Instructions for maintainers](#instructions-for-maintainers)
 
 ## Before starting work
 
@@ -23,13 +27,15 @@ The following people are available to review pull requests: [@bradreeder](https:
 `question` - you're not actually sure whether this is an issue or not and would like confirmation
 `help wanted` - you would like some help in completing work on this issue
 
-## Commits
+## Starting work
 
-Remember to keep your commits granular and their messages short but descriptive.
+### Commits
+The commit history of each file should tell a story
++ [Describe your changes well](https://gist.github.com/mikepea/863f63d6e37281e329f8#describe-your-changes-well-in-each-commit)
++ [Commits should be granular](https://gist.github.com/mikepea/863f63d6e37281e329f8#keep-it-small)
++ **It is important that you reference an issue in each commit** - use [multiline messages](#multiline-messages)
 
-**It is important that you reference an issue in each commit.**
-
-### Multiline messages
+#### Multiline messages
 
 You will want to space your commit messages over more than one line. Commit without the `-m` to bring up a text editor in which to write the commit message.
 
@@ -52,16 +58,27 @@ short description under 50 chars.
 related #[issue number]
 ```
 
-## Pull Requests
+### Pull Requests
 
-Once you have finished your work, push up your branch and make a pull request. Make sure it has the following
+Once you have finished your work, push up your branch and make a pull request. Remember, a pull request should be as small as possible. This makes the review process quick and easy.
 
-  1. A good title
-  2. Description, with detail of everything in the pull.
+Make sure your PR has the following
+
+  1. [A descriptive title](https://gist.github.com/mikepea/863f63d6e37281e329f8#ensure-there-is-a-solid-title-and-summary) - distinct from others and therefore searchable
+  2. [A body with details of everything in the pull.](https://gist.github.com/mikepea/863f63d6e37281e329f8#ensure-there-is-a-solid-title-and-summary)
   3. Reference to any/all related issues in description.
-  4. Assignees, assign between two and three of the designated maintainers.
-
-A pull request should be as small as possible, this makes the review process fast and easy.
+  4. Assignees - add all the maintainers of `master-reference` to every PR:
+    + [@bradreeder](https://github.com/bradreeder)
+    + [@des-des](https://github.com/des-des)
+    + [@jsms90](https://github.com/jsms90)
+    + [@eliascodes](https://github.com/eliascodes)
+    + [@sofer](https://github.com/sofer)
+    + [@iteles](https://github.com/iteles)
+    + [@nelsonic](https://github.com/nelsonic)
+  5. Reviewers
+    + add anyone other than the maintainers, who you think should be aware of you contents of your PR  
+    e.g. anyone else who has collaborated with you on this issue / anyone mentioned in the file you are uploading / mentors delivering this material in another campus
+    + if your PR _requires_ a review from a particular person / people _before_ it is ready to be merged, specify this within the body of your PR
 
 ## Instructions for maintainers
 Once a pull request has been approved by two maintainers it can be merged. In time critical situations, one approval may suffice, as long a the pull request is small and is not suggesting any major change.
