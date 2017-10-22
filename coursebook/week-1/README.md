@@ -20,7 +20,7 @@
 
 — LUNCH —
 
-- 14:00 - 14:50 — Introduction to [Pair Programming](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/pair-programming.md)
+- 14:00 - 14:50 — Introduction to [Pair Programming](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-1/pair-programming.md)
 - 14:50 - 15:00 — Toilet/Coffee Break
 - 15:00 - 16:00 — [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility/blob/master/putting-yourself-in-someone-elses-shoes.md)
 - 16.00 - 17.00 — [Github Scavenger Hunt - master reference](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/github-scavenger-hunt.md)  
