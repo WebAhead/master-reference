@@ -12,7 +12,7 @@
 - 11:30 - 11:40 - Toilet/Coffee Break
 - 11:40 - 13:00 - Course overview
      - Go through 16 week [schedule](https://github.com/foundersandcoders/master-reference/tree/master/coursebook)
-    - [Code of Conduct](https://github.com/foundersandcoders/master-reference/blob/master/code_of_conduct.md)
+    - [Code of Conduct](https://github.com/foundersandcoders/master-reference/blob/master/code-of-conduct.md)
     - [House rules](../general/house-rules.md)
     - Campus-specific info
     - Introduce gitter channels
