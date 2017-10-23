@@ -54,7 +54,7 @@ Github Scavenger Hunt - campus specific
 
 ## Day 5
 - 10:00 - 10:15 - How to Code review
-- 10.15 - 11.00 — [Code review](../general/code-reviews.md) (1 alumnus per project)
+- 10.15 - 11.00 — [Code review](./codereviewsintro.md) (1 alumnus per project)
 - 11.00 - 13:00 — Respond to issues
 
 — LUNCH —
