@@ -10,9 +10,9 @@ In groups, participants tackle projects in which they work towards an ambitious 
 
 ### Who is this environment appropriate for?
 
-The Founders & Coders self-organising learning environment is appropriate for people who can reasonably expect after 16 weeks to be within touching distance of a job as a junior developer. 
+The Founders & Coders self-organising learning environment is typically a healthy space for people who are comfortable with uncertainty and failure, take inititative, and believe strongly the value of community and helping others. 
 
-For people who are not yet ready for this step, we intend to find ways to support them earier in their journey, as resources permit.
+This environment is appropriate for people who can reasonably expect after 16 weeks to be within touching distance of a job as a junior developer. For people who are not yet ready for this step, we intend to find ways to support them earier in their journey, as resources permit.
 
 ### What kind of graduates does this learning model  produce?
 
