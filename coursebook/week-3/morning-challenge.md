@@ -51,6 +51,9 @@ parallel([
   //   },1200);
   // }
 ], function(err,result) {
-  console.log('err',err); // undefined
-  console.log('result',result); // [1,2,3]
+  if (err) {
+    console.log('err',err); // undefined
+  } else {
+    console.log('result',result); // [1,2,3]
+  }
 });
