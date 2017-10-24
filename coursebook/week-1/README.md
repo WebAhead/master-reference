@@ -36,7 +36,7 @@ Github Scavenger Hunt - campus specific
 
 — LUNCH —
 - 14:00 - 14:30 — Introduce [Project](./project.md)
-- 14.30 - 16:00 — Research / TBC
+- 14.30 - 18:00 — Research / TBC
 
 ## Day 3
 - 10.00 - 11.00 — [Morning Challenge - CSS Gallery Challenge](https://github.com/foundersandcoders/css-gallery-challenge)
