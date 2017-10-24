@@ -7,7 +7,7 @@
 - [Resources](./resources.md)
 
 ## Day 1
-- 10.00 - 10.30 — [Welcome talk](https://github.com/foundersandcoders/master-reference/blob/master/about.md) (Directors)
+- 10.00 - 10.30 — [Welcome talk](https://github.com/foundersandcoders/master-reference/blob/master/about.md)
 - 10:30 - 11:30 — Name game with as many members of Founders and Coders as possible!
 - 11:30 - 11:40 - Toilet/Coffee Break
 - 11:40 - 13:00 - Course overview
@@ -35,8 +35,8 @@ Github Scavenger Hunt - campus specific
 - 12:45 - 13:00 — Introduce [Research topics](./research-afternoon.md)
 
 — LUNCH —
-- 14.00 - 17:30 — Research / TBC
-- 17:30 - 18:00 — Introduce [Project](./project.md)
+- 14:00 - 14:30 — Introduce [Project](./project.md)
+- 14.30 - 16:00 — Research / TBC
 
 ## Day 3
 - 10.00 - 11.00 — [Morning Challenge - CSS Gallery Challenge](https://github.com/foundersandcoders/css-gallery-challenge)
