@@ -31,12 +31,14 @@ Github Scavenger Hunt - campus specific
 
 ## Day 2
 - 10:00 - 11:00 — Morning Challenge - [Accessibility challenge](https://github.com/foundersandcoders/accessibility-challenge)
-- 11:00 - 12:45 — [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two)
-- 12:45 - 13:00 — Introduce [Research topics](./research-afternoon.md)
+- 11:00 - 13:00 — [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two)
 
 — LUNCH —
 - 14:00 - 14:30 — Introduce [Project](./project.md)
-- 14.30 - 18:00 — Research / TBC
+- 14:30 - 14:45 — Introduce [Research topics](./research-afternoon.md)
+- 14.45 - 17:00 — Research / TBC
+- 17.00 - 18:00 — Research presentations
+
 
 ## Day 3
 - 10.00 - 11.00 — [Morning Challenge - CSS Gallery Challenge](https://github.com/foundersandcoders/css-gallery-challenge)
