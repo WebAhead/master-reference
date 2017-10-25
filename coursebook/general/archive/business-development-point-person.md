@@ -1,6 +1,10 @@
+This document reflects a structure that was used, albeit rather unsuccessfully, by previous cohorts in Nazareth and London.
+
 ## Business Development Point Person Role
 
-Each of our campuses runs business development (final two hours of day 1 of each week) differently, based on the needs of the campus. At campuses that utilize the task group model, we suggest assigning an alumni/staff point person to each group.
+Each of our campuses runs business development (final two hours of day 1 of each week) differently, based on the needs of the campus. 
+
+_During previous cohorts,_ campuses have utilised a task group model, which has involved assigning an alumni/staff point person to each group.
 
 **Point person responsbilities:**
 - Conducting an (approximately) 15 minute stand-up with your task group on Mondays at 4 (either in person, over phone, or on Gitter)
