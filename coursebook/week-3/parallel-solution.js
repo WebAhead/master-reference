@@ -1,8 +1,8 @@
 function parallel(tasks, callback) {
   // create array to hold results
   var resultsArr = [];
-  // counter to count the loop as resultsArr.length will be misleading
-  var counter = 0;
+  // number of the unfinished tasks
+  var counter = tasks.length;
   // flag to see if any of the tasks failed
   var hasFailed = false
   //loop through each task
@@ -16,11 +16,11 @@ function parallel(tasks, callback) {
           callback(err)
           return
         }
-        // if no error add to the resultsArr and increase the counter
+        // if no error add to the resultsArr and decrease the counter
         resultsArr[i] = result
-        counter++
+        counter--
         // when all the tasks are done, call the callback with arr
-        if (counter === tasks.length) {
+        if (counter === 0) {
           callback(null, resultsArr)
         }
       }
