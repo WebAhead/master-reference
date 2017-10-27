@@ -2,13 +2,15 @@
 
 ## Aim
 
-To establish a structure for pastoral care that provides adequate emotional support to course participants.
+To provide adequate emotional support to course participants through regular communication with more experienced programme alumni and/or staff.
 
-## Suggested structure
+## Suggested structure 
+
+Course facilitators may find the following guidance useful when proposing a structure for pastoral care during each cohort. Each programme has a different set of constraints and course facilitators are encouraged to adapt accordingly.
 
 Before the course begins, the course facilitator convenes a pastoral care team of two to three people (which may or may not include the facilitator) who commit to three scheduled walks (on day 4 of weeks 2, 6, and 10/11) and to responding promptly to student concerns during interim periods. Course facilitators are advised to choose carers who are demonstrably empathetic and exhibit strong listening skills.
 
-During week 2, students sign up for a 20 minute time slot with the pastoral care team member they want to work with for the rest of the course. This person becomes their pastoral carer. 
+During week 2, students sign up for a (15-20 minute) time slot with the pastoral care team member they want to work with for the rest of the course. This person becomes their pastoral carer. 
 
 For effective communication with the course facilitator, pastoral care team members should document the results of each walk, as well as relevant interim communication, in an appropriate format, such as a [shared spreadsheet](https://docs.google.com/spreadsheets/d/1lLM-vQGvqxTi_bG09gGZT8bQX1X0wAhLrTkjW6vHjEc/edit?usp=sharing). By promptly communicating student questions/concerns, the course facilitator can efficiently determine if and when further discussions are warranted.
 
