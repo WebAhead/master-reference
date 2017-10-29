@@ -17,7 +17,7 @@
 [Introduction to testing and TDD](https://github.com/foundersandcoders/testing-tdd-intro)
 
 - 11:00 - 13:00 <br>
-[DWYL Tape (TDD) workshop](https://github.com/dwyl/learn-tape)
+[Tape (TDD) workshop](https://github.com/AbdullahChaudhry/fizzbuzz). If you finish early, have a look at [Code Coverage](https://github.com/dwyl/learn-tape#bonus-level)
 
 — LUNCH —
 
@@ -37,14 +37,17 @@ Morning challenge - [DOM manipulation](https://github.com/foundersandcoders/DOM-
 
 — LUNCH —
 
-- 14.00 - 16:30 <br>
+- 14.00 - 14.30
+[Introduce Project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/project)
+
+- 14.30 - 16:30 <br>
 [Research](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/research-afternoon.md)
 
 - 16:30 - 17:30 <br>
 Review and Present research topics
 
 - 17:30 - 18:00 <br>
-[Introduce Project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/project)
+[Video: 'What the heck is the event loop anyway?'](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=5s)
 
 ### Day 3
 
