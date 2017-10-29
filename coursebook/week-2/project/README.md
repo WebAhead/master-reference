@@ -74,6 +74,9 @@ We will represent a to-do array as an array of todo objects:
 #### What does generateId do?
 You do not need to understand this function. Each time you call generateId it will give you a unique number!
 
+#### What does cloneArrayOfObjects do?
+Makes a copy of your array of objects, so that if you make changes to the new array or its objects, the originial remains unchanged.
+
 #### Functions that manage a todoList
 
 ##### `addTodo`
