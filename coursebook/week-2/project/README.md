@@ -74,6 +74,49 @@ We will represent a to-do array as an array of todo objects:
 #### What does generateId do?
 You do not need to understand this function. Each time you call generateId it will give you a unique number!
 
+#### What does cloneArrayOfObjects do?
+Makes a copy of your array of objects, so that if you make changes to the new array or its objects, the originial remains unchanged.
+
+##### Why do we need cloneArrayOfObjects?
+If you try to copy an array or object by using `=`, then what you are creating is not a new array or an object but a *reference* to it. 
+So in the code:
+```
+var mondayFood = {breakfast: 'porridge', lunch: 'pizza', dinner: 'paella'};
+var tuesdayFood = mondayFood;
+```
+'tuesdayFood' is not an object itself, but an instruction that points towards 'mondayFood'. If you try and change something in 'tuesdayFood', what you're actually doing is directing the code to 'mondayFood'. 
+So the instruction `tuesdayFood.lunch = 'pasta';` would actually mean:
+
+> 'Look up the thing 'tuesdayFood' is referencing, and change the 'lunch' property.' 
+
+And because 'tuesdayFood' is a reference to 'mondayFood', you'll end up changing 'mondayFood' - specifically, 'mondayFood.lunch'. And you'd miss out on your pizza: 
+```
+var mondayFood = {breakfast: 'porridge', lunch: 'pizza', dinner: 'paella'};
+var tuesdayFood = mondayFood;
+
+tuesdayFood.lunch = 'pasta';
+console.log(mondayFood); // {breakfast: 'porridge', lunch: 'pasta', dinner: 'paella'}
+console.log(tuesdayFood); // {breakfast: 'porridge', lunch: 'pasta', dinner: 'paella'}
+```
+
+If you want to make a clone of the object, you can use JSON.parse(JSON.stringify(...)); 
+```
+var tuesdayFood = JSON.parse(JSON.stringify(mondayFood));
+```
+Now, 'tuesdayFood' refers to a separate object than 'mondayFood' (at the moment, they are separate and identical). So this time, when you try and change 'tuesdayFood', the execution goes nowhere near 'mondayFood'. So, this time, changing 'tuesdayFood.lunch' changes the new tuesdayFood object, and not the existing mondayFood one. 
+```
+var mondayFood = {breakfast: 'porridge', lunch: 'pizza', dinner: 'paella'};
+var tuesdayFood = JSON.parse(JSON.stringify(mondayFood));
+
+tuesdayFood.lunch = 'pasta';
+console.log(mondayFood); // {breakfast: 'porridge', lunch: 'pizza', dinner: 'paella'}
+console.log(tuesdayFood); // {breakfast: 'porridge', lunch: 'pasta', dinner: 'paella'}
+```
+
+`JSON.parse(JSON.stringify(...))` is a bit hacky, and when you're using ES6, you'll find out about Object.assign()...
+
+What solution you'll choose for cloning in the future will depend on whatever your cloning needs are. This time, we've used an `Array.map` to clone the outer array containing the to-do tasks, and within that, we used `JSON.parse(JSON.stringify(...))` to clone each of the objects inside. 
+
 #### Functions that manage a todoList
 
 ##### `addTodo`
