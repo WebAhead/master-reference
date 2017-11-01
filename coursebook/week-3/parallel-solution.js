@@ -1,13 +1,15 @@
 function parallel(tasks, callback) {
   // create array to hold results
   var resultsArr = [];
-  // number of the unfinished tasks
-  var counter = tasks.length;
+  // counter to count the loop as resultsArr.length will be misleading
+  var counter = 0;
   // flag to see if any of the tasks failed
   var hasFailed = false
   //loop through each task
   tasks.forEach((task, i) => {
     task((err, result) => {
+      // increase the counter as one task finished
+      counter++
       //check if we've failed yet, if so, do not run
       if (!hasFailed) {
         // if err call the callback
@@ -16,11 +18,10 @@ function parallel(tasks, callback) {
           callback(err)
           return
         }
-        // if no error add to the resultsArr and decrease the counter
+        // if no error add to the resultsArr
         resultsArr[i] = result
-        counter--
         // when all the tasks are done, call the callback with arr
-        if (counter === 0) {
+        if (counter === tasks.length) {
           callback(null, resultsArr)
         }
       }
@@ -28,6 +29,7 @@ function parallel(tasks, callback) {
   })
 }
 
+var timeStarted = Date.now();
 parallel([
   function(callback) {
     setTimeout(function() {
@@ -50,6 +52,8 @@ parallel([
   //   },1200);
   // }
 ], function(err, result) {
+  var duration = (Date.now() - timeStarted);
+  console.log('duration:',duration); // 2000s
   if (err) {
     console.log('err: ', err); // boom
   } else {
