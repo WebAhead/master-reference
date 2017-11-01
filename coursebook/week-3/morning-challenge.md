@@ -14,7 +14,7 @@ Complete the 'parallel' function. It should fire all the tasks at the same time,
 
 In case of an error, the final callback should be fired immediately.
 
-The callback accepts two arguments which are error and an array of tasks' results.
+The callback accepts two arguments which are error and an array of task results.
 
 TIP: You might want to use [Repl.it](https://repl.it/languages/javascript) to complete this challenge so you can see whats happening in your code.
 
