@@ -133,5 +133,4 @@ Note: We will be covering Node.js during the course. If you are curious and woul
   - color-picker
 - Chrome extensions:
   - JSONView
-  - Google Cast
   - Postman
