@@ -31,6 +31,17 @@
 - [Handlebars + Express](https://github.com/foundersandcoders/express-handlebars-workshop)
 - [TDD](https://github.com/foundersandcoders/fizzbuzz)
 - [TDD](https://github.com/foundersandcoders/romanizer)
+- [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility)
+- [Intro to testing and QUnit](https://github.com/foundersandcoders/learn-qunit)
+- [Node Intro](https://github.com/foundersandcoders/Node-Intro-Workshop)
+- [TDD Node server w/ Shot and Tape](https://github.com/foundersandcoders/tdd-node-server-with-shot-and-tape)
+- [OAuth workshop](https://github.com/foundersandcoders/oauth)
+- [Learn git basics](https://github.com/NataliaLKB/learn-git-basics)*
+- [Dwyl TDD](https://github.com/dwyl/learn-tdd)*
+- [API](https://github.com/emilyb7/workshop-APIs)*
+- [Node Girls CMS](https://github.com/node-girls/workshop-cms)*
+- [Tape-testing](https://github.com/matthewglover/tape-testing)*
+- [Node shell](https://github.com/msachi/Node-Shell-Workshop)*
 
 #### Morning Challenges
 
@@ -45,3 +56,11 @@
 - [Express + Handlebars](https://github.com/foundersandcoders/express-handlebars-challenge)
 - [CSS Transform](https://github.com/foundersandcoders/morning-challenge-animated-app-drawer)
 - [Various](https://github.com/foundersandcoders/old-morning-challenges)
+- [Waterfall function](https://github.com/RhodesPeter/waterfall-function-workshop)*
+- [DOM manipulation](https://github.com/mantagen/DOM-manipulation-Challenge)*
+- [Parallel function](https://github.com/emilyb7/parallel-challenge-github)*
+- [Convert ES6 code to ES5](https://github.com/stevehopkinson/es6-challenge)*
+- [Build Request module](https://github.com/RhodesPeter/request-module-workshop)*
+- [Handlebars](https://github.com/Jbarget/handlebars-morning-challenge)*
+
+* External repo
