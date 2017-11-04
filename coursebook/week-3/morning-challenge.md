@@ -14,6 +14,8 @@ Complete the 'parallel' function. It should fire all the tasks at the same time,
 
 In case of an error, the final callback should be fired immediately.
 
+The callback accepts two arguments which are error and an array of task results.
+
 TIP: You might want to use [Repl.it](https://repl.it/languages/javascript) to complete this challenge so you can see whats happening in your code.
 
 While you're working on this, think about when this function might be useful (in the context of what you've been studying this week).
@@ -29,6 +31,7 @@ function parallel (tasks, callback) {
   // write your code here
 }
 
+var timeStarted = Date.now();
 parallel([
   function(callback) {
     setTimeout(function() {
@@ -51,6 +54,11 @@ parallel([
   //   },1200);
   // }
 ], function(err,result) {
-  console.log('err',err); // undefined
-  console.log('result',result); // [1,2,3]
+  var duration = (Date.now() - timeStarted);
+  console.log('duration:',duration); // 2000s
+  if (err) {
+    console.log('err',err); // undefined
+  } else {
+    console.log('result',result); // [1,2,3]
+  }
 });

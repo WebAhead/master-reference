@@ -15,7 +15,7 @@ This document will be in two parts. The first part will list technologies that y
     * [Elm](#elm)
     * [Angular](#angular)
   * [Server-side](#server-side)
-    * [Express](#express)
+    * [Hapi](#hapi)
     * [Redis](#redis)
     * [Web-Sockets](#web-sockets)
     * [MongoDB](#mongodb)
@@ -25,9 +25,9 @@ This document will be in two parts. The first part will list technologies that y
     * [Functional Programming with Ramda](#functional-programming-with-ramda)
     * [Async/Await](#asyncawait)
 * [Advised Tech Stacks](#advised-tech-stacks)
-  * [Hapi + Handlebars + PostgreSQL](#hapi--handlebars--postgresql)
+  * [Express + Handlebars + PostgreSQL](#express--handlebars--postgresql)
   * [Express + MongoDB + Handlebars](#express--mongodb--handlebars)
-  * [Hapi + PostgreSQL + React + Redux](#hapi--postgresql--react--redux)
+  * [Express + PostgreSQL + React + Redux](#express--postgresql--react--redux)
 
 ## Possible Technologies
 
@@ -76,7 +76,7 @@ Used by [many](https://github.com/facebook/react/wiki/sites-using-react) startup
 #### Redux
 [Site](http://redux.js.org/) | [Github](https://github.com/reactjs/redux) | [NPM](https://www.npmjs.com/package/redux)
 
-A state management framework for client-side web applications. Most react projects use redux.
+A state management framework for client-side web applications. React+Redux is an extremely common pairing.
 
 #### Elm
 [Site](http://redux.js.org/) | [Github](https://github.com/elm-lang) | [Install](https://guide.elm-lang.org/install.html)
@@ -90,10 +90,10 @@ Like React, a front-end framework. Part of the `MEAN` stack, widely used in the 
 
 ### Server-side
 
-#### Express
-[Site](https://expressjs.com) | [Github](https://github.com/expressjs/express) | [NPM](https://www.npmjs.com/package/express)
+#### Hapi
+[Site](https://hapijs.com) | [Github](https://github.com/hapijs/hapi) | [NPM](https://www.npmjs.com/package/hapi)
 
-Most commonly used Node framework. Easier to learn than `Hapi.js`. Also part of the `MEAN` stack.
+Previously part of the FAC stack. Configuration-based server framework. Originally developed by WalMart Labs. Quite different from express, steep learning curve.
 
 #### Redis
 [Site](https://redis.io) | [Install](https://redis.io/download) | [Node Client](https://www.npmjs.com/package/redis)
@@ -138,23 +138,21 @@ Best to start with [this introduction to functional programming in JavaScript](h
 #### Async/Await
 [API](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
 
-Now in Node v7, and can be transpiled in browsers (using [Babel](#babel)). Allows asynchronous code to be written in a synchronous style. There is also a [version of express](http://koajs.com/) that uses it heavily.
+Now in Node v7+, and can be transpiled in browsers (using [Babel](#babel)). Allows asynchronous code to be written in a synchronous style. There is also a [version of express](http://koajs.com/) that uses it heavily.
 
 ## Advised Tech Stacks
 
-#### Hapi + Handlebars + PostgreSQL
+#### Express + Handlebars + PostgreSQL
 
- 1. Both are great technologies, and will get you a long way. Further to that, rendering on the server can give very fast initial load time, which can result in better UX than a purely client-side rendered React/Angular app.
- 2. This will allow you both to consolidate what you have learned in the first 8 weeks and focus on your product.
- 3. If you want to technologies like d3, Leaflet, PWA's or web-sockets. You may want choose backend technologies you are familiar with, so you enough time to investigate unfamiliar technologies.
-
-Further, I would advise learning Tachyons or SASS if you are using this stack.
+ * Both Express and Handlebars are great technologies, and will get you a long way. Further to that, rendering on the server can give very fast initial load time, which can result in better UX than a purely client-side rendered single-page app.
+ * This will allow you both to consolidate what you have learned in the first 8 weeks and focus on your product.
+ * On a similar note, if you want to learn one or more technologies like [d3](#d3), [Leaflet](https://leafletjs.com), [PWAs](#offline-first-progressive-web-app), [web-sockets](#web-sockets), [Tachyons](#tachyons) or [SASS](#sass), you may want choose backend technologies you are familiar with, so you enough time to investigate unfamiliar technologies.
 
 #### Express + Mongo + Handlebars
 The `ME` in `MEAN` stack (Mongo, Express, Angular with Node). Express and Mongo are commonly used in the Industry. In London, we would advise learning React over Angular.
 
-#### Hapi + PostgreSQL + React + Redux
-Here you would use React + Redux are used together to create an app the renders in the client. We would advise this if you have a small focused team, who all would like to focus on learning react. If using Redux, you should first aim to understand what Redux is, why you need it, and the paradigm is represents.
+#### Express + PostgreSQL + React + Redux
+Here you would use React + Redux together to create an app that renders in the client. We would advise this if you have a small focused team, who would all like to focus on learning React. If using Redux, you should first aim to understand what Redux is, why you need it, and the paradigm is represents.
 
 #### Choose your own!?
 Good Luck!

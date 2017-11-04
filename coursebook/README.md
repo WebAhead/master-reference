@@ -14,7 +14,7 @@ The first eight weeks will provide you with the necessary building blocks for cr
 * [Week 5](week-5/README.md) - Node.js 2/2
 * [Week 6](week-6/README.md) - PostgreSQL
 * [Week 7](week-7/README.md) - Authentication
-* Week 8 - Express
+* [Week 8](week-8/README.md) - Express
 
 The second half of the curriculum is focused on longer projects and introduces you to client interaction:
 + [Weeks 10-12](./weeks-10-12) - self-selected project
