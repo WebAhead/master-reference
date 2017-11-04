@@ -5,15 +5,17 @@ The following is a checklist for both course facilitators and programme director
 ### Prior to the course
 Programme director (supported by FCI if necessary):
 - [ ] Send acceptance email to successful candidates, including a link to the pre-course material
+- [ ] Make sure current CF in all campuses is set as owner of Founders & Coders [organisation](https://github.com/foundersandcoders) (to be removed at the end of their position)
 
 Course Facilitator:
-- [ ] Introduce current mentors to the gitter chatroom for current-mentors under the foundersandcoders organisation.
 - [ ] Create a new github organisation for FAC-X with the following structure. [Example](https://github.com/FAC10).
 - [ ] Add new and previous cohort as owners to this FAC-X Github organisation, then create a students team and a mentors and add everyone accordingly.
 - [ ] With a [Mailchimp](https://mailchimp.com/) email template provided by FCI, send out an email with the following:
   - contact alumni about speakers, invite alumni to day one (can be done via Gitter), and invite alumni to a welcome party
 - [ ] Create a gitter chatroom for FAC-X within the foundersandcoders organisation, and delete the "incoming"/"lobby" room.
-- [ ] Add new cohort to [Founders & Coders](https://github.com/foundersandcoders) organisation.
+- [ ] Add new cohort to [Founders & Coders](https://github.com/foundersandcoders) organisation, and:
+    - [ ] give members "write" access
+    - [ ] "no restrictions" on 3rd party application access policy
 - [ ] Add new cohort to a FAC-X team within this organisation.
 - [ ] Add new cohort to `foundersandcoders` main Gitter room
 - [ ] Add new cohort to `city`-specific Gitter room
