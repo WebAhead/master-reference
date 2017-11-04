@@ -28,5 +28,6 @@ Weekly curriculum task group along with current CF / maintainers of the `master-
 
 ### On-going
 
+Course Facilitator:
 - [ ] Use the Google spreadsheet of past alumni who gave talks / external speakers, stored in school-curriculum, to continue arranging external speaker dates for the new curriculum. Update the list from last curriculum if necessary.
 - [ ] Update the calendar every time a speaker is arranged.
