@@ -63,4 +63,4 @@
 - [Build Request module](https://github.com/RhodesPeter/request-module-workshop)*
 - [Handlebars](https://github.com/Jbarget/handlebars-morning-challenge)*
 
-* External repo
+*External repo
