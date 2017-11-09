@@ -1,10 +1,11 @@
 # Notes on Code Reviewing
 
 **Note**  
-Parts of these notes are based on the [notes on code reviewing]() by [@nelsonic](https://github.com/nelsonic) that were previously used by Founders & Coders.
+Parts of these notes are based on the [notes on code reviewing](https://github.com/foundersandcoders/master-reference/blob/44ba2217b6386758545f07af136bd6879436ca5a/coursebook/general/code-reviews.md) by [@nelsonic](https://github.com/nelsonic) that were previously used by Founders & Coders. The style guide is inspired by [this one](https://github.com/thoughtbot/guides/tree/master/code-review) from [thoughtbot](https://github.com/thoughtbot).
 
 
 ## Contents
+0. [Style Guide](#style-guide)
 1. [Reviewing Pull Requests](#reviewing-pull-requests)
    1. [Step 1: Documentation](#pr-step-1-documentation)
    2. [Step 2: Features](#pr-step-2-features)
@@ -22,6 +23,15 @@ Parts of these notes are based on the [notes on code reviewing]() by [@nelsonic]
    4. [CSS](#css)
    5. [SQL](#sql)
 
+
+## Style Guide
+* No sarcasm
+* Be humble
+* Be explicit
+* Ask questions
+* Assume the author had the best intentions
+* Don't take it personally
+* Offer specific advice and examples, but don't re-write the code for them
 
 ## Reviewing Pull Requests
 ### [PR] Step 1: Documentation
