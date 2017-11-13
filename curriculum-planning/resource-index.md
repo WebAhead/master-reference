@@ -56,6 +56,7 @@
 - [Express + Handlebars](https://github.com/foundersandcoders/express-handlebars-challenge)
 - [CSS Transform](https://github.com/foundersandcoders/morning-challenge-animated-app-drawer)
 - [Promises](https://github.com/foundersandcoders/mc-promise-me-this)
+- [Objects & Arrays](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/fragments/mc-objects-and-arrays/index.js)
 - [Various](https://github.com/foundersandcoders/old-morning-challenges)
 - [Waterfall function](https://github.com/RhodesPeter/waterfall-function-workshop)*
 - [DOM manipulation](https://github.com/mantagen/DOM-manipulation-Challenge)*
