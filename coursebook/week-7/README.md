@@ -32,7 +32,7 @@
 
 #### Day 3
 
-- 10:00 - 11:00 - Morning Challenge on [Callbacks](https://github.com/foundersandcoders/mc-do-this-then-do-that)
+- 10:00 - 11:00 - Morning Challenge on [Promises](https://github.com/foundersandcoders/mc-promise-me-this)
 
 - 11:00 - 13:00 - Projects (planning)
 
