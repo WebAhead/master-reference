@@ -55,6 +55,7 @@
 - [Callbacks](https://github.com/foundersandcoders/morning-challenge-traffic-lights)
 - [Express + Handlebars](https://github.com/foundersandcoders/express-handlebars-challenge)
 - [CSS Transform](https://github.com/foundersandcoders/morning-challenge-animated-app-drawer)
+- [Promises](https://github.com/foundersandcoders/mc-promise-me-this)
 - [Various](https://github.com/foundersandcoders/old-morning-challenges)
 - [Waterfall function](https://github.com/RhodesPeter/waterfall-function-workshop)*
 - [DOM manipulation](https://github.com/mantagen/DOM-manipulation-Challenge)*
