@@ -65,12 +65,12 @@
 // of objects that each describe a building. Using the `buildings` object above
 // as an example input, this function would return:
 // [
-//   14358: {
+//   {
 //     address: '1010 Yorkshire Circle, Rocky Mount, North Carolina, 75141',
 //     rooms: 3,
 //     value: 450000,
 //   },
-//   98343: {
+//   {
 //     address: '2367 Parkway Street, Palm Springs, California, 92262',
 //     rooms: 2,
 //     value: 375000,
