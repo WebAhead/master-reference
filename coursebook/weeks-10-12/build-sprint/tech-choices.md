@@ -155,7 +155,7 @@ The `ME` in `MEAN` stack (Mongo, Express, Angular with Node). Express and Mongo 
 Here you would use React + Redux together to create an app that renders in the
 client. We would advise this if you have a small focused team, who would all
 like to focus on learning React. If using Redux, you should first aim to
-understand what Redux is, why you need it, and the paradigm is represents.
+understand what Redux is, why you need it, and the paradigm it represents.
 
 If you decide to use React, we would recommend using
 [create-react-app](https://github.com/facebookincubator/create-react-app).
