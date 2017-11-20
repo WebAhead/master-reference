@@ -6,13 +6,13 @@ Linters are really useful as they detect and flag errors in your code. This read
 - gives fixed formatting rules for your code eg indentation, spacing ect
 - allows you to share a config file between your team to avoid merge conflicts
 
-It does this by highlight errors with a :red_circle: and telling you what's wrong so you can fix it. 
+It does this by highlight errors with a :red_circle: and telling you what's wrong so you can fix it. Whilst learning it is recommended that you do this manually so you can embed good coding practises. 
 ## Let's do the thing
 
 ### Setup eslint config
 `npm i -g eslint` - globally installs eslint _(only needs to be done once)_
 
-The following instructions need to be followed by **one person on your team**
+The following instructions need to be followed by **one person on your team**  
 `cd [project-name]` - cd into your project
 
 `eslint --init` - initialises eslint on your project
