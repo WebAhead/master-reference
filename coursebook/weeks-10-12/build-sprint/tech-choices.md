@@ -152,7 +152,16 @@ Now in Node v7+, and can be transpiled in browsers (using [Babel](#babel)). Allo
 The `ME` in `MEAN` stack (Mongo, Express, Angular with Node). Express and Mongo are commonly used in the Industry. In London, we would advise learning React over Angular.
 
 #### Express + PostgreSQL + React + Redux
-Here you would use React + Redux together to create an app that renders in the client. We would advise this if you have a small focused team, who would all like to focus on learning React. If using Redux, you should first aim to understand what Redux is, why you need it, and the paradigm is represents.
+Here you would use React + Redux together to create an app that renders in the
+client. We would advise this if you have a small focused team, who would all
+like to focus on learning React. If using Redux, you should first aim to
+understand what Redux is, why you need it, and the paradigm is represents.
+
+If you decide to use React, we would recommend using
+[create-react-app](https://github.com/facebookincubator/create-react-app).
+This is a tool which allows you to create a react application without worrying
+about any kind of build configuration, letting you focus on learning and using
+React. 
 
 #### Choose your own!?
 Good Luck!
