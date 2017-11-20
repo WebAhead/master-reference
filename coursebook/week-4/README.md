@@ -18,20 +18,23 @@
 - 10:00 - 11:30
 -- [ES6 morning challenge](./morning-challenge-day-2.md)
 
-- 11:30 - 12:45
+- 11:30 - 13:00
 -- [Node Girls workshop](https://github.com/node-girls/workshop-cms) (Day 2 of 2)
 
-- 12:45 - 13:00
+— LUNCH —
+
+- 14:00 - 14:30
+-- [Introduce Project](./project.md)
+
+- 14:30 - 14:45
 -- Intro to research topics for research afternoon
 
-- 14:00 - 16:30
+- 14.45 - 17:00
 -- [Research Afternoon](./research-afternoon.md)
 
-- 16:30 - 17:30
+- 17.00 - 18:00
 -- Review and Present research topics
 
-- 17:30 - 18:00
--- [Introduce Project](./project.md)
 
 #### Day 3
 
@@ -47,7 +50,7 @@
 -- Projects
 
 - 17:00 - 18:00
--- External speaker 
+-- External speaker
 
 #### Day 4
 

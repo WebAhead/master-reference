@@ -24,11 +24,17 @@
 
 — LUNCH —
 
-- 14:00 - 16:30 - Research
+- 14:00 - 14:30
+-- [Introduce Project](./project.md)
 
-- 16:30 - 17:30 - Review and present topics
+- 14:30 - 14:45
+-- Intro to research topics for research afternoon
 
-- 17:30 - 18:00 - Introduce [project](./project.md)
+- 14.45 - 17:00
+-- [Research Afternoon](./research-afternoon.md)
+
+- 17.00 - 18:00
+-- Review and Present research topics
 
 #### Day 3
 
