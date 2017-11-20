@@ -24,11 +24,17 @@ Then go to [`sql-commands-intro` workshop](https://github.com/foundersandcoders/
 
 1pm - 2pm: lunchtime 😋
 
-2.00pm - 2.30pm: introduce [projects](project.md)
+2:00pm - 2:30pm
+-- [Introduce Project](./project.md)
 
-2.30pm - 5.00pm: [research](research-afternoon.md)
+2:30pm - 2:45pm:
+-- Intro to research topics for research afternoon
 
-5.00pm - 6:00pm: Review and present research topics
+2.45pm - 5:00pm:
+-- [Research Afternoon](./research-afternoon.md)
+
+5.00pm - 6:00pm:
+-- Review and Present research topics
 
 #### Day 3
 

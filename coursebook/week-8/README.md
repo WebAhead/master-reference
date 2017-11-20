@@ -28,12 +28,17 @@ Drawer](https://github.com/foundersandcoders/morning-challenge-animated-app-draw
 teams.
 
 --LUNCH--
+- 14:00 - 14:45
+-- Whiteboard Walkthrough + [Introduce Project](./project.md)
 
-14:00-14:45 - Whiteboard Walkthrough + Introduce Group Project
+- 14:45 - 15:00
+-- Intro to research topics for research afternoon
 
-14:45-17:00 - [Research Topics](./research-afternoon.md)
+- 15.00 - 17:00
+-- [Research Afternoon](./research-afternoon.md)
 
-17:00-18:00 - Present research projects
+- 17.00 - 18:00
+-- Review and Present research topics
 
 ### Day 3:
 
