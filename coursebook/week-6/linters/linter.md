@@ -26,7 +26,28 @@ After this pick the following inputs:
 
 Note - only one person needs to set eslint up for each project. Everyone else can get the packages by running `npm i`
 
-:boom: BOOM :boom: and now for...
+:boom: BOOM :boom: you've set up your linting configuration!
+
+Yay. Wait. Now what?!
+
+### Lint your files!
+
+So you can run your linter on all the files (in your directory) using the following command in your terminal:
+
+`/node_modules/.bin/eslint .`
+
+Hopefully you should see something like this:
+
+![linter running in the terminal](./terminal-lint.png)
+
+You can even set up a linting script in your pacakage.json if you want. Cool huh? :ice_cream: 
+
+But wait, this isn't actually that useful when it comes to writing code - I have to run this and manually compare it to my editor to fix things... :confused: 
+
+Well, what if you could live see your linting errors as you go, in your editor? 
+
+You can! :tada: 
+
 ### Setup your editor
 To get your linter configuration working with your editor you need to install the following packages:
 
