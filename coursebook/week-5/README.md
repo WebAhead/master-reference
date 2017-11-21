@@ -38,7 +38,9 @@
 
 - 10:00 - 11:00 - [Morning Challenge: Build Request module](https://github.com/RhodesPeter/request-module-workshop)
 
-- 11:00 - 13:00 - Projects (planning)
+- 11:00 - 11:15:[Introduction to linters](./linters/linter.md)
+
+- 11:15 - 13:00 - Projects (planning)
 
 — LUNCH —
 

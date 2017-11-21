@@ -40,7 +40,6 @@ Then go to [`sql-commands-intro` workshop](https://github.com/foundersandcoders/
 
 10am - 11am: [morning challenge](https://github.com/foundersandcoders/db-morning-challenge)
 
-11:00am - 11:15am:[Introduction to linters](./linters/linter.md)
 11am onwards: projects
 
 
