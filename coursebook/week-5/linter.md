@@ -13,6 +13,7 @@ It does this by highlighting errors with a :red_circle: and telling you what's w
 `npm i -g eslint` - globally installs eslint _(only needs to be done once)_
 
 The following instructions need to be followed by **one person on your team**  
+
 `cd [project-name]` - cd into your project
 
 `eslint --init` - initialises eslint on your project
@@ -22,7 +23,7 @@ After this pick the following inputs:
 - [Do you use React?] `No`
 - [What format do you want your config file to be in?] `JSON`
 
-![](https://user-images.githubusercontent.com/14337958/33060979-3e87aa40-ce92-11e7-881a-bc3360e5be2a.gif)
+![linter gif](https://user-images.githubusercontent.com/14337958/33060979-3e87aa40-ce92-11e7-881a-bc3360e5be2a.gif)
 
 Note - only one person needs to set eslint up for each project. Everyone else can get the packages by running `npm i`
 
@@ -40,7 +41,7 @@ Hopefully you should see something like this:
 
 ![linter running in the terminal](https://user-images.githubusercontent.com/23310908/33074121-eea88d8e-cebc-11e7-85f5-35b9cdba4a1d.png)
 
-You can even set up a linting script in your pacakage.json if you want. Cool huh? :ice_cream: 
+You can even set up a linting script in your package.json if you want. Cool huh? :ice_cream: 
 
 But wait, this isn't actually that useful when it comes to writing code - I have to run this and manually compare it to my editor to fix things... :confused: 
 
