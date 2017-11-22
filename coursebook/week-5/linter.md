@@ -10,20 +10,20 @@ It does this by highlighting errors with a :red_circle: and telling you what's w
 ## Let's do the thing
 
 ### Setup eslint config
-`npm i -g eslint` - globally installs eslint _(only needs to be done once)_
-
-The following instructions need to be followed by **one person on your team**  
+The following instructions need to be followed by **one person on your team** 
 
 `cd [project-name]` - cd into your project
 
-`eslint --init` - initialises eslint on your project
+`npm i -D eslint` - locally install eslint as a dev-dependency
+
+`./node_modules/.bin/eslint --init` - initialises eslint on your project
 After this pick the following inputs:
 - [How would you like to configure ESLint?] `Use a popular style guide`
 - [Which style guide do you want to follow?] `Airbnb`
 - [Do you use React?] `No`
 - [What format do you want your config file to be in?] `JSON`
 
-![linter gif](https://user-images.githubusercontent.com/14337958/33060979-3e87aa40-ce92-11e7-881a-bc3360e5be2a.gif)
+![linter gif](https://user-images.githubusercontent.com/14337958/33135285-e27b2d36-cf99-11e7-8fbf-f46f5a4148a8.gif)
 
 Note - only one person needs to set eslint up for each project. Everyone else can get the packages by running `npm i`
 
