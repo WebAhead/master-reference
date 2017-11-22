@@ -35,7 +35,7 @@ Yay. Wait. Now what?!
 
 So you can run your linter on all the files (in your directory) using the following command in your terminal:
 
-`/node_modules/.bin/eslint .`
+`/node_modules/.bin/eslint [yourfile.js]`
 
 Hopefully you should see something like this:
 
