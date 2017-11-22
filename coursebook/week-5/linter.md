@@ -39,7 +39,7 @@ So you can run your linter on all the files (in your directory) using the follow
 
 Hopefully you should see something like this:
 
-![linter running in the terminal](https://user-images.githubusercontent.com/23310908/33074121-eea88d8e-cebc-11e7-85f5-35b9cdba4a1d.png)
+![linter running in the terminal](https://user-images.githubusercontent.com/14337958/33136597-85ef40f8-cf9d-11e7-8a77-aea69053bd60.png)
 
 You can even set up a linting script in your package.json if you want. Cool huh? :ice_cream: 
 
