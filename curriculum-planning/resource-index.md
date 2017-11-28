@@ -57,6 +57,7 @@
 * [CSS Transform](https://github.com/foundersandcoders/morning-challenge-animated-app-drawer)
 * [Promises](https://github.com/foundersandcoders/mc-promise-me-this)
 * [Objects & Arrays](https://github.com/foundersandcoders/mc-objects-and-arrays)
+* [Reduce, and other array methods](https://github.com/foundersandcoders/mc-array-methods-reduce)
 * [Various](https://github.com/foundersandcoders/old-morning-challenges)
 * [Waterfall function](https://github.com/RhodesPeter/waterfall-function-workshop)\*
 * [DOM manipulation](https://github.com/mantagen/DOM-manipulation-Challenge)\*
