@@ -41,7 +41,6 @@ Project's are a chance for students to apply the knowledge they've acquired by b
 - usability requirements in the form of User Stories
 
 ### Week research-afternoon.md
-~~should be exterminated~~
 research-afternoon.md should include:
 - 4 heading for each topic to be researched
 - a set of questions each research topic aims to answer
