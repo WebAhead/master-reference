@@ -18,9 +18,8 @@
 
 - 10:00-11:00 - Morning Challenge on [Client Side Validation](https://github.com/foundersandcoders/mc-client-side-validation)
 
-- 11:00-12:45 - Workshop on [Session Management](https://github.com/foundersandcoders/ws-session-management)
+- 11:00-13:00 - Workshop on [Session Management](https://github.com/foundersandcoders/ws-session-management)
 
-- 12:45 - 13:00 - Introduce [research topics](./research-afternoon.md)
 
 — LUNCH —
 
@@ -28,7 +27,7 @@
 -- [Introduce Project](./project.md)
 
 - 14:30 - 14:45
--- Intro to research topics for research afternoon
+-- Introduce [research topics](./research-afternoon.md)
 
 - 14.45 - 17:00
 -- [Research Afternoon](./research-afternoon.md)
