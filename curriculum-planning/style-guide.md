@@ -26,10 +26,10 @@ Week learning outcomes outline the expected goal of the week. They should:
 - worded as statements that could follow _"Students are learning..."_
 
 Eg.
-> How to set up a local instance of Postgres :ok_hand:
+> How to set up a local instance of Postgres :ok_hand:  
 > Postgres setup :warning: _not a statement_
 
-> How to test an app that uses a database :ok_hand:
+> How to test an app that uses a database :ok_hand:  
 > How to setup an environment variable for a test database :warning: _too specific to workshop_
 >
 
