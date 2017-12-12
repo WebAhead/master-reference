@@ -50,9 +50,13 @@ resources.md is a collection of links to extra material students can use to prep
 - be separated under the same subsections as week LO's
 
 ### Week slides.md
-slides.md is a collection of links to all slides previous mentors have created in the past. Slides should:
+slides.md is a collection of links to slides mentors have previously created. They are kept as reference as it is not nessesary for them to delivered as part of the curriculum.
+
+Slides should:
 - follow the naming convention `sd-week[no]-[workshopname]` eg `sd-week7-ws-password-management`
 - have a short description of what they include
+- be stored in either `FAC Shared` google drive or a repo in `foundersandcoders` organisation 
+- be self explanatory by either containing detailing on slides or mentor notes
 
 ## Workshops & Morning Challenges
 Repo's names should be prepended with:
@@ -80,4 +84,4 @@ When making a new workshop/morning challenge:
 - mc- for morning challenges
 - sd- for repo based slides
 
-3. Make a PR to the master-reference, editing the resource index to add a link to your repo
+3. Make a PR to the master-reference, editing the resource index to add a link to your repo & assign MRM/WF
