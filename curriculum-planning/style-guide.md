@@ -38,7 +38,7 @@ Project's are a chance for students to apply the knowledge they've acquired by b
 - a link to the week's LO's
 - a description of the aims of the app
 - technical requirements
-- usability requirements in the form of User Stories
+- usability requirements in the form of user stories for weeks 1-4. Md should state that students create their own user stories weeks 5-8.
 
 ### Week research-afternoon.md
 research-afternoon.md should include:
