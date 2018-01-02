@@ -33,7 +33,7 @@ Business development / community engagement
 Morning challenge - [DOM manipulation](https://github.com/foundersandcoders/DOM-manipulation-Challenge)
 
 - 11:00 - 13:00 <br>
-[Pure functions workshop](https://github.com/foundersandcoders/pure-functions-easy-testing) as an introduction to writing testable code :smile:
+[Pure functions workshop](https://github.com/foundersandcoders/ws-pure-functions-easy-testing) as an introduction to writing testable code :smile:
 
 — LUNCH —
 
