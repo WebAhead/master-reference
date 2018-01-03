@@ -65,5 +65,6 @@
 * [Convert ES6 code to ES5](https://github.com/stevehopkinson/es6-challenge)\*
 * [Build Request module](https://github.com/RhodesPeter/request-module-workshop)\*
 * [Handlebars](https://github.com/Jbarget/handlebars-morning-challenge)\*
+* [Recursion](https://github.com/foundersandcoders/mc-recursion)\*
 
 \* External repo
