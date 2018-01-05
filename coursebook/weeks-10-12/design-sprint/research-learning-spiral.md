@@ -47,8 +47,8 @@ Start by answering the “5W + H” (Who, What, When, Where, Why and How) questi
 
 ———————————————————————————————————————
 
-**What** kinds of tasks and goals will your persona be accomplishing as he/she is using your website or app?  
-(This question clarifies what people might be doing, as well as what they’re using in your website, application or product.)
+**What** kinds of goals will those individuals be accomplishing as they use your product/service?  
+(Avoid [solutionising](https://www.collinsdictionary.com/submission/3306/solutionise) and think of the big picture)
 
 -  
 -  
@@ -80,7 +80,7 @@ Start by answering the “5W + H” (Who, What, When, Where, Why and How) questi
 
 ———————————————————————————————————————
 
-**Why** is your persona choosing to use what you’ve designed and what drives this behavior?  
+**Why** is your persona choosing to use what you’ve designed (and not something else) and what drives this behavior?  
 (This question helps you to explain the underlying emotional and rational drivers of what a person is doing, and the root reasons for that behaviour.)
 
 -  
