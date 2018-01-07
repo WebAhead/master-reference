@@ -58,7 +58,7 @@ Start by answering the “5W + H” (Who, What, When, Where, Why and How) questi
 
 ———————————————————————————————————————
 
-**When** will your persona be engaging with your product?  
+**When** will those people be engaging with your product?  
 (This question helps you to determine the points in time when people might use particular products or technologies, as well as daily routines and rhythms of behaviour that might need to be explored.)
 
 -  
@@ -69,7 +69,7 @@ Start by answering the “5W + H” (Who, What, When, Where, Why and How) questi
 
 ———————————————————————————————————————
 
-**Where** will your persona be using what you are designing?  
+**Where** will those people be using what you are designing?  
 (This question helps you to determine contexts of use — physical locations where people perform certain tasks or use key technologies — as well as potential destinations on the Internet or devices that a user might want to access.)
 
 -  
@@ -80,7 +80,7 @@ Start by answering the “5W + H” (Who, What, When, Where, Why and How) questi
 
 ———————————————————————————————————————
 
-**Why** is your persona choosing to use what you’ve designed (and not something else) and what drives this behavior?  
+**Why** are those people choosing to use what you’ve designed (and not something else) and what drives this behavior?  
 (This question helps you to explain the underlying emotional and rational drivers of what a person is doing, and the root reasons for that behaviour.)
 
 -  
