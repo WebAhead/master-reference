@@ -13,11 +13,11 @@ Ghada [@ibraghada](https://github.com/ibraghada) <br> MG [@mantagen](https://git
 ## Week working groups
 Week | Facilitor |Gaza Students | London Students | Nazareth Students
 -|-|-|-|-
-1|MRM| | | 
-2|MRM| | | 
-3|MRM| | | 
-4|MRM| | | 
-5|MRM| | | 
-6|MRM| | | 
-7|MRM| | | 
-8|MRM| | | 
+1|MRM| |Jem (@jema28) Lucy (@lucymk) | 
+2|MRM| |Johanna (@Johanna-hub) Fatimat (@gbaja) | 
+3|MRM| |Mo (@trc5019) Kitty (@parkhabit) | 
+4|MRM| |Tunde (@tundeaji1232) Shannon (@shannonjensen) | 
+5|MRM| |Becky (@) Nat (@njseeto) | 
+6|MRM| |Caroline (@caralemony) Lex (@Devgrrrl) | 
+7|MRM| |Hannah (@hannahmctucker) Dragomir (@dragomirc) | 
+8|MRM| |Jamie (@jamiecoe) Sophie (@sophielevens) | 
