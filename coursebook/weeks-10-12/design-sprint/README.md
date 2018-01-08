@@ -36,6 +36,7 @@
 #### Define
 
 15.30 - 15.50 - [Point of View exercise](./define-exercises.md#point-of-view) 
+
 15.50 - 16.20 [How Might We exercise](./define-exercises.md#how-might-we)
 
 16.20 - 16.50 - Big Picture Goal
