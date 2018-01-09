@@ -20,14 +20,14 @@ Traditionally, weeks contain the following elements:
 We have found this to be a good structure for fulfilling learning outcomes, and recommend that these elements are maintained in any newly designed weeks, but new elements will definitely be considered if good arguments can be made for them.
 
 Each week 1 - 8 folder should contain the following files:
-- [README.md](#readme-md)
-- [learning-outcomes.md](#learning---outcomes-md)
-- [project.md](#project-md)
-- [resources.md](#resources-md)
+- [README.md](#readmemd)
+- [learning-outcomes.md](#learning-outcomesmd)
+- [project.md](#projectmd)
+- [resources.md](#resourcesmd)
 
 Optionally, week folders may, if applicable, also hold:
-- [research-afternoon.md](#research---afternoon-md)
-- [slides.md](#slides-md)
+- [research-afternoon.md](#research-afternoonmd)
+- [slides.md](#slidesmd)
 
 ### README.md
 This should:
@@ -54,7 +54,7 @@ Projects are a chance for students to apply the knowledge they've acquired by bu
 - a link to the week's learning objectives
 - a description of the aims of the app
 - technical requirements
-- user requirements in the form of user stories for weeks 1-4. 
+- user requirements in the form of user stories for weeks 1-4.
 - instruction that students should create their own user stories weeks 5-8.
 
 ### research-afternoon.md
@@ -72,6 +72,7 @@ A collection of links to slides mentors have previously created. They are kept a
 <hr>
 
 ## Creating resources
+* Create a repo within the `foundersandcoders` organisation
 * Repo names should be prepended with `mc-` for morning-challenges and `ws-` for workshops
 * Add a link to the new repo in the [resource index](https://github.com/foundersandcoders/master-reference/blob/master/curriculum-planning/resource-index.md).
 * The repo should contain a README.md with:
@@ -86,7 +87,7 @@ Slides should:
 - follow the naming convention `sd-[workshopname]` or `sd-[week#]`; eg `sd-password-management` or `sd-week7`
 - have a short description of what they include
 - be stored in either `FAC Shared` google drive or a repo in `foundersandcoders` organisation
-- be self explanatory by either containing detailing on slides or mentor notes
+- have notes either on the slides or in accompanying mentor notes
 
 <hr>
 
