@@ -63,7 +63,7 @@
 * [DOM manipulation](https://github.com/mantagen/DOM-manipulation-Challenge)\*
 * [Parallel function](https://github.com/emilyb7/parallel-challenge-github)\*
 * [Convert ES6 code to ES5](https://github.com/stevehopkinson/es6-challenge)\*
-* [Build Request module](https://github.com/RhodesPeter/request-module-workshop)\*
+* [Build Request module](https://github.com/foundersandcoders/mc-request-module-workshop)\*
 * [Handlebars](https://github.com/Jbarget/handlebars-morning-challenge)\*
 * [Recursion](https://github.com/foundersandcoders/mc-recursion)
 

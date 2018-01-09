@@ -36,7 +36,7 @@
 
 #### Day 3
 
-- 10:00 - 11:00 - [Morning Challenge: Build Request module](https://github.com/RhodesPeter/request-module-workshop)
+- 10:00 - 11:00 - [Morning Challenge: Build Request module](https://github.com/foundersandcoders/mc-request-module-workshop)
 
 - 11:00 - 11:15:[Introduction to linters](./linter.md)
 
