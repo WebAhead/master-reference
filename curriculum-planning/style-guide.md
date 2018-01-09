@@ -54,7 +54,8 @@ Projects are a chance for students to apply the knowledge they've acquired by bu
 - a link to the week's learning objectives
 - a description of the aims of the app
 - technical requirements
-- user requirements in the form of user stories for weeks 1-4. Instruction that students should create their own user stories weeks 5-8.
+- user requirements in the form of user stories for weeks 1-4. 
+- instruction that students should create their own user stories weeks 5-8.
 
 ### research-afternoon.md
 This should include:
