@@ -36,12 +36,12 @@
 * [Node Intro](https://github.com/foundersandcoders/Node-Intro-Workshop)
 * [TDD Node server w/ Shot and Tape](https://github.com/foundersandcoders/tdd-node-server-with-shot-and-tape)
 * [OAuth workshop](https://github.com/foundersandcoders/oauth)
+* [Node shell](https://github.com/foundersandcoders/Node-Shell-Workshop/)
 * [Learn git basics](https://github.com/NataliaLKB/learn-git-basics)\*
 * [Dwyl TDD](https://github.com/dwyl/learn-tdd)\*
 * [API](https://github.com/emilyb7/workshop-APIs)\*
 * [Node Girls CMS](https://github.com/node-girls/workshop-cms)\*
 * [Tape-testing](https://github.com/matthewglover/tape-testing)\*
-* [Node shell](https://github.com/msachi/Node-Shell-Workshop)\*
 
 #### Morning Challenges
 
