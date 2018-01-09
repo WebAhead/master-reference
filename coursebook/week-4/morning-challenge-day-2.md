@@ -13,7 +13,7 @@ a superset of ES5 - nothing is removed, but exciting new features have been adde
 
 We're going to be converting ES6 features to their ES5 counterparts.
 Bear in mind there are some differences in functionality between them, which the links in
-the [morning challenge instructions](https://github.com/stevehopkinson/es6-challenge#instructions) should help you to understand. You may want to focus on
+the [morning challenge instructions](https://github.com/foundersandcoders/mc-es6-challenge) should help you to understand. You may want to focus on
 understanding some of the main differences rather than rushing to the end as
 this will help you to start using ES6 in your own Node projects.
 
