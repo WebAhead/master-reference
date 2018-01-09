@@ -59,7 +59,7 @@ Projects are a chance for students to apply the knowledge they've acquired by bu
 
 ### research-afternoon.md
 This should include:
-- 4 headings for each topic to be researched
+- a descriptive heading for each topic to be researched
 - a set of questions each research topic aims to answer
 
 ### resources.md
