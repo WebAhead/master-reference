@@ -26,16 +26,14 @@
 * [API](https://github.com/foundersandcoders/workshop-api)
 * [Materialize](https://github.com/foundersandcoders/workshop-materialize-css)
 * [Hapi Authentication](https://github.com/foundersandcoders/hapi-authentication-workshop)
-* [Handlebars + Express](https://github.com/foundersandcoders/handlebars-express-intro-workshop)
 * [Software Architecture](https://github.com/foundersandcoders/Workshop-Software-Architecture-Design)
 * [Handlebars + Express](https://github.com/foundersandcoders/express-handlebars-workshop)
-* [TDD](https://github.com/foundersandcoders/fizzbuzz)
-* [TDD](https://github.com/foundersandcoders/romanizer)
+* [TDD fizzbuzz](https://github.com/foundersandcoders/fizzbuzz)
+* [TDD romanizer](https://github.com/foundersandcoders/romanizer)
 * [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility)
 * [Intro to testing and QUnit](https://github.com/foundersandcoders/learn-qunit)
 * [Node Intro](https://github.com/foundersandcoders/Node-Intro-Workshop)
 * [TDD Node server w/ Shot and Tape](https://github.com/foundersandcoders/tdd-node-server-with-shot-and-tape)
-* [OAuth workshop](https://github.com/foundersandcoders/oauth)
 * [Node shell](https://github.com/foundersandcoders/Node-Shell-Workshop/)
 * [Learn git basics](https://github.com/NataliaLKB/learn-git-basics)\*
 * [Dwyl TDD](https://github.com/dwyl/learn-tdd)\*
