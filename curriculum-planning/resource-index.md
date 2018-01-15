@@ -60,6 +60,7 @@
 * [Convert ES6 code to ES5](https://github.com/foundersandcoders/mc-es6-challenge)
 * [Build Request module](https://github.com/foundersandcoders/mc-request-module-workshop)
 * [Recursion](https://github.com/foundersandcoders/mc-recursion)
+* [Destructuring](https://github.com/foundersandcoders/mc-diet-pattern-matching)
 * [Waterfall function](https://github.com/RhodesPeter/waterfall-function-workshop)\*
 * [DOM manipulation](https://github.com/mantagen/DOM-manipulation-Challenge)\*
 * [Parallel function](https://github.com/emilyb7/parallel-challenge-github)\*
