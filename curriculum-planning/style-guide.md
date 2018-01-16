@@ -81,6 +81,7 @@ A collection of links to slides mentors have previously created. They are kept a
 * Learning outcomes should outline what students are learning during the exercise. These can be workshop/morning-challenge specific, but should be linked to weekly LO's. Think of them as the finer details of weekly LO's, for example: `"How to set and remove cookies using headers"` or `"When to use the most effective error handling method"`
 * Add a file or folder containing notes that would be useful for mentors who are delivering the workshop/morning-challenge. This can include guidance pacing, which concepts to explain in more detail, or how to guide students to solutions without giving the answers. It could also advise mentors on how to prepare for delivering the workshop.
 * When writing the workshop, try to think about how many step-by-step instructions are actually needed. Sometimes we can substitute _instructions_ for _guidance_ and allow the student to work out the steps to take themselves.
+* Usually, solutions to exercises should be located in the same repository. Create an appropriately named file or directory to contain these solutions (typically `solutions` or `.solutions`). Do not store solutions on a branch, as this makes maintenance of the resource more difficult.
 
 ### Slides
 Slides should:
