@@ -78,7 +78,7 @@ Projects
 ### Day 5
 
 - 10:00 - 11:00 <br>
-[Code review](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/code-reviews.md)
+Code review
 
 - 11:00 - 13:00 <br>
 Respond to issues
