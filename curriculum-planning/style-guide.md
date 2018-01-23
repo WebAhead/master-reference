@@ -82,6 +82,9 @@ A collection of links to slides mentors have previously created. They are kept a
 * Add a file or folder containing notes that would be useful for mentors who are delivering the workshop/morning-challenge. This can include guidance pacing, which concepts to explain in more detail, or how to guide students to solutions without giving the answers. It could also advise mentors on how to prepare for delivering the workshop.
 * When writing the workshop, try to think about how many step-by-step instructions are actually needed. Sometimes we can substitute _instructions_ for _guidance_ and allow the student to work out the steps to take themselves.
 * Usually, solutions to exercises should be located in the same repository. Create an appropriately named file or directory to contain these solutions (typically `solutions` or `.solutions`). Do not store solutions on a branch, as this makes maintenance of the resource more difficult.
+* When writing blocks of code in your markdown, label it with the language used to display with syntax highlighting.
+<img width="288" alt="block code syntax highlighting example" src="https://user-images.githubusercontent.com/14337958/35288851-b92aa3a4-005d-11e8-9e50-eb1d711cfdf7.png">
+
 
 ### Slides
 Slides should:
