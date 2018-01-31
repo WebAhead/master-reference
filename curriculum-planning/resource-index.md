@@ -67,4 +67,7 @@
 * [Handlebars](https://github.com/Jbarget/handlebars-morning-challenge)\*
 * [Recursion](https://github.com/foundersandcoders/mc-recursion)
 
+(https://github.com/foundersandcoders/mc-parallel-functions)\*
+* [Parallel Functions]
+
 \* External repo
