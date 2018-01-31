@@ -36,7 +36,7 @@ Github Scavenger Hunt - campus specific
 — LUNCH —
 - 14:00 - 14:30 — Introduce [Project](./project.md)
 - 14:30 - 14:45 — Introduce [Research topics](./research-afternoon.md)
-- 14:45 - 15:00 — Presentation Guidance
+- 14:45 - 15:00 — [Presentation Guidance](./presentation-guidance.md)
 - 15:00 - 17:00 — Research / TBC
 - 17.00 - 18:00 — Research presentations
 
