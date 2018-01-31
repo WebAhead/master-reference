@@ -4,7 +4,7 @@
 
 #### 1. Draw up a plan
 + Take a little time to think about the content. 
-+ You’ll need to introduce yourself and your topic 
++ You’ll need to introduce yourself and your topic.
 + Make some key points and then sum it all up at the end.
 
 #### 2. Choose your tools
