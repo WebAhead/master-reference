@@ -14,7 +14,7 @@
   +  Images
 
 #### 3. Design Tips
-+ Once you’ve decided on the content, you’ll need to present it in a way that’s engaging for people to look at and easy to comprehend
++ Once you’ve decided on the content, you’ll need to present it in a way that’s engaging for people to look at and easy to comprehend.
 
 + **Just stick to short notes in bullet points** instead of writing out word for word what you want to cover.
 
