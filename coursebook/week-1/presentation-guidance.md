@@ -9,12 +9,12 @@
 
 #### 2. Choose your tools
 + Try using visual examples.
-  + Mark down file
-  +  Exampl code
+  + Markdown file
+  +  Example code
   +  Images
 
 #### 3. Design Tips
-+ Once you’ve decided on the content, you’ll need to present it in a way that’s engaging for people to look at and easy on the eye.
++ Once you’ve decided on the content, you’ll need to present it in a way that’s engaging for people to look at and easy to comprehend
 
 + **Just stick to short notes in bullet points** instead of writing out word for word what you want to cover.
 
@@ -31,12 +31,12 @@
 
 #### 6. Clear and confident
 + A confident presenter doesn’t mumble or talk to the floor.
-+ Even if you’re feeling anxious and nervy, lift your head up high and project your voice in a confident manner.
++ Even if you’re feeling anxious and nervous, lift your head up high and project your voice in a confident manner.
 + Keep your pace steady and don’t rattle along at a lightning speed to get it all over more quickly.
 + Take time to breathe, and treat each slide as a way to have a brief pause. 
 + Having a glass of water to hand is also a good idea.
 
-#### 7. Sum it off
+#### 7. Sum it up
 You’ve made it to the end of the presentation. Well done! 
 
 + You can sum up your main points and bring your presentation to its natural end. 
