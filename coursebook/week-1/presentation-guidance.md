@@ -8,7 +8,7 @@
 + Make some key points and then sum it all up at the end.
 
 #### 2. Choose your tools
-+ Try using visual examples.
++ Try using visual examples:
   + Markdown file
   +  Example code
   +  Images
