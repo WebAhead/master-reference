@@ -1,6 +1,6 @@
 # What makes a good research presentation
 
-### Presenation Step-By-Step
+### Presentation Step-By-Step
 
 #### 1. Draw up a plan
 + Take a little time to think about the content. 
