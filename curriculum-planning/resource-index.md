@@ -66,5 +66,6 @@
 * [Build Request module](https://github.com/foundersandcoders/mc-request-module-workshop)
 * [Handlebars](https://github.com/Jbarget/handlebars-morning-challenge)\*
 * [Recursion](https://github.com/foundersandcoders/mc-recursion)
+* [Parallel Functions](https://github.com/foundersandcoders/mc-parallel-functions)
 
 \* External repo
