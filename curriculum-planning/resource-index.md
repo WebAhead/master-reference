@@ -34,7 +34,7 @@
 * [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility)
 * [Intro to testing and QUnit](https://github.com/foundersandcoders/learn-qunit)
 * [Node Intro](https://github.com/foundersandcoders/Node-Intro-Workshop)
-* [TDD Node server w/ Shot and Tape](https://github.com/foundersandcoders/tdd-node-server-with-shot-and-tape)
+* [TDD Node server](https://github.com/foundersandcoders/ws-tdd-node-server)
 * [OAuth workshop](https://github.com/foundersandcoders/oauth)
 * [Learn git basics](https://github.com/NataliaLKB/learn-git-basics)\*
 * [Dwyl TDD](https://github.com/dwyl/learn-tdd)\*
