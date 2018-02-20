@@ -22,10 +22,8 @@ Schedule
 10:00-11:00 - Morning Challenge - [Create an Animated App
 Drawer](https://github.com/foundersandcoders/morning-challenge-animated-app-drawer)
 
-11:00-12:45 - Workshop 3 - [Creating and Testing Express Routes](https://github.com/foundersandcoders/express-and-testing-workshop)
+11:00-13:00 - Workshop 3 - [Creating and Testing Express Routes](https://github.com/foundersandcoders/express-and-testing-workshop)
 
-12:45-13:00 - Introduce research topics, assign names on whiteboard and jigsaw
-teams.
 
 --LUNCH--
 - 14:00 - 14:45

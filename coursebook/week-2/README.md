@@ -17,7 +17,7 @@
 [Introduction to testing and TDD](https://github.com/foundersandcoders/testing-tdd-intro)
 
 - 11:00 - 13:00 <br>
-[Tape (TDD) workshop](https://github.com/AbdullahChaudhry/fizzbuzz). If you finish early, have a look at [Code Coverage](https://github.com/dwyl/learn-tape#bonus-level)
+[Tape (TDD) workshop](https://github.com/foundersandcoders/fizzbuzz). If you finish early, have a look at [Code Coverage](https://github.com/dwyl/learn-tape#bonus-level)
 
 — LUNCH —
 
@@ -78,7 +78,7 @@ Projects
 ### Day 5
 
 - 10:00 - 11:00 <br>
-[Code review](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/code-reviews.md)
+[Code review](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/code-review.md)
 
 - 11:00 - 13:00 <br>
 Respond to issues

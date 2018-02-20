@@ -10,7 +10,7 @@ You will always be using git in the command line. But it is useful to remember h
 
 ### Accessibility
 - [Techniques for WCAG](https://www.w3.org/TR/WCAG20-TECHS/)
-- [Aria - Usage](https://www.w3.org/TR/wai-aria/usage)
+- [Aria - Usage](https://www.w3.org/TR/aria-in-html/)
 - [Aria - Authoring Practices](https://www.w3.org/TR/wai-aria-practices/) - includes:
   + Design patterns and widgets
   + Landmark regions
@@ -19,7 +19,7 @@ You will always be using git in the command line. But it is useful to remember h
   + Intentionally hiding semantics with the `presentation` role"
 - [HTML5 Part 1: HTML5 Coding Essentials and Best Practices](https://www.edx.org/course/html5-part-1-html5-coding-essentials-w3cx-html5-1x-1)
 - [BAD demo](https://www.w3.org/WAI/demos/bad/Overview.html)
-- [Videos](http://www.uiaccess.com/accessucd/resources_videos.html#screen_readers) of people using assistive technologies & putting code into practice
+- [A11y video series](https://www.youtube.com/watch?v=fGLp_gfMMGU&list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g)
 
 
 ### CSS

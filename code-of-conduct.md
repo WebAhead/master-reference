@@ -4,7 +4,9 @@ All members are required to agree with the following code of conduct.
 We expect cooperation from all participants in the community to *help ensure a safe environment for everybody*.
 
 ## Need Help?
-Please reach out to us! Our contact details are on [our website](http://www.foundersandcoders.com) or you can find [@sofer](http://www.github.com/sofer) or [@iteles](http://www.github.com/iteles) on Gitter. Don't stay silent!
+Please reach out to us! Our contact details are on [our website](http://www.foundersandcoders.com) or you can find your Course Facilitator or [@sofer](http://www.github.com/sofer) on Gitter. Don't stay silent!
+
+If you wish to make a complaint in London, please first review the [complaints policy](https://github.com/foundersandcoders/london-membership/blob/master/complaints-policy.md) and submit a complaint with the [complaints form](https://github.com/foundersandcoders/london-membership/blob/master/complaints-policy.md).
 
 <small>Adapted from [Community Code of Conduct](https://communitycodeofconduct.com/), based on the [Ada Initiative anti-harassment conference policy](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).</small>
 
