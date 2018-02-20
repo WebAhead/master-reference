@@ -36,6 +36,9 @@
 * [Node shell](https://github.com/foundersandcoders/Node-Shell-Workshop/)
 * [TDD Node server](https://github.com/foundersandcoders/ws-tdd-node-server)
 * [React Week Timetable](https://github.com/foundersandcoders/react-week)
+* [Intro to React](https://github.com/oliverjam/intro-react-workshop)\*
+* [Dynamic Data with React](https://github.com/sofiapoh/react-dynamic-data-workshop)\*
+* [React Project Deets](https://github.com/oliverjam/fac-react-project)\*
 * [Learn git basics](https://github.com/NataliaLKB/learn-git-basics)\*
 * [Dwyl TDD](https://github.com/dwyl/learn-tdd)\*
 * [API](https://github.com/emilyb7/workshop-APIs)\*
@@ -64,10 +67,11 @@
 * [Destructuring](https://github.com/foundersandcoders/mc-diet-pattern-matching)
 * [Vanilla React](https://github.com/foundersandcoders/mc-react-solves-what-now)
 * [Waterfall function](https://github.com/foundersandcoders/mc-waterfall-chaser)
+* [Recursion](https://github.com/foundersandcoders/mc-recursion)
+* [Parallel Functions](https://github.com/foundersandcoders/mc-parallel-functions)
 * [DOM manipulation](https://github.com/mantagen/DOM-manipulation-Challenge)\*
 * [Parallel function](https://github.com/emilyb7/parallel-challenge-github)\*
 * [Handlebars](https://github.com/Jbarget/handlebars-morning-challenge)\*
-* [Recursion](https://github.com/foundersandcoders/mc-recursion)
-* [Parallel Functions](https://github.com/foundersandcoders/mc-parallel-functions)
+* [ES6 Classes](https://github.com/oliverjam/es6-class-intro)\*
 
 \* External repo
