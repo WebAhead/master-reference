@@ -33,8 +33,8 @@
 * [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility)
 * [Intro to testing and QUnit](https://github.com/foundersandcoders/learn-qunit)
 * [Node Intro](https://github.com/foundersandcoders/Node-Intro-Workshop)
-* [TDD Node server w/ Shot and Tape](https://github.com/foundersandcoders/tdd-node-server-with-shot-and-tape)
 * [Node shell](https://github.com/foundersandcoders/Node-Shell-Workshop/)
+* [TDD Node server](https://github.com/foundersandcoders/ws-tdd-node-server)
 * [React Week Timetable](https://github.com/foundersandcoders/react-week)
 * [Learn git basics](https://github.com/NataliaLKB/learn-git-basics)\*
 * [Dwyl TDD](https://github.com/dwyl/learn-tdd)\*
@@ -67,5 +67,7 @@
 * [DOM manipulation](https://github.com/mantagen/DOM-manipulation-Challenge)\*
 * [Parallel function](https://github.com/emilyb7/parallel-challenge-github)\*
 * [Handlebars](https://github.com/Jbarget/handlebars-morning-challenge)\*
+* [Recursion](https://github.com/foundersandcoders/mc-recursion)
+* [Parallel Functions](https://github.com/foundersandcoders/mc-parallel-functions)
 
 \* External repo
