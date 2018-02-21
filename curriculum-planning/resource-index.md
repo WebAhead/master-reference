@@ -2,7 +2,7 @@
 
 * [Software Design](https://github.com/foundersandcoders/ws-software-design-js)
 * [Password Management](https://github.com/foundersandcoders/ws-password-management)
-* [Session Management](https://github.com/foundersandcoders/ws-session-management)
+* [JWT Stateless Session Management](https://github.com/foundersandcoders/ws-jwt-stateless-session)
 * [Cookies](https://github.com/foundersandcoders/ws-cookies)
 * [Webpack Bundling](https://github.com/foundersandcoders/ws-webpack-bundling)
 * [hapi-auth-cookie](https://github.com/foundersandcoders/hapi-auth-cookie-ws)
