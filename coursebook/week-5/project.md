@@ -6,7 +6,7 @@ A good example could be a news app but feel free to be creative!
 
 ### Description
 
-Create a website that will include user input and a feed, with the content sourced via an API. 
+Create a website that will include user input and content that can be updated regularly, with the content sourced via an API.
 
 ### Example:
 
