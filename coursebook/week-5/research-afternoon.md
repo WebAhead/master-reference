@@ -15,7 +15,7 @@
 
 1. Research what streams and buffers are in Node, how are they used in conjunction?
 2. Create a Node project that lets a user run the command `node bigtextfile.txt` in the same directory as bigtextfile.txt and **stream** the contents of the file to the users terminal. Need a big file? How about a [book](https://www.gutenberg.org/).
-3. (Bonus) Allow an additional argument to be provided in the command to specify a time interval of how often a line of text from the file is streamed to the terminal. E.G `node bigtextfile.txt 1s`
+3. (Bonus) Allow an additional argument to be provided in the command to specify a time interval of how often a chunk of text from the file is streamed to the terminal. E.G `node bigtextfile.txt 1s`
 
 ## Make a request from the server
 
