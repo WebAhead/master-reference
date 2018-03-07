@@ -36,7 +36,8 @@ Github Scavenger Hunt - campus specific
 — LUNCH —
 - 14:00 - 14:30 — Introduce [Project](./project.md)
 - 14:30 - 14:45 — Introduce [Research topics](./research-afternoon.md)
-- 14.45 - 17:00 — Research / TBC
+- 14:45 - 15:00 — [Presentation Guidance](./presentation-guidance.md)
+- 15:00 - 17:00 — Research / TBC
 - 17.00 - 18:00 — Research presentations
 
 
@@ -55,8 +56,8 @@ Github Scavenger Hunt - campus specific
 - 14.00 - 18.00 — Projects
 
 ## Day 5
-- 10:00 - 10:15 - How to Code review
-- 10.15 - 11.00 — [Code review](./codereviewintro.md) (1 alumnus per project)
+- 10:00 - 10:15 - How to Code review [here](./codereviewintro.md)
+- 10.15 - 11.00 — Code review (1 alumnus per project, 1 team reviews another team)
 - 11.00 - 13:00 — Respond to issues
 
 — LUNCH —

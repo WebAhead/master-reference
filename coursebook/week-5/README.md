@@ -6,11 +6,11 @@
 
 - 10:00 - 10:15 - Intro to Node week 2
 
-- 10:15 - 13:00 - [Workshop on TDD Node server using Shot and Tape](https://github.com/foundersandcoders/tdd-node-server-with-shot-and-tape)
+- 10:15 - 13:00 - [Workshop on TDD Node server](https://github.com/foundersandcoders/ws-tdd-node-server)
 
 — LUNCH —
 
-- 14:00 - 16:00 - [Workshop on error handling & testing for errors](https://github.com/foundersandcoders/error-handling-workshop)
+- 14:00 - 16:00 - [Workshop on error handling](https://github.com/foundersandcoders/error-handling-workshop)
 
 - 16:00 - 18:00 - Business development
 

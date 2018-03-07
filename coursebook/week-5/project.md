@@ -6,7 +6,7 @@ A good example could be a news app but feel free to be creative!
 
 ### Description
 
-Create a website that will include user input and a feed, with the content sourced via an API. 
+Create a website that will include user input and content that can be updated regularly, with the content sourced via an API.
 
 ### Example:
 
@@ -29,7 +29,7 @@ You can build on this user story or create your own user stories as long as they
 
 4) We expect back-end testing using tape (test as many components as you can) and basic front-end testing.
 
-5) Test your server by injecting fake HTTP requests using Shot. 
+5) Test your server by injecting fake HTTP requests using Supertest. 
 
 6) Host your project on heroku, see [resources](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-5/resources.md)
 
