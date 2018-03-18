@@ -17,6 +17,6 @@ the [morning challenge instructions](https://github.com/foundersandcoders/mc-es6
 understanding some of the main differences rather than rushing to the end as
 this will help you to start using ES6 in your own Node projects.
 
-Clone the [Morning challenge: Convert ES6 code to ES5](https://github.com/stevehopkinson/es6-challenge.git) repository to your computer and follow the instructions.
+Clone the [Morning challenge: Convert ES6 code to ES5](https://github.com/foundersandcoders/mc-es6-challenge) repository to your computer and follow the instructions.
 
 A completed solution is saved in the solutions directory of the repository, but try to work it out yourself first – it's not a race, and you shouldn't worry if you don't manage to complete everything.
