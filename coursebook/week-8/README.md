@@ -13,7 +13,7 @@ Schedule
 
 --LUNCH--
 
-14:00-16:00 - Workshop 2 - [Handlebars](https://github.com/foundersandcoders/express-handlebars-workshop)
+14:00-16:00 - Workshop 2 - [Creating and Testing Express Routes](https://github.com/foundersandcoders/express-and-testing-workshop)
 
 16:00-18:00 - Business Development / Community Engagement
 
@@ -22,7 +22,7 @@ Schedule
 10:00-11:00 - Morning Challenge - [Create an Animated App
 Drawer](https://github.com/foundersandcoders/morning-challenge-animated-app-drawer)
 
-11:00-13:00 - Workshop 3 - [Creating and Testing Express Routes](https://github.com/foundersandcoders/express-and-testing-workshop)
+11:00-13:00 - Workshop 3 - [Handlebars](https://github.com/foundersandcoders/express-handlebars-workshop)
 
 
 --LUNCH--
