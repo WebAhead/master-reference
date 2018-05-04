@@ -86,7 +86,7 @@ A functional, strongly-typed language used to create client-side applications. T
 #### Angular
 [Site](https://angularjs.org/) | [Github](https://github.com/angular/angular.js) | [NPM](https://www.npmjs.com/package/angular)
 
-Like React, a front-end framework. Part of the `MEAN` stack, widely used in the industry in Israel. Also common in the UK.
+Like React, a front-end framework. Part of the `MEAN` stack, common across the industry.
 
 ### Server-side
 
@@ -149,7 +149,7 @@ Now in Node v7+, and can be transpiled in browsers (using [Babel](#babel)). Allo
  * On a similar note, if you want to learn one or more technologies like [d3](#d3), [Leaflet](https://leafletjs.com), [PWAs](#offline-first-progressive-web-app), [web-sockets](#web-sockets), [Tachyons](#tachyons) or [SASS](#sass), you may want choose backend technologies you are familiar with, so you enough time to investigate unfamiliar technologies.
 
 #### Express + Mongo + Handlebars
-The `ME` in `MEAN` stack (Mongo, Express, Angular with Node). Express and Mongo are commonly used in the Industry. In London, we would advise learning React over Angular.
+The `ME` and `N` (node) in `MEAN` stack (Mongo, Express, Angular with Node). Express and Mongo are commonly used in the Industry. In London, we would advise learning React over Angular.
 
 #### Express + PostgreSQL + React + Redux
 Here you would use React + Redux together to create an app that renders in the
