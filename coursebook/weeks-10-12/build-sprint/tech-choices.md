@@ -86,7 +86,7 @@ A functional, strongly-typed language used to create client-side applications. T
 #### Angular
 [Site](https://angularjs.org/) | [Github](https://github.com/angular/angular.js) | [NPM](https://www.npmjs.com/package/angular)
 
-Like React, a front-end framework. Part of the `MEAN` stack, widely used in the industry in Israel. Also common in the UK.
+Like React, a front-end framework. Part of the `MEAN` stack, common across the industry.
 
 ### Server-side
 
@@ -94,6 +94,10 @@ Like React, a front-end framework. Part of the `MEAN` stack, widely used in the 
 [Site](https://hapijs.com) | [Github](https://github.com/hapijs/hapi) | [NPM](https://www.npmjs.com/package/hapi)
 
 Previously part of the FAC stack. Configuration-based server framework. Originally developed by WalMart Labs. Quite different from express, steep learning curve.
+
+Alternatives:
+* [express](https://expressjs.com)
+* [koa](https://koajs.com)
 
 #### Redis
 [Site](https://redis.io) | [Install](https://redis.io/download) | [Node Client](https://www.npmjs.com/package/redis)
@@ -122,8 +126,9 @@ Allows you to use Node-style `CommonJS` modules in the browser, or (since v2.0) 
 There are _LOTS_ of configuration options and plugins available to use with Webpack, which can make the learning curve quite steep.
 
 Alternatives:
+* [Parcel.js](https://parceljs.org)
+* [Browserify](http://browserify.org)
 * [Rollup](https://www.npmjs.com/package/rollup)
-* [Google Closure Compiler](https://www.npmjs.com/package/google-closure-compiler)
 
 #### Babel
 [Site](https://babeljs.io) | [Github](https://github.com/babel/babel) | [NPM](https://npmjs.com/package/babel-core)
@@ -149,7 +154,7 @@ Now in Node v7+, and can be transpiled in browsers (using [Babel](#babel)). Allo
  * On a similar note, if you want to learn one or more technologies like [d3](#d3), [Leaflet](https://leafletjs.com), [PWAs](#offline-first-progressive-web-app), [web-sockets](#web-sockets), [Tachyons](#tachyons) or [SASS](#sass), you may want choose backend technologies you are familiar with, so you enough time to investigate unfamiliar technologies.
 
 #### Express + Mongo + Handlebars
-The `ME` in `MEAN` stack (Mongo, Express, Angular with Node). Express and Mongo are commonly used in the Industry. In London, we would advise learning React over Angular.
+The `ME` and `N` (node) in `MEAN` stack (Mongo, Express, Angular with Node). Express and Mongo are commonly used in the Industry. In London, we would advise learning React over Angular.
 
 #### Express + PostgreSQL + React + Redux
 Here you would use React + Redux together to create an app that renders in the
