@@ -126,9 +126,9 @@ Allows you to use Node-style `CommonJS` modules in the browser, or (since v2.0) 
 There are _LOTS_ of configuration options and plugins available to use with Webpack, which can make the learning curve quite steep.
 
 Alternatives:
+* [Parcel.js](https://parceljs.org)
 * [Browserify](http://browserify.org)
 * [Rollup](https://www.npmjs.com/package/rollup)
-* [Google Closure Compiler](https://www.npmjs.com/package/google-closure-compiler)
 
 #### Babel
 [Site](https://babeljs.io) | [Github](https://github.com/babel/babel) | [NPM](https://npmjs.com/package/babel-core)
