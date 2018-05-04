@@ -95,6 +95,10 @@ Like React, a front-end framework. Part of the `MEAN` stack, common across the i
 
 Previously part of the FAC stack. Configuration-based server framework. Originally developed by WalMart Labs. Quite different from express, steep learning curve.
 
+Alternatives:
+* [express](https://expressjs.com)
+* [koa](https://koajs.com)
+
 #### Redis
 [Site](https://redis.io) | [Install](https://redis.io/download) | [Node Client](https://www.npmjs.com/package/redis)
 
@@ -122,6 +126,7 @@ Allows you to use Node-style `CommonJS` modules in the browser, or (since v2.0) 
 There are _LOTS_ of configuration options and plugins available to use with Webpack, which can make the learning curve quite steep.
 
 Alternatives:
+* [Browserify](http://browserify.org)
 * [Rollup](https://www.npmjs.com/package/rollup)
 * [Google Closure Compiler](https://www.npmjs.com/package/google-closure-compiler)
 
