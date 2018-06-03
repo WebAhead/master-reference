@@ -5,9 +5,6 @@ These notes are based on the workshop delivered at the mini-bootcamp for FACN4 a
 1. Create a mygithubname.github.io repo
 1. Add a single index.html with a single line of text and go to the page
 1. Add a link to the page on top of the repo, so it can be found again 
-1. Go to the settings and go to the automatic page-generator
-1. Follow the instructions, create your page
-1. Launch the new page and go and look at it
 
 **Stage 2**
 1. Sign up for [codeanywhere](https://codeanywhere.com/editor/) using your GitHub login ~~c9.io~~
