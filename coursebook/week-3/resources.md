@@ -26,6 +26,7 @@ follow [this link](https://www.getpostman.com/docs/introduction)
 - CORS support https://www.html5rocks.com/en/tutorials/cors/#toc-adding-cors-support-to-the-server
 - Access control https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
 - CORS guidelines https://www.w3.org/TR/cors/
+- CORS blogpost: https://frontendian.co/cors
 
 #### Flexbox
 - Flexbox Froggy http://flexboxfroggy.com/
