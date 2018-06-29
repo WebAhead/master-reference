@@ -27,6 +27,7 @@ follow [this link](https://www.getpostman.com/docs/introduction)
 - Access control https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
 - CORS guidelines https://www.w3.org/TR/cors/
 - CORS blogpost: https://frontendian.co/cors
+- CORS proxy: https://github.com/Rob--W/cors-anywhere (This is temporary patch for any CORS issues during development. It is not a permament solution. CORS should be properly resolved in any production code.)
 
 #### Flexbox
 - Flexbox Froggy http://flexboxfroggy.com/
