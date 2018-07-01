@@ -8,7 +8,7 @@
 - An intro to CORS from Nicholas Zakas - https://www.nczonline.net/blog/2010/05/25/cross-domain-ajax-with-cross-origin-resource-sharing/
 - Eloquent JavaScript chapter 17 (HTTP requests) - http://eloquentjavascript.net/17_http.html
 
-##### Postman
+#### Postman
 Postman is an HTTP client for testing web services (eg APIs). It allows you send a ton of requests to APIs without having to write out the code each time. It's a handy tool to know about.  
 
 **Install postman:** you should have the Postman chrome plugin installed. If not, talk to a course mentor or
@@ -18,23 +18,25 @@ follow [this link](https://www.getpostman.com/docs/introduction)
 
 **Use postman:** read about postman in the documentation [here](https://www.getpostman.com/docs/requests).
 
-##### REST
+#### REST
 - REST and HTTP - http://restcookbook.com/Miscellaneous/rest-and-http/
 - Best practices to build RESTful web services - https://www.infosys.com/digital/insights/Documents/restful-web-services.pdf
 
-##### CORS
+#### CORS
 - CORS support https://www.html5rocks.com/en/tutorials/cors/#toc-adding-cors-support-to-the-server
 - Access control https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
 - CORS guidelines https://www.w3.org/TR/cors/
+- CORS blogpost: https://frontendian.co/cors
+- CORS proxy: https://github.com/Rob--W/cors-anywhere (This is temporary patch for any CORS issues during development. It is not a permament solution. CORS should be properly resolved in any production code.)
 
-##### Flexbox
+#### Flexbox
 - Flexbox Froggy http://flexboxfroggy.com/
 - A Complete Guide to Flexbox https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-##### Software Architecture Design
+#### Software Architecture Design
 - The Importance of Software Architecture http://csse.usc.edu/GSAW/gsaw2003/s13/northrop.pdf
 - MSDN's comprehensive guide to software architecture https://msdn.microsoft.com/en-gb/library/ee658098.aspx
 
-##### Modular Pattern
+#### Modular Pattern
 - Mastering the Module Pattern https://toddmotto.com/mastering-the-module-pattern/
 - JavaScript Module Pattern: In Depth http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html
