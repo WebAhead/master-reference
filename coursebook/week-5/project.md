@@ -25,9 +25,9 @@ You can build on this user story or create your own user stories as long as they
 
 3) Your server should contain a minimum of 2 routes
 
-4) We expect back-end testing using Tape (test as many components as you can - consider testing for 404's and 500's) and basic front-end testing.
+4) We expect back-end testing using Tape (test as many components as you can) and basic front-end testing.
 
-5) Test your server by injecting fake HTTP requests using Supertest. 
+5) Test your server by injecting fake HTTP requests using Supertest (consider testing for 404's and 500's). 
 
 6) Host your project on Heroku, see [resources](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-5/resources.md)
 
@@ -39,10 +39,14 @@ You can build on this user story or create your own user stories as long as they
 
 10) Use CodeCov or a similar tool for test coverage.
 
-11) Include Error Handling. If for example a user attempts to make a request to a non-existent route to your server (404 - as mentioned above), provide the user with a custom response.    
+11) Include Error Handling. For example:
+  - if a user attempts to make a request to a non-existent route to your server (404 - as mentioned above), provide the user with a custom response.    
+  - if there is a [programmer error](https://github.com/foundersandcoders/error-handling-workshop#kinds-of-errors) on your server (e.g. a handler function does not act as intended, or receives a datatype it is not expecting), provide the user with a custom response (500 status code).
 
 12) Include a user input field on your web app and include server-side validation to protect your server from potentially malicious user input.
 
 ### Stretch goal 😊:
 
-13) Display continuous intergration and code coverage badges on your project README. 
+13) Create a route and functionality for a POST request.
+
+14) Display continuous intergration and code coverage badges on your project README. 
