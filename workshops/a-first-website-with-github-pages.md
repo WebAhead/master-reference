@@ -20,3 +20,4 @@ These notes are based on the workshop delivered at the mini-bootcamp for FACN4 a
 **Stage 3** (if applying for the programme)
 1. Go back to `index.html`, add GitHub, freecodecamp and Codewars links and add a personal statement.
 1. Apply for the programme https://foundersandcoders.com/apply/
+1. In the time your have before applications close, keep working on your website
