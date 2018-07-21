@@ -7,7 +7,7 @@ These notes are based on the workshop delivered at the mini-bootcamp for FACN4 a
 1. Add a link to the page on top of the repo, so it can be found again 
 
 **Stage 2**
-1. Sign up for [codeanywhere](https://codeanywhere.com/editor/) using your GitHub login ~~c9.io~~
+1. Sign up for [codeanywhere](https://codeanywhere.com/editor/) using your GitHub login 
 1. Set up a new connection using "Git from URL" and using the appropriate `git@github:` URL from the just-created repo
 1. Wait for the connection to be created
 1. Open preview (`Run Project`)
