@@ -16,9 +16,7 @@
 
 #### Day 2
 
-- 10:00 - 12:45 - [Node shell workshop](https://github.com/foundersandcoders/Node-Shell-Workshop/)
-
-- 12:45 - 13:00 - Introduce [research topics](./research-afternoon.md)
+- 10:00 - 13:00 - [Node shell workshop](https://github.com/foundersandcoders/Node-Shell-Workshop/)
 
 — LUNCH —
 
@@ -26,7 +24,7 @@
 -- [Introduce Project](./project.md)
 
 - 14:30 - 14:45
--- Intro to research topics for research afternoon
+-- Introduce [research topics](./research-afternoon.md)
 
 - 14.45 - 17:00
 -- [Research Afternoon](./research-afternoon.md)
@@ -38,7 +36,7 @@
 
 - 10:00 - 11:00 - [Morning Challenge: Build Request module](https://github.com/foundersandcoders/mc-request-module-workshop)
 
-- 11:00 - 11:15:[Introduction to linters](./linter.md)
+- 11:00 - 11:15 - [Introduction to linters](./linter.md)
 
 - 11:15 - 13:00 - Projects (planning)
 
