@@ -122,15 +122,15 @@ For Everyone:
 
 - Install and manage Node.js using [nvm](https://github.com/creationix/nvm).  
 Note: We will be covering Node.js during the course. If you are curious and would like some background reading, [Art of Node](https://github.com/maxogden/art-of-node) is a great resource.
-- Install [Atom](https://atom.io/) - download the file or click "Build from source"
+- Install a text editor of your choice. We reccommend either: 
+  - [Atom](https://atom.io/)
+  - [VS Code](https://code.visualstudio.com/)
 - Install Chrome
 - [Setup SSH access to your Github account](https://help.github.com/articles/generating-an-ssh-key/)
-- Atom plugins:
-  - linter & linter-eslint
-  - open-in-browser
-  - autocomplete-paths
-  - pigments
-  - color-picker
 - Chrome extensions:
   - JSONView
   - Postman
+- Make sure to explore your editors plugin ecosystem for useful plugins:
+  - [VSCode Marketplace](https://marketplace.visualstudio.com/VSCode)
+  - [Atom packages](https://atom.io/packages)
+  - ...but don't be overwhelmed, you don't _need_ to install anything further
