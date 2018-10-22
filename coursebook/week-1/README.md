@@ -9,7 +9,7 @@
 
 ## Day 1
 
-- 10.00 - 10.30 — [Welcome talk](https://github.com/foundersandcoders/master-reference/blob/master/about.md)
+- 10.00 - 10.30 — Welcome talk
 - 10:30 - 11:30 — Name game with as many members of Founders and Coders as possible!
 - 11:30 - 11:40 - Toilet/Coffee Break
 - 11:40 - 13:00 - Course overview
@@ -72,6 +72,6 @@
 - 14:00 - 14.15 — [Plan presentations](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/weekly-projects.md#project-presentation)
 - 14:15 - 15:35 - Presentations (20 mins per group)
 - 15:35 - 15:45 - Toilet/Coffee Break
-- 15:45 - 16:45 -[Cohort Stop Go Continue (retrospective)](./retrospectives.md#cohort-retrospective)
-- 16:45 - 17:00 - [Team retrospectives](./retrospectives.md#team-retrospective)
+- 15:45 - 16:45 -[Cohort Stop Go Continue (retrospective)](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/retrospectives.md#cohort-retrospective)
+- 16:45 - 17:00 - [Team retrospectives](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/retrospectives.md#team-retrospectives)
 - 17:00 - 18:00 - External Speaker or Alumni Project Presentation
