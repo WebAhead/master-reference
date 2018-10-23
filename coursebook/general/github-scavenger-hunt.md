@@ -9,7 +9,7 @@ We aim for transparency in the running of the organisation, to enable the greate
 | Repo | Purpose |
 | ---- | --- |
 | [`london-programme`](https://github.com/foundersandcoders/london-programme) or [`nazareth-programme`](https://github.com/foundersandcoders/nazareth-programme) or [`gaza-programme`](https://github.com/foundersandcoders/gaza-programme) | The running of your campus |
-| [`international`](https://github.com/foundersandcoders/international) | The charitable organisation that sets up and supports new campuses |
+| [`hq`](https://github.com/foundersandcoders/hq) | The charitable organisation that sets up and supports new campuses |
 | [`master-reference`](https://github.com/foundersandcoders/master-reference) | Our curriculum |
 
 On the top right-hand corner of the screen, you will see a bell. If you "watch" a repository, you can use GitHub's in-app notification system for updates. Otherwise your email inbox will get full very quickly.
@@ -18,7 +18,7 @@ On the top right-hand corner of the screen, you will see a bell. If you "watch" 
 
 Browse through each of these repos, to find the answers to the following questions.
 
-### International
+### Head Quarters
 + Where can I find the history of the Founders & Coders expansion?
 + What is the charitable purpose of Founders & Coders International?
 + What is the (draft) mission statement of Founders & Coders International?
@@ -30,6 +30,8 @@ Choose your campus, to continue the hunt:
 + [London](https://github.com/foundersandcoders/london-programme/blob/master/github-scavenger-hunt.md)
 + [Nazareth](https://github.com/foundersandcoders/nazareth-programme/blob/master/github-scavenger-hunt.md)
 + [Gaza](https://github.com/foundersandcoders/gaza-programme/blob/master/github-scavenger-hunt.md)
++ [West Bank](https://github.com/foundersandcoders/west-bank-programme/blob/master/github-scavenger-hunt.md)
+
 
 ### Master reference
 
