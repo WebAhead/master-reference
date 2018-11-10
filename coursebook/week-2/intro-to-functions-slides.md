@@ -497,7 +497,7 @@ Note:
 
 ---
 
-## Can a callback function can take arguments?
+## Can a callback function take arguments?
 
 ---
 
