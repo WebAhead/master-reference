@@ -1,6 +1,6 @@
 # Build a carousel
 
-![](https://i.imgur.com/zX9HfB0.gif)
+![](https://user-images.githubusercontent.com/9408641/48860569-29c04800-edb9-11e8-8d80-308ce71ba857.gif)
 
 We'd like you to build an image carousel. Please write all the code yourself (so no libraries like jQuery or Bootstrap). We suggest you build this in [CodePen](https://codepen.io/) or a similar tool of your choice.
 
