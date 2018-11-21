@@ -2,7 +2,7 @@
 
 ![](https://i.imgur.com/zX9HfB0.gif)
 
-We'd like you to build an image carousel. Please write all the code yourself (so no libraries like jQuery or Bootstrap). Please build this in [CodePen](https://codepen.io/). 
+We'd like you to build an image carousel. Please write all the code yourself (so no libraries like jQuery or Bootstrap). We suggest you build this in [CodePen](https://codepen.io/) or a similar tool of your choice.
 
 ### Features
 
