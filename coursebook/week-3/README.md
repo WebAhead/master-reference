@@ -25,19 +25,19 @@
 ### Day 2
 
 - 10:00 - 10:45 <br />
-  [Flexbox Froggy](http://flexboxfroggy.com/)
+[Flexbox Froggy](http://flexboxfroggy.com/)
 - 10:45 - 11:45 <br />
-  [Flexbox Dice Morning Challenge](https://github.com/smarthutza/flexbox-workshop)
+[Flexbox Dice Morning Challenge](https://github.com/smarthutza/flexbox-workshop)
 - 11.45 - 13.00 <br />
-  [Software Architecture Workshop](https://github.com/foundersandcoders/Workshop-Software-Architecture-Design)
+[Software Architecture Workshop](https://github.com/foundersandcoders/Workshop-Software-Architecture-Design)
 
 -- LUNCHTIME 😋 --
 
 - 14.00 - 17.00 <br />
-  [Software Design Workshop](https://github.com/foundersandcoders/ws-software-design-js)
+[Software Design Workshop](https://github.com/foundersandcoders/ws-software-design-js)
 
 - 17.15 - 18.00 <br />
-  [Introduce Projects](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-3/project.md) & Start Planning Architecture
+[Introduce Projects](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-3/project.md) & Start Planning Architecture
 
 ### Day 3
 
