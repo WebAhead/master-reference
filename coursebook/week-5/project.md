@@ -9,7 +9,7 @@ The key difference between this project and your API week project is that you wi
 
 ### Example:
 
-Example User Stories:
+#### User Stories:
 'As a student at F&C I want to know all the train departure times from Finsbury Park tube station, so that I can get home in time for dinner'.🚉🍛
 
 'As a regular commuter, I want to input which direction of travel I am interested in so that I can see information that is relevant to me.'
@@ -25,9 +25,9 @@ You can build on this user story or create your own user stories as long as they
 
 3) Your server should contain a minimum of 2 routes
 
-4) We expect back-end testing using Tape (test as many components as you can) and basic front-end testing.
+4) We expect to see lots of tests! Modularise your code and test all your pure functions. Write tests for as much of your back-end and front-end logic as you can. We don't expect tests on the DOM.
 
-5) Test your server by injecting fake HTTP requests using Supertest (consider testing for 404's and 500's). 
+5) Test your server routes by injecting fake HTTP requests using Supertest (including testing for 404's). _Note - you are not required to test any server route that makes an API call, as this will make the test impure (a test that depends on an external factor is not reliable)._
 
 6) Host your project on Heroku, see [resources](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-5/resources.md)
 
@@ -35,18 +35,18 @@ You can build on this user story or create your own user stories as long as they
 
 8) Consider a good server file structure based on what we have discussed over the week.
 
-9) Employ continuous intergration on your project with Travis or a similar tool. (If you decide to use Travis, we strongly recommend that you host this project in your own repo rather than in your cohort's FAC repository to avoid all builds getting queued together)
+9) Employ continuous integration on your project with Travis or a similar tool. (If you decide to use Travis, we strongly recommend that you host this project in your own repo rather than in your cohort's FAC repository to avoid all builds getting queued together)
 
-10) Use CodeCov or a similar tool for test coverage.
+10) Use CodeCov or a similar tool to report and track test coverage.
 
 11) Include Error Handling. For example:
   - if a user attempts to make a request to a non-existent route to your server (404 - as mentioned above), provide the user with a custom response.    
-  - if there is a [programmer error](https://github.com/foundersandcoders/error-handling-workshop#kinds-of-errors) on your server (e.g. a handler function does not act as intended, or receives a datatype it is not expecting), provide the user with a custom response (500 status code).
+  - if there is a [programmer error](https://github.com/foundersandcoders/error-handling-workshop#kinds-of-errors) on your server (e.g. a handler function does not act as intended), provide the user with a custom response (500 status code).
 
 12) Include a user input field on your web app and include server-side validation to protect your server from potentially malicious user input.
 
+13) Display continuous integration and code coverage badges on your project README. 
+
 ### Stretch goal 😊:
 
-13) Create a route and functionality for a POST request.
-
-14) Display continuous intergration and code coverage badges on your project README. 
+15) Create a route and functionality for a POST request.
