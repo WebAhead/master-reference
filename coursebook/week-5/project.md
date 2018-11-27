@@ -27,7 +27,7 @@ You can build on this user story or create your own user stories as long as they
 
 4) We expect to see lots of tests! Modularise your code and test all your pure functions. Write tests for as much of your back-end and front-end logic as you can. We don't expect tests on the DOM.
 
-5) Test your server routes by injecting fake HTTP requests using Supertest (including testing for 404's). _Note - you are not required to test any server route that makes an API call, as this will make the test impure (a test that depends on an external factor is not reliable)._
+5) Test your server routes by injecting fake HTTP requests using Supertest (including testing for 404's). _Note - you are not required to test any server route that makes an API call, as this will make the test impure (a test that depends on an external factor is not reliable)_
 
 6) Host your project on Heroku, see [resources](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-5/resources.md)
 
@@ -48,5 +48,7 @@ You can build on this user story or create your own user stories as long as they
 13) Display continuous integration and code coverage badges on your project README. 
 
 ### Stretch goal 😊:
+
+14) Research and use Nock to mock the response of external API calls in your tests, and write tests for server routes that make API calls.
 
 15) Create a route and functionality for a POST request.
