@@ -1,10 +1,12 @@
 ## Learning outcomes
 
 #### Server basics
+
 - Understand what is a server
 - Understand the relationship between a server and a client
 
 #### Node server basics
+
 - Understand what is Node.js
 - Understand how running Node differs from running JavaScript in your browser
 - Understand basic ES6 syntax and general file system manipulation
@@ -15,6 +17,7 @@
 - Understand how to set up a server with different endpoints and http methods (e.g. `GET`, `POST`)
 
 #### Module design pattern and server file structure
+
 - Understand what is npm
 - Understand what is a package.json and semantic versioning
 - Understand how to import functions and objects from other modules using `require`.
@@ -24,11 +27,12 @@
 - Understand a basic structure for routing logic and modularisation
 - Get familiar with a typical file structure on the server side (e.g. which files may go into the `public` and `src` folders)
 
-#### Back-end testing
-- Understand how to test server functionality using `tape`
-- Understand how to run tests in parallel with developing code
+#### Testing
+
+- Understand how to use tests to make non-breaking changes to an existing codebase
 
 ### Revision questions
+
 - What is a server and what is Node.js?
 - What types of Node modules are there?
 - How do you set up a Node server that listens to different endpoints?
