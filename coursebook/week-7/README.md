@@ -1,6 +1,14 @@
-## Week Schedule and Responsibilities
+# Authentication week
 
-#### Day 1
+## Menu
+
+- [Learning Outcomes](./learning-outcomes.md)
+- [Research topics](./research-afternoon.md)
+- [Project](./project.md)
+
+## Schedule
+
+### Day 1
 
 - 10:00 - 10:15 - Introduction to [learning outcomes](./learning-outcomes.md)
 
@@ -14,12 +22,11 @@
 
 - 16:00 - 18:00 - Business development
 
-#### Day 2
+### Day 2
 
 - 10:00-11:00 - Morning Challenge on [client side validation](https://github.com/foundersandcoders/mc-client-side-validation)
 
 - 11:00-13:00 - Workshop on [stateless session management](https://github.com/foundersandcoders/ws-jwt-stateless-session)
-
 
 — LUNCH —
 
@@ -31,7 +38,7 @@
 
 - 17.00 - 18:00 - Review and Present research topics
 
-#### Day 3
+### Day 3
 
 - 10:00 - 11:00 - Morning challenge on [Promises](https://github.com/foundersandcoders/mc-promise-me-this)
 
@@ -43,7 +50,7 @@
 
 - 17:00 - 18:00 - External speaker or alumni project presentation
 
-#### Day 4
+### Day 4
 
 - 10:00 - 13:00 - Projects
 
@@ -51,7 +58,7 @@
 
 - 14:00 - 18:00 - Projects
 
-#### Day 5
+### Day 5
 
 - 10:00 - 11:00 - Code review
 

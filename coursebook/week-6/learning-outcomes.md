@@ -8,9 +8,12 @@
 - How to set up a local instance of Postgres.
 - How to set up a remote instance of Postgres (e.g. ElephantSQL).
 - How to connect Node to a Postgres instance using PG.
-- How to test an app that uses a database.
 - How to avoid security vulnerabilities (e.g. script injections).
 - How to use PSQL to work with Postgres from the command line.
+
+### Testing
+- How to keep your tests consistent using a test database and build script
+- How to write tests for database queries
 
 ### SQL skills
 - Understanding the standard query structure.

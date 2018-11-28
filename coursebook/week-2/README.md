@@ -1,10 +1,11 @@
 # Testing week
 
 ## Menu
- - [Learning outcomes](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/learning-outcomes.md)
- - [Research topics](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/research-afternoon.md)
- - [Project](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/project)
- - [Resources](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-2/resources.md)
+
+- [Learning Outcomes](./learning-outcomes.md)
+- [Research topics](./research-afternoon.md)
+- [Project](./project)
+- [Resources](./resources.md)
 
 ## Schedule
 

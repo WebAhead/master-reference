@@ -1,8 +1,15 @@
-## Node core week
+# Node core week
 
-### Week structure
+## Menu
 
-#### Day 1
+- [Learning Outcomes](./learning-outcomes.md)
+- [Research topics](./research-afternoon.md)
+- [Project](./project.md)
+- [Resources](./resources.md)
+
+## Schedule
+
+### Day 1
 
 - 10:00 - 13:00
 -- Intro to servers and Node.js
@@ -13,7 +20,7 @@
 - 16:00 - 18:00
 -- Business development
 
-#### Day 2
+### Day 2
 
 - 10:00 - 11:30
 -- [ES6 morning challenge](./morning-challenge-day-2.md)
@@ -35,8 +42,7 @@
 - 17.00 - 18:00
 -- Review and Present research topics
 
-
-#### Day 3
+### Day 3
 
 - 10:00 - 11:00
 -- [Modularisation morning challenge](./morning-challenge-day-3.md)
@@ -52,18 +58,18 @@
 - 17:00 - 18:00
 -- External speaker
 
-#### Day 4
+### Day 4
 
 - 10:00 - 18:00
 -- Projects
 
-#### Day 5
+### Day 5
 
 - 10:00 - 11:00
 -- Code Review
 
 - 11:00 - 13:00
--- Respond to issues  
+-- Respond to issues
 
 - 14:00-15:00 -[Cohort Stop Go Continue (retrospective)](./retrospectives.md#cohort-retrospective)
 

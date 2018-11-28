@@ -1,8 +1,15 @@
-## PostgreSQL week
+# PostgreSQL week
 
-### Schedule
+## Menu
 
-#### Day 1:
+- [Learning Outcomes](./learning-outcomes.md)
+- [Research topics](./research-afternoon.md)
+- [Project](./project.md)
+- [Resources](./resources.md)
+
+## Schedule
+
+### Day 1
 
 10am - 11am: whiteboard walkthrough with introduction to the topic of relational databases and SQL
 
@@ -16,7 +23,7 @@ Then go to [`sql-commands-intro` workshop](https://github.com/foundersandcoders/
 
 4.00pm - 6pm: biz dev and community outreach
 
-#### Day 2:
+### Day 2
 
 10am - 11.30am: [pg module code along](https://github.com/foundersandcoders/pg-walkthrough)
 
@@ -39,19 +46,17 @@ Then go to [`sql-commands-intro` workshop](https://github.com/foundersandcoders/
 5.15pm - 6:00pm:
 -- Review and Present research topics
 
-
-#### Day 3
+### Day 3
 
 10am - 11am: [morning challenge](https://github.com/foundersandcoders/db-morning-challenge)
 
 11am onwards: projects
 
-
-#### Day 4
+### Day 4
 
 Continue work on projects
 
-#### Day 5
+### Day 5
 
 10am - 11am: code reviews
 

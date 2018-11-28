@@ -12,10 +12,12 @@ Some suggested project ideas are below. Feel free to modify according to your in
 - Database hosted on Heroku, or locally
 - Build script for your database
 - Security concerns appropriately considered (you must protect against script injections!)
-- Good test coverage both server- and client-side
 - Content dynamic, but DOM manipulation kept to a minimum
 - Mobile-first design
 - Clear user journey (even if you take one of our suggested ideas, document the user journey in your readme)
+- test your server routes with supertest
+- test your pure functions both server and client side
+- set up a test database so that you can test your database queries
 
 **Note**
 We don't expect you to authenticate users (i.e. have a login or signup page), or even to simulate this feature. We'll cover how to do that properly in later weeks. Since these ideas were designed with Founders & Coders users in mind, we'll rely on trust instead of authentication :)

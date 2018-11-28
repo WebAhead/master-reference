@@ -1,8 +1,15 @@
-## Node week 2
+# Node week 2
 
-### Week structure
+## Menu
 
-#### Day 1
+- [Learning Outcomes](./learning-outcomes.md)
+- [Research topics](./research-afternoon.md)
+- [Project](./project.md)
+- [Resources](./resources.md)
+
+## Schedule
+
+### Day 1
 
 - 10:00 - 10:15 - Intro to Node week 2
 
@@ -14,25 +21,25 @@
 
 - 16:00 - 18:00 - Business development
 
-#### Day 2
+### Day 2
 
 - 10:00 - 13:00 - [Node shell workshop](https://github.com/foundersandcoders/Node-Shell-Workshop/)
 
 — LUNCH —
 
 - 14:00 - 14:30
--- [Introduce Project](./project.md)
+  -- [Introduce Project](./project.md)
 
 - 14:30 - 14:45
--- Introduce [research topics](./research-afternoon.md)
+  -- Introduce [research topics](./research-afternoon.md)
 
 - 14.45 - 17:00
--- [Research Afternoon](./research-afternoon.md)
+  -- [Research Afternoon](./research-afternoon.md)
 
 - 17.00 - 18:00
--- Review and Present research topics
+  -- Review and Present research topics
 
-#### Day 3
+### Day 3
 
 - 10:00 - 11:00 - [Morning Challenge: Build Request module](https://github.com/foundersandcoders/mc-request-module-workshop)
 
@@ -46,7 +53,7 @@
 
 - 17:00 - 18:00 — Project Demo from alumni / External speaker
 
-#### Day 4
+### Day 4
 
 - 10:00 - 13:00 - Projects
 
@@ -54,7 +61,7 @@
 
 - 14:00 - 18:00 - Projects
 
-#### Day 5
+### Day 5
 
 - 10:00 - 11:00 - Code review
 

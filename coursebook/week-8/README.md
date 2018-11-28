@@ -1,9 +1,15 @@
-# EXPRESS AND HANDLEBARS WEEK
+# Express and Handlebars week
 
-Schedule
-==
+## Menu
 
-### Day 1:
+- [Learning Outcomes](./learning-outcomes.md)
+- [Research topics](./research-afternoon.md)
+- [Project](./project.md)
+- [Resources](./resources.md)
+
+## Schedule
+
+### Day 1
 
 10:00-10.15 - Learning outcomes for this week
 
@@ -17,28 +23,28 @@ Schedule
 
 16:00-18:00 - Business Development / Community Engagement
 
-### Day 2:
+### Day 2
 
 10:00-11:00 - Morning Challenge - [Create an Animated App
 Drawer](https://github.com/foundersandcoders/morning-challenge-animated-app-drawer)
 
 11:00-13:00 - Workshop 3 - [Handlebars](https://github.com/foundersandcoders/express-handlebars-workshop)
 
-
 --LUNCH--
+
 - 14:00 - 14:45
--- Whiteboard Walkthrough + [Introduce Project](./project.md)
+  -- Whiteboard Walkthrough + [Introduce Project](./project.md)
 
 - 14:45 - 15:00
--- Intro to research topics for research afternoon
+  -- Intro to research topics for research afternoon
 
 - 15.00 - 17:00
--- [Research Afternoon](./research-afternoon.md)
+  -- [Research Afternoon](./research-afternoon.md)
 
 - 17.00 - 18:00
--- Review and Present research topics
+  -- Review and Present research topics
 
-### Day 3:
+### Day 3
 
 10:00-11:00 - [Express-Handlebars - Morning Challenge](https://github.com/foundersandcoders/express-handlebars-challenge)
 
@@ -50,7 +56,7 @@ Drawer](https://github.com/foundersandcoders/morning-challenge-animated-app-draw
 
 17:00-18:00 - External Speaker
 
-### Day 4:
+### Day 4
 
 10:00-13:00 - Group Project
 
@@ -58,7 +64,7 @@ Drawer](https://github.com/foundersandcoders/morning-challenge-animated-app-draw
 
 14:00-18:00 - Group Project
 
-### Day 5:
+### Day 5
 
 10:00-11:00 - Code Review
 
