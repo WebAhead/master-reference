@@ -359,70 +359,69 @@ Note:
 5.  **Oops! Q:** What have I done wrong here?
 6.  Correct mistake.
 7.  **Q:** In which order will the numbers be logged? Vote.
-8.  Let's add more useful functionality
-9.  `foo3` returns `"1"`
-10. `foo2` returns `Number(string)`
-11. Explain `Number` is a built-in function
-12. `foo1` returns `number * 3`
-13. What will the result be? `//3`
+8.  **Q:** What is `typeof foo3()`?
+9.  **Q:** What is `typeof foo2(foo3())`?
+10. Let's change it up a bit
+11. Just call `foo1()`
+12. `foo3` returns `"1"`
+13. `foo2` assigns `var y = foo3()` and returns `Number(y)`
+14. Explain `Number` is a built-in function
+15. `foo1` assigns `var x = foo2()` and returns `x * 3`
+16. **Q:** What will the result be? `//3`
 
 ---
 
-# Why?
+# What was the point of that?
 
 Let's talk about the `call stack`.
 
 ---
 
 ```javascript=
-function foo1(number) {
-  return number * 3;
+function foo1() {
+  var x = foo2();
+  return x * 3;
 }
 
-function foo2(string) {
-  return Number(string);
+function foo2() {
+  var y = foo3();
+  return Number(y);
 }
 
 function foo3() {
   return "1";
 }
 
-foo1(foo2(foo3()));
+foo1();
 ```
 
 ---
 
-<img src="https://i.imgur.com/doCvhp0.png" height="500px" />
+<img src="https://i.imgur.com/JhNoOrD.png" height="500px" />
 
 ---
 
-<img src="https://i.imgur.com/xIZlM7p.png" height="500px" />
+<img src="https://i.imgur.com/RZ7orLX.png" height="500px" />
 
 ---
 
-<img src="https://i.imgur.com/3o1mI31.png" height="500px" />
+<img src="https://i.imgur.com/6P4eA36.png" height="500px" />
 
 ---
 
-<img src="https://i.imgur.com/tkThlTg.png" height="500px" />
+<img src="https://i.imgur.com/r8aBDPa.png" height="500px" />
 
 ---
 
-<img src="https://i.imgur.com/k1u0ROv.png" height="500px" />
+<img src="https://i.imgur.com/OBdSjDh.png" height="500px" />
 
 ---
 
-<img src="https://i.imgur.com/O1spKWo.png" height="500px" />
+<img src="https://i.imgur.com/JEFeqLV.png" height="500px" />
 
 Note:
 
 1.  **Q:** Where does stack overflow get its name?
-
----
-
-10 MINUTE BREAK
-
-![](https://media.giphy.com/media/5gZW718dxT6XoBvWEl/giphy.gif)
 
 ---
 
@@ -497,7 +496,7 @@ Note:
 
 ---
 
-## Can a callback function take arguments?
+## Can a callback function can take arguments?
 
 ---
 
@@ -527,6 +526,12 @@ Note:
 2.  Type `secondFunction(firstFunction(1))`
 3.  **Q:** Would this work? `(NO)` Why not?
 4.  **Q:** What type of error would we expect?
+
+---
+
+5 MINUTE BREAK
+
+![](https://media.giphy.com/media/5gZW718dxT6XoBvWEl/giphy.gif)
 
 ---
 
@@ -625,7 +630,7 @@ Note:
 ```javascript=
 function asyncAddOne(number, callback) {
   setTimeout(function() {
-    return callback(number + 1);
+    callback(number + 1);
   }, 3000);
 };
 ```
@@ -633,6 +638,7 @@ function asyncAddOne(number, callback) {
 Note:
 
 1.  **Q:** Can someone talk through this function?
+2.  **Q** What does `asyncAddOne` return?
 
 ---
 
@@ -656,14 +662,14 @@ Note:
 ```javascript=
 function asyncAddOne(number, callback) {
   setTimeout(function() {
-    return callback(number + 1);
+    callback(number + 1);
   }, 3000);
 };
 
 function asyncMultiplyThree(number, callback) {
   console.log("result from first function:", number);
   setTimeout(function() {
-    return callback(number * 3);
+    callback(number * 3);
   }, 3000);
 };
 ```
