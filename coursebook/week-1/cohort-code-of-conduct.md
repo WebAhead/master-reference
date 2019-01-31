@@ -2,7 +2,7 @@
 
 This activity will result in a shared code of conduct that you have collectively agreed to. These are rules that you will be expected to live up to, and that you can expect everyone else in your cohort to live up to as well.
 
-The rules you come up with will supplement the existing FAC-wide [Code of Conduct](https://github.com/foundersandcoders/master-reference/blob/master/code-of-conduct.md)
+The rules you come up with will supplement, and must not contradict, the existing FAC-wide [Code of Conduct](https://github.com/foundersandcoders/master-reference/blob/master/code-of-conduct.md)
 
 ## Think
 
