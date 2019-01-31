@@ -16,6 +16,7 @@
   - Go through 16 week [schedule](https://github.com/foundersandcoders/master-reference/tree/master/coursebook)
   - [Code of Conduct](https://github.com/foundersandcoders/master-reference/blob/master/code-of-conduct.md)
   - [House rules](../general/house-rules.md)
+  - Students create their own [Cohort Code of Conduct](cohort-code-of-conduct.md)
   - Campus-specific info
   - Introduce gitter channels
 
