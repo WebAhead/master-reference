@@ -1,4 +1,4 @@
-# Founders & Coders Cooperative Decision Making Process  
+# Founders and Coders Cooperative Decision Making Process  
 
 ## Consensus-based decision making
 
