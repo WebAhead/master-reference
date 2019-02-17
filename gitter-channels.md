@@ -1,6 +1,6 @@
 | Channel  | Description  | Examples  |
 |---|---|---|
-| [FAC HQ](https://gitter.im/foundersandcoders)  | Message everyone within the community  | Questions to do with F&C as a whole  |
+| [FAC HQ](https://gitter.im/foundersandcoders)  | Message everyone within the community  | Questions to do with Founders and Coders as a whole  |
 | [Coding for Everyone](https://gitter.im/codingforeveryone)  | Meeting ground for anyone wanting to learn how to code  |  Meet people learning similar thing, questions on where to find resources   |
 | [Things of Interest](https://gitter.im/foundersandcoders/things-of-interest)  | Cool things people find that they want to share with the community. Open to all subjects and genres  | Blogposts, events, cool companies, websites, tweets, general news  |
 | [FAC-Overflow](https://gitter.im/foundersandcoders/facoverflow)  | A pun on the word Stack Overflow, Ask technical questions  | Ask people if they've used a particular technology, links to your Stack Overflow question |
