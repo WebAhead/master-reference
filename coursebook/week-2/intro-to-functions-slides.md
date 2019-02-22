@@ -431,7 +431,7 @@ Note:
 
 ---
 
-Recall that a `callback function` is simply a function that is passed as an argument to another function
+Recall that a `callback function` is a function that is passed as an argument to another function
 
 ---
 
