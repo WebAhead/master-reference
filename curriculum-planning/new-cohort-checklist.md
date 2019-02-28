@@ -5,9 +5,14 @@ The following checklist should be completed before the start of each new cohort.
 - [ ] Send acceptance email to successful candidates, including a link to the pre-course material
 - [ ] Make sure incoming CF is set as owner of Founders & Coders [organisation](https://github.com/foundersandcoders) (to be removed at the end of their position)
 - [ ] Create a new github organisation for FAC-X with the following:
-  - [ ] pinned repos for `research` (empty repo) and `user-manuals` ([example](https://github.com/fac-15/user-manuals))
+  - [ ] pinned repos for `research` and `user-manuals` ([example](https://github.com/fac-15/user-manuals))
   - [ ] `user-manuals` repo contains a suitable readme and issue template (see example above)
-- [ ] Add new and previous cohort as owners to this FAC-X Github organisation, then create a students team and a mentors and add everyone accordingly.
+  - [ ] `research` repo contains:
+    - [README.md](https://github.com/FAC10/research/blob/master/README.md)
+    - [CONTRIBUTING.md](https://github.com/FAC10/research/blob/master/CONTRIBUTING.md)
+  - [ ] Add new and previous cohort as owners to this FAC-X Github organisation
+  - [ ] Create a "students" team with the new cohort and a "mentors" team with the previous cohort.
+  - [ ] Give week 1 mentors CF & relevant FAC staff `owner` rights to the organisation
 - [ ] Send out an email with the following:
   - contact alumni about speakers
   - invite alumni to day one (can be done via Gitter)
