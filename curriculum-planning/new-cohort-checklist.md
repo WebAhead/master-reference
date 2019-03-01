@@ -33,6 +33,7 @@ The following checklist should be completed before the start of each new cohort.
 - [ ] Create a gitter chatroom for FAC-X within the `foundersandcoders` organisation, and delete the "incoming"/"lobby" room.
 - [ ] Add new cohort to `foundersandcoders` main Gitter room
 - [ ] Add new cohort to `city`-specific Gitter room
+- [ ] Follow city-specific steps to add new cohort to `city-programme` repo
 
 ## Curriculum
 
