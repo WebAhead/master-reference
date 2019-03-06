@@ -1,33 +1,43 @@
 # New Cohort Checklist
 
-The following is a checklist for both course facilitators and programme director to complete either prior to the beginning of a cohort or served as an on-going reference:
+The following checklist should be completed before the start of each new cohort.
 
-### Prior to the course
-Programme director (supported by FCI if necessary):
+## Communication
+
 - [ ] Send acceptance email to successful candidates, including a link to the pre-course material
-- [ ] Make sure current CF in all campuses is set as owner of Founders & Coders [organisation](https://github.com/foundersandcoders) (to be removed at the end of their position)
+- [ ] Send out an email with the following:
+  - contact alumni about speakers
+  - invite alumni to day one (can be done via Gitter)
+  - invite alumni to a welcome party
+- [ ] Invite the new cohort in for an [installation](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/precourse/installation-list.md) party in the last week of FACX-1 to meet each other and mentors.
+- [ ] Contact alumni to create a [pastoral care](https://github.com/foundersandcoders/master-reference/blob/master/pastoral-care.md) team
 
-Course Facilitator:
-- [ ] Create a new github organisation for FAC-X with the following structure. [Example](https://github.com/FAC10).
-- [ ] Add new and previous cohort as owners to this FAC-X Github organisation, then create a students team and a mentors and add everyone accordingly.
-- [ ] With a [Mailchimp](https://mailchimp.com/) email template provided by FCI, send out an email with the following:
-  - contact alumni about speakers, invite alumni to day one (can be done via Gitter), and invite alumni to a welcome party
-- [ ] Create a gitter chatroom for FAC-X within the foundersandcoders organisation, and delete the "incoming"/"lobby" room.
+## Github / Gitter
+
+- [ ] Make sure incoming CF is set as owner of Founders & Coders [organisation](https://github.com/foundersandcoders) (to be removed at the end of their position)
+- [ ] Create a new github organisation for FAC-X with the following:
+  - [ ] pinned repos for `research` and `user-manuals` ([example](https://github.com/fac-15/user-manuals))
+  - [ ] `user-manuals` repo contains a suitable readme and issue template (see example above)
+  - [ ] `research` repo contains:
+    - [README.md](https://github.com/FAC10/research/blob/master/README.md)
+    - [CONTRIBUTING.md](https://github.com/FAC10/research/blob/master/CONTRIBUTING.md)
+  - [ ] Add new and previous cohort as owners to this FAC-X Github organisation
+  - [ ] Create a "students" team with the new cohort and a "mentors" team with the previous cohort.
+  - [ ] Give week 1 mentors CF & relevant FAC staff `owner` rights to the organisation
 - [ ] Add new cohort to [Founders & Coders](https://github.com/foundersandcoders) organisation, and:
-    - [ ] give members "write" access
-    - [ ] "no restrictions" on 3rd party application access policy
-- [ ] Add new cohort to a FAC-X team within this organisation.
+
+  - [ ] give members "write" access
+  - [ ] "no restrictions" on 3rd party application access policy
+  - [ ] Add new cohort to a FAC-X team within this organisation.
+
+- [ ] Create a gitter chatroom for FAC-X within the `foundersandcoders` organisation, and delete the "incoming"/"lobby" room.
 - [ ] Add new cohort to `foundersandcoders` main Gitter room
 - [ ] Add new cohort to `city`-specific Gitter room
-- [ ] Invite the new cohort in for an [installation](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/precourse/installation-list.md) party in the last week of FACX-1 to meet each other and mentors.
-- [ ] Contacting alumni to create a pastoral care team
+- [ ] Follow city-specific steps to add new cohort to `city-programme` repo
 
-Weekly curriculum task group along with current CF / maintainers of the `master-reference`:
-- [ ] Ensure all curriculum related files are updated in `master-reference`
-- [ ] Ensure the [coursebook](https://github.com/foundersandcoders/master-reference/tree/master/coursebook) has been updated by the current mentors before start-date.
+## Curriculum
 
-### On-going
-
-Course Facilitator:
-- [ ] Use the Google spreadsheet of past alumni who gave talks / external speakers, stored in school-curriculum, to continue arranging external speaker dates for the new curriculum. Update the list from last curriculum if necessary.
-- [ ] Update the calendar every time a speaker is arranged.
+- [ ] Ensure the previous cohort has followed the [curriculum update process](curriculum-update-process.md) and that any issues or PRs are raised well in advance of the relevant week start.
+- [ ] Escalate open PRs or issues to the MRMs or @sofer directly if they need attention
+- [ ] Open an issue to recruit alumni speakers ([example](https://github.com/foundersandcoders/london-programme/issues/806)), and make sure the first 4 weeks are confirmed before course start
+- [ ] Add speakers to the city-specific calendar
