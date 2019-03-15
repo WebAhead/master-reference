@@ -18,7 +18,7 @@
 [Introduction to testing and TDD](https://github.com/foundersandcoders/testing-tdd-intro)
 
 - 11:00 - 13:00 <br>
-[Tape (TDD) workshop](https://github.com/foundersandcoders/fizzbuzz). If you finish early, have a look at [Code Coverage](https://github.com/dwyl/learn-tape#bonus-level)
+[Tape (TDD) workshop](https://github.com/foundersandcoders/fizzbuzz). If you finish early, read more about [testing with Tape](https://github.com/dwyl/learn-tape)
 
 — LUNCH —
 
