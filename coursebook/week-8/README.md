@@ -68,17 +68,14 @@ Drawer](https://github.com/foundersandcoders/morning-challenge-animated-app-draw
 
 10:00-11:00 - Code Review
 
-11:00-12:40 - Respond to issues
-
-12:40-13:00 - Prepare Presentations
+11:00-13:00 - Respond to issues and plan presentations
 
 --LUNCH--
 
-14:00-15:00 - [Cohort Stop Go Continue
-(retrospective)](./retrospectives.md#cohort-retrospective)
+14:00-15:20 — Presentations (20 mins per group)
 
-15:00-15:40 - [Team retrospectives](./retrospectives.md#team-retrospective)
+15:20-16:20 — Cohort Stop Go Continue (retrospective)
 
-15:40-17:00 - Presentations (20 mins per group)
+16:20-17:00 — Team retrospectives
 
-17:00-18:00 - External Speaker or Alumni Project Presentation
+17:00-18:00 — External Speaker or Alumni Project Presentation

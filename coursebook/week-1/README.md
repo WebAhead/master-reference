@@ -66,13 +66,14 @@
 
 - 10:00 - 10:15 - How to Code review [here](./codereviewintro.md)
 - 10.15 - 11.00 — Code review (1 alumnus per project, 1 team reviews another team)
-- 11.00 - 13:00 — Respond to issues
+- 11.00 - 13:00 — Respond to issues and [plan presentations](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/weekly-projects.md#project-presentation)
 
 — LUNCH —
 
-- 14:00 - 14.15 — [Plan presentations](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/weekly-projects.md#project-presentation)
-- 14:15 - 15:35 - Presentations (20 mins per group)
-- 15:35 - 15:45 - Toilet/Coffee Break
-- 15:45 - 16:45 -[Cohort Stop Go Continue (retrospective)](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/retrospectives.md#cohort-retrospective)
-- 16:45 - 17:00 - [Team retrospectives](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/retrospectives.md#team-retrospectives)
-- 17:00 - 18:00 - External Speaker or Alumni Project Presentation
+- 14:00-15:20 — Presentations (20 mins per group)
+
+- 15:20-16:20 — [Cohort Stop Go Continue (retrospective)](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/retrospectives.md#cohort-retrospective)
+
+- 16:20-17:00 — [Team retrospectives](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/retrospectives.md#team-retrospectives)
+
+- 17:00-18:00 — External Speaker or Alumni Project Presentation
