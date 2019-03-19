@@ -25,19 +25,19 @@
 ### Day 2
 
 - 10:00 - 10:45 <br />
-[Flexbox Froggy](http://flexboxfroggy.com/)
+  [Flexbox Froggy](http://flexboxfroggy.com/)
 - 10:45 - 11:45 <br />
-[Flexbox Dice Morning Challenge](https://github.com/smarthutza/flexbox-workshop)
+  [Flexbox Dice Morning Challenge](https://github.com/smarthutza/flexbox-workshop)
 - 11.45 - 13.00 <br />
-[Software Architecture Workshop](https://github.com/foundersandcoders/Workshop-Software-Architecture-Design)
+  [Software Architecture Workshop](https://github.com/foundersandcoders/Workshop-Software-Architecture-Design)
 
 -- LUNCHTIME 😋 --
 
 - 14.00 - 17.00 <br />
-[Software Design Workshop](https://github.com/foundersandcoders/ws-software-design-js)
+  [Software Design Workshop](https://github.com/foundersandcoders/ws-software-design-js)
 
 - 17.15 - 18.00 <br />
-[Introduce Projects](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-3/project.md) & Start Planning Architecture
+  [Introduce Projects](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-3/project.md) & Start Planning Architecture
 
 ### Day 3
 
@@ -61,14 +61,14 @@
 
 - 10.00 - 11.00 <br /> Project code review
 
-- 11.00 - 13.00 <br /> Respond to issues
+- 11.00 - 13.00 <br /> Respond to issues and plan presentations
 
 -- LUNCHTIME 😋 --
 
-- 14:00-15:00 -[Cohort Stop Go Continue (retrospective)](./retrospectives.md#cohort-retrospective)
+- 14:00-15:20 — Presentations (20 mins per group)
 
-- 15:00-15:40 - [Team retrospectives](./retrospectives.md#team-retrospective)
+- 15:20-16:20 — Cohort Stop Go Continue (retrospective)
 
-- 15:40-17:00 - Presentations (20 mins per group)
+- 16:20-17:00 — Team retrospectives
 
-- 17:00-18:00 - External Speaker or Alumni Project Presentation
+- 17:00-18:00 — External Speaker or Alumni Project Presentation

@@ -58,18 +58,16 @@ Continue work on projects
 
 ### Day 5
 
-10am - 11am: code reviews
+10:00 - 11:00 — code review
 
-11am - 12pm: responding to issues
+11:00 - 13:00 — respond to issues and prepare presentations
 
-12:40 - 1pm: preparing presentations
+-- LUNCH --
 
-1pm - 2pm: lunchtime 😋
+14:00-15:20 — Presentations (20 mins per group)
 
-14:00-15:00 -[Cohort Stop Go Continue (retrospective)](./retrospectives.md#cohort-retrospective)
+15:20-16:20 — Cohort Stop Go Continue (retrospective)
 
-15:00-15:40 - [Team retrospectives](./retrospectives.md#team-retrospective)
+16:20-17:00 — Team retrospectives
 
-15:40-17:00 - Presentations (20 mins per group)
-
-17:00-18:00 - External Speaker or Alumni Project Presentation
+17:00-18:00 — External Speaker or Alumni Project Presentation
