@@ -92,7 +92,7 @@ MRM can serve as week facilitators as a last resort.
 
 ## Minor or Major Change?
 
-  In order to reduce the load on the MRMs, and to gain some clarity on what kind of proposal warrants which level of , we're suggesting three different paths of action:
+  In order to reduce the load on the MRMs, and to gain some clarity on the different levels of proposal, we're suggesting three different paths of action for making changes to the curriculum:
 
 Tiny
   - Such as: correcting typos and dead links
@@ -100,11 +100,13 @@ Tiny
   - Make a PR and assign to CF, who can review and merge
 
 Minor
+  - Such as: restructuring of a workshop or challenge's README, in order to make the instructions clearer perhaps - but **not** actually changing the content
   - These changes warrant raising an issue - which should first be assigned to CF
   - Since it is not a major change, the issue doesn't need to be assigned to MRMs
   - Any related PRs, however, should be assigned to MRMs for review before merging
 
 Major
+  - Such as: proposing to change the content of a workshop or challenge. Proposing a movement away from a certain technology.
   - Issue raised and assigned to CF, who then assigns to MRMs since it's deemed major
   - Any related PRs should also be assigned to MRMs
 
