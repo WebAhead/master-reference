@@ -77,7 +77,7 @@ Don't exist formally but alumni can be called on to serve in this role temporari
 
 MRM can serve as week facilitators as a last resort.
 
-### Students
+### Students & Mentors
 
 #### Recurring
 
@@ -86,6 +86,39 @@ MRM can serve as week facilitators as a last resort.
 - Once per cohort
   - Prepare feedback on one week that they are preparing to mentor
   - Raise PRs for any minor changes they identify
+  - Communicate with CF
+  - During week mentoring, log thoughts as they go
+  - At end of mentoring week, summarise these thoughts in a [templated comment](#feedback) in their feedback issue. Assign to CF.
+
+## Minor or Major Change?
+
+  In order to reduce the load on the MRMs, and to gain some clarity on what kind of proposal warrants which level of , we're suggesting three different paths of action:
+
+Tiny
+  - Such as: correcting typos and dead links
+  - Doesn't need to trouble the MRMs
+  - Make a PR and assign to CF, who can review and merge
+
+Minor
+  - These changes warrant raising an issue - which should first be assigned to CF
+  - Since it is not a major change, the issue doesn't need to be assigned to MRMs
+  - Any related PRs, however, should be assigned to MRMs for review before merging
+
+Major
+  - Issue raised and assigned to CF, who then assigns to MRMs since it's deemed major
+  - Any related PRs should also be assigned to MRMs
+
+## <a name="feedback"></a>Mentor feedback template
+
+  A suggestion for structuring mentors' reflections on their week teaching. Should be added as a comment to the relevant issue on feedback for that week, for example `FAC16 Mentor Feedback: Week 7`. Once filled out, mentors can unassign themselves from the issue and assign CF.
+
+- #### Reflections on how the week went:
+
+- #### Any changes we did + links to the PRs:
+
+- #### Feedback from students:
+
+- #### Suggested actions:
 
 ## Resource maintainer
 
@@ -99,9 +132,9 @@ The notion of a _"resource maintainer"_, where each curriculum resource would be
 
 #### Each week
 
-| Students                                                               | Course facilitators                                                                                                                                                        | MRM                      | Week Facilitator | Community                                    |
-| ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | ---------------- | -------------------------------------------- |
-| Give any relevant feedback on master reference in weekly retrospective | Facilitate weekly retrospective and encourage honest feedback. Make sure minutes are recorded in city-specific organisation and raise any urgent issues to MRM if required | Review any issues raised | nothing          | Review issues and give feedback if they want |
+| Students                                                               | Course facilitators                                                                                                                                                        | MRM                      | Week Facilitator | Community  |  Mentors                                 |
+| ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | ---------------- | -------------------------------------------- | ---- |
+| Give any relevant feedback on master reference in weekly retrospective | Facilitate weekly retrospective and encourage honest feedback. Make sure minutes are recorded in city-specific organisation and raise any urgent issues to MRM if required | Review any issues raised | nothing          | Review issues and give feedback if they want |  Mentors should log their thoughts throughout the week, and then summarise at the end in a comment on their feedback issue.   |
 
 #### Week 14
 
@@ -111,13 +144,13 @@ The notion of a _"resource maintainer"_, where each curriculum resource would be
 
 #### Week 15-16
 
-| students                                                        | Course facilitators                                                                                                     | MRM                                                                                                                                                                                                                               | WF                                                         | Community                                                                   |
+| Students                                                        | Course facilitators                                                                                                     | MRM                                                                                                                                                                                                                               | WF                                                         | Community                                                                   |
 | --------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------------------------------------------------------------------- |
 | Raise issues to begin discussion of major changes (if required) | Triage feedback raised in week issues and meet with mentor pairs to discuss required changes and whether minor or major | Should have feedback from all campuses, MRM's should meet and discuss them. Feedback to the community recommend actions that need to be taken (having considered each campus, any community input and also the learning outcomes) | Review pull requests, assign MRM for merge if all is good. | Review the big issue from MRM's, volunteer to make any changes they want to |
 
 #### Week 17
 
-| students                                                                                                                                                                                                                                                                     | Course facilitators                                                                                                 | MRM                                                       | WF                                                         | Community                                   |
+| Students                                                                                                                                                                                                                                                                     | Course facilitators                                                                                                 | MRM                                                       | WF                                                         | Community                                   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------- | ------------------------------------------- |
 | Raise PRs for minor changes to their week. If they want to they start making major changes (potentially they may already have started it if it was their suggestion). If some alumni has volunteered, they should be aware as they will be teaching it in the next iteration | Make sure students are following up on changes they wanted to see. Escalate PRs or issues that still need attention | Be aware of what changes are going ahead, and what aren't | Review pull requests, assign MRM for merge if all is good. | Any alumni can review PR's if they want to. |
 
