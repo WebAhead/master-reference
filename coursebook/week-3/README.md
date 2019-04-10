@@ -4,7 +4,7 @@
 
 - [Learning outcomes](./learning-outcomes.md)
 - [Project](.project.md)
-- [Resources](./resources.md)
+- [Resources](./resources)
 
 ## Schedule
 
