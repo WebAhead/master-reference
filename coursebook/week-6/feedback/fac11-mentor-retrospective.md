@@ -147,6 +147,14 @@ And interestingly, that was the exact feedback from a few people in FAC11 about 
 + Lubes: was good recommending them to write their own comments
 + Shireen: have some files ready, some have to be coded-along
 
+#### Gaza
+
+@noureldeansaed:
++ Having separate steps could work against not with the wanted results from the codealong, if everything was directly attached and intact from the beggining to the end, FAC students would grow better understanding of what is what and which is which.
+
+#### Codealongs in general
++ Noureldean: I think the only reason this partiular codealong is different is that there's an almost-identical workshop after it that allows the FAC students to immediately. To me I think codealongs are awful, when I was a student I got mostly nothing out of codealongs, but this way, it could work.
+
 **AP: lubes raise issues on the workshop maybe**
 
 ### [Afternoon workshop](https://github.com/foundersandcoders/pg-workshop/tree/c1afd3edcc424060d19435e5d81942452c38c25e)
