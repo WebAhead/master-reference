@@ -16,7 +16,7 @@ A helpful list of steps to help you deploy, set up a database (if needed), enabl
 - [ ] Connect directly to Heroku database using heroku pg:psql
 - [ ] To see if your tables are there, run \dt
 
-### Enabling automatic delpoys from master
+### Enabling automatic deploys from master
 
 - [ ] Find your project on the Heroku webstie
 - [ ] Go to deploy > deployment method > switch it from 'Hekou Git' to 'GitHub (connect to github)'
