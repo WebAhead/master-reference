@@ -13,7 +13,7 @@ A helpful list of steps to help you deploy, set up a database (if needed), enabl
 - [ ] Create a config.env file in your local repo using the Heroku DATABASE_URL (make sure that this is in your .gitignore file, because you don't want to push it to GitHub)
 - [ ] Make sure that your db_connection.js files references this correctly (i.e. `const params = url.parse(process.env.DATABASE_URL);`, not DB_URL)
 - [ ] Run node database/db_build.js to create your database locally (or whatever command you use to create your database)
-- [ ] Connect directly to Heroku database using heroku pg:psql
+- [ ] Connect directly to Heroku database using `heroku pg:psql`
 - [ ] To see if your tables are there, run \dt
 
 ### Enabling automatic deploys from master
