@@ -21,7 +21,7 @@ A helpful list of steps to help you deploy, set up a database (if needed), enabl
 - [ ] Find your project on the Heroku webstie
 - [ ] Go to deploy > deployment method > switch it from 'Hekou Git' to 'GitHub (connect to github)'
 - [ ] Choose your repo, and then 
-- [ ] Choose enable automatic delpoys, it will update everytime you push to master
+- [ ] Choose enable automatic deploys, it will update every time you push to master
 
 ### Troubleshooting Checklist
 - [ ] Dynamic port binding - have you used `process.env.PORT || XXXX` rather than  a set port number?
