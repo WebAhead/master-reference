@@ -31,7 +31,7 @@ A helpful list of steps to help you deploy, set up a database (if needed), enabl
         "node": "8.6.0"
     },
     ```
-- [ ] Included a start script in your package.json? (Otherwise heroku will look for ./index.js)
+- [ ] Included a start script in your `package.json`? (Otherwise Heroku will look for `./index.js`)
 - [ ] Have you remebered to add your envirnoment variables into Heroku itself?
 - [ ] Have you run your db build script if deploying for the first time / altered your db? e.g. `heroku run "node ./database/dbBuild.js"`
 - [ ] Have you used capital letters in any of your folder names *(is this right?)*
