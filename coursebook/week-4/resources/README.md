@@ -22,3 +22,5 @@ and features.
 * [Stream-handbook](https://github.com/substack/stream-handbook) -- comprehensive guide to streams.
 
 * [Heroku: Node.js deployment guide](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction) -- a guide for deploying a node.js app on heroku.
+
+* [Heroku Cheatsheet](heroku_cheatsheet.md) -- A helpful list of steps to help you deploy, set up a database (if needed), enable automatic deploys from master, and troubleshoot issues.
