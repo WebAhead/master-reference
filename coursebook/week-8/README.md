@@ -76,6 +76,6 @@ Drawer](https://github.com/foundersandcoders/morning-challenge-animated-app-draw
 
 15:20-16:20 — Cohort Stop Go Continue (retrospective)
 
-16:20-17:00 — Team retrospectives
+16:20-17:00 — Team retrospectives + [reading week checklist](https://github.com/foundersandcoders/master-reference/coursebook/general/reading-week-checklist.md)
 
 17:00-18:00 — External Speaker or Alumni Project Presentation
