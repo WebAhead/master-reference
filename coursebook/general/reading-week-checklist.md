@@ -254,4 +254,4 @@ You should know:
 	- [ ] set it to follow the rules in an eslint.config file if one is in the repo
 	- [ ] set it to format on save
 - [ ] how should you debug your code if things are going wrong? Give some different steps
-- [ ] You **need** to get very comfortable typing on an english keyboard with both hands. Having speed to try things out will help **alot** when you don't understand things.
+- [ ] You **need** to get very comfortable typing on an english keyboard with both hands. Having speed to try things out will help **a lot** when you don't understand things.
