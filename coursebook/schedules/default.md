@@ -9,7 +9,7 @@ Hour | Day 1 | Day 2 | Day 3 | Day 4 | Day 5
   |   |   |   |   |  
 2h | Workshops | Workshops | Projects | Projects | Prepare presentations
   |   |   |   |   |  
-3h | Workshops | Project intro | Design burst | Projects | Presentations
+3h | Workshops | Project intro | [Design burst](https://github.com/foundersandcoders/design-bursts) | Projects | Presentations
   |   | Research intro | Projects |   |  
 4h | Workshops | Research | Projects | Projects | Presentations
   |   |   |   |   | SGC
