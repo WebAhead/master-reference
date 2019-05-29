@@ -28,6 +28,8 @@
 - [Introduction to consensus based decision-making](): 1hr. (make a resource for cbdm??)
 #### 6.5hrs
 
+---
+
 ## Day 2
 
 - Morning Challenge - [Accessibility challenge](https://github.com/foundersandcoders/accessibility-challenge): 1hr
@@ -36,6 +38,8 @@
 - [Research session](): 2hrs
 - [Research Presentations](): 1hr
 #### 6.5hrs
+
+---
 
 ## Day 3
 
