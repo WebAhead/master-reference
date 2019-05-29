@@ -39,7 +39,7 @@
 
 - [Morning Challenge - CSS Gallery Challenge](https://github.com/foundersandcoders/css-gallery-challenge): 1hr
 
-### Day 5
+## Day 5
 - [How to code review](./codereviewintro.md)
 - [Intro to project presentations](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/weekly-projects.md#project-presentation)
 - [Intro to cohort Stop Go Continue](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/retrospectives.md#cohort-retrospective)
