@@ -26,19 +26,22 @@
 - [New Scavenger Hunt/Github tour?](): 30mins
 - [User Manuals](): 30mins. (make a resource outside of fac15/16 etc.)
 - [Introduction to consensus based decision-making](): 1hr. (make a resource for cbdm??)
-#### 6.5hrs
 
----
 
 ## Day 2
 
 - Morning Challenge - [Accessibility challenge](https://github.com/foundersandcoders/accessibility-challenge): 1hr
 - [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 2hrs
-#### 6.5hrs
+- [Research and Presentation Guidance](./presentation-guidance.md)
 
----
 
 ## Day 3
 
 - [Morning Challenge - CSS Gallery Challenge](https://github.com/foundersandcoders/css-gallery-challenge): 1hr
+
+### Day 5
+- [How to code review](./codereviewintro.md)
+- [Intro to project presentations](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/weekly-projects.md#project-presentation)
+- [Intro to cohort Stop Go Continue](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/retrospectives.md#cohort-retrospective)
+- [Into to team retrospectives](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/retrospectives.md#team-retrospectives)
 
