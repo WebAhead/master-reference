@@ -34,9 +34,6 @@
 
 - Morning Challenge - [Accessibility challenge](https://github.com/foundersandcoders/accessibility-challenge): 1hr
 - [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 2hrs
-- Introduce [project](./project.md), [research topics](./research-afternoon.md) and [presentation guidance](./presentation-guidance.md): 30mins
-- [Research session](): 2hrs
-- [Research Presentations](): 1hr
 #### 6.5hrs
 
 ---
