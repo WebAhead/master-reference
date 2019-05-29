@@ -23,7 +23,7 @@
   - Introduce gitter channels
 - Introduction to [Pair Programming](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-1/pair-programming.md): 1hr
 - [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility/blob/master/putting-yourself-in-someone-elses-shoes.md): 1hr
-- [New Scavenger Hunt/Github tour?](): 30mins
+- [Github scavenger hunt](): 30mins (resource incoming)
 - [User Manuals](): 30mins (resource incoming)
 - [Introduction to consensus based decision-making](): 1hr (resource incoming)
 
