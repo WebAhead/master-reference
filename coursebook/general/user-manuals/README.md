@@ -1,4 +1,4 @@
-# User Manuals
+## Info
 
 Before the course begins, a `user-manuals` repo should be created in the cohort organisation. It's recommended to then use the markdown below as the repo's README, and [this document](./ISSUE_TEMPLATE.md) can be used as the issue template for creating individual user manuals.
 
