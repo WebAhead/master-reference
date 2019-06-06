@@ -18,3 +18,6 @@ Hour | Day 1 | Day 2 | Day 3 | Day 4 | Day 5
 6h | Workshops | Presentations | Talk | Projects | Talk
   |   |   |   |   |  
 7h | Class ends |   |   |   |  
+
+
+### [London default schedule](./london-default.md)
