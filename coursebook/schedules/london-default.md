@@ -3,8 +3,8 @@
 |Start| Day 1    | Day 2                | Day 3                                          | Day 4    | Day 5                 |
 |-----| ---------| ---------------------| -----------------------------------------------| -------- | --------------------- |
 |     |          |                      |                                                |          |                       |
-|10am | Workshops| Challenge            | Challenge                                      | Projects | Code review           |
-|     |          |                      |                                                |          |                       |
+|10am | Intro    | Challenge            | Challenge                                      | Projects | Code review           |
+|     | Workshops|                      |                                                |          |                       |
 |11am | Workshops| Workshops            | Projects                                       | Projects | Review issues         |
 |     |          |                      |                                                |          |                       |
 |12pm | Workshops| Workshops            | Projects                                       | Projects | Prepare presentations |
@@ -15,7 +15,8 @@
 |     |          | Research intro       | Projects                                       |          |                       |
 |3pm  | Workshops| Research             | Projects                                       | Projects | Presentations         |
 |     |          |                      |                                                |          | SGC                   |
-|4pm  | Workshops| Prepare presentations| Projects                                       | Projects | SGC                   |
+|4pm  | Tech for | Prepare presentations| Projects                                       | Projects | SGC                   |
 |     |          |                      |                                                |          | Team retrospectives   |
-|5pm  | Workshops| Presentations        | Talk                                           | Projects | Talk                  |
+|5pm  | Better   | Presentations        | Talk                                           | Projects | Talk                  |
 |     |          |                      |                                                |          |                       | 
+|6pm  | Ends     |                      |                                                |          |                       | 
