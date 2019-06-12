@@ -12,7 +12,7 @@
 
 ### Day 1
 
-- [Workshop on TDD Node server](https://github.com/foundersandcoders/ws-tdd-node-server) 2hr 30mins
+- [Workshop on TDD Node server](https://github.com/foundersandcoders/ws-tdd-node-server) 2hrs 30mins
 
 - [Workshop on error handling](https://github.com/foundersandcoders/error-handling-workshop) 2hrs
 
