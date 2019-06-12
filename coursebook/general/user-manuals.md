@@ -1,3 +1,0 @@
-# User manuals
-
-[in progress]
