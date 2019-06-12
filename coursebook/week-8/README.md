@@ -20,8 +20,7 @@
 ### Day 2
 
 - Morning Challenge - [Create an Animated App Drawer](https://github.com/foundersandcoders/morning-challenge-animated-app-drawer): 1hr
-
-Workshop 3 - [Handlebars](https://github.com/foundersandcoders/express-handlebars-workshop): 2hrs
+- Workshop 3 - [Handlebars](https://github.com/foundersandcoders/express-handlebars-workshop): 2hrs
 
 ### Day 3
 
