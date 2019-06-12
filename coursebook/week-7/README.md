@@ -1,6 +1,6 @@
-# Authentication week
+# Authentication Week
 
-## Menu
+## Contents
 
 - [Learning Outcomes](./learning-outcomes.md)
 - [Research topics](./research-afternoon.md)
@@ -8,6 +8,7 @@
 - [Resources](./resources)
 
 ## Schedule
+- [Default schedule](../schedules/default.md)
 
 ### Day 1
 
