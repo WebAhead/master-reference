@@ -27,6 +27,8 @@
 
 - [Software Design Workshop](https://github.com/foundersandcoders/ws-software-design-js): 3hrs
 
+Note: no research scheduled for this week
+
 ### Day 3
 
 - [Waterfall morning challenge](https://github.com/foundersandcoders/mc-waterfall-chaser): 1hr
