@@ -51,6 +51,9 @@ First of all, it's completely normal to find public speaking and giving presenta
 #### ... and use gifs :tada: 
 - Jazz it up with emojis, images and [gifs](https://giphy.com)!
 
+## Once you're finished 
+- Make you sure you upload your material to the appropriate `week` folder, in the `research` repo in your cohort's organisation!
+
 ## :crown: Research presentation Hall of Fame :crown: 
 
 #### [FAC16: Asynchronous JS](https://github.com/FAC-Sixteen/research/blob/master/week2/Asynchronous%20JS.md)
