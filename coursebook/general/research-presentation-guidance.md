@@ -21,7 +21,7 @@ We recommend splitting the allotted time for research **50:50** - between **carr
 
 ## What makes a good research presentation
 
-First of all, it's completely normal to find public speaking and giving presentations daunting. Take time to calm any nerves you might have, and be assured that as the course goes on you'll find it **easier and easier** to talk in front of the cohort. See it as **an opportunity to practise** - and before you'll know it giving presentations will be second nature.
+First of all, it's completely normal to find public speaking and giving presentations daunting. Take time to calm any nerves you might have, and be assured that as the course goes on you'll find it **easier and easier** to talk in front of the cohort. See it as **an opportunity to practise** - and before you know it, giving presentations will be second nature.
 
 #### Plan, plan, plan :bulb: 
 - Think about **how much time** you want to devote to **each point**.
