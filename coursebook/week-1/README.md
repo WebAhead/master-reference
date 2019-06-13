@@ -32,7 +32,7 @@
 
 - Morning Challenge - [Accessibility challenge](https://github.com/foundersandcoders/accessibility-challenge): 1hr
 - [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 2hrs
-- [Research and Presentation Guidance](./research-presentation-guidance.md)
+- [Research and Presentation Guidance](../general/research-presentation-guidance.md)
 
 
 ## Day 3
