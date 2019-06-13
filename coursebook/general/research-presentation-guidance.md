@@ -42,7 +42,7 @@ First of all, it's completely normal to find public speaking and giving presenta
 
 #### Make it interactive :dizzy: 
 - **Ask your audience questions** and keep them on their toes.
-- You could even introduce a quiz element to your presentation! Check out [Kahoot!](https://kahoot.com)
+- You could even introduce a quiz element to your presentation. Check out [Kahoot!](https://kahoot.com)
 
 #### Prepare for silence :hushed: 
 - You might be met with a wall of silence in your Q&A.
