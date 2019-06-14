@@ -61,7 +61,7 @@ For the challenges, I suggest you open a repo, and save them all there.
 ---
 
 ### Javascript
-- Using 
+- Using these array and string methods:
 	-   `.map()`
 	-   `.filter()`
 	-   `.find()`
@@ -102,7 +102,7 @@ For the challenges, I suggest you open a repo, and save them all there.
 
 ### Callbacks
 
-- [ ] Why should you use asynchronous forms of functions wherever possible in Node?
+- [ ] Why is it important to use asynchronous functions in Node?
 - [ ] What are error-first callbacks, and why is it important to follow that pattern in your own code?
 - Take the following code:
 ```js
@@ -110,14 +110,14 @@ For the challenges, I suggest you open a repo, and save them all there.
 const getUsernameFromDatabase = (email, callback) => {
   const database = db.get("data")
   const user = database.find(user => user.email === email)
-  const username = user ? user.username : undefined
+  const username = user ? user.username : null
   if (!username){
       callback(new Error('No user found'))
   }
   callback(null, username)
 }
 ```
-- [ ] Write a code which would call the above function and:
+- [ ] Write code which would call the above function and:
     - [ ] if there is an error, it should `console.log` to the user "Sorry there was a problem"
     - [ ] if it finds a user it should `console.log` to the user "Marhaba {username}!"
 - [ ] Finish writing the below function so that when it inserts data into the database it uses the second argument as an *error first* callback. If the insert is successful it should send back `true` in the callback (remembering it is error first).
@@ -129,7 +129,7 @@ const addUser = (data, cb) => {
 }
 ```
 
-- [ ] Hard challenge! [Parrallel Functions]()
+- [ ] Hard challenge! [Parallel Functions]()
 
 ---
 
@@ -144,7 +144,7 @@ const addUser = (data, cb) => {
     - (2, 3, "subtract") should return -1
     - (2, 3, "divide") should return 0.667
 - [ ] After writing some tests, try to write the function. Keep adding tests and developing the function until it can pass everything.
-- [ ] What is the difference between `equal` and `deepEqual` in testing?
+- [ ] What is the difference between `equal` and `deepEqual` in Tape?
 
 ---
 
@@ -157,8 +157,8 @@ const addUser = (data, cb) => {
     - [good medium article](https://medium.com/coinmonks/everything-you-wanted-to-know-about-package-lock-json-b81911aa8ab8)
 - [ ] build a simple server that can:
     -  [ ] serve an html page with CSS and JS when you got to the `/` endpoint
-    -  [ ] when a user makes a request to `GET /students` return a JSON of all the FACK1 students
-    - [ ] when a user makes a request `POST /students` with the data in the form `{name: 'Mavis'}` it returns plain text which says `Hello Mavis`
+    -  [ ] when a user makes a request to `GET /students` return a JSON of all your cohort's students
+    - [ ] when a user makes a request `POST /students` with the payload `{name: 'Mavis'}` it returns plain text which says `Hello Mavis`
 
 - [ ] using supertest, test each of the routes on your server:
 	- [ ] check for status codes
@@ -185,11 +185,13 @@ const addUser = (data, cb) => {
 
 ### Databases
 You should know:
+- [ ] how to create a database
 - [ ] how to connect to a database using `node-postgres (pg)`
 - [ ] how to build a database
-- [ ] why we use different database url's for production, development and testing
+- [ ] what is a database schema?
+- [ ] why we use different database urls for production, development and testing
 - [ ] If you have a `pg` database connection, `dbConnection` how do you use the `.query` method to query the database? 
-	- [ ] how should you pass in variables?
+	- [ ] what are parameterized queries?
 -  **Challenge**:
     - [ ] make a database of users and books, where each user can have multiple books and each book can be owned by multiple users (many to many)
     - [ ] write a small node script that will return the books of a particular user
@@ -210,7 +212,7 @@ You should know:
 	- [ ] How to make travis run something else (eg a linting script)
 	- [ ] **Bonus hard check** how to make travis build its own database for testing on....
 - [ ] How to set your app up on heroku
-	- [ ] If your app heroku deploy doesn't work, what can you do to find out the problem
+	- [ ] If your heroku app doesn't deploy, how can you find out what the problem is?
 	- [ ] How do you provision a database on heroku
 	- [ ] How do you add environment variables on heroku
 - [ ] What should we store in `config.env` file? Why?
@@ -224,7 +226,7 @@ You should know:
 - [ ] how to save and read a cookie on the server
 - [ ] how to write a JWT on the server
 - [ ] why is a JWT secure?
-- [ ] how to secure a route and allow people with a good jwt through
+- [ ] how to secure a route and allow people with a valid jwt through
 
 ---
 
@@ -239,7 +241,7 @@ You should know:
 ---
 
 ### Handlebars
-- [ ] Why can server side rendering be useful
+- [ ] Why can server side rendering be useful?
 - [ ] What is handlebars?
 - [ ] Write a small express server that uses a handlebars template to render a user profile page, which show's a user's name, age, location and a list of hobbies, all of which should be passed into the template as `context`. Make endpoints on the server which uses this template for 5 different users (you need to make up the user data!)
 
@@ -251,7 +253,7 @@ You should know:
 	- [ ] Install eslint on an old project of yours, and use the airbnb style guide. Try to fix all of the problems.
 	- [ ] Now do the same but use the `standard` style guide - what's the difference?
 - [ ] **Prettier** set up prettier on your editor
-	- [ ] set it to follow the rules in an eslint.config file if one is in the repo
+	- [ ] set it to follow the rules in an eslint config file if one is in the repo
 	- [ ] set it to format on save
 - [ ] how should you debug your code if things are going wrong? Give some different steps
 - [ ] You **need** to get very comfortable typing on an english keyboard with both hands. Having speed to try things out will help **a lot** when you don't understand things.
