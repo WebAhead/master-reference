@@ -208,7 +208,7 @@ You should know:
 - [ ] how to set up travis
 	- [ ] How to make travis run your tests
 	- [ ] How to make travis run something else (eg a linting script)
-	- [ ] **Bonus hard check** how to make travis build it's own database for testing on....
+	- [ ] **Bonus hard check** how to make travis build its own database for testing on....
 - [ ] How to set your app up on heroku
 	- [ ] If your app heroku deploy doesn't work, what can you do to find out the problem
 	- [ ] How do you provision a database on heroku
