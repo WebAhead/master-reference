@@ -117,12 +117,10 @@ For Linux Users:
 - Ubuntu and Linux Mint are probably the two most used desktop Linux distros out there. Mint is becoming increasingly popular and in a lot of ways, is more beginner-friendly than Ubuntu. It also uses up less memory resource (the most lightweight Mint edition is XFCE), and will be better suited to slower machines.
 
 For Windows Users:
-- For the course you'll need to install a Linux operating system on your machine and dual boot - students in the past who have tried to use Windows always encounter big setbacks with installation problems and general incompatibility issues.
-- It's not as scary as it sounds! There are a lot of articles online to help you. Due to a lot of different OS configurations you may be best off Googling for your specific OS + Ubuntu (eg: "dual boot windows 10 and Ubuntu"). However here are some links that may be useful
+- There are a lot of articles online about dualbooting windows + linux, and due to a lot of different OS configurations you may be best off searching google for your specific OS + Ubuntu (eg: "dual boot windows 10 and Ubuntu"). However here are some links that may be useful
 
 - [How to install Ubuntu 18.04 alongside Windows 10](https://askubuntu.com/questions/1031993/how-to-install-ubuntu-18-04-alongside-windows-10) - useful at time of posting (mid 2018)
 - [Dual boot Linux](https://www.howtogeek.com/214571/how-to-dual-boot-linux-on-your-pc/) 
-- Some extra info on [APT](https://itsfoss.com/apt-command-guide/), the command-line tool for the Debian packaging system.
 - Finally please do not hesistate to come to a meetup or contact us on gitter if you are having trouble, we can help!
 
 Chromebook Users:
