@@ -189,8 +189,8 @@ You should know:
 - [ ] how to connect to a database using `node-postgres (pg)`
 - [ ] how to build a database
 - [ ] what is a database schema?
-- [ ] why we use different database urls for production, development and testing
-- [ ] If you have a `pg` database connection, `dbConnection` how do you use the `.query` method to query the database? 
+- [ ] why we use different database urls for production, development and testing?
+- [ ] if you've used the `pg` module and created a [database connection pool](https://node-postgres.com/features/pooling), how would you use the `.query` method to query the database?  
 	- [ ] what are parameterized queries?
 -  **Challenge**:
     - [ ] make a database of users and books, where each user can have multiple books and each book can be owned by multiple users (many to many)
