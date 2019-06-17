@@ -251,7 +251,19 @@ You should know:
 - [ ] **eslint**
 	- [ ] Why is linting important? Why should all of your code have the same style?
 	- [ ] Install eslint on an old project of yours, and use the airbnb style guide. Try to fix all of the problems.
-	- [ ] Now do the same but use the `standard` style guide - what's the difference?
+	- [ ] create your own eslint config with all your favorite rules
+		- create a `.eslintrc.json` in root and copy the code below into your file
+		- add the eslint rules you would like to enforce. You can find them all in [eslints docs](https://eslint.org/docs/rules/)
+		- stuck? further details on eslint configuration [can be found here](https://eslint.org/docs/user-guide/configuring)
+``` 
+		{
+    "rules": {
+        "if-curly-formatting": 1
+    }
+}
+
+```
+		
 - [ ] **Prettier** set up prettier on your editor
 	- [ ] set it to follow the rules in an eslint config file if one is in the repo
 	- [ ] set it to format on save
