@@ -37,7 +37,7 @@ First of all, it's completely normal to find public speaking and giving presenta
 - Try to treat your slides' text as **prompts**. It'll stop you from just reading off the board!
 
 #### Code snippets :computer: 
-- We reccommend using these wherever possible - it can often be difficult to grasp a concept without seeing **an example** in code.
+- We recommend using these wherever possible - it can often be difficult to grasp a concept without seeing **an example** in code.
 - Walk through code **line by line**, and **slowly**!
 
 #### Make it interactive :dizzy: 
