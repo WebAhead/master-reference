@@ -11,12 +11,13 @@ We aim for transparency in the running of the organisation, to enable the greate
 | [`london-programme`](https://github.com/foundersandcoders/london-programme) or [`nazareth-programme`](https://github.com/foundersandcoders/nazareth-programme) or [`gaza-programme`](https://github.com/foundersandcoders/gaza-programme) | The running of your campus |
 | [`hq`](https://github.com/foundersandcoders/hq) | The charitable organisation that sets up and supports new campuses |
 | [`master-reference`](https://github.com/foundersandcoders/master-reference) | Our curriculum |
+| [`tech-for-better-leads`](https://github.com/foundersandcoders/tech-for-better-leads) |Info on the Tech for Better process, and current organisations in the pipeline |
 
 On the top right-hand corner of the screen, you will see a bell. If you "watch" a repository, you can use GitHub's in-app notification system for updates. Otherwise your email inbox will get full very quickly.
 
 ![github notification bell](./github-notification-bell.png)
 
-Browse through each of these repos, to find the answers to the following questions.
+:sparkles: **Browse through each of these repos, to find the answers to the following questions:** :sparkles:
 
 ### Head Quarters - head to the `hq` repo
 
