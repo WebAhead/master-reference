@@ -37,7 +37,7 @@ Choose your campus below to continue the hunt. You'll then need to be searching 
 #### Overview
 + What are the current aims of the `master-reference`?
 + Who is currently _maintaining_ the `master-reference`?
-+ Which Founders & Coders repos are private? Why?
++ Why are some FAC repos private?
 
 #### Coursebook
 
