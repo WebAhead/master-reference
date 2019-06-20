@@ -64,6 +64,6 @@ head to the `hq` repo
 
 ### Contributing
 
-The master reference is an open source project and we hope you will actively contribute to its ongoing development, by raising issues to suggest improvements and by participating in the curriculum update process during the second half of the programme.
+The master reference is an open source project and we hope you will actively contribute to its ongoing development, by raising issues to suggest improvements and by participating in the [curriculum update process](https://github.com/foundersandcoders/master-reference/blob/master/curriculum-planning/curriculum-update-process.md) during the second half of the programme.
 
 Think back to the precourse material you have recently completed. Did you experience any problems? Is there anything you would like to notify us about? Would you make any changes? If so, please raise an issue! Don't forget: always follow [the contributing guidelines](../../CONTRIBUTING.md) in any open source project.
