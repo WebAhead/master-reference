@@ -19,7 +19,8 @@ On the top right-hand corner of the screen, you will see a bell. If you "watch" 
 
 :sparkles: **Browse through each of these repos, to find the answers to the following questions:** :sparkles:
 
-### Master reference - head to to the `master-reference` repo
+### Master reference
+head to to the `master-reference` repo
 
 #### Overview
 + What are the current aims of the `master-reference`?
@@ -37,14 +38,7 @@ The `coursebook` folder contains the schedules, the content of each week, as wel
 + What are the research topics for this week?
 + Where can you find extra resources that might compliment your learning each week?
 
-### Head Quarters - head to the `hq` repo
-
-+ Where can I find the history of FAC's expansion?
-+ How many FAC strategic objectives are there, at the moment?
-+ What is FAC's mission statement?
-+ What are FAC's core values?
-+ What method of decision making do we use at FAC?
-+ Who is part of the FAC staff team?
+---
 
 ### Campus repo 
 
@@ -54,6 +48,19 @@ Choose your campus below to continue the hunt. You'll then need to be searching 
 + [Gaza](https://github.com/foundersandcoders/gaza-programme/blob/master/github-scavenger-hunt.md)
 + [West Bank](https://github.com/foundersandcoders/west-bank-programme/blob/master/github-scavenger-hunt.md)
 
+---
+
+### Headquarters
+head to the `hq` repo
+
++ Where can I find the history of FAC's expansion?
++ How many FAC strategic objectives are there, at the moment?
++ What is FAC's mission statement?
++ What are FAC's core values?
++ What method of decision making do we use at FAC?
++ Who is part of the FAC staff team?
+
+---
 
 ### Contributing
 
