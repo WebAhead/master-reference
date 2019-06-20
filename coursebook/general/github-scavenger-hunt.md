@@ -39,14 +39,16 @@ Choose your campus below to continue the hunt. You'll then need to be searching 
 + Who is currently _maintaining_ the `master-reference`?
 + Which Founders & Coders repos are private? Why?
 
-#### Schedule
+#### Coursebook
 
-The coursebook contains some general overview files, as well as the content of each week.
-+ What will you be doing after reading week?
-+ When do your projects start and finish?
-+ How long do you have to prepare your presentations?
-+ Where can you find extra resources that might compliment your learning during the week?
-+ How many hours do you spend on business development each week?
+The `coursebook` folder contains the schedules, the content of each week, as well as some general overview files.
++ What are the different schedules?
++ How long are Design Bursts?
++ On which days of the week do we have talks?
++ What will you be learning in Week 7? 
++ Where can I find guidance on making a research presentation?
++ What are the research topics for this week?
++ Where can you find extra resources that might compliment your learning each week?
 
 #### Contributing
 
