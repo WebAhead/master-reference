@@ -2,26 +2,31 @@
 
 It's really important to leave your project repo with a good `README.md`, and it'll make your life easier if you update it as you go along. Think of it as the front page of your project, where developers, employers and anyone else who's interested in your code can quickly understand what it does and how it works.
 
-### Contents of the README (links to the different sections)
+### Contents (links to the different sections)
   - For example, [like this](#to-do)!
-### Context of the project
-  - Introduce the organisation and the problem they're seeking to solve.
+### About
+  - Introduce the organisation if there is one, and the context of the project
+  - link to deployed app
+### Problem statement
+  - a summary of the problem that this app is trying to solve
+### The solution
+  - a short summary of the solution 
+### Tech stack
+  - Languages, databases, libraries and APIs used
 ### The app
   - How it addresses the problem.
   - User flow, user journey, and how the app is meant to work.
   - Prototyping process and Figma screenshots if you want!
-### Tech stack
-  - This could include interesting libraries you've used.
-### Database schema/data model
-  - This may be a database schema, or just an Airtable table setup.
-### How to install and run in a development environment
-  - Also, how to run tests.
-### Platform
-  - Summary of the platform you've used (for example, Airtable).
-  - Maintenance 
-### Deployment
+### Database
+  - Database schema or data model. This may be a schema, or just an Airtable table setup
+  - If using a platform like Airtable, then summarise how to use it
+### Setup
+  - How to install and run in a development environment
+  - how to run tests
+  - Deployment instructions
+  - Environment variables (but do not publish them here)
   - How it's currently deployed.
-  - Deployment instructions - which environment variables are needed? 
+  - Maintenance 
 ### To do
   - Any stretch goals or ideas for the next sprint.
 ### Contributing
