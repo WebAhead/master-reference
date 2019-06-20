@@ -19,11 +19,14 @@ On the top right-hand corner of the screen, you will see a bell. If you "watch" 
 Browse through each of these repos, to find the answers to the following questions.
 
 ### Head Quarters - head to the `hq` repo
-+ Where can I find the history of the Founders & Coders expansion?
-+ What is the charitable purpose of Founders & Coders International?
-+ What is the (draft) mission statement of Founders & Coders International?
-+ What are some of the ways that Founders & Coders International supports the campus network?
-+ Who is part of the Founders & Coders International team?
+
++ Where can I find the history of FAC's expansion?
++ How many FAC strategic objectives are there, at the moment?
++ What is FAC's mission statement?
++ What are FAC's core values?
++ What method of decision making do we use at FAC?
++ Which email alias do we use for general enquiries?
++ Who is part of the FAC staff team?
 
 Choose your campus below to continue the hunt. You'll then need to be searching through the repo that's relevant to you, for example `london-programme` or `nazareth-programme` :
 + [London](https://github.com/foundersandcoders/london-programme/blob/master/github-scavenger-hunt.md)
