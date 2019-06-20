@@ -43,7 +43,7 @@ The `coursebook` folder contains the schedules, the content of each week, as wel
 ## Campus repo 
 
 Choose your campus below to continue the hunt. You'll then need to be searching through the repo that's relevant to you, for example `london-programme` or `nazareth-programme` :
-+ [London](https://github.com/foundersandcoders/london-programme/blob/master/github-scavenger-hunt.md)
++ [London](https://github.com/foundersandcoders/london-programme/blob/master/course/weeks-1-8/london-scavenger-hunt.md)
 + [Nazareth](https://github.com/foundersandcoders/nazareth-programme/blob/master/github-scavenger-hunt.md)
 + [Gaza](https://github.com/foundersandcoders/gaza-programme/blob/master/github-scavenger-hunt.md)
 + [West Bank](https://github.com/foundersandcoders/west-bank-programme/blob/master/github-scavenger-hunt.md)
