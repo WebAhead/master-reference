@@ -19,24 +19,7 @@ On the top right-hand corner of the screen, you will see a bell. If you "watch" 
 
 :sparkles: **Browse through each of these repos, to find the answers to the following questions:** :sparkles:
 
-### Head Quarters - head to the `hq` repo
-
-+ Where can I find the history of FAC's expansion?
-+ How many FAC strategic objectives are there, at the moment?
-+ What is FAC's mission statement?
-+ What are FAC's core values?
-+ What method of decision making do we use at FAC?
-+ Which email alias do we use for general enquiries?
-+ Who is part of the FAC staff team?
-
-Choose your campus below to continue the hunt. You'll then need to be searching through the repo that's relevant to you, for example `london-programme` or `nazareth-programme` :
-+ [London](https://github.com/foundersandcoders/london-programme/blob/master/github-scavenger-hunt.md)
-+ [Nazareth](https://github.com/foundersandcoders/nazareth-programme/blob/master/github-scavenger-hunt.md)
-+ [Gaza](https://github.com/foundersandcoders/gaza-programme/blob/master/github-scavenger-hunt.md)
-+ [West Bank](https://github.com/foundersandcoders/west-bank-programme/blob/master/github-scavenger-hunt.md)
-
-
-### Master reference
+### Master reference - head to to the `master-reference` repo
 
 #### Overview
 + What are the current aims of the `master-reference`?
@@ -54,7 +37,25 @@ The `coursebook` folder contains the schedules, the content of each week, as wel
 + What are the research topics for this week?
 + Where can you find extra resources that might compliment your learning each week?
 
-#### Contributing
+### Head Quarters - head to the `hq` repo
+
++ Where can I find the history of FAC's expansion?
++ How many FAC strategic objectives are there, at the moment?
++ What is FAC's mission statement?
++ What are FAC's core values?
++ What method of decision making do we use at FAC?
++ Who is part of the FAC staff team?
+
+### Campus repo 
+
+Choose your campus below to continue the hunt. You'll then need to be searching through the repo that's relevant to you, for example `london-programme` or `nazareth-programme` :
++ [London](https://github.com/foundersandcoders/london-programme/blob/master/github-scavenger-hunt.md)
++ [Nazareth](https://github.com/foundersandcoders/nazareth-programme/blob/master/github-scavenger-hunt.md)
++ [Gaza](https://github.com/foundersandcoders/gaza-programme/blob/master/github-scavenger-hunt.md)
++ [West Bank](https://github.com/foundersandcoders/west-bank-programme/blob/master/github-scavenger-hunt.md)
+
+
+### Contributing
 
 The master reference is an open source project and we hope you will actively contribute to its ongoing development, by raising issues to suggest improvements and by participating in the curriculum update process during the second half of the programme.
 
