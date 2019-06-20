@@ -19,7 +19,7 @@ On the top right-hand corner of the screen, you will see a bell. If you "watch" 
 
 :sparkles: **Browse through each of these repos, to find the answers to the following questions:** :sparkles:
 
-### Master reference
+## Master reference
 head to to the `master-reference` repo
 
 #### Overview
@@ -40,7 +40,7 @@ The `coursebook` folder contains the schedules, the content of each week, as wel
 
 ---
 
-### Campus repo 
+## Campus repo 
 
 Choose your campus below to continue the hunt. You'll then need to be searching through the repo that's relevant to you, for example `london-programme` or `nazareth-programme` :
 + [London](https://github.com/foundersandcoders/london-programme/blob/master/github-scavenger-hunt.md)
@@ -50,7 +50,16 @@ Choose your campus below to continue the hunt. You'll then need to be searching 
 
 ---
 
-### Headquarters
+## Tech for Better
+head to the `tech-for-better-leads` repo
+
+- If an issue in this repo has the label `application received`, then what does it represent?
+- What takes place in between the discovery and definition workshops?
+- During the Tech for Better project, how long is the design sprint, and how long is the build sprint?
+
+---
+
+## Headquarters
 head to the `hq` repo
 
 + Where can I find the history of FAC's expansion?
@@ -62,7 +71,7 @@ head to the `hq` repo
 
 ---
 
-### Contributing
+## Contributing
 
 The master reference is an open source project and we hope you will actively contribute to its ongoing development, by raising issues to suggest improvements and by participating in the [curriculum update process](https://github.com/foundersandcoders/master-reference/blob/master/curriculum-planning/curriculum-update-process.md) during the second half of the programme.
 
