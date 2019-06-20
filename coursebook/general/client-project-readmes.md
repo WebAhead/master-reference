@@ -26,8 +26,8 @@ It's really important to leave your project repo with a good `README.md`, and it
   - Any stretch goals or ideas for the next sprint.
 ### Contributing
   - If you're accepting contributions, how to do so.
-### MIT license
-  -  Remember to include a `LICENSE` file containing the MIT licence copy in your root
+### License
+  -  Remember to include a `LICENSE` file containing the license copy in your root - see how [here](https://help.github.com/en/articles/adding-a-license-to-a-repository). We recommend [MIT](https://choosealicense.com/licenses/mit/).
 
 ## Some good examples: 
 
