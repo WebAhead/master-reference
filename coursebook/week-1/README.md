@@ -15,7 +15,7 @@
 - [Welcome talk](https://facresources.com/slides/community-talk#/): 30mins
 - [Name Game](./resources/name-game.md): 1hr
 - Course Overview: 1hr
-  - Go through 16 week [schedule](https://github.com/foundersandcoders/master-reference/tree/master/coursebook)
+  - Go through course [schedule](https://github.com/foundersandcoders/master-reference/tree/master/coursebook)
   - [Code of Conduct](https://github.com/foundersandcoders/master-reference/blob/master/code-of-conduct.md)
   - [House rules](../general/house-rules.md)
   - Students create their own [Cohort Code of Conduct](cohort-code-of-conduct.md)
