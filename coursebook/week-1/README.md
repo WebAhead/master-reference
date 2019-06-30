@@ -25,7 +25,7 @@
 - [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility/blob/master/putting-yourself-in-someone-elses-shoes.md): 1hr
 - [Github scavenger hunt](./scavenger-hunt.md): 30mins
 - [User Manuals](../general/user-manuals.md): 30mins
-- [Introduction to consensus based decision-making](../general/decision-making.md): 1hr
+- [Introduction to consensus based decision-making](https://github.com/foundersandcoders/hq/blob/master/cooperative-structures.md): 1hr
 
 
 ## Day 2
