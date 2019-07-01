@@ -11,45 +11,68 @@ We aim for transparency in the running of the organisation, to enable the greate
 | [`london-programme`](https://github.com/foundersandcoders/london-programme) or [`nazareth-programme`](https://github.com/foundersandcoders/nazareth-programme) or [`gaza-programme`](https://github.com/foundersandcoders/gaza-programme) | The running of your campus |
 | [`hq`](https://github.com/foundersandcoders/hq) | The charitable organisation that sets up and supports new campuses |
 | [`master-reference`](https://github.com/foundersandcoders/master-reference) | Our curriculum |
+| [`tech-for-better-leads`](https://github.com/foundersandcoders/tech-for-better-leads) |Info on the Tech for Better process, and current organisations in the pipeline |
 
 On the top right-hand corner of the screen, you will see a bell. If you "watch" a repository, you can use GitHub's in-app notification system for updates. Otherwise your email inbox will get full very quickly.
 
 ![github notification bell](./github-notification-bell.png)
 
-Browse through each of these repos, to find the answers to the following questions.
+:sparkles: **Browse through each of these repos, to find the answers to the following questions:** :sparkles:
 
-### Head Quarters - head to the `hq` repo
-+ Where can I find the history of the Founders & Coders expansion?
-+ What is the charitable purpose of Founders & Coders International?
-+ What is the (draft) mission statement of Founders & Coders International?
-+ What are some of the ways that Founders & Coders International supports the campus network?
-+ Who is part of the Founders & Coders International team?
-
-Choose your campus below to continue the hunt. You'll then need to be searching through the repo that's relevant to you, for example `london-programme` or `nazareth-programme` :
-+ [London](https://github.com/foundersandcoders/london-programme/blob/master/github-scavenger-hunt.md)
-+ [Nazareth](https://github.com/foundersandcoders/nazareth-programme/blob/master/github-scavenger-hunt.md)
-+ [Gaza](https://github.com/foundersandcoders/gaza-programme/blob/master/github-scavenger-hunt.md)
-+ [West Bank](https://github.com/foundersandcoders/west-bank-programme/blob/master/github-scavenger-hunt.md)
-
-
-### Master reference
+## Master reference
+head to to the `master-reference` repo
 
 #### Overview
 + What are the current aims of the `master-reference`?
 + Who is currently _maintaining_ the `master-reference`?
-+ Which Founders & Coders repos are private? Why?
++ Why are some FAC repos private?
 
-#### Schedule
+#### Coursebook
 
-The coursebook contains some general overview files, as well as the content of each week.
-+ What will you be doing after reading week?
-+ When do your projects start and finish?
-+ How long do you have to prepare your presentations?
-+ Where can you find extra resources that might compliment your learning during the week?
-+ How many hours do you spend on business development each week?
+The `coursebook` folder contains the schedules, the content of each week, as well as some general overview files.
++ What are the different schedules?
++ How long are Design Bursts?
++ On which days of the week do we have talks?
++ What will you be learning in Week 7? 
++ Where can I find guidance on making a research presentation?
++ What are the research topics for this week?
++ Where can you find extra resources that might compliment your learning each week?
 
-#### Contributing
+---
 
-The master reference is an open source project and we hope you will actively contribute to its ongoing development, by raising issues to suggest improvements and by participating in the curriculum update process during the second half of the programme.
+## Campus repo 
+
+Choose your campus below to continue the hunt. You'll then need to be searching through the repo that's relevant to you, for example `london-programme` or `nazareth-programme` :
++ [London](https://github.com/foundersandcoders/london-programme/blob/master/course/weeks-1-8/london-scavenger-hunt.md)
++ [Nazareth](https://github.com/foundersandcoders/nazareth-programme/blob/master/github-scavenger-hunt.md)
++ [Gaza](https://github.com/foundersandcoders/gaza-programme/blob/master/github-scavenger-hunt.md)
++ [West Bank](https://github.com/foundersandcoders/west-bank-programme/blob/master/github-scavenger-hunt.md)
+
+---
+
+## Tech for Better
+head to the `tech-for-better-leads` repo
+
+- If an issue in this repo has the label `application received`, then what does it represent?
+- What takes place in between the discovery and definition workshops?
+- During the Tech for Better project, how long is the design sprint, and how long is the build sprint?
+
+---
+
+## Headquarters
+head to the `hq` repo
+
++ Where can I find the history of FAC's expansion?
++ How many FAC strategic objectives are there, at the moment?
++ What is FAC's mission statement?
++ What are FAC's core values?
++ What method of decision making do we use at FAC?
++ Who is part of the FAC staff team?
+
+---
+
+## Contributing
+
+The master reference is an open source project and we hope you will actively contribute to its ongoing development, by raising issues to suggest improvements and by participating in the [curriculum update process](https://github.com/foundersandcoders/master-reference/blob/master/curriculum-planning/curriculum-update-process.md) during the second half of the programme.
 
 Think back to the precourse material you have recently completed. Did you experience any problems? Is there anything you would like to notify us about? Would you make any changes? If so, please raise an issue! Don't forget: always follow [the contributing guidelines](../../CONTRIBUTING.md) in any open source project.
