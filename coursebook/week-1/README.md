@@ -15,7 +15,7 @@
 - [Welcome talk](https://facresources.com/slides/community-talk#/): 30mins
 - [Name Game](./resources/name-game.md): 1hr
 - Course Overview: 1hr
-  - Go through 16 week [schedule](https://github.com/foundersandcoders/master-reference/tree/master/coursebook)
+  - Go through course [schedule](https://github.com/foundersandcoders/master-reference/tree/master/coursebook)
   - [Code of Conduct](https://github.com/foundersandcoders/master-reference/blob/master/code-of-conduct.md)
   - [House rules](../general/house-rules.md)
   - Students create their own [Cohort Code of Conduct](cohort-code-of-conduct.md)
@@ -25,7 +25,7 @@
 - [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility/blob/master/putting-yourself-in-someone-elses-shoes.md): 1hr
 - [Github scavenger hunt](./scavenger-hunt.md): 30mins
 - [User Manuals](../general/user-manuals.md): 30mins
-- [Introduction to consensus based decision-making](../general/decision-making.md): 1hr
+- [Introduction to consensus based decision-making](https://github.com/foundersandcoders/hq/blob/master/cooperative-structures.md): 1hr
 
 
 ## Day 2
