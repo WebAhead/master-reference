@@ -9,7 +9,7 @@
 |    |           |                      |                                                |          |                       |
 |2h  | Workshops | Workshops            | Projects                                       | Projects | Prepare presentations |
 |    |           |                      |                                                |          |                       |
-|3h  | Workshops | Project intro        | [Design burst](../../../../../../design-bursts)| Projects | Presentations         |
+|3h  | Workshops | Project intro        | [Design burst](../../../../../design-bursts)| Projects | Presentations         |
 |    |           | Research intro       | Projects                                       |          |                       |
 |4h  | Workshops | Research             | Projects                                       | Projects | Presentations         |
 |    |           |                      |                                                |          | SGC                   |
