@@ -117,7 +117,9 @@ For Linux Users:
 - Ubuntu and Linux Mint are probably the two most used desktop Linux distros out there. Mint is becoming increasingly popular and in a lot of ways, is more beginner-friendly than Ubuntu. It also uses up less memory resource (the most lightweight Mint edition is XFCE), and will be better suited to slower machines.
 
 For Windows Users:
-- There are a lot of articles online about dualbooting windows + linux, and due to a lot of different OS configurations you may be best off searching google for your specific OS + Ubuntu (eg: "dual boot windows 10 and Ubuntu"). However here are some links that may be useful
+- [This is a great article](https://char.gd/blog/2017/how-to-set-up-the-perfect-modern-dev-environment-on-windows) on setting up a dev environment with the new Windows Linux Subsystem (basically Bash-on-Windows). Also MS just announced they're [putting a Linux kernel into Windows](https://devblogs.microsoft.com/commandline/announcing-wsl-2/)
+
+- If you do want to dual boot, there are a lot of articles online about dualbooting windows + linux, and due to a lot of different OS configurations you may be best off searching google for your specific OS + Ubuntu (eg: "dual boot windows 10 and Ubuntu"). However here are some links that may be useful
 
 - [How to install Ubuntu 18.04 alongside Windows 10](https://askubuntu.com/questions/1031993/how-to-install-ubuntu-18-04-alongside-windows-10) - useful at time of posting (mid 2018)
 - [Dual boot Linux](https://www.howtogeek.com/214571/how-to-dual-boot-linux-on-your-pc/) 
