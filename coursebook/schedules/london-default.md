@@ -15,8 +15,8 @@
 |     |          | Research intro       | Projects                                       |                |                       |
 |3pm  | Workshops| Research             | Projects                                       | Projects       | Presentations         |
 |     |          |                      |                                                |                | SGC                   |
-|4pm  | Tech for | Prepare presentations| Projects                                       | Projects       | SGC                   |
-|     | Better   |                      |                                                |                | Team retrospectives   |
+|4pm  | [Tech for](https://facresources.com/slides/tfb-discovery-workshop) | Prepare presentations| Projects                                       | Projects       | SGC                   |
+|     | [Better](https://facresources.com/slides/tfb-discovery-workshop)   |                      |                                                |                | Team retrospectives   |
 |5pm  | Tech for | Presentations        | Talk                                           | Projects       | Talk                  |
 |     | Better   |                      |                                                |                |                       | 
 |6pm  | Ends     |                      |                                                |                |                       | 
