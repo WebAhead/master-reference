@@ -125,7 +125,7 @@ For Windows Users:
 
 Chromebook Users:
 
-- [Crouton](https://www.howtogeek.com/162120/how-to-install-ubuntu-linux-on-your-chromebook-with-crouton/) (or remove ChromeOS and install Linux)
+- Chromebooks [all now officially run Linux](https://www.techradar.com/uk/news/all-chromebooks-will-now-be-linux-ready) and [setting it up on older machines](https://support.google.com/chromebook/answer/9145439?hl=en-GB) is pretty simple, too.
 
 For Everyone:
 
