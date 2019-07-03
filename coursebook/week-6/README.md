@@ -13,10 +13,8 @@
 
 ### Day 1
 
-- Whiteboard walkthrough with introduction to the topic of relational databases and SQL: 1hr
-- [installation instructions](https://github.com/macintoshhelper/learn-sql/blob/master/postgresql/setup.md)
-, those who finish installing can help others with installation problems.
-Then go to [`sql-commands-intro` workshop](https://github.com/foundersandcoders/sql-commands-intro/) and work through in pairs if time remaining (help each other first)! 2hrs
+- Intro to databases (mentor links [#1](https://github.com/foundersandcoders/intro-to-databases) [#2](./resources/DATABASE-WEEK-6-INTRO.pdf)): 1hr
+- [PostgreSQL installation instructions](https://github.com/macintoshhelper/learn-sql/blob/master/postgresql/setup.md) and [`sql-commands-intro` workshop](https://github.com/foundersandcoders/sql-commands-intro/): 2hrs
 - [workshop on SQL commands and psql](https://github.com/foundersandcoders/postgres-workshop): 2hrs
 
 ### Day 2
