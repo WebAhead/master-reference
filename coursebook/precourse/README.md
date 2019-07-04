@@ -109,13 +109,17 @@ For OSX Users:
 
 For Linux Users:  
 
-| Distro        | Base           | Package Manager | Package Management Helper |  
-|-------------|-------------|-----|-----|  
-| [Ubuntu](https://www.ubuntu.com/) | [Debian](https://www.debian.org/) | [Apt](https://help.ubuntu.com/lts/serverguide/apt.html) | N/A |  
-| [Antergos](https://antergos.com/) | [Arch](https://www.archlinux.org/) | [pacman](https://wiki.archlinux.org/index.php/pacman) | [packer](https://dominicm.com/install-packer-on-arch-linux/) or [yaourt](https://archlinux.fr/yaourt-en) |
+| Distro        | Base           | Package Manager | 
+|-------------|-------------|-----  
+| [Ubuntu](https://www.ubuntu.com/) | [Debian](https://www.debian.org/) | [APT](https://help.ubuntu.com/lts/serverguide/apt.html) | 
+| [Linux Mint](https://linuxmint.com/) | [Debian](https://www.debian.org/) | [APT](https://help.ubuntu.com/lts/serverguide/apt.html) |  
+
+- Ubuntu and Linux Mint are probably the two most used desktop Linux distros out there. Mint is becoming increasingly popular and in a lot of ways, is more beginner-friendly than Ubuntu. It also uses up less memory resource (the most lightweight Mint edition is XFCE), and will be better suited to slower machines.
 
 For Windows Users:
-- There are a lot of articles online about dualbooting windows + linux, and due to a lot of different OS configurations you may be best off searching google for your specific OS + Ubuntu (eg: "dual boot windows 10 and Ubuntu"). However here are some links that may be useful
+- [This is a great article](https://char.gd/blog/2017/how-to-set-up-the-perfect-modern-dev-environment-on-windows) on setting up a dev environment with the new Windows Linux Subsystem (basically Bash-on-Windows). Also MS just announced they're [putting a Linux kernel into Windows](https://devblogs.microsoft.com/commandline/announcing-wsl-2/)
+
+- If you do want to dual boot, there are a lot of articles online about dualbooting windows + linux, and due to a lot of different OS configurations you may be best off searching google for your specific OS + Ubuntu (eg: "dual boot windows 10 and Ubuntu"). However here are some links that may be useful
 
 - [How to install Ubuntu 18.04 alongside Windows 10](https://askubuntu.com/questions/1031993/how-to-install-ubuntu-18-04-alongside-windows-10) - useful at time of posting (mid 2018)
 - [Dual boot Linux](https://www.howtogeek.com/214571/how-to-dual-boot-linux-on-your-pc/) 
@@ -123,7 +127,7 @@ For Windows Users:
 
 Chromebook Users:
 
-- [Crouton](https://www.howtogeek.com/162120/how-to-install-ubuntu-linux-on-your-chromebook-with-crouton/) (or remove ChromeOS and install Linux)
+- Chromebooks [all now officially run Linux](https://www.techradar.com/uk/news/all-chromebooks-will-now-be-linux-ready) and [setting it up on older machines](https://support.google.com/chromebook/answer/9145439?hl=en-GB) is pretty simple, too.
 
 For Everyone:
 
