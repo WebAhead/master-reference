@@ -9,7 +9,12 @@ It does this by highlighting errors with a :red_circle: and telling you what's w
 
 ## Let's do the thing
 
+#### Before you start
+
+You'll be using [`npx`](https://www.npmjs.com/package/npx). This is a way to run npm scripts directly. It'll check your project `node_modules`, then your globally installed `node_modules` and finally fall back to temporarily downloading the package from the npm registry. It's a convenient way to run one-off commands without having to install something permanently. It will already be installed as long as you are running at least npm version 5.2.
+
 ### Setup eslint config
+
 The following instructions need to be followed by **one person on your team** 
 
 1. `cd [project-name]` - cd into your project
