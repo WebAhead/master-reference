@@ -36,17 +36,24 @@ Note - only one person needs to set eslint up for each project. Everyone else ca
 
 Yay. Wait. Now what?!
 
-### Lint your files!
+### Setup your editor
+To get your linter configuration working with your editor you need to install the following packages:
 
-You can run your linter on a single file with:
+**Atom** - `linter`, `linter-eslint`, `linter-ui-default`  
+**VS Code** - `eslint`  
+**VIM** - `¯\_(ツ)_/¯`
+
+Restart your editor and you should start to see errors highlighted in your code :heart:
+
+### Lint directly in your terminal
+
+If you want to manually lint a file you can do so with:
 
 `npx eslint [filename.js]`
 
 You can run it on all files with:
 
 `npx eslint .`
-
-Hopefully you should see something like this:
 
 ![linter running in the terminal](https://user-images.githubusercontent.com/9408641/61290933-f8234380-a7c4-11e9-8f9c-69365b9492bb.png)
 
@@ -58,17 +65,6 @@ You can even set up a linting script in your package.json if you want. Cool huh?
 }
 ```
 
-But wait, this isn't actually that useful when it comes to writing code - I have to run this and manually compare it to my editor to fix things... :confused: 
+Run this with `npm run lint`.
 
-Well, what if you could live see your linting errors as you go, in your editor? 
-
-You can! :tada: 
-
-### Setup your editor
-To get your linter configuration working with your editor you need to install the following packages:
-
-**Atom** - `linter`, `linter-eslint`, `linter-ui-default`  
-**VS Code** - `eslint`  
-**VIM** - `¯\_(ツ)_/¯`
-
-Restart your editor and linting will be enabled :heart:
+This can be useful for ensuring your code gets linted before you commit (using something like [Husky](https://github.com/typicode/husky/) for pre-commit hooks). You could also set up Travis to lint your code as well as run your tests to ensure you don't merge any PRs with errors.
