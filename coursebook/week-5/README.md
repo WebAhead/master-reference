@@ -24,4 +24,4 @@
 
 - [Morning Challenge: Build Request module](https://github.com/foundersandcoders/mc-request-module-workshop): 1hr
 
-- [Introduction to linters](./linter.md): 15mins
+- [Introduction to linters](./linter.md): 1hr
