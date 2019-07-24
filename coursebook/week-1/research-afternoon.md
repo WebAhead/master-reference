@@ -33,9 +33,10 @@
 4. Refactor one of your team's websites (or one from the rest of your cohort if necessary) to reflect what you've learned
 
 ## CSS
-1. Compare the pros and cons of responsive vs. mobile-first design. What do you think is generally preferable?
-2. What is BEM CSS and why does it matter?
-3. Compare the % and vw/vh units. What are the pros and cons of each? Where might you use each?
-4. Compare ems and rems as font size units. Why are they used and what would your advice be to someone choosing between the two?
-5. Refactor one of your team's websites to reflect what you've learned
+1. What is responsive design? How does it compare to adaptive design?
+2. Compare the pros and cons of a desktop-first versus mobile-first approach to design. What do you think is generally preferable?
+3. What is BEM CSS and why does it matter?
+4. Compare the % and vw/vh units. What are the pros and cons of each? Where might you use each?
+5. Compare ems and rems as font size units. Why are they used and what would your advice be to someone choosing between the two?
+6. Refactor one of your team's websites to reflect what you've learned
 
