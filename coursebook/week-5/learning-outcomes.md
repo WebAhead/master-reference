@@ -4,8 +4,7 @@ Node week 2 will build upon your introduction to Node last week. You will be
 introduced to more complex Node commands, technology and patterns with the aim to solidify and broaden your learning up to this point.
 
 #### Node basics
-  - Understanding the functionality of the Request module
-  - Understanding how to make API calls from the back-end using the Request module
+  - Understanding how to make API calls from the back-end using the Node http module
   - How to break a large server file into smaller modules
 
 #### Testing
