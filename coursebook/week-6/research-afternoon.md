@@ -14,3 +14,9 @@
   - What is a script injection and how do these happen?
   - How would you prevent script injections?
   - Prepare a short demonstration of good (and bad?) practices, including some sample code
+
+### SQL vs NoSQL databases
+  - The differences between SQL and NoSQL databases
+  - Pros and cons of SQL and NoSQL databases
+  - Examples of the data structure of SQL and NoSQL databases
+  - Examples of queries for SQL and NoSQL databases
