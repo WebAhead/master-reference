@@ -58,7 +58,7 @@ Make sure your PR has the following
 1. [A descriptive title](https://gist.github.com/mikepea/863f63d6e37281e329f8#ensure-there-is-a-solid-title-and-summary) - distinct from others and therefore searchable
 2. [A body with details of everything in the pull.](https://gist.github.com/mikepea/863f63d6e37281e329f8#ensure-there-is-a-solid-title-and-summary)
 3. Reference to any/all related issues in description.
-4. Assignees - add all the [maintainers of `master-reference`](https://github.com/foundersandcoders/master-reference/blob/master/ROLES.md) to every PR
+4. Assignees - add all the [maintainers of `master-reference`](https://github.com/foundersandcoders/master-reference/blob/master/MAINTAINERS.md) to every PR
 5. Reviewers
    + add anyone other than the maintainers, who you think should be aware of you contents of your PR
     e.g. anyone else who has collaborated with you on this issue / anyone mentioned in the file you are uploading / mentors delivering this material in another campus
