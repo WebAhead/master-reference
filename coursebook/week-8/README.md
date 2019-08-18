@@ -25,4 +25,4 @@
 ### Day 3
 
 - [Express-Handlebars - Morning Challenge](https://github.com/foundersandcoders/express-handlebars-challenge): 1hr
-- [Reading week checklist](https://github.com/foundersandcoders/master-reference/coursebook/general/reading-week-checklist.md)
+- [Reading week checklist](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/reading-week-checklist.md)
