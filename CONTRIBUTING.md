@@ -10,7 +10,7 @@ Inspired by [dwyl's contribution workflow](https://www.github.com/dwyl/contribut
 ## Before starting work
 1. Search this repo's [issues](https://www.github.com/foundersandcoders/master-reference/issues) to see if an issue exists for the problem you are solving.
 2. If the issue does not exist, create it. Include a descriptive body.
-3. If your new issue relates to any others, reference those issues in the body. This enables others to follow the history of the topic.
+3. If your new issue relates to any others, reference those issues in the body by typing a `#` followed by the issue number. This enables others to follow the history of the topic.
 4. Assign [the appropriate label](#labels).
 5. Indicate on the issue that you would like to take it on. Assign one of the reviewers above if you need a response.
 6. Once you are sure of what you need to do and that it is needed, assign yourself to the issue.
@@ -57,13 +57,13 @@ Once you have finished your work, push up your branch and make a pull request. R
 Make sure your PR has the following
 1. [A descriptive title](https://gist.github.com/mikepea/863f63d6e37281e329f8#ensure-there-is-a-solid-title-and-summary) - distinct from others and therefore searchable
 2. [A body with details of everything in the pull.](https://gist.github.com/mikepea/863f63d6e37281e329f8#ensure-there-is-a-solid-title-and-summary)
-3. Reference to any/all related issues in description.
-4. Assignees - add all the [maintainers of `master-reference`](https://github.com/foundersandcoders/master-reference/blob/master/MAINTAINERS.md) to every PR
+3. Reference to any/all related issues in description
+4. Assignees - add yourself, as well as anyone else who has worked on, or is involved in the PR
 5. Reviewers
-   + add anyone other than the maintainers, who you think should be aware of you contents of your PR
-    e.g. anyone else who has collaborated with you on this issue / anyone mentioned in the file you are uploading / mentors delivering this material in another campus
+   + add the [maintainers of `master-reference`](https://github.com/foundersandcoders/master-reference/blob/master/MAINTAINERS.md) to every PR
+   + add anyone else that you think should be aware of the contents of your PR before it is merged (e.g. anyone mentioned in the file you are uploading, or mentors delivering this material in another campus)
    + if your PR _requires_ a review from a particular person / people _before_ it is ready to be merged, specify this within the body of your PR
-
+- This means that in general, assignees are those responsible for the code itself, while reviewers (i.e. the maintainers) are responsible for review and merging.
 ## Instructions for maintainers
 Once a pull request has been approved by two maintainers it can be merged. In time critical situations, one approval may suffice, as long a the pull request is small and is not suggesting any major change.
 
