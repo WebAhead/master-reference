@@ -2,7 +2,7 @@
 
 ![](https://user-images.githubusercontent.com/9408641/48860569-29c04800-edb9-11e8-8d80-308ce71ba857.gif)
 
-We'd like you to build an image carousel. Please write all the code yourself (so no libraries like jQuery or Bootstrap). The image carousel must be built into your personal website, a link to a separate page or CodePen will not be accepted for completing this project as part of the course prerequisites.
+We'd like you to build an image carousel. Please write all the code yourself (so no libraries like jQuery or Bootstrap). The image carousel must be built into your personal website.
 
 ### Features
 
