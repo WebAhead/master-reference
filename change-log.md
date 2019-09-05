@@ -1,7 +1,8 @@
 # Change Log - London
 
-This document will serve as a place for master-reference maintainers and CFs to log changes to the master-reference as well as changes to curriculum workshops.
-Please add the change to the top of the log so that the most recent changes are at the top of the document and include the date, a link to the repository in question, a link to the PR in question and a short description of the change.
+This document will serve as a place for master-reference maintainers and CFs to log changes to the London master-reference including schedule changes and changes to workshops.
+
+Please add the change to the top of the log so that the most recent changes are at the top of the document and include the date, a link to the repository in question, and a bulleted description of the change.
 
 ## Template for additions to the log
 
