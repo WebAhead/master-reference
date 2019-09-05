@@ -7,7 +7,7 @@ Please add the change to the top of the log so that the most recent changes are 
 
 ```
 ### [DATE]
-#### [Effected Module]
+#### [Affected workshop]
 
 - [bullet-point list of changes]
 ___
