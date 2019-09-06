@@ -2,7 +2,7 @@
 
 ![](https://user-images.githubusercontent.com/9408641/48860569-29c04800-edb9-11e8-8d80-308ce71ba857.gif)
 
-We'd like you to build an image carousel. Please write all the code yourself (so no libraries like jQuery or Bootstrap). We suggest you build this in [CodePen](https://codepen.io/) or a similar tool of your choice.
+We'd like you to build an image carousel. Please write all the code yourself (so no libraries like jQuery or Bootstrap). The image carousel must be built into your personal website.
 
 ### Features
 
@@ -19,4 +19,4 @@ We'd like you to build an image carousel. Please write all the code yourself (so
 - Accessing and manipulating the DOM with JavaScript
 - Adding event listeners to react to user input
 
-You're more than welcome to be creative with your project as long as you meet the minimum features and the learning outcomes. 
+You're more than welcome to be creative with your project as long as you meet the minimum features and the learning outcomes.
