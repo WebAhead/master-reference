@@ -1,6 +1,6 @@
-# Change Log - London
+# Changelog
 
-This document will serve as a place for master-reference maintainers and CFs to log changes to the London master-reference including schedule changes and changes to workshops.
+This document will serve as a place for master-reference maintainers and CFs to log changes to the master-reference including schedule changes and changes to workshops.
 
 Please add the change to the top of the log so that the most recent changes are at the top of the document and include the date, a link to the repository in question, and a bulleted description of the change.
 
