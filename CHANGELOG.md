@@ -20,7 +20,7 @@ Please add changes to the top, and include the date, a link to the PR where the 
 
 ---
 
-### 24 July 2019 - [Request Module](https://github.com/foundersandcoders/mc-request-module-workshop/pull/8/) (Week 7)
+### 24 July 2019 - [Request Module](https://github.com/foundersandcoders/mc-request-module-workshop/pull/8/) (Week 5)
 
 - Major rewrite
 - Remove all references to `request` npm module
