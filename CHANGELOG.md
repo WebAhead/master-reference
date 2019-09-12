@@ -1,8 +1,8 @@
 # Changelog
 
-This document will serve as a place for master-reference maintainers and CFs to log changes to workshops used in the master-reference. Since workshops live in separate repos it's otherwise to keep track of what has changed.
+This document will serve as a place for master-reference maintainers and CFs to log changes to workshops used in the master-reference. Since workshops live in separate repos it's otherwise hard to keep track of what has changed.
 
-Please add the change to the top of the log so that the most recent changes are at the top of the document and include the date, a link to the repository in question, and a bulleted description of the change.
+Please add changes to the top, and include the date, a link to the PR where the changes occured, the week that workshop is currently scheduled in, and a list summarising the changes.
 
 ## Summer Cohort 2019
 
