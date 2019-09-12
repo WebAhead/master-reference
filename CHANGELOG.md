@@ -4,21 +4,24 @@ This document will serve as a place for master-reference maintainers and CFs to 
 
 Please add the change to the top of the log so that the most recent changes are at the top of the document and include the date, a link to the repository in question, and a bulleted description of the change.
 
-## Template for additions to the log
+## Summer Cohort 2019
 
-```
-### [DATE]
-#### [Affected workshop]
+### 11 September 2019 - [Accessibility Challenge](https://github.com/foundersandcoders/accessibility-challenge/pull/26) (Week 1)
 
-- [bullet-point list of changes]
-___
-```
+- Use divs for almost all elements so students have more changes to make
+- Add solution file
 
-## Log
+---
 
-### September 3, 2019
-#### master-reference/change-log.md
-- addition of a .md file which will serve as a central document to track changes to the london-programme curriculum
+### 13 August 2019 - [JWT Stateless Session](https://github.com/foundersandcoders/ws-jwt-stateless-session/pull/29) (Week 7)
 
-___
+- Re-order exercises
+- Clarify explanations in readme
 
+---
+
+### 24 July 2019 - [Request Module](https://github.com/foundersandcoders/mc-request-module-workshop/pull/8/) (Week 7)
+
+- Major rewrite
+- Remove all references to `request` npm module
+- Add failing tests for the students to make pass
