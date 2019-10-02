@@ -20,7 +20,29 @@ Mentorship is about building relationships and empowering students' confidence i
 
 Note: Students may be frustrated with you, especially at the beginning of the course, because they expect teachers to provide answers.
 
+
 ### Before the course we suggest you...
 
 * Run through some of the material with someone who hasn’t coded before - This is deployed to Read the docs for easy viewing
 * Get more practise! We recommend mentoring at [codebar](https://codebar.io/member/new). Many of the attendees there are new to programming so it is good preparation for the course.
+
+
+## Other helpful tips
+From feedback forms as well as group discussions about what makes a good mentor.
+
+### Things to try and do
+- Speak loudly enough to be heard at the back of the class when presenting
+- Have fun when you can! It is obvious and infectious when someone is passionate about topic, or having fun with the content and/or delivery.
+- Being aware of the learning outcomes for each week/workshop, and communicating them to the class
+- Be assertive with timing!
+
+### Things to avoid
+- Offhandedly overusing phrases like "You will learn this later", or "This will be useless once you learn x".
+   - While technically true, sometimes these kinds of phrases can be frustrating for students when given without further context. One way to alleviate this is to provide more explanation - e.g. "We will be learning how to do x in more detail later, but for now I suggest that we focus on y, which is more relevant for the current topic"
+- asking "Why are you doing x?" instead of more tone-aware phrasing like "Could you explain why you chose to use x here?"
+   - Sometimes asking "why" has felt dismissive to students, and requires that we are more aware of our tone when asking clarifying questions.
+- Rushing through code-alongs
+   - Code-alongs are hard, particular to deliver effectively as a mentor. Take your time and work with your partner to be sure that everyone is on the same page and not getting left behind. It can make a big difference in someone's experience of a workshop.
+- Being loud or distracting at the front of the class when you are bored
+   - Sometimes certain exercises or days can be boring when everyone is working hard, and it is easy to get distracted, talk loudly, or leave the room for extended periods. Part of mentoring is being available and approachable, and this can be distracting for the students or make it harder for them to come to you with questions.
+
