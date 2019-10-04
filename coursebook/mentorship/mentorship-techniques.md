@@ -39,6 +39,8 @@ From feedback forms as well as group discussions about what makes a good mentor.
 ### Things to avoid
 - Offhandedly overusing phrases like "You will learn this later", or "This will be useless once you learn x".
    - While technically true, sometimes these kinds of phrases can be frustrating for students when given without further context. One way to alleviate this is to provide more explanation - e.g. "We will be learning how to do x in more detail later, but for now I suggest that we focus on y, which is more relevant for the current topic"
+- Similarly, try to avoid overusing words like "simply", "easy", "just", and "basically" when you explain tasks or code. 
+   - While 'easy' to use without thinking, this kind of phrasing can frustrate students who are learning and find the task hard, and don't actually contribute to your explanations.
 - asking "Why are you doing x?" instead of more tone-aware phrasing like "Could you explain why you chose to use x here?"
    - Sometimes asking "why" has felt dismissive to students, and requires that we are more aware of our tone when asking clarifying questions.
 - Rushing through code-alongs
