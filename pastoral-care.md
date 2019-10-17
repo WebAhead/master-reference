@@ -20,7 +20,7 @@ Walks provide students with an opportunity to raise questions and share concerns
 
 Mentors may wish to ask some or all of the sample questions below during walks and/or in other communication with students. 
 
-### Week 2
+### Week 3
 
 - We understand this is a free course, but you still have to live in <city> for 4 months, how are you financially? 
 - How are you feeling about the course?
@@ -29,7 +29,7 @@ Mentors may wish to ask some or all of the sample questions below during walks a
 - What have you most and least enjoyed about the course so far?
 - In coming weeks (in particular week 4, when we begin Node), you're likely to feel out of your depth - don't hesitate to turn to me and/or other alumni who have been through this before
 
-### Week 6
+### Week 8
 
 - How are you feeling about the course?
 - How are you getting on with your (new) team? 
@@ -39,8 +39,17 @@ Mentors may wish to ask some or all of the sample questions below during walks a
 
 Students are likely to have more questions for their mentor on this walk.
 
-### Week 10/11
+### Week 12
 
 - Who in the cohort would you like to work with again and why?
 - Who would you not like to work with and why?
 - What do you want to do after the course?
+- How have you dealt with stress and fatigue throughout the course?
+- Do you feel like there is anyone who might need extra support over the following weeks?
+
+### Week 16
+(Added for new 18 week London course structure)
+
+- How are you feeling in the last week of your project?
+- How has your team worked together?
+- How are you feeling about finding work?
