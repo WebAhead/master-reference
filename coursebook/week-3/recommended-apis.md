@@ -19,3 +19,7 @@ Third-party APIs can sometimes sound great but end up causing more trouble than 
 | [Musixmatch](https://developer.musixmatch.com/documentation) | Get song lyrics! | Yes (free) | 2,000 requests per day |
 | [Recipe Puppy](http://www.recipepuppy.com/about/api/) | Find recipes and ingredients | No | 1,000 per day |
 | [News API](https://newsapi.org/#documentation) | Get links to news articles from international news sources including BBC, CNN, BuzzFeed  | Yes | No |
+| [Kanye Quote API](https://kanye.rest) | A free REST API for random Kanye West quotes (Kanye as a Service) | No | No, but be generous |
+| [Corporate BS/Buzzword Generator API](https://github.com/sameerkumar18/corporate-bs-generator-api) | Corporate BS generator | No | No |
+| [Police API ](https://data.police.uk/docs/) | UK police data on crimes | No | 15 requests per second with a burst of 30 |
+| [Postcode lookup](https://data.police.uk/docs/) | Postcode lookup and autocomplete | No | No|
