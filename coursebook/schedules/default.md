@@ -18,6 +18,3 @@
 |6h  | Workshops | Presentations        | Talk                                           | Projects | Talk                  |
 |    |           |                      |                                                |          |                       |
 |7h  | Class ends|                      |                                                |          |                       |
-
-
-### [London default schedule](./london-default.md)
