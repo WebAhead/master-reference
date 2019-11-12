@@ -126,7 +126,7 @@ Add to-do takes two arguments, a to-do array and a to-do element. The to-do elem
 ```js
 var todos = [];
 var newTodo = { description: 'make smoothie out of things that should really be cooked' };
-var updatedTodos = todoFunctions.addTodo(todos, newTodos);
+var updatedTodos = todoFunctions.addTodo(todos, newTodo);
 console.log(updatedTodos)
 //  [
 //    {
