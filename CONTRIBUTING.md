@@ -26,6 +26,34 @@ Inspired by [dwyl's contribution workflow](https://www.github.com/dwyl/contribut
 7. Once you are sure of what you need to do and that it is needed, assign yourself to the issue.
 8. Clone, and create a new branch for your work
 
+### Size of change
+
+#### Tiny
+
+- Such as: correcting typos and dead links
+- Doesn't need to trouble the MRMs
+
+How to proceed: Make a PR and assign to CF, who can review and merge.
+
+![tiny changes](https://i.ibb.co/kHHtQzK/contributing-tiny-changes.jpg)
+
+#### Minor
+
+- Such as: restructuring a workshop or challenge's README, in order to make the instructions clearer
+- Not actually changing the content
+
+How to proceed: First, raise an issue and assign to CF. MRMs should be tagged as reviewers in any related PRs
+
+![minor changes](https://i.ibb.co/Wp0FsCs/contributing-minor-changes.jpg)
+
+#### Major
+
+- Such as: proposing to change the content of a workshop or challenge, proposing a movement away from a certain technology
+
+How to proceed: Raise an issue and assign it to the CF, who then assigns the MRMs. MRMs should be tagged as reviewers in any related PRs.
+
+![major changes](https://i.ibb.co/N7LZk9k/contributing-major-changes.jpg)
+
 ### Labels
 
 - `week-<name-here>` - if your new issue relates to a specific week of the course (e.g. `week-toolkit`)
