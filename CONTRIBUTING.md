@@ -21,15 +21,15 @@ Inspired by [dwyl's contribution workflow](https://www.github.com/dwyl/contribut
 
 ### Labels
 
-`week-<name-here>` - if your new issue relates to a specific week of the course (e.g. `week-toolkit`)
-`bug` - something in this repo is broken (e.g. a link)
-`discuss` - you'd like the community's input before you start any work
-`question` - you're not actually sure whether this is an issue or not and would like confirmation
-`help wanted` - you would like some help in completing work on this issue
+- `week-<name-here>` - if your new issue relates to a specific week of the course (e.g. `week-toolkit`)
+- `bug` - something in this repo is broken (e.g. a link)
+- `discuss` - you'd like the community's input before you start any work
+- `question` - you're not actually sure whether this is an issue or not and would like confirmation
+- `help wanted` - you would like some help in completing work on this issue
 
 ## Starting work
 
-### Naming branches
+### Branches
 
 Branches should have short and descriptive names. Your branch name should follow the following naming convention:
 
