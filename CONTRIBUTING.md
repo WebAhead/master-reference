@@ -14,10 +14,8 @@ Inspired by [dwyl's contribution workflow](https://www.github.com/dwyl/contribut
 ## Before starting work
 
 1. Decide whether your contribution will be a [tiny, minor, or major change](#tiny-vs-minor-vs-major-changes).
-
-- If the change is tiny, [make a pull request](#pull-requests)
-- If the change is minor or major, continue to Step 2 below
-
+   - If the change is tiny, [make a pull request](#pull-requests)
+   - If the change is minor or major, continue to Step 2 below
 2. Search this repo's [issues](https://www.github.com/foundersandcoders/master-reference/issues) to see if an issue exists for the problem you are solving.
 3. If an issue does not exist, create one. Include a descriptive body.
 4. If your new issue relates to any others, reference those issues in the body by typing a `#` followed by the issue number. This enables others to follow the history of the topic.
