@@ -28,6 +28,7 @@ For the challenges, I suggest you open a repo, and save them all there.
 - [Express](#express)
 - [Handlebars](#handlebars)
 - [Coding Best Practices](#coding-best-practices)
+- [Documentation](#documentation)
 
 ---
 
@@ -269,3 +270,18 @@ You should know:
 	- [ ] set it to format on save
 - [ ] how should you debug your code if things are going wrong? Give some different steps
 - [ ] You **need** to get very comfortable typing on an english keyboard with both hands. Having speed to try things out will help **a lot** when you don't understand things.
+
+---
+
+### Documentation
+
+- [ ] Some elements of [awesome readmes](https://github.com/matiassingers/awesome-readme#readme) include:
+	- [ ] A description of your project
+	- [ ] A screenshot of the landing page
+	- [ ] Names of people on the project team 
+	- [ ] Info about the tech stack used
+	- [ ] Installation instructions
+	- [ ] Goals/stretch goals
+	- [ ] [User stories and acceptance criteria](https://blog.easyagile.com/how-to-write-good-user-stories-in-agile-software-development-d4b25356b604)
+	- [ ] GIFs to show off specific features
+	- [ ] Badges to show test coverage, build status
