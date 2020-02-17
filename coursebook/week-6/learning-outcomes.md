@@ -1,24 +1,25 @@
-### High-level concepts
-- What is a database, and when should you use one?
-- What is a relational database?
-- What is the difference between a SQL database and a NoSQL database?
-- What is a database schema? How do you design one?
+## Learning outcomes
 
-### Implementation and deployment
-- How to set up a local instance of Postgres.
-- How to set up a remote instance of Postgres (e.g. ElephantSQL).
-- How to connect Node to a Postgres instance using PG.
-- How to avoid security vulnerabilities (e.g. script injections).
-- How to use PSQL to work with Postgres from the command line.
+Node week 2 will build upon your introduction to Node last week. You will be
+introduced to more complex Node commands, technology and patterns with the aim to solidify and broaden your learning up to this point.
 
-### Testing
-- How to keep your tests consistent using a test database and build script
-- How to write tests for database queries
+#### Node basics
+  - Understanding how to make API calls from the back-end using the Node http module
+  - How to break a large server file into smaller modules
 
-### SQL skills
-- Understanding the standard query structure.
-- How to retrieve information from a database.
-- How to update a database table by adding, deleting or changing data.
-- How to sort and filter results.
-- An understanding of table joins and how to use them.
-- An awareness of subqueries.
+#### Testing
+  - How to use the tap-spec module to make Tape's results more readable
+  - How to test the routes of your server using Supertest
+  - Understanding different methods of error handling & how to test for errors
+  - How and why to set up continuous integration with Travis or a similar tool
+  - How to use CodeCov to report and track test coverage
+  - How to use continuous integration and code coverage badges
+
+#### Node commands
+  - Shell scripting
+  - Create your own command-line tool
+  - Commands 'cat' and 'ls'
+  - The global Process object
+  - Read and Write Streams in Node
+  - Redirection, appending files and piping in Node
+  - Buffers in Node

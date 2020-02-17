@@ -1,6 +1,6 @@
-# Node Week 2
+# Node core week
 
-## Contents
+## Menu
 
 - [Learning Outcomes](./learning-outcomes.md)
 - [Research topics](./research-afternoon.md)
@@ -12,16 +12,17 @@
 
 ### Day 1
 
-- [Workshop on TDD Node server](https://github.com/foundersandcoders/ws-tdd-node-server) 2hrs 30mins
+- Intro to servers and Node.js
+  & [Node Intro Workshop](https://github.com/foundersandcoders/Node-Intro-Workshop): 2hrs 45mins
 
-- [Workshop on error handling](https://github.com/foundersandcoders/error-handling-workshop) 2hrs
+- [Node Girls workshop](https://github.com/node-girls/workshop-cms) (Day 1 of 2): 2hrs
 
 ### Day 2
 
-- [Node shell workshop](https://github.com/foundersandcoders/Node-Shell-Workshop/): 3hrs
+- [ES6 morning challenge](./morning-challenge-day-2.md): 1hr 30mins
+
+- [Node Girls workshop](https://github.com/node-girls/workshop-cms) (Day 2 of 2): 1hr 30mins
 
 ### Day 3
 
-- [Morning Challenge: Backend API call](https://github.com/foundersandcoders/mc-request-module-workshop): 1hr
-
-- [Introduction to linters](./linter.md): 30mins
+- [Modularisation morning challenge](./morning-challenge-day-3.md): 1hr

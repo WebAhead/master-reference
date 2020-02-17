@@ -1,6 +1,6 @@
-# Authentication Week
+# PostgreSQL week
 
-## Contents
+## Menu
 
 - [Learning Outcomes](./learning-outcomes.md)
 - [Research topics](./research-afternoon.md)
@@ -8,22 +8,24 @@
 - [Resources](./resources)
 
 ## Schedule
+
 - [Default schedule](../schedules/default.md)
 
 ### Day 1
 
-- Presentation on [password management](https://drive.google.com/file/d/0BxXF_LZcFnS5ODM0dElWYmtmMWc/view): 30mins
-
-- Workshop on [password management](https://github.com/foundersandcoders/ws-password-management): 2hrs
-
-- Workshop on [cookies](https://github.com/foundersandcoders/ws-cookies): 2hrs
+- Intro to databases (mentor links [#1](https://github.com/foundersandcoders/intro-to-databases) [#2](./resources/DATABASE-WEEK-6-INTRO.pdf)): 1hr
+- [PostgreSQL installation instructions](https://github.com/macintoshhelper/learn-sql/blob/master/postgresql/setup.md) and [`sql-commands-intro` workshop](https://github.com/foundersandcoders/sql-commands-intro/): 2hrs
+- [workshop on SQL commands and psql](https://github.com/foundersandcoders/postgres-workshop): 2hrs
 
 ### Day 2
 
-- Morning Challenge on [client side validation](https://github.com/foundersandcoders/mc-client-side-validation): 1hr
+- [pg module code along](https://github.com/foundersandcoders/pg-walkthrough) 1hr 30mins
+- [workshop on making small node app with a database connection](https://github.com/foundersandcoders/pg-workshop): 1hr 30mins
 
-- Workshop on [stateless session management](https://github.com/foundersandcoders/ws-jwt-stateless-session): 2hrs
+- [Database Testing](https://github.com/foundersandcoders/ws-database-testing/): 1hr
+
+Note: 4 hours of workshops. Less time available for research.
 
 ### Day 3
 
-- Morning challenge on [Promises](https://github.com/foundersandcoders/mc-promise-me-this): 1hr
+- [morning challenge](https://github.com/foundersandcoders/db-morning-challenge): 1hr

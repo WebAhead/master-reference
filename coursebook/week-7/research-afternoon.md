@@ -1,23 +1,22 @@
-## Research topics
+## Research afternoon
 
-### HTTP vs HTTPS
-+ How does HTTPS work? What are TLS/SSL certificates?
-+ Why is this important to implement in your projects?
-+ Demo how to generate certificates and use them in a node project  
+### Schemas and relationships
+  - What is a schema and why/when would you need one?
+  - What are primary keys and why do we need them?
+  - Create a visual representation of a mock schema for a database about Founders & Coders, using as many different kinds of relationship as you can. Explain the logic behind it.
 
-### Stateless vs stateful authentication
-+ What is session based authentication (stateful) vs token based authentication (stateless)?
-+ Draw flow diagrams to show the steps involved in each process
-+ What are the advantages and disadvantages of each?
+### Database setup and maintenance
+  - What is a build script and why do you need one? (think ahead to how this might come in useful when working on a project this week)
+  - What is database migration?
+  - Create a build script for a simple database (one or two tables only), which you can run locally. Check that it works for you and everyone on your team
 
-### Web storage
-+ What are local storage and session storage and what is the difference between the two?
-+ Why would you use cookies vs local/session storage?
-+ Demo a simple usage of localStorage and sessionStorage
+### Script injections / safety issues
+  - What is a script injection and how do these happen?
+  - How would you prevent script injections?
+  - Prepare a short demonstration of good (and bad?) practices, including some sample code
 
-### Attacks
-+ What are the following types of attack?
-  + Man In The Middle (MITM)
-  + Cross Site Scripting (XSS)
-  + Cross Site Request Forgery (CSRF)
-+ How can you defend against each of them?
+### SQL vs NoSQL databases
+  - The differences between SQL and NoSQL databases
+  - Pros and cons of SQL and NoSQL databases
+  - Examples of the data structure of SQL and NoSQL databases
+  - Examples of queries for SQL and NoSQL databases

@@ -1,54 +1,28 @@
-# Project
+## Project
 
-Create a web app that includes some form of user input and provides users with content from an API that is regularly updated - e.g. the same user input submitted at different times could result in different content being retrieved. 💁‍
+### Autocomplete website/widget
 
-A good example could be a news app but feel free to be creative!
+#### Description
 
-The key difference between this project and your API week project is that you will be making your **API calls from the back-end** and **testing your server**.
+- A website that enables users to quickly find and select words from a list of suggestions, as they type.
+- The list is dynamically generated from a pre-populated list of values (i.e. a dictionary file), leveraging searching and filtering.
+- A large data file is required to search through - consider the best data structure for this (e.g. `.txt` or `.json`).
+- Consider how implementation affects user experience and web performance (e.g. time to load and search through the data file).
 
+#### Task
 
-### Example:
+Your task is to build a site which will update as you type (an autocompleter), as per the description above.
 
-#### User Stories:
-'As a student at F&C I want to know all the train departure times from Finsbury Park tube station, so that I can get home in time for dinner'.🚉🍛
+#### Goals
 
-'As a regular commuter, I want to input which direction of travel I am interested in so that I can see information that is relevant to me.'
+1. We expect **back-end testing using tape** (test as many components as you can) and basic **front-end testing**. Please note that we expect tests on _pure functions_ and _not_ on the router or the DOM.
 
-This news feed could be created with data provided via the [TFL API](https://api.tfl.gov.uk/).
+2. Host your project on **heroku**, [see resource](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction).
 
-You can build on this user story or create your own user stories as long as they are consistent and the below specs are fulfilled.
+3. Use **module.exports** and **require** to break a single large server file into smaller modules.
 
-### Goals:
-1) Use at least 1 API 
+4. Consider what would be a good **server file structure** based on what we have discussed over the week.
 
-2) Make your API calls from the back-end using the Request module (or one you build yourself)
+#### Example
 
-3) Your server should contain a minimum of 2 routes
-
-4) We expect to see lots of tests! Modularise your code and test all your pure functions. Write tests for as much of your back-end and front-end logic as you can. We don't expect tests on the DOM.
-
-5) Test your server routes by injecting fake HTTP requests using Supertest (including testing for 404's). _Note - you are not required to test any server route that makes an API call, as this will make the test impure (a test that depends on an external factor is not reliable)_
-
-6) Host your project on Heroku, see [resources](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-5/resources.md)
-
-7) Use module.exports and require to break a single large server file into smaller modules.
-
-8) Consider a good server file structure based on what we have discussed over the week.
-
-9) Employ continuous integration on your project with Travis or a similar tool. (If you decide to use Travis, we strongly recommend that you host this project in your own repo rather than in your cohort's FAC repository to avoid all builds getting queued together)
-
-10) Use CodeCov or a similar tool to report and track test coverage.
-
-11) Include Error Handling. For example:
-  - if a user attempts to make a request to a non-existent route to your server (404 - as mentioned above), provide the user with a custom response.    
-  - if there is a [programmer error](https://github.com/foundersandcoders/error-handling-workshop#kinds-of-errors) on your server (e.g. a handler function does not act as intended), provide the user with a custom response (500 status code).
-
-12) Include a user input field on your web app and include server-side validation to protect your server from potentially malicious user input.
-
-13) Display continuous integration and code coverage badges on your project README. 
-
-### Stretch goal 😊:
-
-14) Research and use Nock to mock the response of external API calls in your tests, and write tests for server routes that make API calls.
-
-15) Create a route and functionality for a POST request.
+[Dwyl autocompleter](https://github.com/dwyl/autocomplete).
