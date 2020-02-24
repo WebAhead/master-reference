@@ -29,10 +29,9 @@
 
 ## Day 2
 
-- Morning Challenge - [Accessibility challenge](https://github.com/foundersandcoders/accessibility-challenge): 1hr
-- [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 2hrs
-- [Research and Presentation Guidance](../general/research-presentation-guidance.md)
-
+- [HTML workshop](https://github.com/WebAhead/html-workshop/): 3hr
+- [CSS workshop](https://github.com/WebAhead/css-workshop/): 3hr
+- [Git intro workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 1hr
 
 ## Day 3
 
