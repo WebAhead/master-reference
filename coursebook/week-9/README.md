@@ -26,4 +26,4 @@
 
 ### Day 3
 
-- Morning challenge on [Promises](https://github.com/foundersandcoders/mc-promise-me-this): 1hr
+- Morning challenge on [Promises](https://github.com/WebAhead/mc-promise-me-this): 1hr
