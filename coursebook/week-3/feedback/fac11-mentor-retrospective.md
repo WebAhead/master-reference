@@ -7,8 +7,8 @@
 + Remember to refer students to [`resources.md` file](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-3/resources.md)
   + **Clarification:** Were students using this file in the previous 2 weeks?
   + Yes, because mentors were making a concerted effort to point students to it - coming from [this issue](https://github.com/foundersandcoders/master-reference/issues/364) raised by @oliverjam, because a lot FAC10 weren't really aware that a resources file existed
-+ [Software architecture workshop](https://github.com/foundersandcoders/Workshop-Software-Architecture-Design)
-  + There's a [mentor notes branch with a file that should help](https://github.com/foundersandcoders/Workshop-Software-Architecture-Design/blob/mentor-notes/mentor-notes/mentor-notes.md)
++ [Software architecture workshop](https://github.com/WebAhead/Workshop-Software-Architecture-Design)
+  + There's a [mentor notes branch with a file that should help](https://github.com/WebAhead/Workshop-Software-Architecture-Design/blob/mentor-notes/mentor-notes/mentor-notes.md)
 + [Day 1 afternoon workshop](https://github.com/emilyb7/workshop-APIs)
   + DOM manipulation aspect fairly basic but students might need more help.
     + Lots of people here were stuck on it. We don't want students to struggle on that, when they should be focusing on the API element.
