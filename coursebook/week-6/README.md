@@ -12,6 +12,8 @@
 
 ### Day 1
 
+- [Introduction to Node week II](https://docs.google.com/presentation/d/1irYBjLezHjh9pxoPriSnkr13qBv5QcKu-jQZrIawHl8/edit?usp=sharing):15mins
+
 - [Workshop on TDD Node server](https://github.com/foundersandcoders/ws-tdd-node-server) 2hrs 30mins
 
 - [Workshop on error handling](https://github.com/foundersandcoders/error-handling-workshop) 2hrs
