@@ -1,12 +1,12 @@
 # Coursebook
 
-Welcome to the coursebook for FAC!
+Welcome to the coursebook for WebAhead!
 
 For general information, including an overview of the course, applicable across the curriculum [start here](general/README.md).
 
 For materials to complete before arrival, you can find our precourse [here](precourse/README.md).
 
-The first eight weeks will provide you with the necessary building blocks for creating a web app:
+The first nine weeks will provide you with the necessary building blocks for creating a web app:
 * [Week 1](week-1/README.md)  - HTML/CSS
 * [Week 2](week-2/README.md)  - Javascript
 * [Week 3](week-3/README.md)  - Testing
@@ -18,4 +18,4 @@ The first eight weeks will provide you with the necessary building blocks for cr
 * [Week 9](week-9/README.md)  - Authentication
 
 The second half of the curriculum is focused on longer projects and introduces you to client interaction:
-+ [Weeks 10-12](./weeks-10-12) - self-selected project
++ [Weeks 11-13](./weeks-11-13) - self-selected project
