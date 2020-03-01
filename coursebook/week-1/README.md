@@ -31,7 +31,7 @@
 
 - [HTML workshop](https://github.com/WebAhead/html-workshop/): 3hr
 - [CSS workshop](https://github.com/WebAhead/css-workshop/): 3hr
-- [Git intro workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 1hr
+- [Git intro workshop](https://docs.google.com/presentation/d/1mu0WhcOG9poJrLlHmWV7ix2dNrFSYWw3BkpjbY0D0gE/edit?usp=sharing): 1hr
 
 ## Day 3
 
