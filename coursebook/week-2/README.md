@@ -25,7 +25,7 @@
 
 ## Day 3
 
-- [Morning Challenge - CSS Gallery Challenge](https://github.com/foundersandcoders/css-gallery-challenge): 1hr
+- [Morning Challenge - Array methods Challenge](https://github.com/WebAhead/array-methods): 1hr
 
 ## Day 5
 - [Code review](./codereviewintro.md)
