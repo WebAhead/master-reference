@@ -16,7 +16,7 @@ As a **client looking to hire a team of developers**
 
 > I want to **visit your site and see a navigation link for 'About, Team, and Contact'**
 
-> so I can **quickly navigate to the areas of the site I'd like to visit.**
+> so that I can **quickly navigate to the areas of the site I'd like to visit.**
 
 As a **client looking to hire a team of developers**
 
@@ -53,6 +53,8 @@ As a **client with JavaScript disabled in their browser for security reasons**
 > I would like **to visit your site and get a similar experience to viewing your site on a modern browser with JavaScript enabled**
 
 > so that I **don't feel like I'm completely in the stone age**.
+
+**Rememeber, don't use JavaScript this week**
 
 ## Build Process (Days 3 and 4)
 
