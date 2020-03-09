@@ -19,9 +19,8 @@
 
 ## Day 2
 
+- [DOM manipulation ws](): 2hr
 - [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility/blob/master/putting-yourself-in-someone-elses-shoes.md): 1hr
-- Morning Challenge - [Accessibility challenge](https://github.com/foundersandcoders/accessibility-challenge): 1hr
-- [Research and Presentation Guidance](../general/research-presentation-guidance.md)
 
 
 ## Day 3
