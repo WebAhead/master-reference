@@ -74,7 +74,7 @@ However you decide to individualise your site is up to you, but aim to satisfy t
 
 Your blog should have profiles of each of your group members and each profile should include links to your _Linkedin_, _Github_ and _Codewars_ accounts.
 
-## Publishing (Before 6PM Day 4)
+## Deployment (Before 6PM Day 4)
 
 * On completion, your site should be published via _github pages_. You may decide to publish early (perhaps to check how it looks on mobile?)
 * Your README should also include a link to the live site (you can also add a direct link next to the description at the top of your repo, so that others can clearly find your live site).
