@@ -24,7 +24,6 @@ While it may *feel* like the focus of your first 10 weeks of WebAhead is on lear
 
 * Students are responsible for:
   * sharing a link to their repo in their cohort's gitter channel prior to 10am, so that all code reviewers (students, mentors, alumni) know where to go
-  * organising which student group will be code reviewed by which other group in the cohort
   * Clone the repo of the project you're reviewing and run the app from your local machine, to check whether it runs as expected.
     + Chances are, if you run the app, you will do something slightly different than what the author tried when testing their change. You may discover important cases they missed.
 
