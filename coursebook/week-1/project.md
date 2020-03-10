@@ -42,12 +42,6 @@ As a **visually impaired client...**
 
 > so I can **understand the information available**
 
-As a **blind client...**
-
-> I would like to **easily understand how to navigate the site after my screen reader reads me the content of the site**
-
-> so I can **understand the information available**.
-
 As a **client with JavaScript disabled in their browser for security reasons**
 
 > I would like **to visit your site and get a similar experience to viewing your site on a modern browser with JavaScript enabled**
