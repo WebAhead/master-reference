@@ -15,8 +15,7 @@ Reading other people's code is the ***fastest way to learn***,
 not only do you gain insight into how other people solve a problem,
 you also gain experience in what makes code ***readable*** (*and thus* ***maintainable***).
 
-While it may *feel* like the focus of your first 8 weeks of Founders &
-Coders is on learning to *write* code, as a coder you will spend *considerably* more time *reading* other people's code than writing your own. (*get used to that idea... embrace it! if you can write less code by reading other people's modules and using existing solutions, you save everyone time!*)
+While it may *feel* like the focus of your first 10 weeks of WebAhead is on learning to *write* code, as a coder you will spend *considerably* more time *reading* other people's code than writing your own. (*get used to that idea... embrace it! if you can write less code by reading other people's modules and using existing solutions, you save everyone time!*)
 
 
 ## How we conduct code reviews :sparkles:
