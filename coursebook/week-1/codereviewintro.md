@@ -22,6 +22,7 @@ While it may *feel* like the focus of your first 10 weeks of WebAhead is on lear
 
 ### 1. Locate the GitHub repository you are planning to review :mag:
 
++ mentors will be responsible every morning to assign teams to code review
 ----
 
 ### 2. Overview of Files in the repo :file_folder:
