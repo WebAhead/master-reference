@@ -50,7 +50,7 @@ Have a quick read through the list of files in the repo.
 
 + Are there alternative implementations or refactors that increase readability/understandability and/or maintainability?
 + Could a comment be removed if your function was better named?
-+ Is the flow of the program clear? (are there too many branches?)
++ Is the flow of the program clear?
 + Don't feel like you have to look at all the code that's written. Take your time exploring fewer things in more detail  
  ![](https://media.giphy.com/media/naXyAp2VYMR4k/giphy.gif)
 
