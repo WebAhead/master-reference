@@ -13,7 +13,7 @@
 ## Day 1
 
 - [JS recap](https://github.com/WebAhead/js-recap) workshop: 2hr
-- [Introduction to DOM manipulation](../dom-intro.md): 2hr
+- [Introduction to DOM manipulation](./dom-intro.md): 2hr
 - [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 2hrs
 
 
