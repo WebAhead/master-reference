@@ -21,7 +21,7 @@
 
 - [DOM manipulation ws](): 2hr
 - [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility/blob/master/putting-yourself-in-someone-elses-shoes.md): 1hr
-
+- [Research](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-2/research-afternoon.md) 4hr
 
 ## Day 3
 
