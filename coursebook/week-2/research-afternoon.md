@@ -40,7 +40,9 @@
 3. Scope
     - What are the different types of scopes 
     - How does the scope affect variables and variable decleration
-4. The `this` keyword
+4. Closures
+    - What are closures?
+    - How do closures affect the scope?
 5. Clean code concepts
 
   Write a **demo** or **tutorial** on each of the topics above, best to show how you can use some of the concepts in code.
