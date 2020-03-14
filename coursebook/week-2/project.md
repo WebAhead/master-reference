@@ -2,7 +2,7 @@
 
 ### Build an interactive JavaScript game
 
-Build a single-player interactive JS page or game that would give the user multiple options and score him accordingly.
+Build a single-player interactive JS page or game that would give the user multiple options and show a score accordingly.
 
 #### Description
 
@@ -11,9 +11,11 @@ Build a single-player interactive JS page or game that would give the user multi
 
 #### Task
 
-Your task is to build a site that is based on a game or a quiz, try to build something that easy to implement and that you can have fun with, examples:
+Your task is to build a site that is based on a game or a quiz, try to build something that's easy to implement and that you can have fun with.
 
-- Hangman
+##### Examples
+
+- [Hangman](https://hangmanwordgame.com/)
     - Generate different words each time the game loads
     - Show the word as empty at first accoring to its length
     - Give the player the option to choose a letter
@@ -22,12 +24,17 @@ Your task is to build a site that is based on a game or a quiz, try to build som
     - If the player makes too many mistakes then kill the dummy
     - If the player guesses the word then show him that he was successful
 
-- How fast can you type?
+- [How fast can you type?](https://typing-speed-test.aoeu.eu/)
     - Show the player a paragraph they would need to type
     - Show them a countdown of the time they have 
     - If they are out of time
         - Display how many words they've typed correctly
 
+#### General instructions
+- Write a good README that explains what you've built
+- Remember to work in pairs, best learning happens when you work together
+- Every PR should be reviewed by all team members before being merged
+- Remember to add your website to [GH-Pages](https://pages.github.com/) 
 
 #### Stretch goals
 
