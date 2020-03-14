@@ -22,7 +22,7 @@
   + site and user are always separated by a snail/small duck/AT symbol (@);
   + site is always done with at least 3 alphabetical characters, a dot and at least 2 more alphabetical characters
 
-# Git
+## Git
 1. What is origin ? _eg. `git push origin master`_
 2. How can you find the current origin ? and How can you change the origin's url ?
 3. How to merge between 2 branches using `git merge` ?
@@ -33,11 +33,13 @@
     - `git log`
     - `git fetch` 
 
-## CSS
-1. What is responsive design? How does it compare to adaptive design?
-2. Compare the pros and cons of a desktop-first versus mobile-first approach to design. What do you think is generally preferable?
-3. What is BEM CSS and why does it matter?
-4. Compare the % and vw/vh units. What are the pros and cons of each? Where might you use each?
-5. Compare ems and rems as font size units. Why are they used and what would your advice be to someone choosing between the two?
-6. Refactor one of your team's websites to reflect what you've learned
+## Advanced JavaScript
+1. Value vs. reference types in JavaScript
+2. `==` vs. `===`
+3. Scope
+    - What are the different types of scopes 
+    - How does the scope affect variables and variable decleration
+4. The `this` keyword
+5. Clean code concepts
 
+  Write a **demo** or **tutorial** on each of the topics above, best to show how you can use some of the concepts in code.
