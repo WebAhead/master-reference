@@ -27,7 +27,7 @@
 2. How can you find the current origin ? and How can you change the origin's url ?
 3. How to merge between 2 branches using `git merge` ?
 4. different uses of `git-reset`.
-5. Talk about or give a demo of the following commands:
+5. Talk about and give a demo of the following commands, when would you use each one?:
     - `git stash` & `git stsah pop`
     - `git diff`
     - `git log`
