@@ -27,3 +27,20 @@
 ### Day 3
 
 - Morning challenge on [Promises](https://github.com/WebAhead/mc-promise-me-this): 1hr
+
+
+## Alternative schedule
+
+### Day 1
+
+- [Auth week intro](https://docs.google.com/presentation/d/1RjM9IouH_Xj2xYM0XkkBczxDiERBjZx6piBv4wP2w3U/edit#slide=id.p50) 20min
+
+- [authentication-workshop](https://github.com/WebAhead/authentication-workshop) 5 - 6hr
+
+### Day 2
+
+- Morning Challenge on [client side validation](https://github.com/foundersandcoders/mc-client-side-validation): 1hr
+
+### Day 3
+
+- Morning challenge on [Create an Animated App Drawer](https://github.com/foundersandcoders/morning-challenge-animated-app-drawer): 1hr
