@@ -3,11 +3,13 @@ Introduction to DOM manipulation
 
 ## Exercise
 
-1. Go to [this repl](https://repl.it/@Karyum1/DOM-manipulation-Challenge-A).
+1. Read through this document.
 
-2. Go through the `index.html` file.
+2. Go to [this repl](https://repl.it/@Karyum1/DOM-manipulation-Challenge-A).
 
-3. Open `exercise.js` and follow the instructions.
+3. Go through the `index.html` file.
+
+4. Open `exercise.js` and follow the instructions.
 
 ## What is the DOM?
 
