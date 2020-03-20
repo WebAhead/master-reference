@@ -132,3 +132,324 @@ We can access _properties_ of DOM elements using javscript.
 - [What are object methods in javacript?](https://www.w3schools.com/js/js_object_methods.asp)
 
 - [Here is a list of the DOM element methods](https://developer.mozilla.org/en-US/docs/Web/API/Element#Methods)
+
+
+## Hints to the Repl Challenge
+
+### Question 1
+<details><summary>Hint 1</summary>
+<p>
+The first step is to simply access the DOM 'introduction' element. 
+  
+By convention, we put this into a variable, like so:
+  ```var introductionElement = document.getElementById('introduction');```
+</p>
+</details>
+
+<details><summary>Hint 2</summary>
+<p>
+The second step is to add or remove the class '.highlight', depending on whether or not it is currently being applied to the introduction paragraph element. As we can see, there we only have the class 'introduction currently within the <p> tag:
+
+![](https://i.imgur.com/KVcxk7w.png)
+
+As in the above guide, we can use the .contains() method to check if a property on the DOM object:
+
+```
+introductionElement.classList.contains('highlight');
+
+```
+
+We can also use the 'add', 'remove', or toggle methods to add or remove classes, ID's, etc from DOM elements - eg:
+
+
+```
+
+    introductionElement.classList.remove('highlight')
+
+    introductionElement.classList.add('highlight')
+
+```  
+</p>
+</details>
+
+<details><summary>Solution</summary>
+<p>
+
+```javascript
+
+var toggleHighlight = function () {
+
+// Code here
+console.log(1);
+
+let introductionElement = document.querySelector('#introduction');
+
+if (introductionElement.classList.contains('highlight')) {
+    introductionElement.classList.remove('highlight')}
+  }
+  else {
+    introductionElement.classList.add('highlight');
+    }
+}
+
+```
+
+Or, if you want to be extra concise:
+
+```
+
+document.getElementById("introduction").classList.toggle("highlight");
+
+```
+
+</p>
+</details>
+
+
+### Question 2
+
+<details><summary>Hint 1</summary>
+<p>
+This one's super easy. The text content of an element can be retrieved with:
+
+``` DOMelement.textContent ```
+</p>
+</details>
+
+<details><summary>Solution</summary>
+<p>
+
+``` javascript
+
+  let introductionParagraph = document.getElementById('introduction');
+
+  return introductionParagraph.textContent
+  
+```
+
+</p>
+</details>
+
+### Question 3
+
+<details><summary>Hint 1</summary>
+<p>
+So, in the previous question, we found out how to get the text content ('.textContent') of a DOM element. Now we simply need to check if a given string 'str' is included in that element - eg,
+
+``` javascript 
+
+"hereisastringofletters".includes("str") //returns true 
+
+```
+
+</p>
+</details>
+
+<details><summary>Solution</summary>
+<p>
+
+``` javascript
+
+var containsString = function (str) {
+
+  let introductionParagraph = document.getElementById('introduction');
+
+    if(introductionParagraph.textContent.includes(str)) {
+    return true
+  }
+  else {
+    return false
+  }
+
+}
+
+```
+
+</p>
+</details>
+
+### Question 4
+<details><summary>Hint 1</summary>
+<p>
+We need to retrieve the 'firstName' text input. If we look at the index.html file, we can see the <form> element, which has a 'value' query containing the text 'John':
+
+![form](https://i.imgur.com/8khxvgr.png)
+
+We can also see this in the browser window. It's the left-most box:
+
+![form-in-window](https://i.imgur.com/iHGCfvJ.png)
+
+First, we need to select the correct query selector. There are three <input> elements and we need to only select the one for 'firstName'. We can do this by using
+
+``` document.querySelector('input') //gets us the first input ``` 
+
+``` document.querySelector('input[name="firstName"]') //gets us the first input containing the name="firstName" property ```
+
+</p>
+
+</details>
+<details><summary>Solution</summary>
+<p>
+
+``` javascript
+
+var getFirstNameValue = function () {
+
+return document.querySelector('input[name="firstName"]').value;
+
+}
+
+```
+
+</p>
+</details>
+
+### Question 5
+<details><summary>Hint 1</summary>
+<p>
+Perhaps someone on the next cohort can write the hints to questions 5-9?
+</p>
+</details>
+<details><summary>Hint 2</summary>
+<p>
+
+</p>
+</details>
+<details><summary>Solution</summary>
+<p>
+
+```
+
+var getValue = function (inputName) {
+
+// Code here
+  return document.querySelector(`input[name="${inputName}"]`).value;
+
+}
+
+```
+
+</p>
+</details>
+
+### Question 6
+<details><summary>Hint 1</summary>
+<p>
+
+</p>
+</details>
+<details><summary>Hint 2</summary>
+<p>
+
+</p>
+</details>
+<details><summary>Solution</summary>
+<p>
+
+```
+
+var updateStateValue = function (formState, inputName) {
+
+// Code here
+  let clone = Object.assign({},formState);
+  clone[inputName]= getValue(inputName);
+  return clone;
+}
+
+```
+
+</p>
+</details>
+
+### Question 7
+<details><summary>Hint 1</summary>
+<p>
+
+</p>
+</details>
+<details><summary>Hint 2</summary>
+<p>
+
+</p>
+</details>
+<details><summary>Solution</summary>
+<p>
+
+```
+
+var updateStateValues = function (formState, inputNames) {
+
+// Code here
+  let clone = Object.assign({},formState);
+  inputNames.forEach(name=>clone[name]= getValue(name));
+  return clone;
+}
+
+```
+
+</p>
+</details>
+
+### Question 8
+<details><summary>Hint 1</summary>
+<p>
+
+</p>
+</details>
+<details><summary>Hint 2</summary>
+<p>
+
+</p>
+</details>
+<details><summary>Solution</summary>
+<p>
+
+```
+
+var getInputValues = function (className) {
+
+// Code here
+let elements = document.querySelectorAll(`input.${className}`)
+return Array.from(elements).map(e=>e.value);
+
+}
+
+```
+
+</p>
+</details>
+
+### Question 9
+<details><summary>Hint 1</summary>
+<p>
+
+</p>
+</details>
+<details><summary>Hint 2</summary>
+<p>
+
+</p>
+</details>
+<details><summary>Solution</summary>
+<p>
+
+```
+var generateUl = function (array) {
+
+let ul = document.createElement("ul");
+array.forEach(element=>{
+
+  let li = document.createElement("li");
+  li.textContent= element;
+
+  ul.appendChild(li);
+
+});
+return ul;
+}
+```
+
+</p>
+</details>
+
+
