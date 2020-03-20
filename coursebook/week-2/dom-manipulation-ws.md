@@ -3,11 +3,13 @@ Introduction to DOM manipulation
 
 ## Exercise
 
-1. Go to [this repl](https://repl.it/@Karyum1/DOM-manipulation-Challenge-A).
+1. Go through this guide.
 
-2. Go through the `index.html` file.
+2. Go to [this repl](https://repl.it/@Karyum1/DOM-manipulation-Challenge-A).
 
-3. Open `exercise.js` and follow the instructions.
+3. Go through the `index.html` file.
+
+4. Open `exercise.js` and follow the instructions.
 
 ## What is the DOM?
 
@@ -132,3 +134,65 @@ We can access _properties_ of DOM elements using javscript.
 - [What are object methods in javacript?](https://www.w3schools.com/js/js_object_methods.asp)
 
 - [Here is a list of the DOM element methods](https://developer.mozilla.org/en-US/docs/Web/API/Element#Methods)
+
+## Hints to the Repl Challenge
+
+### Question 1
+<details><summary>Hint 1</summary>
+<p>
+The first step is to simply access the DOM 'introduction' element. 
+  
+By convention, we put this into a variable, like so:
+  ```var introductionElement = document.getElementById('introduction');```
+</p>
+</details>
+
+<details><summary>Hint 2</summary>
+<p>
+The second step is to add or remove the class '.highlight', depending on whether or not it is currently being applied to the introduction paragraph element. As we can see, there we only have the class 'introduction currently within the <p> tag:
+
+![](https://i.imgur.com/KVcxk7w.png)
+
+As in the above guide, we can use the .contains() method to check if a property on the DOM object:
+
+```
+introductionElement.classList.contains('highlight');
+
+```
+
+We can also use the 'add', 'remove', or toggle methods to add or remove classes, ID's, etc from DOM elements - eg:
+
+
+```
+
+    introductionElement.classList.remove('highlight')
+
+    introductionElement.classList.add('highlight')
+
+```  
+</p>
+</details>
+
+<details><summary>Solution</summary>
+<p>
+
+```javascript
+
+var toggleHighlight = function () {
+
+// Code here
+console.log(1);
+
+let introductionElement = document.querySelector('#introduction');
+
+if (introductionElement.classList.contains('highlight')) {
+    introductionElement.classList.remove('highlight')}
+  }
+  else {
+    introductionElement.classList.add('highlight');
+    }
+}
+
+```
+</p>
+</details>
