@@ -16,7 +16,6 @@
 
 ### Asynchronous JavaScript
 
-- What are first class functions, and higher order functions?
 - What is the call stack?
 - What are async functions and blocking code?
 - What is a callback function? Give an example of a callback function and explain what happens when it is executed
