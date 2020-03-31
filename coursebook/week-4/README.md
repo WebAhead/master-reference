@@ -13,7 +13,7 @@
 
 ### Day 1
 
-- [Introduction to testing and TDD](https://github.com/foundersandcoders/testing-tdd-intro): 30mins
+- [Introduction to testing and TDD](https://github.com/foundersandcoders/testing-tdd-intro), [slides](https://docs.google.com/presentation/d/1t9iD7JpWQsCu3tlb7fSojiu4ypKbyOZkeX87ZK-MUhY/edit?usp=sharing): 30mins
 
 - [Tape (TDD) workshop](https://github.com/foundersandcoders/fizzbuzz). If you finish early, have a look at [Code Coverage](https://github.com/dwyl/learn-tape#bonus-level): 2hrs
 
