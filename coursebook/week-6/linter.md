@@ -24,7 +24,8 @@ The following instructions need to be followed by **one person on your team**
     - **How would you like to use ESLint?** `To check syntax and find problems`
     - **What type of modules does your project use?** `CommonJS (require/exports)`
     - **Which framework does your project use?** `None of these`
-    - **Where does your code run?** `Browser, Node`
+    - **Does your project use TypeScript?** N
+    - **Where does your code run?** *press a to toggle all options* `Browser + Node`
     - **What format do you want your config file to be in?** `JavaScript`
 1. ESLint will offer to install the `eslint` package as a `devDependency` - enter `Y`
 
