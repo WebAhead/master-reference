@@ -5,9 +5,8 @@
 #### Description
 
 - A website that enables users to quickly find and select words from a list of suggestions, as they type.
-- The list is dynamically generated from a pre-populated list of values (i.e. a dictionary file), leveraging searching and filtering.
-- A large data file is required to search through - consider the best data structure for this (e.g. `.txt` or `.json`).
-- Consider how implementation affects user experience and web performance (e.g. time to load and search through the data file).
+- The list is dynamically generated from a pre-populated list of values, leveraging searching and filtering.
+- Consider how implementation affects user experience and web performance.
 - Import your list of words(the dictionary) from an API, you will need to provide users with content from an API. 
 
 #### Task
@@ -38,7 +37,7 @@ Your task is to build a site which will update as you type (an autocompleter) wh
   - if a user attempts to make a request to a non-existent route to your server (404 - as mentioned above), provide the user with a custom response.    
   - if there is a [programmer error](https://github.com/foundersandcoders/error-handling-workshop#kinds-of-errors) on your server (e.g. a handler function does not act as intended), provide the user with a custom response (500 status code).
 
-11. *Stretch goal* Include a user input field on your web app and include server-side validation to protect your server from potentially malicious user input.
+11. *Stretch goal* include server-side validation to protect your server from crashing.
 
 12. *Stretch goal* Display continuous integration and code coverage badges on your project README. 
 
