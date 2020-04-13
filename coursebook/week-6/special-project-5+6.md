@@ -1,6 +1,6 @@
 ## Project
 
-### Autocomplete website/widget
+### Autocomplete website
 
 #### Description
 
