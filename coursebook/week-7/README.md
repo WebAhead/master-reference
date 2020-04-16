@@ -22,10 +22,12 @@
 - [pg module code along](https://github.com/foundersandcoders/pg-walkthrough) 1hr 30mins
 - [workshop on making small node app with a database connection](https://github.com/foundersandcoders/pg-workshop): 1hr 30mins
 
-- [Database Testing](https://github.com/foundersandcoders/ws-database-testing/): 1hr
-
-Note: 4 hours of workshops. Less time available for research.
+- Research
 
 ### Day 3
+
+- [Database Testing](https://github.com/foundersandcoders/ws-database-testing/): 1hr
+
+### Extra
 
 - [morning challenge](https://github.com/foundersandcoders/db-morning-challenge): 1hr
