@@ -204,9 +204,6 @@ sudo yum install postgresql-devel python-devel
 
 # Then run this:
 sudo pip install pgcli==2.2.0
-
-# If you get an error something with versions then try this
-sudo apt-get install -y pgcli 
 ```
 and login to databases with `pgcli` instead of `psql`.
 
