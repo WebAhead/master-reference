@@ -11,7 +11,7 @@
 - What are some examples of useful express middleware and 
 how do you use them ([several useful examples](https://blog.jscrambler.com/setting-up-5-useful-middlewares-for-an-express-api/))
 
-### HTTP vs HTTPS
+## HTTP vs HTTPS
 + How does HTTPS work? What are TLS/SSL certificates?
 + Why is this important to implement in your projects?
 + Demo how to generate certificates and use them in a node project  
