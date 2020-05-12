@@ -17,7 +17,7 @@ The first nine weeks will provide you with the necessary building blocks for cre
 * [Week 8](week-8/README.md)  - Express
 * [Week 9](week-9/README.md)  - Authentication
 * [Week 10](https://github.com/foundersandcoders/react-week)  - React
-* [Week 11](https://github.com/WebAhead/design-week) - Design week
+* [Week 11](https://github.com/WebAhead/design-week) - Design
 
 The second half of the curriculum is focused on longer projects and introduces you to client interaction:
 + [Weeks 11-13](./weeks-11-13) - self-selected project
