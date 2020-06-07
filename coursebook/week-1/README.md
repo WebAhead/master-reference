@@ -33,13 +33,18 @@
 - [CSS workshop](https://github.com/WebAhead/css-workshop/): 3hr
 - [Git intro workshop](https://docs.google.com/presentation/d/1mu0WhcOG9poJrLlHmWV7ix2dNrFSYWw3BkpjbY0D0gE/edit?usp=sharing): 1hr
 
+
 ## Day 3
+
+- [Morning Challenge - Learn HTML forms](https://github.com/oliverjam/learn-html-forms/)
+
+## Day 4
 
 - [Morning Challenge - CSS Gallery Challenge](https://github.com/foundersandcoders/css-gallery-challenge): 1hr
 
 ## Day 5
 - [How to code review](./codereviewintro.md)
-- [Intro to project presentations](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/weekly-projects.md#project-presentation)
+- [Intro to project presentations](https://founders-and-coders.gitbook.io/coursebook/documents/projects#project-presentation)
 - [Intro to cohort Stop Go Continue](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/retrospectives.md#cohort-retrospective)
 - [Into to team retrospectives](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/retrospectives.md#team-retrospectives)
 
