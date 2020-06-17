@@ -1,8 +1,38 @@
-## API week project
+# HTTP week project
 
-Your project this week is to build a simple web app (ideally just a single page). You must query at least two APIs and use the results to update the DOM.
+Your project this week is to build an app that queries at least _two_ APIs and uses the results to update the DOM. There should be a way for the user to search, filter, sort or otherwise affect what is displayed.
 
 What you choose to build and how you choose to display the data is entirely up to you!
+
+## User Stories
+
+_**A [user story](https://www.visual-paradigm.com/guide/agile-software-development/what-is-user-story/) is a description of one or more features of a piece of software.**_
+
+### Core Stories
+
+**As a user, I want to:**
+
+- See an interesting mashup of different data
+- Input information to change the displayed result
+- View the app on all of my devices
+
+Since your app will be unique you will need to create your own user stories for more specific features.
+
+### Stretch stories
+
+- As an impatient user, I want to see some indication that data is loading
+- As a confused user, I want to be told when something goes wrong
+
+### Acceptance Criteria
+
+- Query at least two APIs using `fetch`
+- Dynamic content generated with JS
+- A clearly defined user journey, documented in your readme
+- A responsive, mobile-first design
+- Ensure your app is accessible to as many different users as possible
+- Try not to push API keys up to GitHub (since anyone can see them there)
+
+## Planning
 
 During the planning phase we suggest you spend time on:
 
@@ -10,37 +40,33 @@ During the planning phase we suggest you spend time on:
 - Considering your user journey
 - Deciding what you need to build for your Minimum Viable Product (MVP) and splitting up the tasks
 
-You'll have most of day 3 and all of day 4 to work on your project. On day 5 we'll have code reviews in the morning and final presentations in the afternoon.
-
 ### Choosing your APIs
-
-See our list of recommended APIs [here](./recommended-apis.md).
-
-You can choose to use other APIs if you prefer, but make sure to do your research and check that what you want to do with the API is possible before you start to code.
 
 #### Things to check before you start:
 
-- Are there issues with CORS requests?
+- Does it support CORS (cross-origin requests)?
 - Is there a high enough rate limit?
 - Is a free API key available?
 - Are you able to use the API without user authentication (oAuth)?
 - Is good documentation available?
 
-### Requirements
+#### Recommended APIs
 
-- Your app queries at least two APIs using the XMLHttpRequest method
-- Your app features some dynamic content
-- A clearly defined user journey, documented in your readme.
-- A well-considered architecture for your app - think back to the workshops from the beginning of this week. Try to modularise your code, or break it down into separate files. Document any key decisions about how you structure your code in your readme!
-- Code: break your JavaScript down into small functions with a clear input and output; this will make it easy to write tests
-- Tests: write tests for your pure functions. We don't expect tests on the DOM or on the response from an API.
-- Design: aim for a responsive, mobile-first design
-- Accessibility: same as always, we'll be running your code through accessibility checkers
-- Take appropriate measures when it comes to [concealing private information](https://gist.github.com/derzorngottes/3b57edc1f996dddcab25) (i.e. your API key!)
+Here's a list of decent APIs to consider. You can choose to use other APIs if you prefer, but make sure to do your research and check that what you want to do with the API is possible before you start to code.
 
-### Keep in mind
-
-- If using a private API key, you won't be able to deploy to GitHub pages this week (if you're not using an API key, go for it!)
-- Try and do a little bit of TDD in pairs
-- Don't repeat yourself! Try to reuse and refactor bits of existing code where possible.
-- Minimise DOM manipulation to keep your app efficient
+| Name                                                                                               | Info                                                                                                                                                       | API key required?                      | Rate limit?                                                      |
+| -------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- | ---------------------------------------------------------------- |
+| [Giphy](https://api.giphy.com/)                                                                    | Lots and lots of GIFs                                                                                                                                      | Free, public API key for small apps    | Yes, but it's enough for your projects                           |
+| [GitHub](https://developer.github.com/v3/)                                                         | Everything publically available on GitHub neatly presented and well documented!                                                                            | No, but required for higher rate limit | Yes                                                              |
+| [The Movie DB](https://www.themoviedb.org/documentation/api)                                       | Lots of info about all kinds of movies, a bit like IMDB                                                                                                    | Yes, it's free                         | 40 requests every 10 seconds                                     |
+| [MediaWiki (Wikipedia)](https://www.mediawiki.org/wiki/API:Main_page)                              | Everything on Wikipedia                                                                                                                                    | No                                     | [No](https://www.mediawiki.org/wiki/API:Etiquette#Request_limit) |
+| [The Guardian](http://open-platform.theguardian.com/)                                              | Access to articles and media back to 1999!                                                                                                                 | Yes (free)                             | 12 requests per second                                           |
+| [Game of Thrones](https://anapioficeandfire.com/)                                                  | Apparently the world's greatest source for data from the universe of Ice and Fire                                                                          | No                                     | 20,000 requests per day                                          |
+| [Unsplash it](https://unsplash.it/)                                                                | Generates random images                                                                                                                                    | No                                     | Not clear                                                        |
+| [Musixmatch](https://developer.musixmatch.com/documentation)                                       | Get song lyrics!                                                                                                                                           | Yes (free)                             | 2,000 requests per day                                           |
+| [Recipe Puppy](http://www.recipepuppy.com/about/api/)                                              | Find recipes and ingredients                                                                                                                               | No                                     | 1,000 per day                                                    |
+| [News API](https://newsapi.org/#documentation)                                                     | Get links to news articles from international news sources including BBC, CNN, BuzzFeed                                                                    | Yes                                    | No                                                               |
+| [Corporate BS/Buzzword Generator API](https://github.com/sameerkumar18/corporate-bs-generator-api) | Corporate BS generator                                                                                                                                     | No                                     | No                                                               |
+| [TFL](https://api-portal.tfl.gov.uk/docs)                                                          | Everything you need to know about transport in London (powers City Mapper etc.) The documentation is quite heavy, but the API allows you to do cool things | Optional, allows for higher rate limit | Yes                                                              |
+| [Police API ](https://data.police.uk/docs/)                                                        | UK police data on crimes                                                                                                                                   | No                                     | 15 requests per second with a burst of 30                        |
+| [Postcode lookup](https://postcodes.io/)                                                           | UK Postcode lookup and autocomplete                                                                                                                        | No                                     | No                                                               |
