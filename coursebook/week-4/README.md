@@ -13,11 +13,13 @@
 
 ### Day 1
 
-- [Introduction to testing and TDD](https://github.com/foundersandcoders/testing-tdd-intro), [slides](https://docs.google.com/presentation/d/1t9iD7JpWQsCu3tlb7fSojiu4ypKbyOZkeX87ZK-MUhY/edit?usp=sharing): 30mins
+- [Introduction to testing](https://docs.google.com/presentation/d/1t9iD7JpWQsCu3tlb7fSojiu4ypKbyOZkeX87ZK-MUhY/edit?usp=sharing): 30mins
 
-- [Tape (TDD) workshop](https://github.com/foundersandcoders/fizzbuzz). If you finish early, have a look at [Code Coverage](https://github.com/dwyl/learn-tape#bonus-level): 2hrs
+- [Build a testing library](https://github.com/oliverjam/learn-testing/) : 1hr
 
-- Roman numerals TDD code-along - [final solution](https://github.com/foundersandcoders/roman-numeral-tdd-codealong): 2hrs
+- [Unit testing workshop](https://github.com/oliverjam/learn-unit-testing) : 1hr30mins
+
+- [Integration testing workshop](https://github.com/oliverjam/learn-integration-testing) : 2hr
 
 ### Day 2
 
@@ -25,12 +27,16 @@
 
 - Morning challenge - [Traffic Lights](https://github.com/FACN8/morning-challenge-traffic-lights): 1hr 15mins
 
-- [Pure functions workshop](https://github.com/foundersandcoders/ws-pure-functions-easy-testing) as an introduction to writing testable code :smile:: 1hr 45mins
+- [TDD array methods](https://github.com/oliverjam/tdd-array-methods): 2hr
 
-- [Research](./research-afternoon.md): 3hr
+- [Technical spikes](./spikes.md): 3hr
 
 
 ### Day 3
 
 - [Waterfall morning challenge](https://github.com/foundersandcoders/mc-waterfall-chaser): 1hr 30mins
 - [Introduce Project](./project): 15mins
+
+### Day 4
+
+- [Scope morning challenge](https://github.com/oliverjam/js-scope-challenge) : 1hr
