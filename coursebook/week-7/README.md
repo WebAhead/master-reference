@@ -14,20 +14,16 @@
 ### Day 1
 
 - Intro to databases (mentor links [#1](https://github.com/foundersandcoders/intro-to-databases) [#2](./resources/DATABASE-WEEK-6-INTRO.pdf)): 1hr
-- [PostgreSQL installation instructions](./psql-setup.md) and [`sql-commands-intro` workshop](https://github.com/foundersandcoders/sql-commands-intro/): 2hrs
-- [workshop on SQL commands and psql](https://github.com/foundersandcoders/postgres-workshop): 2hrs
+- [PostgreSQL installation instructions](https://github.com/macintoshhelper/learn-sql/blob/master/postgresql/setup.md) and [`sql-commands-intro` workshop](https://github.com/foundersandcoders/sql-commands-intro/): 2hrs
+- [PostgreSQL with node](https://github.com/oliverjam/learn-node-postgres): 2hrs
+- [Technical spikes](./spikes.md): 2hr
 
 ### Day 2
 
-- [pg module code along](https://github.com/foundersandcoders/pg-walkthrough) 1hr 30mins
-- [workshop on making small node app with a database connection](https://github.com/foundersandcoders/pg-workshop): 1hr 30mins
-
-- Research
+- [Technical spikes](./spikes.md) continued: 2hr
+[db-testing](https://github.com/oliverjam/learn-database-testing): 2hr
+[error-handling](https://github.com/oliverjam/learn-node-error-handling): 2hr
 
 ### Day 3
-
-- [Database Testing](https://github.com/foundersandcoders/ws-database-testing/): 1hr
-
-### Extra
 
 - [morning challenge](https://github.com/foundersandcoders/db-morning-challenge): 1hr
