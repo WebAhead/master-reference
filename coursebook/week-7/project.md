@@ -1,71 +1,34 @@
-## Project
+# Database week project
 
-This week's project will involve setting up a database which you connect to via a node.js server. You'll use your data to make a dynamic web app for your front-end.
+Your project this week is to build a web app that stores data in a PostgreSQL database.
 
-Some suggested project ideas are below. Feel free to modify according to your interest, provided your idea has similar functionality.
+## User stories
 
+### Core
 
-### Requirements
+- **As a user, I want to**: submit information to your site for anyone to see
+- **As a user, I want to**: come back to your site later and see what I posted is still there
 
-- Simple web app with a node server and a database
-- Your database comes with a schema, which should be documented in your readme (along with any other architectural decisions)
-- Database hosted on Heroku, or locally
-- Build script for your database
-- Security concerns appropriately considered (you must protect against script injections!)
-- Content dynamic, but DOM manipulation kept to a minimum
-- Mobile-first design
-- Clear user journey (even if you take one of our suggested ideas, document the user journey in your readme)
-- test your server routes with supertest
-- test your pure functions both server and client side
-- set up a test database so that you can test your database queries
+Since this project is open-ended you'll need to write your own more specific user stories once you know what you want to build.
 
-**Note**
-We don't expect you to authenticate users (i.e. have a login or signup page), or even to simulate this feature. We'll cover how to do that properly in later weeks. Since these ideas were designed with WebAhead users in mind, we'll rely on trust instead of authentication :)
+### Acceptance Criteria
 
+- [ ] A form for users to submit data
+- [ ] A page showing all the data
+- [ ] Semantic form elements with correctly associated labels
+- [ ] A Postgres database hosted on Heroku
+- [ ] A schema describing your database in your README
+- [ ] Tests for server routes and database access
+- [ ] Not process user input as SQL commands
+- [ ] Hidden environment variables (i.e. not on GitHub)
 
+#### Stretch criteria
 
-### Suggested ideas
+- [ ] A way to view filtered/sorted data, instead of just all of it
+- [ ] GitHub Actions CI setup to run your tests when you push
 
-#### WebAhead book sharing system
+## Example project ideas
 
-As a member of WebAhead who has a book I would like to share...
-* I can add a book to the database
-
-As a member of WebAhead who is interested in borrowing a book...
-* I can browse for available books
-* I can reserve a book for certain dates
-* I can unreserve a book
-
-Suggested additional requirements / stretch goals:
-* I can rate the book after I've read it
-* Books can simultaneously be reserved by multiple users but for different dates
-
-#### Food / coffee recommendations around WebAhead
-
-As a member of or visitor to WebAhead...
-* I can browse recommended places to buy food / coffee nearby
-* I can add a new place
-* I can add a rating/review of an existing place
-
-Suggested additional requirements / stretch goals:
-* Multiple locations
-* Show the location with Google Maps
-
-#### WebAhead events calendar
-
-As a member of WebAhead who likes going to talks or meetups...
-* I can add details of an event I'm interested in attending
-* I can browse upcoming events
-* I can register my attendance at an event or post a comment
-
-Suggested additional requirements / stretch goals:
-* Events can be assigned to different categories
-* I can browse past events and write a review
-
-
-### Getting started
-
-Make sure you have a plan, and break the project down into manageable parts. Here are some things to consider:
-* You will need to make the requests and update the DOM in response using client-side JavaScript.
-* As well as serving static HTML and JS files, your server will also need to provide endpoints that return DB query results as JSON. You can query your server from the client using the XMLHttpRequest method.
-* You'll need to be able to make both ```POST```and ```GET``` requests to your server.
+- Founders & Coders book sharing system
+- Food / coffee recommendations around Founders & Coders
+- Founders & Coders events calendar
