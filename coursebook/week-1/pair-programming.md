@@ -1,11 +1,19 @@
-# Pair programming
+# _"None of us is as smart as all of us."_
 
-## Learning Outcomes
+![](https://media.giphy.com/media/61XQCwucaDapRLPHzx/giphy.gif)
+
+- While the mentors are always there to guide and help, most of the learning is going to be done by you and your fellow students!
+- Almost every workshop is going to be done working in pairs.
+- You have a lot to learn from everyone in the classroom take advantage of that.
+
+## Pair programming
+
+### Learning Outcomes
 * Learn a variety of techniques for how to pair programme
 * Feel more comfortable with pairing
 * Understand the benefits of pairing 
 
-## Task
+### Task
 1. Find a partner and work from one computer together (close the other laptop)
 2. Choose a 8kyu kata on codewars, preferably one that neither of you have completed before
 3. Read through the [different pair programming methods](#methods) & choose one that you want to try
@@ -16,7 +24,7 @@
 
 Don't worry if you don't finish the kata. The aim is to learn the process. 15 minutes before the end, we will come together and discuss which method you chose and how you found it.
 
-## Methods
+### Methods
 
 **Ping pong.** _This is the preferred pairing method in FAC, but we advise you wait until after testing week (week 2) before trying it out._ One student starts by creating a single failing test and then each student takes it in turns to first write code to make the test pass and then to write a new failing test before passing the keyboard back to their partner.  
 
@@ -26,7 +34,7 @@ Don't worry if you don't finish the kata. The aim is to learn the process. 15 mi
 
 **The driving instructor.** In this case, the person not at the keyboard should lead a discussion about the code through a series of questions. If desired, she can use the coding questions crib sheet for assistance.
 
-## Coding questions crib sheet  
+## Coding questions sheet  
 
 ### Functions
 + When defining a new function, are we using sensible names?
