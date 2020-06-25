@@ -24,7 +24,7 @@
   - Introduce gitter channels
 - Introduction to [Ubuntu](https://github.com/WebAhead/ubuntu-intro/): 3hr
 - Introduction to the [command line interface - cli](https://github.com/WebAhead/cli-intro): 1hr
-- Introduction to [Pair Programming](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-1/pair-programming.md): 1hr
+- Introduction to [Pair Programming](./pair-programming.md): 1hr
 
 
 ## Day 2
