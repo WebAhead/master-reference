@@ -22,11 +22,6 @@ _**A [user story](https://www.visual-paradigm.com/guide/agile-software-developme
 - Contact you to enquire about working with you
 - Visit your website at a publicly accessible domain name
 
-**Additionally, as a visually impaired user, I want to:**
-
-- Navigate your website using keyboard controls
-- Hear my screen reader describe the content on your website
-
 ## Acceptance Criteria
 
 _**User stories come with [acceptance criteria](https://blog.easyagile.com/how-to-write-good-user-stories-in-agile-software-development-d4b25356b604?gi=dc603f56ed77) - a detailed scope of a user’s requirements.**_
