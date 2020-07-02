@@ -22,7 +22,7 @@
 
 - [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 2hrs
 - [Technical spikes and presentations intro](https://founders-and-coders.gitbook.io/coursebook/documents/spikes): 30mins 
-- [Technical spikes](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-2/research-afternoon.md) 4hr
+- [Technical spikes](https://hackmd.io/@EwoSz9j0TESPquoLzQMY_w/S11XEHoC8) 4hr
 
 ## Day 3
 
