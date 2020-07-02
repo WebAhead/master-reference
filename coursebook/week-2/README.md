@@ -14,14 +14,15 @@
 
 - [JS recap](https://github.com/WebAhead/js-recap) workshop: 2hr
 - [Introduction to DOM manipulation](./dom-intro.md): 2hr
-- [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 2hrs
+- [DOM manipulation ws](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-2/dom-manipulation-ws.md): 2hr
+- [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility/blob/master/putting-yourself-in-someone-elses-shoes.md): 1hr
 
 
 ## Day 2
 
-- [DOM manipulation ws](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-2/dom-manipulation-ws.md): 2hr
-- [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility/blob/master/putting-yourself-in-someone-elses-shoes.md): 1hr
-- [Research](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-2/research-afternoon.md) 4hr
+- [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 2hrs
+- [Technical spikes and presentations intro](https://founders-and-coders.gitbook.io/coursebook/documents/spikes): 30mins 
+- [Technical spikes](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-2/research-afternoon.md) 4hr
 
 ## Day 3
 
