@@ -25,6 +25,9 @@
 - [Technical spikes](https://hackmd.io/@EwoSz9j0TESPquoLzQMY_w/S11XEHoC8) 4hr
 
 ## Day 3
+ - [Projects](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-2/project.md)
+ 
+## Day 4
 
 - [Morning Challenge - Array methods Challenge](https://github.com/WebAhead/array-methods): 1hr
 
