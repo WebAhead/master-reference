@@ -22,3 +22,7 @@
 - [Flexbox Dice Morning Challenge](https://github.com/smarthutza/flexbox-workshop): 1hr 30mins
 - [Real world fetch](https://github.com/oliverjam/real-world-fetch): 2hr
 - [Technnical spikes](./spikes.md)
+
+### Day 3
+
+- [Morning Challenge - Array methods Challenge](https://github.com/WebAhead/array-methods): 1hr
