@@ -27,10 +27,6 @@
 ## Day 3
  - [Projects](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-2/project.md)
  
-## Day 4
-
-- [Morning Challenge - Array methods Challenge](https://github.com/WebAhead/array-methods): 1hr
-
 ## Day 5
 - [Code review](./codereviewintro.md)
 - [Project presentations](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/weekly-projects.md#project-presentation)
