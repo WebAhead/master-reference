@@ -23,18 +23,14 @@
 
 ### Day 2
 
-- [Introduction to recursion](https://github.com/WebAhead/mc-recursion): 1hr
-
-- Morning challenge - [Traffic Lights](https://github.com/FACN8/morning-challenge-traffic-lights): 1hr 15mins
-
 - [TDD array methods](https://github.com/oliverjam/tdd-array-methods): 2hr
 
 - [Technical spikes](./spikes.md): 3hr
 
 
 ### Day 3
+- [Introduction to recursion](https://github.com/WebAhead/mc-recursion): 1hr
 
-- [Waterfall morning challenge](https://github.com/foundersandcoders/mc-waterfall-chaser): 1hr 30mins
 - [Introduce Project](./project): 15mins
 
 ### Day 4
