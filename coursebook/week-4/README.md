@@ -29,10 +29,7 @@
 
 
 ### Day 3
-- [Introduction to recursion](https://github.com/WebAhead/mc-recursion): 1hr
+- [Scope morning challenge](https://github.com/oliverjam/js-scope-challenge) : 1hr
 
 - [Introduce Project](./project): 15mins
 
-### Day 4
-
-- [Scope morning challenge](https://github.com/oliverjam/js-scope-challenge) : 1hr
