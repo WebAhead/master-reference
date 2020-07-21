@@ -29,11 +29,11 @@ You should have automated tests covering all the main user stories. Each story b
   });
   ```
 
+### Stretch
+
 **As a motor-impaired user, I want to:**
 
 - Use all the features of the app without a mouse
-
-### Stretch
 
 **As a busy person, I want to:**
 
