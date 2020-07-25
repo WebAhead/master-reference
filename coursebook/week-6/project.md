@@ -31,10 +31,6 @@ You can build on this user story or create your own user stories as long as they
 
 6) Host your project on Heroku, see [resources](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-5/resources.md)
 
-7) Use module.exports and require to break a single large server file into smaller modules.
-
-8) Consider a good server file structure based on what we have discussed over the week.
-
 9) Employ continuous integration on your project with Travis or a similar tool. (If you decide to use Travis, we strongly recommend that you host this project in your own repo rather than in your cohort's FAC repository to avoid all builds getting queued together)
 
 10) Use CodeCov or a similar tool to report and track test coverage.
@@ -44,8 +40,6 @@ You can build on this user story or create your own user stories as long as they
   - if there is a [programmer error](https://github.com/foundersandcoders/error-handling-workshop#kinds-of-errors) on your server (e.g. a handler function does not act as intended), provide the user with a custom response (500 status code).
 
 12) Include a user input field on your web app and include server-side validation to protect your server from potentially malicious user input.
-
-13) Display continuous integration and code coverage badges on your project README. 
 
 ### Stretch goal 😊:
 
