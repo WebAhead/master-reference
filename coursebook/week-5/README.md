@@ -28,6 +28,7 @@
 
 ### Day 3
 - [Modularisation morning challenge](./morning-challenge-day-3.md): 1hr
+- [Project](./project.md)
 
 
 __Extra challenge__
