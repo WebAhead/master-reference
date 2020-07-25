@@ -45,4 +45,3 @@ You can build on this user story or create your own user stories as long as they
 
 14) Research and use Nock to mock the response of external API calls in your tests, and write tests for server routes that make API calls.
 
-15) Create a route and functionality for a POST request.
