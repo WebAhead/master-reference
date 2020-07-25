@@ -32,4 +32,3 @@
 
 - [Morning Challenge: Backend API call](https://github.com/WebAhead/mc-request-module-workshop): 1hr
 
-- [Introduction to linters](./linter.md): 30mins
