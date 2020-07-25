@@ -27,10 +27,8 @@
 - [Technical spikes](./spikes.md): 4h
 
 ### Day 3
-- [Node fetch morning challenge](https://github.com/foundersandcoders/mc-request-module-workshop): 1hr
-
-### Day 4
 - [Modularisation morning challenge](./morning-challenge-day-3.md): 1hr
+
 
 __Extra challenge__
 - [ES6 morning challenge](./morning-challenge-day-2.md): 1hr 30mins
