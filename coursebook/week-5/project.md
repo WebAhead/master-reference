@@ -23,6 +23,8 @@ Your task is to build a site which will update as you type (an autocompleter), a
 
 4. Consider what would be a good **server file structure** based on what we have discussed over the week.
 
+5. Consider using an eslint config for a consistent code base.
+
 #### Example
 
 [Dwyl autocompleter](https://github.com/dwyl/autocomplete).
