@@ -32,3 +32,7 @@
 
 - [Morning Challenge: Backend API call](https://github.com/WebAhead/mc-request-module-workshop): 1hr
 
+### Extra 
+
+- Instead of downloading a package to make an API call, we can use Node's core package [http module](https://nodejs.org/api/http.html) , if you're interested [here's the workshop](https://github.com/foundersandcoders/mc-request-module-workshop)
+
