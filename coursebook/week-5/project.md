@@ -15,15 +15,11 @@ Your task is to build a site which will update as you type (an autocompleter), a
 
 #### Goals
 
-1. We expect **back-end testing using tape** (test as many components as you can) and basic **front-end testing**. Please note that we expect tests on _pure functions_ and _not_ on the router or the DOM.
+1. Test your server routes using `tape` and `supertest`, and if there is javascript logic in the frontend make sure to test it as well.
 
-2. Host your project on **heroku**, [see resource](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction).
+2. Host your server on **heroku**, [see resource](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction).
 
-3. Use **module.exports** and **require** to break a single large server file into smaller modules.
-
-4. Consider what would be a good **server file structure** based on what we have discussed over the week.
-
-5. Consider using an eslint config for a consistent code base.
+3. Consider using an [eslint config](https://eslint.org/docs/user-guide/getting-started#configuration) for a consistent code base.
 
 #### Example
 
