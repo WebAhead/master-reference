@@ -27,7 +27,6 @@
 - [Technical spikes](./spikes.md): 4h
 
 ### Day 3
-- [Modularisation morning challenge](./morning-challenge-day-3.md): 1hr
 - [Project](./project.md)
 
 
