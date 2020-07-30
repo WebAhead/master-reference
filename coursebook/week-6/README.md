@@ -12,11 +12,11 @@
 
 ### Day 1
 
-- [Software architecture](https://github.com/WebAhead/Workshop-Software-Architecture-Design/blob/master/README.md):45mins
+- [Software architecture](https://github.com/WebAhead/Workshop-Software-Architecture-Design/blob/master/README.md): 45mins
 
-- [Morning Challenge: Backend API call](https://github.com/WebAhead/mc-request-module-workshop): 1hr
+- [Morning Challenge: Backend API call](https://github.com/WebAhead/mc-request-module-workshop): 2.25hr
 
-- [Node shell workshop - Lesson 1](https://github.com/foundersandcoders/Node-Shell-Workshop/blob/master/LESSON1.md): 1hr
+- [Node shell workshop - Lesson 1](https://github.com/foundersandcoders/Node-Shell-Workshop/blob/master/LESSON1.md): 2hr
 
 
 ### Day 2
