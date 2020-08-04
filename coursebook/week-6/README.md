@@ -26,6 +26,7 @@
 
 ### Extra 
 
+- [Node shell workshop - Lesson 1](https://github.com/foundersandcoders/Node-Shell-Workshop/blob/master/LESSON1.md): 2hr
 
 - [Modules workshop](https://github.com/m4v15/going-on-a-bear-hunt): 3hr
 
