@@ -21,9 +21,7 @@
 
 ### Day 2
 
-- [Introduction to error handling](https://hackmd.io/@2bwN7cTBSxGJXJSmLdFIaw/rJgLxb0_V#/): 30mins
-
-- [Workshop on error handling](https://github.com/foundersandcoders/error-handling-workshop): 2hrs 30mins
+- [Workshop on error handling](https://github.com/oliverjam/learn-node-error-handling): 2hrs 30mins
 
 ### Day 3
 
