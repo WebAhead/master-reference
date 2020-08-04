@@ -20,7 +20,7 @@
 ### Day 2
 
 - [Technical spikes](./spikes.md): 2hr
-- [db-testing](https://github.com/oliverjam/learn-database-testing): 2hr
+- [DB testing](https://github.com/oliverjam/learn-database-testing): 2hr
 
 ### Day 3
 
