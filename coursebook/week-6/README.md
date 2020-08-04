@@ -16,12 +16,10 @@
 
 - [Morning Challenge: Backend API call](https://github.com/WebAhead/mc-request-module-workshop): 2.25hr
 
-- [Node shell workshop - Lesson 1](https://github.com/foundersandcoders/Node-Shell-Workshop/blob/master/LESSON1.md): 2hr
-
+- [Workshop on error handling](https://github.com/oliverjam/learn-node-error-handling): 2hrs 30mins
 
 ### Day 2
 
-- [Workshop on error handling](https://github.com/oliverjam/learn-node-error-handling): 2hrs 30mins
 
 ### Day 3
 
