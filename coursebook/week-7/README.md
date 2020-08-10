@@ -3,7 +3,7 @@
 ## Menu
 
 - [Learning Outcomes](./learning-outcomes.md)
-- [Research topics](./research-afternoon.md)
+- [Research topics](./spikes.md)
 - [Project](./project.md)
 - [Resources](./resources)
 
