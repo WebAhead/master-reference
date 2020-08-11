@@ -24,4 +24,4 @@
 
 ### Day 3
 
-- [morning challenge](https://github.com/foundersandcoders/db-morning-challenge): 1hr
+- Create a heroku database (code along): 1hr
