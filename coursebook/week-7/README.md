@@ -24,4 +24,4 @@
 
 ### Day 3
 
-- Create a heroku database (code along): 1hr
+- Create a heroku database (code along)
