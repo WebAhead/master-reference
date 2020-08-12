@@ -208,10 +208,6 @@ You should know:
 ---
 
 ### Deploying
-- [ ] how to set up travis
-	- [ ] How to make travis run your tests
-	- [ ] How to make travis run something else (eg a linting script)
-	- [ ] **Bonus hard check** how to make travis build its own database for testing on....
 - [ ] How to set your app up on heroku
 	- [ ] If your heroku app doesn't deploy, how can you find out what the problem is?
 	- [ ] How do you provision a database on heroku
