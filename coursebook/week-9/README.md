@@ -3,7 +3,7 @@
 ## Contents
 
 - [Learning Outcomes](./learning-outcomes.md)
-- [Research topics](./research-afternoon.md)
+- [Research topics](./https://github.com/foundersandcoders/coursebook/blob/main/curriculum/authentication/spikes.md)
 - [Project](./project.md)
 - [Resources](./resources)
 
