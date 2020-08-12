@@ -19,7 +19,7 @@
 
 ### Day 2
 
-- Morning Challenge - [Create an Animated App Drawer](https://github.com/foundersandcoders/morning-challenge-animated-app-drawer): 1hr
+- Morning Challenge - [Cre ate an Animated App Drawer](https://github.com/foundersandcoders/morning-challenge-animated-app-drawer): 1hr
 - Workshop 3 - Handlebars:
   - [Presentation](https://docs.google.com/presentation/d/1AHAMQxpudl0zwwR2yADIoB7Luf58urJpKaqqTb1dhu0/edit?usp=sharing)
   - [Templating](https://github.com/m4v15/templating/)
@@ -28,4 +28,4 @@
 ### Day 3
 
 - [Express-Handlebars - Morning Challenge](https://github.com/foundersandcoders/express-handlebars-challenge): 1hr
-- [Reading week checklist](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/reading-week-checklist.md)
+- [Reading week checklist](https://github.com/webahead/master-reference/blob/master/coursebook/general/reading-week-checklist.md)
