@@ -40,7 +40,8 @@
 ### Day 2
 
 - Morning Challenge on [client side validation](https://github.com/foundersandcoders/mc-client-side-validation): 1hr
+- Morning challenge on [Create an Animated App Drawer](https://github.com/foundersandcoders/morning-challenge-animated-app-drawer): 1hr
 
+- [Technical spikes](https://github.com/foundersandcoders/coursebook/blob/main/curriculum/authentication/spikes.md)
 ### Day 3
 
-- Morning challenge on [Create an Animated App Drawer](https://github.com/foundersandcoders/morning-challenge-animated-app-drawer): 1hr
