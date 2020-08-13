@@ -212,8 +212,8 @@ You should know:
 	- [ ] If your heroku app doesn't deploy, how can you find out what the problem is?
 	- [ ] How do you provision a database on heroku
 	- [ ] How do you add environment variables on heroku
-- [ ] What should we store in `config.env` file? Why?
-	- [ ] Do the variable values in my `config.env` file have to be the same as their values on heroku?
+- [ ] What should we store in `.env` file? Why?
+	- [ ] Do the variable values in my `.env` file have to be the same as their values on heroku?
 
 ---
 
