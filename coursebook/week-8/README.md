@@ -20,9 +20,9 @@
 ### Day 2
 
 -  Handlebars:
-  - [Presentation](https://docs.google.com/presentation/d/1AHAMQxpudl0zwwR2yADIoB7Luf58urJpKaqqTb1dhu0/edit?usp=sharing)
-  - [Templating](https://github.com/m4v15/templating/)
-  - [Handlebars](https://github.com/m4v15/country-express)
+   - [Presentation](https://docs.google.com/presentation/d/1AHAMQxpudl0zwwR2yADIoB7Luf58urJpKaqqTb1dhu0/edit?usp=sharing)
+   - [Templating](https://github.com/m4v15/templating/)
+   - [Handlebars](https://github.com/m4v15/country-express)
 
 ### Day 3
 
