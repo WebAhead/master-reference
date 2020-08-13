@@ -14,11 +14,12 @@
 ### Day 1
 
 - [Introduction to Express](https://github.com/foundersandcoders/introduction-to-express): 15mins
-- Workshop 1 - [Express-Workshop](https://github.com/foundersandcoders/express-workshop): 2hrs 30mins
+- [Express-Workshop](https://github.com/foundersandcoders/express-workshop): 2hrs 30mins
+- Start the Handlebars workshop :arrow_down:
 
 ### Day 2
 
-- Workshop 3 - Handlebars:
+-  Handlebars:
   - [Presentation](https://docs.google.com/presentation/d/1AHAMQxpudl0zwwR2yADIoB7Luf58urJpKaqqTb1dhu0/edit?usp=sharing)
   - [Templating](https://github.com/m4v15/templating/)
   - [Handlebars](https://github.com/m4v15/country-express)
