@@ -15,7 +15,6 @@
 
 - [Introduction to Express](https://github.com/foundersandcoders/introduction-to-express): 15mins
 - Workshop 1 - [Express-Workshop](https://github.com/foundersandcoders/express-workshop): 2hrs 30mins
-- Workshop 2 - [Creating and Testing Express Routes](https://github.com/foundersandcoders/express-and-testing-workshop): 2hrs
 
 ### Day 2
 
