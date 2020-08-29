@@ -16,7 +16,7 @@ The first nine weeks will provide you with the necessary building blocks for cre
 * [Week 7](week-7/README.md)  - PostgreSQL
 * [Week 8](week-8/README.md)  - Express
 * [Week 9](week-9/README.md)  - Authentication
-* [Week 10](https://github.com/foundersandcoders/react-week)  - React
+* [Week 10](https://github.com/WebAhead/master-reference/tree/master/coursebook/week-10/README.md)  - React
 * [Week 11](https://github.com/WebAhead/design-week) - Design
 
 The second half of the curriculum is focused on longer projects and introduces you to client interaction:
