@@ -19,7 +19,7 @@
 - [Workshop on error handling](https://github.com/oliverjam/learn-node-error-handling): 2hrs 30mins
 
 ### Day 2
-[Destructuring morning challenge](https://github.com/oliverjam/learn-destructuring): 1hr
+- [Destructuring morning challenge](https://github.com/oliverjam/learn-destructuring): 1hr
 
 ### Day 3
 
