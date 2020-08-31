@@ -31,7 +31,7 @@ _13:00-14:00 Lunch_
 
 ### Day 2
 
-10:00-11:00 [Destructuring morning challenge](https://github.com/oliverjam/learn-destructuring) (morning challenge)  *to be removed before WA7 since it was moved to week 6*
+10:00-11:00 [Destructuring morning challenge](https://github.com/oliverjam/learn-destructuring) (morning challenge)  *to be removed before WA7 since it was moved to week 6*          
 11:00-13:30 [React with dynamic data](https://github.com/sofiapoh/react-dynamic-data-workshop)  
 _13:30-14:30 Lunch_  
 14:30-16:30 [Testing React components](https://github.com/oliverjam/learn-react-testing)  
