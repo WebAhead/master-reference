@@ -14,7 +14,7 @@
 
 - [JS recap](https://github.com/WebAhead/js-recap) workshop: 2hr
 - [Introduction to DOM manipulation](./dom-intro.md): 2hr
-- [DOM manipulation ws](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-2/dom-manipulation-ws.md): 2hr
+- [Learn CSS variables](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-2/dom-manipulation-ws.md): 1hr
 - [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility/blob/master/putting-yourself-in-someone-elses-shoes.md): 1hr
 
 
