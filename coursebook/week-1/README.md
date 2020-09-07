@@ -40,8 +40,6 @@
 
 ## Day 4
 
-- [Morning Challenge - CSS Gallery Challenge](https://github.com/foundersandcoders/css-gallery-challenge): 1hr
-
 ## Day 5
 - [How to code review](./codereviewintro.md)
 - [Intro to project presentations](https://founders-and-coders.gitbook.io/coursebook/documents/projects#project-presentation)
