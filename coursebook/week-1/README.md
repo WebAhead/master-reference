@@ -37,8 +37,10 @@
 ## Day 3
 
 - [Morning Challenge - Learn HTML forms](https://github.com/oliverjam/learn-html-forms/)
+- [Projects](./project.md)
 
 ## Day 4
+- [Projects](./project.md)
 
 ## Day 5
 - [How to code review](./codereviewintro.md)
