@@ -25,7 +25,7 @@
 
 ## Day 3
  - [Projects](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-2/project.md)
- 
+ - 14:00 - 18:00 Code Review, Presentations and SGC 
 ## Day 4
  
 ## Day 5
