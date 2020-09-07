@@ -1,7 +1,3 @@
----
-tags: WebAhead
----
-
 # Workshops list
 
 This is the list of workshops that we have in the course, some are in the curriculum and some are not.
