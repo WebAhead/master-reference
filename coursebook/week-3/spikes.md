@@ -9,26 +9,30 @@ How would you effectively find out where (and why) an error is occurring in your
 1. What `console` methods are there other than `console.log`? Can these help us debug?
 1. What does the `debugger;` statement do?
 1. How do we use the debugger in our browser?
+1. How can we debug network requests ? and how can we manually send test requests outside of our browser?
 
 ### Useful resources
 
 - [How to get the most out of the JavaScript console](https://www.freecodecamp.org/news/how-to-get-the-most-out-of-the-javascript-console-b57ca9db3e6d/)
 - [Get Started with Debugging JavaScript in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/)
-
-## Debugging network requests
-
-How can we send and receive test network requests while working on an application?
-
-### Questions to consider
-
-1. How can we inspect any requests the browser is making on an HTML page?
-1. How can we manually send test requests outside of our browser?
-
-### Useful resources
-
 - [Inspect Network Activity In Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/network/)
-- [Sending requests with Postman](https://learning.postman.com/docs/postman/launching-postman/sending-the-first-request/)
-- [cURL tutorial](https://www.booleanworld.com/curl-command-tutorial-examples/)
+- [Getting started with Insomnia](https://support.insomnia.rest/article/11-getting-started)
+
+## GIT
+
+1. What is origin ? _eg. `git push origin master`_
+2. How can you find the current origin ? and How can you change the origin's url ?
+3. different uses of `git-reset`.
+4. Talk about and give a demo of the following commands, when would you use each one?:
+    - `git stash` & `git stash pop`
+    - `git diff`
+    - `git log`
+    - `git fetch`
+
+### Useful links
+- [Git documentation](https://git-scm.com/doc)
+- [An aggressive blogpost about git :laughing: ](https://ohshitgit.com/)
+
 
 ## Debugging HTML & CSS
 
@@ -47,13 +51,13 @@ How can we find out _why_ our page doesn't look right?
 - [Simulate Mobile Devices with Device Mode in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/device-mode/)
 - [A Guide To New And Experimental CSS DevTools In Firefox](https://www.smashingmagazine.com/2019/10/guide-new-experimental-css-devtools-firefox/)
 
-## Async JavaScript
+## Asynchronous JavaScript
 
 How does JS handle asynchronous code?
 
 ### Questions to consider
 
-1. What do we mean by "asynchronous code"? What is "blocking code"?
+1. What's the difference between "synchronous" and "asynchronous" code? Why might synchronous code be called "blocking"?
 1. What are the event loop and the call stack?
 1. How do callbacks and promises help us?
 
