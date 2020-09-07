@@ -41,3 +41,11 @@ the list might be also missing a couple of old workshops that i couldn't bother 
 - [Morning Challenge - Array methods Challenge](https://github.com/WebAhead/array-methods): 1hr
 
 ### Week 4 (Testing)
+- [Introduction to testing](https://docs.google.com/presentation/d/1t9iD7JpWQsCu3tlb7fSojiu4ypKbyOZkeX87ZK-MUhY/edit?usp=sharing): 30mins
+- [Build a testing library](https://github.com/oliverjam/learn-testing/) : 1hr
+- [Unit testing workshop](https://github.com/oliverjam/learn-unit-testing) : 1hr30mins
+- [Integration testing workshop](https://github.com/oliverjam/learn-integration-testing) : 2hr
+- [TDD array methods](https://github.com/oliverjam/tdd-array-methods): 2hr
+- [Scope morning challenge](https://github.com/oliverjam/js-scope-challenge) : 1hr
+
+### Week 5 (Node)
