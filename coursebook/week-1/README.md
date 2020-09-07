@@ -8,9 +8,8 @@
 - [Resources](./resources)
 
 ## Schedule
-- [Default schedule](../schedules/default.md)
 
-## Day 1
+### Day 1
 
 - [Welcome talk](http://facresources.com/slides/students-day-1-talk#/): 30mins
 - [Name Game](./resources/name-game.md): 1hr
@@ -27,22 +26,22 @@
 - Introduction to [Pair Programming](./pair-programming.md): 1hr
 
 
-## Day 2
+### Day 2
 
 - [HTML workshop](https://github.com/WebAhead/html-workshop/): 3hr
 - [CSS workshop](https://github.com/WebAhead/css-workshop/): 3hr
 - [Git intro workshop](https://docs.google.com/presentation/d/1mu0WhcOG9poJrLlHmWV7ix2dNrFSYWw3BkpjbY0D0gE/edit?usp=sharing): 1hr
 
 
-## Day 3
+### Day 3
 
 - [Morning Challenge - Learn HTML forms](https://github.com/oliverjam/learn-html-forms/)
 - [Projects](./project.md)
 
-## Day 4
+### Day 4
 - [Projects](./project.md)
 
-## Day 5
+### Day 5
 - [How to code review](./codereviewintro.md)
 - [Intro to project presentations](https://founders-and-coders.gitbook.io/coursebook/documents/projects#project-presentation)
 - [Intro to cohort Stop Go Continue](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/general/retrospectives.md#cohort-retrospective)
