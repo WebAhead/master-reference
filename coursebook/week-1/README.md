@@ -3,7 +3,6 @@
 ## Contents
 
 - [Learning Outcomes](./learning-outcomes.md)
-- [Research topics](./research-afternoon.md)
 - [Project](./project.md)
 - [Resources](./resources)
 
