@@ -7,7 +7,6 @@
 - [Resources](./resources)
 
 ## Schedule
-- [Default schedule](../schedules/default.md)
 
 ### DAY 1
 
