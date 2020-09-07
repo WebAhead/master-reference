@@ -1,4 +1,4 @@
-# Toolkit week
+# DOM week
 
 ## Contents
 
