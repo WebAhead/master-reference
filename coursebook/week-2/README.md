@@ -13,7 +13,7 @@
 - [JS recap](https://github.com/WebAhead/js-recap) workshop: 2hr
 - [Introduction to DOM manipulation](./dom-intro.md): 2hr
 - [Practice DOM](https://github.com/WebAhead/practice-dom): 2hr
-- [Learn CSS variables](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-2/dom-manipulation-ws.md): 1hr
+- [Learn CSS variables](https://github.com/bobbysebolao/learn-css-variables): 1hr
 
 ### Day 2
 
