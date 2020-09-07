@@ -10,25 +10,23 @@
 ## Schedule
 - [Default schedule](../schedules/default.md)
 
+## Changed schedule because of holidays
 ## Day 1
 
 - [JS recap](https://github.com/WebAhead/js-recap) workshop: 2hr
 - [Introduction to DOM manipulation](./dom-intro.md): 2hr
+- [Practice DOM](https://github.com/WebAhead/practice-dom): 2hr
 - [Learn CSS variables](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-2/dom-manipulation-ws.md): 1hr
-- [Accessibility Workshop](https://github.com/foundersandcoders/web-accessibility/blob/master/putting-yourself-in-someone-elses-shoes.md): 1hr
-
 
 ## Day 2
 
 - [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 2hrs
-- [Technical spikes and presentations intro](https://founders-and-coders.gitbook.io/coursebook/student-handbook/spikes): 30mins 
-- [Technical spikes](https://hackmd.io/@EwoSz9j0TESPquoLzQMY_w/S11XEHoC8) 4hr
+- [Projects](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-2/project.md)
 
 ## Day 3
  - [Projects](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-2/project.md)
  
 ## Day 4
- - [Projects](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-2/project.md)
  
 ## Day 5
 - [Code review](./codereviewintro.md)
