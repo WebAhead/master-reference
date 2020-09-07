@@ -25,3 +25,13 @@
 ### Day 3
 
 - [Morning Challenge - Array methods Challenge](https://github.com/WebAhead/array-methods): 1hr
+- [Project](./project.md)
+
+### Day 4
+- [Project](./project.md)
+
+### Day 5
+- Code review
+- Fixing issues
+- Presentation
+- SGC
