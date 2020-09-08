@@ -15,7 +15,7 @@
 - [Destructuring morning challenge](https://github.com/oliverjam/learn-destructuring): 1hr
 
 ### Day 2
-- [Modules workshop](https://github.com/m4v15/going-on-a-bear-hunt): 3hr
+- [Modules workshop](https://github.com/WebAhead/going-on-a-bear-hunt/blob/master/README.md): 3hr
 - [Backend API call](https://github.com/foundersandcoders/mc-request-module-workshop): 1.5hr
 
 
