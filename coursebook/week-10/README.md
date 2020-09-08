@@ -1,62 +1,35 @@
-# React Week
+# Authentication Week
 
-🌐
+## Contents
 
-## Learning Outcomes
-
-1. How modern frontend works
-    - The differences between server-rendered and single-page apps
-    - Why frontend is great/hard
-1. React's benefits/tradeoffs
-1. The React API
-    - JSX/React elements
-    - Function components
-    - Component state
-    - Effects
-    - Class components
-1. Real-world React patterns
-1. Testing React components
-1. How bundlers work (ish)
-    - Modularising frontend code
+- [Learning Outcomes](./learning-outcomes.md)
+- [Project](./project.md)
+- [Resources](./resources)
 
 ## Schedule
 
 ### Day 1
- 
-10:00-10:30 [Modern frontend & how React fits in](https://hackmd.io/@EwoSz9j0TESPquoLzQMY_w/HJXKYu0QU#/) (talk/discussion)  
-10:30-13:00 [React API](https://github.com/oliverjam/learn-react) (workshop)  
-_13:00-14:00 Lunch_  
-14:00-15:00 [React API](https://github.com/oliverjam/learn-react) (workshop continued)  
-15:00-18:00 [Build a filterable product page](https://github.com/oliverjam/react-food-workshop) (mini project)  
+
+- [Auth week intro](https://docs.google.com/presentation/d/1RjM9IouH_Xj2xYM0XkkBczxDiERBjZx6piBv4wP2w3U/edit#slide=id.p50) 20min
+
+- [authentication-workshop](https://github.com/WebAhead/authentication-workshop) 5 - 6hr
 
 ### Day 2
 
-10:00-11:00 [Destructuring morning challenge](https://github.com/oliverjam/learn-destructuring) (morning challenge)  *to be removed before WA7 since it was moved to week 6*          
-11:00-13:30 [React with dynamic data](https://github.com/sofiapoh/react-dynamic-data-workshop)  
-_13:30-14:30 Lunch_  
-14:30-16:30 [Testing React components](https://github.com/oliverjam/learn-react-testing)  
-16:30-17:30 [Project set-up](https://github.com/foundersandcoders/react-week/blob/master/project.md)  
-17:30-18:00 Project planning  
+- Morning Challenge on [client side validation](https://github.com/foundersandcoders/mc-client-side-validation): 1hr
+- Morning challenge on [Create an Animated App Drawer](https://github.com/foundersandcoders/morning-challenge-animated-app-drawer): 1hr
+
+- [Technical spikes](https://github.com/foundersandcoders/coursebook/blob/main/curriculum/authentication/spikes.md)
 
 ### Day 3
 
-10:00-11:00 [Refactor classes to hooks](https://github.com/oliverjam/react-refactor-class-hooks) (morning challenge)  
-11:00-13:00 Projects  
-_13:00-14:00 Lunch_  
-14:00-17:00 Projects  
-17:00-18:00 Talk  
-
+- [Reading week checklist](https://github.com/webahead/master-reference/blob/master/coursebook/general/reading-week-checklist.md)
 
 ### Day 4
 
-10:00-13:00 Projects  
-_13:00-14:00 Lunch_  
-14:00-18:00 Projects  
-
 ### Day 5
-10:00-11:00 Code review  
-11:00-13:00 Fixing issues/planning presentations  
-_13:00-14:00 Lunch_  
-14:00-16:00 Present projects  
-16:00-17:00 Stop-go-continue  
-17:00 Pub  
+
+- Code review  
+- Fixing issues
+- Presentations
+- SGC

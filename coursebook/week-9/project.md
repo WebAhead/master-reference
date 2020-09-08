@@ -1,28 +1,23 @@
 ## Project
+
+Build a server-rendered full-stack app
+
 ### Task
 
-You are free to create any kind of site that you like, so get creative!
+- Build an app using the Express framework.
+- Use a PostgreSQL database to store and retrieve your data.
+- Use the retrieved data to populate a Handlebars template for _server-side_ rendering to be displayed on the front-end.
 
-Make sure you're creating your site from a user-centred design perspective, by starting your planning phase with user stories. You always want to be building the most important features first.
+### Goals
 
-The only limits are that your project must fulfill the requirements below.
+The primary aim of this project is to get comfortable with setting up an Express server and to discover the awesomeness of Handlebars! Spend time considering how to format your layouts, partials and helper functions.
 
-### Requirements
-+ [ ] Login form with 2 fields - username and password
-+ [ ] Users only have to log in once (i.e. implement a cookie-based session on login)
-+ [ ] Username is visible on each page of the site after logging in
-+ [ ] Any user-submitted content should be labelled with the authors username
-+ [ ] There should be protected routes and unprotected routes that depend on the user having a cookie or not (or what level of access they have).
-+ [ ] Website content should be stored in a database
-+ [ ] Include thorough tests on the back-end, testing pure functions and testing routes using Supertest. If you make external API calls, use Nock to mock the response for your tests.
-+ [ ] Test front-end logic, we don't expect tests on the DOM.
+Previous cohorts have built apps where users can share, for example, blog posts, jokes, photos etc. But the app can be about anything as long as you are covering project's technology tasks and goals.
 
-#### Possible stretch goals
-+ [ ] Client-side _and_ server-side validation on login form, including error handling that provides feedback to users
-+ [ ] Add roles and permissions - Have an "admin" level user (role) who can edit and delete all content :scream: (permissions)
-+ [ ] Add comment functionality to content
-+ [ ] Add like functionality to content
-+ [ ] Allow users to delete the content that they have submitted
+### What's also important:
 
-#### Examples
-You could use auth to make a game, a todo app, a [twitter clone](http://canaryapp.herokuapp.com/) :heart: or whatever.
+- Include tests and set up code coverage.
+- We expect to see unit tests of pure functions, and integration tests of your server routes, including tests for errors such as 404.
+- You should write tests for your database and use a separate test database and build script.
+- Use Heroku or a similar service to host the app and the database.
+- Try to include ES6 syntax on the server.

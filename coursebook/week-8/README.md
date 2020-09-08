@@ -1,30 +1,40 @@
-# Express and Handlebars week
+# React Week
 
-## Menu
+🌐
+
+## Contents
 
 - [Learning Outcomes](./learning-outcomes.md)
-- [Research topics](./research-afternoon.md)
 - [Project](./project.md)
 - [Resources](./resources)
 
 ## Schedule
 
-- [Default schedule](../schedules/default.md)
-
 ### Day 1
-
-- [Introduction to Express](https://github.com/foundersandcoders/introduction-to-express): 15mins
-- [Express-Workshop](https://github.com/foundersandcoders/express-workshop): 2hrs 30mins
-- Start the Handlebars workshop :arrow_down:
+ 
+- [Modern frontend & how React fits in](https://hackmd.io/@EwoSz9j0TESPquoLzQMY_w/HJXKYu0QU#/) (talk/discussion)  
+- [React API](https://github.com/oliverjam/learn-react) (workshop continued)  
+- [Build a filterable product page](https://github.com/oliverjam/react-food-workshop) (mini project)  
 
 ### Day 2
 
--  Handlebars:
-   - [Presentation](https://docs.google.com/presentation/d/1AHAMQxpudl0zwwR2yADIoB7Luf58urJpKaqqTb1dhu0/edit?usp=sharing)
-   - [Templating](https://github.com/WebAhead/templating)
-   - [Handlebars](https://github.com/m4v15/country-express)
+- [React with dynamic data](https://github.com/sofiapoh/react-dynamic-data-workshop)
+- [Testing React components](https://github.com/oliverjam/learn-react-testing)  
+- [Project set-up](./project.md)  
+- Project planning
 
 ### Day 3
 
-- [Express-Handlebars - Morning Challenge](https://github.com/foundersandcoders/express-handlebars-challenge): 1hr
-- [Reading week checklist](https://github.com/webahead/master-reference/blob/master/coursebook/general/reading-week-checklist.md)
+- [Refactor classes to hooks](https://github.com/oliverjam/react-refactor-class-hooks) (morning challenge)  
+- [Projects](./project.md)
+
+### Day 4
+
+- [Projects](./project.md)
+
+### Day 5
+
+- Code review  
+- Fixing issues
+- Presentations
+- SGC

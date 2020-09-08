@@ -1,25 +1,35 @@
-# Authentication Week
+# Express and Handlebars week
 
-## Contents
+## Menu
 
 - [Learning Outcomes](./learning-outcomes.md)
-- [Research topics](./https://github.com/foundersandcoders/coursebook/blob/main/curriculum/authentication/spikes.md)
 - [Project](./project.md)
 - [Resources](./resources)
 
-## Alternative schedule
+## Schedule
 
 ### Day 1
 
-- [Auth week intro](https://docs.google.com/presentation/d/1RjM9IouH_Xj2xYM0XkkBczxDiERBjZx6piBv4wP2w3U/edit#slide=id.p50) 20min
-
-- [authentication-workshop](https://github.com/WebAhead/authentication-workshop) 5 - 6hr
+- [Express intro](https://github.com/oliverjam/express-intro): 0.5hr
+- [Learn Express](https://github.com/oliverjam/learn-express): 2hr
+- [Express middleware](https://github.com/oliverjam/learn-express-middleware): 2hr
+- [Technical spikes](./spikes.md)
 
 ### Day 2
 
-- Morning Challenge on [client side validation](https://github.com/foundersandcoders/mc-client-side-validation): 1hr
-- Morning challenge on [Create an Animated App Drawer](https://github.com/foundersandcoders/morning-challenge-animated-app-drawer): 1hr
+- [Technical spikes](./spikes.md)
+- [Rest APIs](https://github.com/oliverjam/learn-rest-apis)
 
-- [Technical spikes](https://github.com/foundersandcoders/coursebook/blob/main/curriculum/authentication/spikes.md)
 ### Day 3
 
+- [Express-Handlebars - Morning Challenge](https://github.com/foundersandcoders/express-handlebars-challenge): 1hr
+
+### Day 4
+
+
+### Day 5
+
+- Code review  
+- Fixing issues
+- Presentations
+- SGC

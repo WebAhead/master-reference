@@ -76,3 +76,13 @@ the list might be also missing a couple of old workshops that i couldn't bother 
 15:00-18:00 [Build a filterable product page](https://github.com/oliverjam/react-food-workshop) (mini project) 
 14:30-16:30 [Testing React components](https://github.com/oliverjam/learn-react-testing)  
 16:30-17:30 [Project set-up](https://github.com/foundersandcoders/react-week/blob/master/project.md)  
+
+### Week (Express)
+
+- [Introduction to Express](https://github.com/foundersandcoders/introduction-to-express): 15mins
+- [Express-Workshop](https://github.com/foundersandcoders/express-workshop): 2hrs 30mins
+- [HBS Presentation](https://docs.google.com/presentation/d/1AHAMQxpudl0zwwR2yADIoB7Luf58urJpKaqqTb1dhu0/edit?usp=sharing)
+- [HBS Templating](https://github.com/WebAhead/templating)
+- [HBS Handlebars](https://github.com/m4v15/country-express)
+- [Express-Handlebars - Morning Challenge](https://github.com/foundersandcoders/express-handlebars-challenge): 1hr
+- [Express intro](https://github.com/oliverjam/express-intro)
