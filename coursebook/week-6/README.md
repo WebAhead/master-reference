@@ -11,7 +11,6 @@
 ### Day 1
 - [Design burst: layout and spacing](http://facresources.com/slides/design-burst-week2.html#/): 15mins
 - [Learn CSS layout and spacing](https://github.com/bobbysebolao/learn-css-flexbox): 1hr
-- [Destructuring morning challenge](https://github.com/oliverjam/learn-destructuring): 1hr
 - [Workshop on error handling](https://github.com/oliverjam/learn-node-error-handling): 2hrs 30mins
 - Office hours
 
