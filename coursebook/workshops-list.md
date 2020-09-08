@@ -63,3 +63,16 @@ the list might be also missing a couple of old workshops that i couldn't bother 
 
 ### Week (Databases)
 
+- Intro to databases [presentation](https://docs.google.com/presentation/d/1Mvj4VgXKCRW0rvFZxMu1Tqv4QISGN5fL-WQQ2S869Yc/edit?usp=sharing): 1hr
+- [PostgreSQL installation instructions](https://github.com/macintoshhelper/learn-sql/blob/master/postgresql/setup.md) and [`sql-commands-intro` workshop](https://github.com/foundersandcoders/sql-commands-intro/): 2hrs
+- [PostgreSQL with node](https://github.com/oliverjam/learn-node-postgres): 2hrs
+- [DB testing](https://github.com/oliverjam/learn-database-testing): 2hr
+
+
+### Week (React)
+
+10:00-10:30 [Modern frontend & how React fits in](https://hackmd.io/@EwoSz9j0TESPquoLzQMY_w/HJXKYu0QU#/) (talk/discussion)  
+10:30-13:00 [React API](https://github.com/oliverjam/learn-react) (workshop)  
+15:00-18:00 [Build a filterable product page](https://github.com/oliverjam/react-food-workshop) (mini project) 
+14:30-16:30 [Testing React components](https://github.com/oliverjam/learn-react-testing)  
+16:30-17:30 [Project set-up](https://github.com/foundersandcoders/react-week/blob/master/project.md)  
