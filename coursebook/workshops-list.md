@@ -3,7 +3,7 @@
 This is the list of workshops that we have in the course, some are in the curriculum and some are not.
 the list might be also missing a couple of old workshops that i couldn't bother to search for.
 
-### Week 1 (HTML CSS + Toolkit)
+### Week (HTML CSS + Toolkit)
 
 - Introduction to [Ubuntu](https://github.com/WebAhead/ubuntu-intro/): 3hr
 - Introduction to the [command line interface - cli](https://github.com/WebAhead/cli-intro): 1hr
@@ -13,9 +13,11 @@ the list might be also missing a couple of old workshops that i couldn't bother 
 - [Git intro workshop](https://docs.google.com/presentation/d/1mu0WhcOG9poJrLlHmWV7ix2dNrFSYWw3BkpjbY0D0gE/edit?usp=sharing): 1hr
 - [Morning Challenge - Learn HTML forms](https://github.com/oliverjam/learn-html-forms/)
 - no technical spikes
+- [Learn CSS grid](https://github.com/bobbysebolao/learn-css-grid)
+- [Design burst: layout and spacing](http://facresources.com/slides/design-burst-week2.html#/)
+- [Learn CSS layout and spacing](https://github.com/bobbysebolao/learn-css-flexbox)
 
-
-### Week 2 (DOM)
+### Week (DOM)
 
 - [JS recap](https://github.com/WebAhead/js-recap) workshop: 2hr
 - [Introduction to DOM manipulation](./dom-intro.md): 2hr
@@ -26,7 +28,7 @@ the list might be also missing a couple of old workshops that i couldn't bother 
 - [Technical spikes and presentations intro](https://founders-and-coders.gitbook.io/coursebook/student-handbook/spikes): 30mins 
 - [Technical spikes](https://hackmd.io/@EwoSz9j0TESPquoLzQMY_w/S11XEHoC8) 4hr
 
-### Week 3 (API)
+### Week (API)
 
 - [Introductory workshop](https://github.com/shiryz/api-workshop): API basics, HTTP, XMLHttp requests, request-response pattern: 1hr 30mins
 - [First-class functions](https://github.com/oliverjam/first-class-functions) : Functions and callbacks : 2hr
@@ -36,7 +38,7 @@ the list might be also missing a couple of old workshops that i couldn't bother 
 - [Real world fetch](https://github.com/oliverjam/real-world-fetch): 2hr
 - [Morning Challenge - Array methods Challenge](https://github.com/WebAhead/array-methods): 1hr
 
-### Week 4 (Testing)
+### Week (Testing)
 - [Introduction to testing](https://docs.google.com/presentation/d/1t9iD7JpWQsCu3tlb7fSojiu4ypKbyOZkeX87ZK-MUhY/edit?usp=sharing): 30mins
 - [Build a testing library](https://github.com/oliverjam/learn-testing/) : 1hr
 - [Unit testing workshop](https://github.com/oliverjam/learn-unit-testing) : 1hr30mins
@@ -44,4 +46,20 @@ the list might be also missing a couple of old workshops that i couldn't bother 
 - [TDD array methods](https://github.com/oliverjam/tdd-array-methods): 2hr
 - [Scope morning challenge](https://github.com/oliverjam/js-scope-challenge) : 1hr
 
-### Week 5 (Node)
+### Week (Node)
+- [Node Intro Workshop](https://github.com/oliverjam/node-introduction): 30mins
+- [Node HTTP servers](https://github.com/oliverjam/node-http-server): 3hrs
+- [npm introduction](https://github.com/foundersandcoders/npm-introduction): 30mins
+- [Node file servers](https://github.com/oliverjam/node-file-server): 2hrs
+- [TDD node servers](https://github.com/foundersandcoders/ws-tdd-node-server): 2hrs
+- [ES6 morning challenge](./morning-challenge-day-2.md): 1hr 30mins
+- 
+- [Software architecture](https://github.com/WebAhead/Workshop-Software-Architecture-Design/blob/master/README.md): 45mins
+- [Backend API call](https://github.com/foundersandcoders/mc-request-module-workshop): 1.5hr
+- [Workshop on error handling](https://github.com/oliverjam/learn-node-error-handling): 2hrs 30mins
+- [Destructuring morning challenge](https://github.com/oliverjam/learn-destructuring): 1hr
+- [Node shell workshop - Lesson 1](https://github.com/foundersandcoders/Node-Shell-Workshop/blob/master/LESSON1.md): 2hr
+- [Modules workshop](https://github.com/m4v15/going-on-a-bear-hunt): 3hr (<- that's m4v15's version WebAheads version -> https://github.com/WebAhead/going-on-a-bear-hunt/blob/master/README.md)
+
+### Week (Databases)
+
