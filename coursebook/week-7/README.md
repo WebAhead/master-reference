@@ -3,13 +3,10 @@
 ## Menu
 
 - [Learning Outcomes](./learning-outcomes.md)
-- [Research topics](./spikes.md)
 - [Project](./project.md)
 - [Resources](./resources)
 
 ## Schedule
-
-- [Default schedule](../schedules/default.md)
 
 ### Day 1
 
@@ -25,3 +22,15 @@
 ### Day 3
 
 - Create a heroku database (code along)
+- [Projects](./project.md)
+
+### Day 4 
+
+- [Projects](./project.md)
+
+### Day 5
+
+- Code review
+- Fixing issues
+- Presentations
+- SGC
