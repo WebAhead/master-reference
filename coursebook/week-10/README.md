@@ -16,8 +16,8 @@
 
 ### Day 2
 
-- Morning Challenge on [client side validation](https://github.com/foundersandcoders/mc-client-side-validation): 1hr
-- Morning challenge on [Create an Animated App Drawer](https://github.com/foundersandcoders/morning-challenge-animated-app-drawer): 1hr
+- [client side validation](https://github.com/foundersandcoders/mc-client-side-validation): 1hr
+- [Rest APIs](https://github.com/oliverjam/learn-rest-apis)
 
 - [Technical spikes](https://github.com/foundersandcoders/coursebook/blob/main/curriculum/authentication/spikes.md)
 
