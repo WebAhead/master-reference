@@ -18,11 +18,10 @@
 ### Day 2
 
 - [Technical spikes](./spikes.md)
-- [Rest APIs](https://github.com/oliverjam/learn-rest-apis)
+- [Mocking morning challenge](https://github.com/oliverjam/http-mocking-challenge): 1hr
 
 ### Day 3
 
-- [Mocking morning challenge](https://github.com/oliverjam/http-mocking-challenge): 1hr
 
 ### Day 4
 
