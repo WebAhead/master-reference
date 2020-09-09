@@ -1,4 +1,4 @@
-# Express and Handlebars week
+# Express week
 
 ## Menu
 
