@@ -3,7 +3,7 @@
 ## Contents
 
 - [Learning Outcomes](./learning-outcomes.md)
-- [Project](./project.md)
+- [Projects](./project.md)
 - [Resources](./resources)
 
 ## Schedule
@@ -11,21 +11,21 @@
 ### Day 1
 
 - [Auth week intro](https://docs.google.com/presentation/d/1RjM9IouH_Xj2xYM0XkkBczxDiERBjZx6piBv4wP2w3U/edit#slide=id.p50) 20min
-
 - [authentication-workshop](https://github.com/WebAhead/authentication-workshop) 5 - 6hr
 
 ### Day 2
 
 - [client side validation](https://github.com/foundersandcoders/mc-client-side-validation): 1hr
 - [Rest APIs](https://github.com/oliverjam/learn-rest-apis)
-
 - [Technical spikes](https://github.com/foundersandcoders/coursebook/blob/main/curriculum/authentication/spikes.md)
 
 ### Day 3
 
-- [Reading week checklist](https://github.com/webahead/master-reference/blob/master/coursebook/general/reading-week-checklist.md)
+- [Projects](./project.md)
 
 ### Day 4
+
+- [Projects](./project.md)
 
 ### Day 5
 
@@ -33,3 +33,4 @@
 - Fixing issues
 - Presentations
 - SGC
+- [Reading week checklist](https://github.com/webahead/master-reference/blob/master/coursebook/general/reading-week-checklist.md)
