@@ -1,12 +1,10 @@
 # Coursebook
 
-Welcome to the coursebook for WebAhead!
-
-For general information, including an overview of the course, applicable across the curriculum [start here](general/README.md).
+### Welcome to the coursebook for WebAhead! :tada:
 
 For materials to complete before arrival, you can find our precourse [here](precourse/README.md).
 
-The first nine weeks will provide you with the necessary building blocks for creating a web app:
+The first eleven weeks will provide you with the necessary building blocks for creating a web app:
 * [Week 1](week-1/README.md)  - HTML/CSS
 * [Week 2](week-2/README.md)  - Javascript
 * [Week 3](week-3/README.md)  - APIs
