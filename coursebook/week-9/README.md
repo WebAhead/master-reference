@@ -22,7 +22,7 @@
 
 ### Day 3
 
-- [Express-Handlebars - Morning Challenge](https://github.com/foundersandcoders/express-handlebars-challenge): 1hr
+- [Mocking morning challenge](https://github.com/oliverjam/http-mocking-challenge): 1hr
 
 ### Day 4
 
