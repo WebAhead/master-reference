@@ -16,8 +16,8 @@
 
 ### Day 2
 
-- [DB testing](https://github.com/oliverjam/learn-database-testing): 2hr
 - [Destructuring morning challenge](https://github.com/oliverjam/learn-destructuring): 1hr
+- [DB testing](https://github.com/oliverjam/learn-database-testing): 2hr
 - [Technical spikes](./spikes.md): 3hr
 
 ### Day 3
