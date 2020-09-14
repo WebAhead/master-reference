@@ -19,7 +19,7 @@
 
 - [Technical spikes](https://github.com/foundersandcoders/coursebook/blob/main/curriculum/authentication/spikes.md)
 - [Client authentication token](https://github.com/WebAhead/client-token-auth)
-- [client side validation](https://github.com/foundersandcoders/mc-client-side-validation): 1hr
+- [Projects](./project.md)
 
 ### Day 3
 
