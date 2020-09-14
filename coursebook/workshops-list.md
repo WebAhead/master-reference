@@ -86,3 +86,8 @@ the list might be also missing a couple of old workshops that i couldn't bother 
 - [HBS Handlebars](https://github.com/m4v15/country-express)
 - [Express-Handlebars - Morning Challenge](https://github.com/foundersandcoders/express-handlebars-challenge): 1hr
 - [Express intro](https://github.com/oliverjam/express-intro)
+
+### Week (Authentication)
+- [Auth week intro](https://docs.google.com/presentation/d/1RjM9IouH_Xj2xYM0XkkBczxDiERBjZx6piBv4wP2w3U/edit#slide=id.p50) 20min
+- [Rest APIs](https://github.com/oliverjam/learn-rest-apis)
+- [Client authentication token](https://github.com/WebAhead/client-token-auth)
