@@ -22,6 +22,7 @@
 
 ### Day 3
 
+- [client side validation](https://github.com/foundersandcoders/mc-client-side-validation): 1hr
 - Create a heroku database (code along)
 - [Projects](./project.md)
 
