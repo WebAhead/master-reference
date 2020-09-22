@@ -23,7 +23,6 @@
 
 ### Day 3
 
-- [Scope morning challenge](https://github.com/oliverjam/js-scope-challenge) : 1hr
 - [Introduce Project](./project): 15mins
 - [Projects](./project)
 
