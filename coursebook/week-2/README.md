@@ -22,7 +22,9 @@
 - [Technical spikes](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-2/research-afternoon.md)
 
 ### Day 3
- - [Projects](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-2/project.md)
+
+- [Morning Challenge - Array methods Challenge](https://github.com/WebAhead/array-methods): 1hr
+- [Projects](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-2/project.md)
 
 ### Day 4
 - [Projects](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-2/project.md)
