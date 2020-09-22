@@ -6,7 +6,6 @@
 - [Project](./project.md)
 
 ## Schedule
-> Changed schedule because of holidays
 
 ### Day 1
 
