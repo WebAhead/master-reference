@@ -18,13 +18,14 @@
 ### Day 2
 
 - [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 2hrs
-- [Projects](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-2/project.md)
+- [Technical spikes guide](https://founders-and-coders.gitbook.io/coursebook/student-handbook/spikes): 15min
+- [Technical spikes](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-2/research-afternoon.md)
 
 ### Day 3
  - [Projects](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-2/project.md)
- - 14:00 - 18:00 Code Review, Presentations and SGC 
 
 ### Day 4
+- [Projects](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-2/project.md)
  
 ### Day 5
 - Code review
