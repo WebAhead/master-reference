@@ -25,14 +25,18 @@
 ## Git
 1. What is origin ? _eg. `git push origin master`_
 2. How can you find the current origin ? and How can you change the origin's url ?
-3. How to merge between 2 branches using `git merge` ? 
-  What would happen if you do `git merge master current-branch` 
+3. How to merge between 2 branches using `git merge` ?
+  What would happen if you do `git merge master current-branch`
 4. different uses of `git-reset`.
 5. Talk about and give a demo of the following commands, when would you use each one?:
     - `git stash` & `git stsah pop`
     - `git diff`
     - `git log`
-    - `git fetch` 
+    - `git fetch`
+
+### Useful links
+- [Git documentation](https://git-scm.com/doc)
+- [An aggressive blogpost about git :laughing: ](https://ohshitgit.com/)
 
 ## Advanced JavaScript
 1. Value vs. reference types in JavaScript
