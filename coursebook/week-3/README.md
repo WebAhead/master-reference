@@ -23,7 +23,7 @@
 
 ### Day 3
 
-- [Morning Challenge - Array methods Challenge](https://github.com/WebAhead/array-methods): 1hr
+- [Scope morning challenge](https://github.com/oliverjam/js-scope-challenge) : 1hr
 - [Project](./project.md)
 
 ### Day 4
