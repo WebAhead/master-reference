@@ -20,7 +20,7 @@ _**A [user story](https://www.visual-paradigm.com/guide/agile-software-developme
 - Browse your website on mobile, tablet, and desktop devices
 - Click to navigate to different sections of your webpage
 - Contact you to enquire about working with you
-- Visit your website at a publicly accessible domain name
+- Visit your website at a publicly accessible domain name (using [Github pages](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/creating-a-github-pages-site))
 
 ## Acceptance Criteria
 
