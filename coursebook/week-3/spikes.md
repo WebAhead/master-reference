@@ -9,14 +9,11 @@ How would you effectively find out where (and why) an error is occurring in your
 1. What `console` methods are there other than `console.log`? Can these help us debug?
 1. What does the `debugger;` statement do?
 1. How do we use the debugger in our browser?
-1. How can we debug network requests ? and how can we manually send test requests outside of our browser?
 
 ### Useful resources
 
 - [How to get the most out of the JavaScript console](https://www.freecodecamp.org/news/how-to-get-the-most-out-of-the-javascript-console-b57ca9db3e6d/)
 - [Get Started with Debugging JavaScript in Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/)
-- [Inspect Network Activity In Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/network/)
-- [Getting started with Insomnia](https://support.insomnia.rest/article/11-getting-started)
 
 
 ## Debugging network requests
