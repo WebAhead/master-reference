@@ -1,10 +1,10 @@
 # React project
 
-Build either a social media or an e-commerce react app you can choose the theme and the topic of the app. 
-next week we are going to learn how to build a Nodejs server using the ExpressJs framework, and we are going to use next week's project, as an
-API for this React project. 
+Build either a social media or an e-commerce react app, you can choose the theme and the topic of the app.
 
-So for this week's project build the React app with fake data (you might use this fake data as the structure for your database next week), 
+The app will connect to an API, make sure your code is structured that way. We will build this API next week using express.js.
+
+So for this week's project build the React app with dummy(fake) data (you might use this fake data as the structure for your database next week), 
 or use LocalStorage for time being if you want some data to be saved.
 
 ## Criteria
