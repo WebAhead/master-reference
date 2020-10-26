@@ -1,34 +1,25 @@
-# React game project
+# React project
 
-The goal is to build an interactive game-like thing that uses data from an API.
+Build either a social media or an e-commerce react app you can choose the theme and the topic of the app. 
+next week we are going to learn how to build a Nodejs server using the ExpressJs framework, and we are going to use next week's project, as an
+API for this React project. 
+
+So for this week's project build the React app with fake data (you might use this fake data as the structure for your database next week), 
+or use LocalStorage for time being if you want some data to be saved.
 
 ## Criteria
 
-- Accept some user input (e.g. a username)
-- Query an API (e.g. the [Github API](https://developer.github.com/v3/), or any other [fun one](https://www.potterapi.com/))
-- Populate the UI with API data
+- Accept some user input
+- Populate the UI with fake data
 - Have some form of persistent state and interactivity, e.g.
-  - A hunger bar that decreases over time and is topped up when you feed them stars
-  - A button to add more users to your collection
+  - A cart where you save the selected items
+  - What posts did you like today
 - Have integration tests using React Testing Library
 
 ### Stretch criteria
 
-- Save your state to localstorage so you can leave the page and come back later
-- Have a button to add more copies of the game
 - Make it look sick
-
-## Examples
-
-"Interactive game-like thing" is a bit vague, so here are some apps built previously:
-
-[GIT FIGHTER II](https://camko.netlify.app/)
-
-[Let's Go Pokémon Battle](https://lets-go-pokemon-battle.netlify.app/)
-
-[Oli's Tamagotchi](https://tamagotchi.netlify.com)  
-
-[Zooey's Drake thing](https://fuckin-yolo.netlify.com/)
+- Query a third party API (e.g. the [Github API](https://developer.github.com/v3/), or any other [fun one](https://www.potterapi.com/))
 
 ## Setup
 
