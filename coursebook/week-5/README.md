@@ -22,7 +22,6 @@
 
 ### Day 3
 
-- [ES6 morning challenge](./morning-challenge-day-2.md): 1hr 30mins
 - [Projects](./project.md)
 
 ### Day 4
