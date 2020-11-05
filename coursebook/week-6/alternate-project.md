@@ -22,7 +22,7 @@ Example:
 
 ### Helpful steps to draw the diagram
 
-1. When the user selects a suggestion, that suggestion (or the compelte word) would be sent to our server.
+1. When the user selects a suggestion, that suggestion (or the complete word) would be sent to our server.
 2. Our server based on that suggestion would fetch the appropriate from an API
 3. The api would respond with the data.
 4. Our server would send the relevant data back to our frontend.
