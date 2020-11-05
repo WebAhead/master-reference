@@ -15,7 +15,7 @@
 - Office hours
 
 ### Day 2
-- [Modules workshop](https://github.com/WebAhead/going-on-a-bear-hunt/blob/master): 3hr
+- [Modules workshop](https://github.com/WebAhead/going-on-a-bear-hunt/): 3hr
 - [Backend API call](https://github.com/foundersandcoders/mc-request-module-workshop): 1.5hr
 - Office hours
 
