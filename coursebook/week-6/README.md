@@ -22,7 +22,6 @@
 ### Day 3
 
 - [Create an Animated App Drawer](https://github.com/foundersandcoders/morning-challenge-animated-app-drawer): 1hr
-- [Software architecture](https://github.com/WebAhead/Workshop-Software-Architecture-Design/blob/master/README.md): 45mins
 - [Projects](./alternate-project.md)
 
 ### Day 4
