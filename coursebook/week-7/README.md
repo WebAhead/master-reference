@@ -23,6 +23,7 @@
 ### Day 3
 
 - [client side validation](https://github.com/foundersandcoders/mc-client-side-validation): 1hr
+- [Software architecture](https://github.com/WebAhead/Workshop-Software-Architecture-Design/blob/master): 45mins
 - Create a heroku database (code along)
 - [Projects](./project.md)
 
