@@ -27,6 +27,7 @@ the list might be also missing a couple of old workshops that i couldn't bother 
 - [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 2hrs
 - [Technical spikes and presentations intro](https://founders-and-coders.gitbook.io/coursebook/student-handbook/spikes): 30mins 
 - [Technical spikes](https://hackmd.io/@EwoSz9j0TESPquoLzQMY_w/S11XEHoC8) 4hr
+- [App drawer](https://github.com/WebAhead/morning-challenge-animated-app-drawer)
 
 ### Week (API)
 
