@@ -20,13 +20,13 @@
 
 - [React with dynamic data](https://github.com/sofiapoh/react-dynamic-data-workshop)
 - [Testing React components](https://github.com/oliverjam/learn-react-testing)  
-- [Project set-up](./project.md)  
-- Project planning
+- [Destructuring morning challenge](https://github.com/oliverjam/learn-destructuring): 1hr
 
 ### Day 3
 
 - [Refactor classes to hooks](https://github.com/oliverjam/react-refactor-class-hooks) (morning challenge)  
-- [Projects](./project.md)
+- [Project set-up](./project.md)  
+- Project planning
 
 ### Day 4
 
