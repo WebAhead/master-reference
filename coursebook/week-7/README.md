@@ -16,12 +16,12 @@
 
 ### Day 2
 
+- [client side validation](https://github.com/foundersandcoders/mc-client-side-validation): 1hr
 - [DB testing](https://github.com/oliverjam/learn-database-testing): 2hr
 - [Technical spikes](./spikes.md): 5hr
 
 ### Day 3
 
-- [client side validation](https://github.com/foundersandcoders/mc-client-side-validation): 1hr
 - [Software architecture](https://github.com/WebAhead/Workshop-Software-Architecture-Design): 45mins
 - Create a heroku database (code along)
 - [Projects](./project.md)
