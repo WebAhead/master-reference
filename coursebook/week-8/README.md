@@ -13,7 +13,7 @@
 ### Day 1
  
 - [React intro](https://hackmd.io/@fac/Syia7nKKI#)  
-- [React API](https://github.com/oliverjam/learn-react) (workshop continued)  
+- [React API](https://github.com/oliverjam/learn-react) 
 - [Build a filterable product page](https://github.com/oliverjam/react-food-workshop) (mini project)  
 
 ### Day 2
