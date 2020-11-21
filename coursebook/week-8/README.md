@@ -12,7 +12,7 @@
 
 ### Day 1
  
-- [Modern frontend & how React fits in](https://hackmd.io/@EwoSz9j0TESPquoLzQMY_w/HJXKYu0QU#/) (talk/discussion)  
+- [React intro](https://hackmd.io/@fac/Syia7nKKI#)  
 - [React API](https://github.com/oliverjam/learn-react) (workshop continued)  
 - [Build a filterable product page](https://github.com/oliverjam/react-food-workshop) (mini project)  
 
