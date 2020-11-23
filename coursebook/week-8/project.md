@@ -2,11 +2,6 @@
 
 Build either a social media or an e-commerce react app, you can choose the theme and the topic of the app.
 
-The app will connect to an API, make sure your code is structured that way. We will build this API next week using express.js.
-
-So for this week's project build the React app with dummy(fake) data (you might use this fake data as the structure for your database next week), 
-or use LocalStorage for time being if you want some data to be saved.
-
 ## Criteria
 
 - Accept some user input
