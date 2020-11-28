@@ -92,3 +92,5 @@ the list might be also missing a couple of old workshops that i couldn't bother 
 - [Auth week intro](https://docs.google.com/presentation/d/1RjM9IouH_Xj2xYM0XkkBczxDiERBjZx6piBv4wP2w3U/edit#slide=id.p50) 20min
 - [Rest APIs](https://github.com/oliverjam/learn-rest-apis)
 - [Client authentication token](https://github.com/WebAhead/client-token-auth)
+- [Promise practice](https://github.com/oliverjam/promise-practice)
+- [Password management](https://github.com/oliverjam/learn-password-security) 2.5hr
