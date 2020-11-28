@@ -22,8 +22,12 @@
 
 ### Day 3
 
+- [Project](./project.md)
+
 
 ### Day 4
+
+- [Project](./project.md)
 
 
 ### Day 5
