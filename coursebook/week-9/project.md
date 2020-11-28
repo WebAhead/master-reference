@@ -1,23 +1,28 @@
-## Project
+# Project
 
-Build an API for the React project that you built last week. 
+You need to build an Express server/Api that is connected to a Postgres database, through this Api we would want to manipulate some data (either add remove or update).
 
-### Task
+When you feel like the server is done and ready to be used.
+Build a frontend app using React that would use the Api you have built with Express. 
 
-- Build an API using the Express framework.
-- Use a PostgreSQL database to store and retrieve your data.
-- Use the retrieved data in your React app, and also add new data through it.
+**Note: building this frontend app is not the main objective it is considered a strech goal, the main objective is to learn how to build an Express server**.
 
-### Goals
+Feel free to connect your server with last week's project. or build a frontend from scratch, your choice :man-shrugging: 
 
-The primary aim of this project is to get comfortable with setting up an Express server.
+## Tip
 
-Previous cohorts have built apps where users can share, for example, blog posts, jokes, photos etc. But the app can be about anything as long as you are covering project's technology tasks and goals.
+When you do get to the part where you want to build a frontend app for with your Api, make sure to open a different repository on github just for your frontend or for you React project.
 
-### What's also important:
+We do that because we don't want to have 2 projects in 1 repository (or better explained as we don't have more than 1 `package.json` in 1 repository) and start to get lost in the giant folder structure.
 
-- Test you API using supertest.
-- We expect to see unit tests of pure functions, and integration tests of your server routes, including tests for errors such as 404.
-- You should write tests for your database and use a separate test database and build script.
-- Use Heroku or a similar service to host the app and the database.
-- Try to include ES6 syntax on the server.
+## Goals
+
+- Build an Express server (using an Express generator in not allowed)
+- Connect your server to Postgres database
+- Create routes to manipulate data
+- Deploy your server on Heroku
+- Test your server
+
+## Stretch goals
+
+- Connect your server with a React frontend
