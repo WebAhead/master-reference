@@ -11,7 +11,7 @@
 ### Day 1
 
 - [Auth week intro](https://docs.google.com/presentation/d/1RjM9IouH_Xj2xYM0XkkBczxDiERBjZx6piBv4wP2w3U/edit#slide=id.p50) 20min
-- [Rest APIs](https://github.com/oliverjam/learn-rest-apis)
+- [Password management](https://github.com/oliverjam/learn-password-security) 2.5hr
 - [Technical spikes](https://github.com/foundersandcoders/coursebook/blob/main/curriculum/authentication/spikes.md)
 
 
