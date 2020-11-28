@@ -16,7 +16,7 @@
 
 ### Day 2
 
-- [Rest APIs](https://github.com/oliverjam/learn-rest-apis)
+- [Rest APIs](https://github.com/oliverjam/learn-rest-apis) 3hr
 - [Technical spikes](./spikes.md)
 
 ### Day 3
