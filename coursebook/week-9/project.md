@@ -20,6 +20,7 @@ We do that because we don't want to have 2 projects in 1 repository (or better e
 - Build an Express server (using an Express generator in not allowed)
 - Connect your server to Postgres database
 - Create routes to manipulate data
+- Have routes that are only accessible for authenticated users
 - Deploy your server on Heroku
 - Test your server
 
