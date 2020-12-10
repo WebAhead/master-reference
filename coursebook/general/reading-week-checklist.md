@@ -1,4 +1,4 @@
-# Checklist of things to think about & challenges after first 8 weeks
+# Checklist of things to think about & challenges after first 10 weeks
 
 A checklist of things to look at and see if you can answer after the first eight weeks of the Founders And Coders curriculum.
 
