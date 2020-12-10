@@ -91,6 +91,7 @@ For the challenges, I suggest you open a repo, and save them all there.
 - [ ] Convert [the html linked here](https://gist.github.com/m4v15/28d64be4fb3495aa1ff3a91bf4336bb1) to use semantic HTML instead of divs.
 - [ ] Using flexbox, change the layout of the above HTML to [something like this] https://www.figma.com/file/ewvTXphnscgQ2HD5gHkyHRz8/BASIC-DESGIN?node-id=0%3A1
 - [ ] You should use media queries to make it work for both desktop _and_ mobile - without media queries, it should match the mobile design (i.e. be mobile first).
+- [ ] how to craete simple animations or transitions
 
 ---
 
@@ -221,6 +222,7 @@ You should know:
 
 - [ ] how to hash and compare using bcrypt
 - [ ] how to save and read a cookie on the server
+- [ ] how to send an access token in the Authorization header
 - [ ] how to write a JWT on the server
 - [ ] why is a JWT secure?
 - [ ] how to secure a route and allow people with a valid jwt through
@@ -237,10 +239,13 @@ You should know:
 
 ---
 
-### Handlebars
-- [ ] Why can server side rendering be useful?
-- [ ] What is handlebars?
-- [ ] Write a small express server that uses a handlebars template to render a user profile page, which show's a user's name, age, location and a list of hobbies, all of which should be passed into the template as `context`. Make endpoints on the server which uses this template for 5 different users (you need to make up the user data!)
+### React 
+
+- [ ] how to create a project with `create-react-app`
+- [ ] how to build a list using `.map`
+- [ ] how to pass children
+- [ ] how to use `useEffect`
+- [ ] what is `react-router`
 
 ---
 
