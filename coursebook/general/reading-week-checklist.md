@@ -26,7 +26,7 @@ For the challenges, I suggest you open a repo, and save them all there.
 - [Deploying](#deploying)
 - [Auth](#auth)
 - [Express](#express)
-- [Handlebars](#handlebars)
+- [React](#react)
 - [Coding Best Practices](#coding-best-practices)
 - [Documentation](#documentation)
 
