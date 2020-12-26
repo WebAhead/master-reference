@@ -17,8 +17,6 @@
   - [Code of Conduct](https://github.com/foundersandcoders/master-reference/blob/master/code-of-conduct.md)
   - [House rules](../general/house-rules.md)
   - Students create their own [Cohort Code of Conduct](cohort-code-of-conduct.md)
-  - Campus-specific info
-  - Introduce gitter channels
 - Introduction to [Ubuntu](https://github.com/WebAhead/ubuntu-intro/): 3hr
 - Introduction to the [command line interface - cli](https://github.com/WebAhead/cli-intro): 1hr
 - Introduction to [Pair Programming](./pair-programming.md): 1hr
