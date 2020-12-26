@@ -10,7 +10,7 @@
 
 ### Day 1
 
-- [Welcome talk](http://facresources.com/slides/students-day-1-talk#/): 30mins
+- Welcome talk: 30mins
 - [Name Game](./resources/name-game.md): 1hr
 - Course Overview: 1hr
   - [Community talk](https://facresources.com/slides/community-talk#/): 30mins
