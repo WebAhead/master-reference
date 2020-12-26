@@ -2,7 +2,6 @@
 
 ## Contents
 
-- [Learning Outcomes](./learning-outcomes.md)
 - [Project](./project.md)
 - [Resources](./resources)
 
