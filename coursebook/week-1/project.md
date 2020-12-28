@@ -32,10 +32,6 @@ _**User stories come with [acceptance criteria](https://blog.easyagile.com/how-t
 - A user cannot submit a form without filling out all of the mandatory fields (name, company name, email address)
 - Information from the form doesn’t get submitted until the user clicks a button
 
-### Stretch Goal
-
-Use the automatic trigger functionality of your [GitHub project board](https://help.github.com/en/github/managing-your-work-on-github/about-project-boards).
-
 ---
 
 Finally, feel free to get creative with the content of your website! Good luck!
