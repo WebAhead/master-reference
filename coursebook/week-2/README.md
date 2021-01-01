@@ -13,9 +13,10 @@
 - [DOM intro video](https://www.youtube.com/watch?v=wiozYyXQEVk&ab_channel=DevEd) 30min
 - [Practice DOM](https://github.com/WebAhead/practice-dom): 2hr
 - [Extra good to know properties of DOM](https://dom-tutorials.appspot.com/static/1.html) 1hr
-    
-    *NOTE: the last exercise - the tree walker is not mandatory and is a bonus if you've finished early*
 
+    *NOTE: the last exercise - the tree walker is not mandatory and is a bonus if you've finished early*
+- [Design burst: layout and spacing](http://facresources.com/slides/design-burst-week2.html#/): 15mins
+- [Learn CSS layout and spacing](https://github.com/bobbysebolao/learn-css-flexbox): 1hr
 
 ### Day 2
 
