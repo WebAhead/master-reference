@@ -16,7 +16,6 @@
     
     *NOTE: the last exercise - the tree walker is not mandatory and is a bonus if you've finished early*
 
-- [Learn CSS variables](https://github.com/bobbysebolao/learn-css-variables): 1hr
 
 ### Day 2
 
