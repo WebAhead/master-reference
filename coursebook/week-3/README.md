@@ -18,7 +18,7 @@
 ### DAY 2
 
 - [Technnical spikes](./spikes.md) Continue
-- [Flexbox Dice Morning Challenge](https://github.com/smarthutza/flexbox-workshop): 1hr 30mins
+- [Flexbox Dice Morning Challenge](https://github.com/WebAhead/flexbox-workshop): 1hr 30mins
 - [Real world fetch](https://github.com/oliverjam/real-world-fetch): 2hr
 
 ### Day 3
