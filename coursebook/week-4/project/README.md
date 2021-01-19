@@ -31,10 +31,6 @@ You should have automated tests covering all the main user stories. Each story b
 
 ### Stretch
 
-**As a motor-impaired user, I want to:**
-
-- Use all the features of the app without a mouse
-
 **As a busy person, I want to:**
 
 - Filter out completed to-dos from my list so that I can focus on what's left to do
@@ -48,5 +44,7 @@ You should have automated tests covering all the main user stories. Each story b
 
 - A working to-do list
 - Tests for (at least) each user story
+- README
+- Github pages
 - A responsive, mobile-first design
 - Ensure your app is accessible to as many different users as possible
