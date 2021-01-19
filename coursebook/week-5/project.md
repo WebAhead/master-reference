@@ -25,3 +25,7 @@ Your task is to build a site which will update as you type (an autocompleter), a
 
 - [Dwyl autocompleter](https://github.com/dwyl/autocomplete).
 - [Mahmood's project](https://hello-atlas.herokuapp.com).
+
+#### Not allowed
+- You are not allowed to use ExpressJs
+- You are not allowed to copy paste code from other sources
