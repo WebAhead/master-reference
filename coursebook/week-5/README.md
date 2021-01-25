@@ -10,7 +10,7 @@
 
 ### Day 1
 
-- [Node Intro Workshop](https://github.com/oliverjam/node-introduction): 30mins
+- [Node Intro Workshop](https://github.com/WebAhead/node-introduction): 30mins
 - [Node HTTP servers](https://github.com/oliverjam/node-http-server): 3hrs
 - [npm introduction](https://github.com/foundersandcoders/npm-introduction): 30mins
 - [Node file servers](https://github.com/oliverjam/node-file-server): 2hrs
