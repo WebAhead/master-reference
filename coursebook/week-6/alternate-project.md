@@ -15,7 +15,7 @@ Example:
 
 - use atleast 1 API to fetch data from the server.
 - draw a diagram (either on a board or a software) of your project's architecture and add it to the README.
-- make sure you handle all the errors in the server and provide feedback to the user when a nerror occurs.
+- make sure you handle all the errors in the server and provide feedback to the user when an error occurs.
 - test your router / server functionaliy. (look into [nock](https://github.com/nock/nock) for faking the API requests)
 - Add more features!
 - Have fun!
