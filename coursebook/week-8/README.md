@@ -18,9 +18,9 @@
 
 ### Day 2
 
+- [Destructuring morning challenge](https://github.com/oliverjam/learn-destructuring): 1hr
 - [React with dynamic data](https://github.com/sofiapoh/react-dynamic-data-workshop): 3.5hr
 - [Testing React components](https://github.com/oliverjam/learn-react-testing): 2.5hr
-- [Destructuring morning challenge](https://github.com/oliverjam/learn-destructuring): 1hr
 
 ### Day 3
 
