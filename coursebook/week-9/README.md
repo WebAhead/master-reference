@@ -21,7 +21,6 @@
 
 ### Day 3
 - [Mocking morning challenge](https://github.com/oliverjam/http-mocking-challenge): 1hr
-
 - [Project](./project.md)
 
 
