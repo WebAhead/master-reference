@@ -54,8 +54,7 @@ the list might be also missing a couple of old workshops that i couldn't bother 
 - [npm introduction](https://github.com/foundersandcoders/npm-introduction): 30mins
 - [Node file servers](https://github.com/oliverjam/node-file-server): 2hrs
 - [TDD node servers](https://github.com/foundersandcoders/ws-tdd-node-server): 2hrs
-- [ES6 morning challenge](./morning-challenge-day-2.md): 1hr 30mins
-- 
+ 
 - [Software architecture](https://github.com/WebAhead/Workshop-Software-Architecture-Design/blob/master/README.md): 45mins
 - [Backend API call](https://github.com/foundersandcoders/mc-request-module-workshop): 1.5hr
 - [Workshop on error handling](https://github.com/oliverjam/learn-node-error-handling): 2hrs 30mins
