@@ -18,4 +18,4 @@ The first eleven weeks will provide you with the necessary building blocks for c
 * Week 11 - Reading week
 * [Week 12](https://github.com/WebAhead/design-week) - Design
 * [Weeks 13-14](./weeks-11-13) - self-selected project
-* [Weeks 15 - 18] - Client projects
+* Weeks 15 - 18 - Client projects
