@@ -15,7 +15,7 @@ The first eleven weeks will provide you with the necessary building blocks for c
 * [Week 8](week-8/README.md)  - React
 * [Week 9](week-9/README.md)  - Express
 * [Week 10](week-10/README.md)  - Authentication
-* [Week 11](https://github.com/WebAhead/design-week) - Design
-
-The second half of the curriculum is focused on longer projects and introduces you to client interaction:
-+ [Weeks 11-13](./weeks-11-13) - self-selected project
+* Week 11 - Reading week
+* [Week 12](https://github.com/WebAhead/design-week) - Design
+* [Weeks 13-14](./weeks-11-13) - self-selected project
+* [Weeks 15 - 18] - Client projects
