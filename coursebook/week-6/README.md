@@ -10,7 +10,6 @@
 
 ### Day 1
 
-- [Learn CSS variables](https://github.com/bobbysebolao/learn-css-variables): 1hr
 - [Workshop on error handling](https://github.com/oliverjam/learn-node-error-handling): 2hrs 30mins
 - Office hours
 
