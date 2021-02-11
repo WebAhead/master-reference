@@ -23,6 +23,7 @@
 
 ### Day 3
 
+- [Learn CSS variables](https://github.com/bobbysebolao/learn-css-variables): 1hr
 - [Introduce Project](./project): 15mins
 - [Projects](./project)
 
