@@ -11,7 +11,7 @@
 ### Day 1
 
 - Intro to databases [presentation](https://docs.google.com/presentation/d/1Mvj4VgXKCRW0rvFZxMu1Tqv4QISGN5fL-WQQ2S869Yc/edit?usp=sharing): 1hr
-- [PostgreSQL installation instructions](https://github.com/macintoshhelper/learn-sql/blob/master/postgresql/setup.md) and [`sql-commands-intro` workshop](https://github.com/foundersandcoders/sql-commands-intro/): 2hrs
+- [PostgreSQL installation instructions](https://github.com/macintoshhelper/learn-sql/blob/master/postgresql/setup.md) and [`sql-commands-intro` workshop](https://github.com/WebAhead/learn-database-testing): 2hrs
 - [PostgreSQL with node](https://github.com/WebAhead/learn-node-postgres): 2hrs
 
 ### Day 2
