@@ -6,4 +6,4 @@
 
 - [How does javascript work in the browser ? and what the heck is the event loop ?](https://www.youtube.com/watch?v=8aGhZQkoFbQ&t=27s&ab_channel=JSConf)
 
-<!-- Feel free to send us links to add here  -->
+> Feel free to send us links to add here
