@@ -11,24 +11,27 @@
 ### DAY 1
 
 - [Introductory workshop](https://github.com/shiryz/api-workshop): API basics, HTTP, XMLHttp requests, request-response pattern: 1hr 30mins
-- [First-class functions](https://github.com/oliverjam/first-class-functions) : Functions and callbacks : 2hr
-- [Fetch and promises](https://github.com/oliverjam/learn-fetch/) : making API requests in the browser, working with JSON, chaining API requests: 2hr
+
+- Week preparation: [Resources](./resources.md): 4hr
 
 ### DAY 2
 
-- [Flexbox Dice Morning Challenge](https://github.com/WebAhead/flexbox-workshop): 1hr 30mins
+- [First-class functions](https://github.com/oliverjam/first-class-functions) : Functions and callbacks : 2hr
+- [Fetch and promises](https://github.com/oliverjam/learn-fetch/) : making API requests in the browser, working with JSON, chaining API requests: 2hr
 - [Real world fetch](https://github.com/oliverjam/real-world-fetch): 2hr
-- [Technnical spikes](./spikes.md)
 
 ### Day 3
 
-- [Scope morning challenge](https://github.com/oliverjam/js-scope-challenge) : 1hr
+- [Flexbox Dice Morning Challenge](https://github.com/WebAhead/flexbox-workshop): 1hr 30mins
+
 - [Project](./project.md)
 
 ### Day 4
+
 - [Project](./project.md)
 
 ### Day 5
+
 - Code review
 - Fixing issues
 - Presentation
