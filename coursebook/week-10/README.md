@@ -12,13 +12,12 @@
 
 - [Auth week intro](https://docs.google.com/presentation/d/1RjM9IouH_Xj2xYM0XkkBczxDiERBjZx6piBv4wP2w3U/edit#slide=id.p50) 20min
 - [Password management](https://github.com/oliverjam/learn-password-security) 2.5hr
-- [Technical spikes](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-10/spikes.md)
-
+- [Rest APIs](https://github.com/oliverjam/learn-rest-apis) 3hr
 
 ### Day 2
 
-- [Technical spikes](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-10/spikes.md)
 - [Client authentication token](https://github.com/WebAhead/client-token-auth)
+- [Technical spikes](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-10/spikes.md)
 - [Projects](./project.md)
 
 ### Day 3
@@ -31,7 +30,7 @@
 
 ### Day 5
 
-- Code review  
+- Code review
 - Fixing issues
 - Presentations
 - SGC

@@ -1,35 +1,35 @@
-# Node Week 2
+# Express week
 
-## Contents
+## Menu
 
 - [Learning Outcomes](./learning-outcomes.md)
-- [Project](./alternate-project.md)
+- [Project](./project.md)
 - [Resources](./resources)
 
 ## Schedule
 
 ### Day 1
 
-- [Workshop on error handling](https://github.com/oliverjam/learn-node-error-handling): 2hrs 30mins
-- Office hours
+- [Express intro](https://github.com/oliverjam/express-intro): 0.5hr
+- [Learn Express](https://github.com/oliverjam/learn-express): 2hr
+- [Express middleware](https://github.com/oliverjam/learn-express-middleware): 2hr
 
 ### Day 2
-- [Modules workshop](https://github.com/WebAhead/going-on-a-bear-hunt/): 3hr
-- [Backend API call](https://github.com/foundersandcoders/mc-request-module-workshop): 1.5hr
-- Office hours
+
+- [Technical spikes](./spikes.md)
 
 ### Day 3
 
-- [Create an Animated App Drawer](https://github.com/WebAhead/morning-challenge-animated-app-drawer): 1hr
-- [Projects](./alternate-project.md)
+- [Mocking morning challenge](https://github.com/oliverjam/http-mocking-challenge): 1hr
+- [Project](./project.md)
 
 ### Day 4
 
-- [Projects](./alternate-project.md)
+- [Project](./project.md)
 
 ### Day 5
 
 - Code review
 - Fixing issues
-- Presentation
+- Presentations
 - SGC
