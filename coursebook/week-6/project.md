@@ -1,45 +1,20 @@
 # Project
 
-Create a web app that includes some form of user input and provides users with content from an API that is regularly updated - e.g. the same user input submitted at different times could result in different content being retrieved. 💁‍
+Give your last week's project an upgrade with Express!
 
-A good example could be a news app but feel free to be creative!
+The main goal of this week's project is to practice using Express, and extend 
 
-The key difference between this project and your API week project is that you will be making your **API calls from the back-end** and **testing your server**.
-
-
-### Example:
-
-#### User Stories:
-'As a student at F&C I want to know all the train departure times from Finsbury Park tube station, so that I can get home in time for dinner'.🚉🍛
-
-'As a regular commuter, I want to input which direction of travel I am interested in so that I can see information that is relevant to me.'
-
-This news feed could be created with data provided via the [TFL API](https://api.tfl.gov.uk/).
-
-You can build on this user story or create your own user stories as long as they are consistent and the below specs are fulfilled.
 
 ### Goals:
-1) Use at least 1 API 
 
-2) Make your API calls from the back-end using the Request module (or one you build yourself)
+1) Use Express for your backend.
 
-3) Your server should contain a minimum of 2 routes
+2) Add Basic authentication (login with cookies)
 
-4) Test your server routes by injecting fake HTTP requests using Supertest (including testing for 404's). _Note - you are not required to test any server route that makes an API call, as this will make the test impure (a test that depends on an external factor is not reliable)_
+3) Host your project on Heroku.
 
-5) Host your project on Heroku, see [resources](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/week-5/resources.md)
 
-6) Employ continuous integration on your project with Travis or a similar tool. (If you decide to use Travis, we strongly recommend that you host this project in your own repo rather than in your cohort's FAC repository to avoid all builds getting queued together)
-
-7) Use CodeCov or a similar tool to report and track test coverage.
-
-8) Include Error Handling. For example:
+4) Include Error Handling. For example:
   - if a user attempts to make a request to a non-existent route to your server (404 - as mentioned above), provide the user with a custom response.    
   - if there is a [programmer error](https://github.com/foundersandcoders/error-handling-workshop#kinds-of-errors) on your server (e.g. a handler function does not act as intended), provide the user with a custom response (500 status code).
-
-9) Include a user input field on your web app and include server-side validation to protect your server from potentially malicious user input.
-
-### Stretch goal 😊:
-
-14) Research and use Nock to mock the response of external API calls in your tests, and write tests for server routes that make API calls.
 
