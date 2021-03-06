@@ -16,11 +16,11 @@
 
 ### Day 2
 
+- [Workshop on error handling](https://github.com/oliverjam/learn-node-error-handling): 2hrs 30mins
 - [Technical spikes](./spikes.md)
 
 ### Day 3
 
-- [Mocking morning challenge](https://github.com/oliverjam/http-mocking-challenge): 1hr
 - [Project](./project.md)
 
 ### Day 4
