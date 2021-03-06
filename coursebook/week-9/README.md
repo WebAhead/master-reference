@@ -10,6 +10,7 @@
 
 ### Day 1
 
+- [Mocking morning challenge](https://github.com/oliverjam/http-mocking-challenge): 1hr
 - Office hours
 
 ### Day 2
