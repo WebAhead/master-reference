@@ -10,7 +10,7 @@ The first eleven weeks will provide you with the necessary building blocks for c
 - [Week 2](week-2/README.md) - Javascript
 - [Week 3](week-3/README.md) - APIs
 - [Week 4](week-4/README.md) - Testing
-- [Week 5](week-5/README.md) - Node.js 1/2
+- [Week 5](week-5/README.md) - Node.js
 - [Week 6](week-6/README.md) - Express
 - [Week 7](week-7/README.md) - PostgreSQL
 - [Week 8](week-8/README.md) - React
