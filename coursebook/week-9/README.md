@@ -10,7 +10,6 @@
 
 ### Day 1
 
-- [Workshop on error handling](https://github.com/oliverjam/learn-node-error-handling): 2hrs 30mins
 - Office hours
 
 ### Day 2
