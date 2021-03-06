@@ -12,6 +12,7 @@
 
 - [Express intro](https://github.com/oliverjam/express-intro): 0.5hr
 - [Learn Express](https://github.com/oliverjam/learn-express): 2hr
+- Mentor intro to JWT and encryption
 - [Express middleware](https://github.com/oliverjam/learn-express-middleware): 2hr
 
 ### Day 2
