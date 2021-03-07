@@ -15,13 +15,12 @@
 
 ### Day 2
 
-- [Modules workshop](https://github.com/WebAhead/going-on-a-bear-hunt/): 3hr
-- [Backend API call](https://github.com/foundersandcoders/mc-request-module-workshop): 1.5hr
+- [Create an Animated App Drawer](https://github.com/WebAhead/morning-challenge-animated-app-drawer): 1hr
+
 - Office hours
 
 ### Day 3
 
-- [Create an Animated App Drawer](https://github.com/WebAhead/morning-challenge-animated-app-drawer): 1hr
 - [Projects](./alternate-project.md)
 
 ### Day 4
