@@ -18,7 +18,7 @@
 
 - [client side validation](https://github.com/foundersandcoders/mc-client-side-validation): 1hr
 - [DB testing](https://github.com/oliverjam/learn-database-testing): 2hr
-- [Technical spikes](./spikes.md): 4hr
+- Technical spikes: Mongodb/Mongoose
 
 ### Day 3
 
