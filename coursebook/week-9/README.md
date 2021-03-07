@@ -21,11 +21,11 @@
 
 ### Day 3
 
-- [Projects](./alternate-project.md)
+- [Projects](./project.md)
 
 ### Day 4
 
-- [Projects](./alternate-project.md)
+- [Projects](./project.md)
 
 ### Day 5
 
