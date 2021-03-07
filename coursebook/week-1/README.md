@@ -17,21 +17,20 @@
   - [Code of Conduct](https://github.com/foundersandcoders/master-reference/blob/master/code-of-conduct.md)
   - [House rules](../general/house-rules.md)
   - Students create their own [Cohort Code of Conduct](cohort-code-of-conduct.md)
-- Introduction to [Ubuntu](https://github.com/WebAhead/ubuntu-intro/): 3hr
 - Introduction to the [command line interface - cli](https://github.com/WebAhead/cli-intro): 1hr
 - Introduction to [Pair Programming](./pair-programming.md): 1hr
+- [HTML workshop](https://github.com/WebAhead/html-workshop/): 2hr
 
 
 ### Day 2
 
-- [HTML workshop](https://github.com/WebAhead/html-workshop/): 2hr
 - [CSS workshop](https://github.com/WebAhead/css-workshop/): 3hr
 - [Git intro workshop](https://docs.google.com/presentation/d/1mu0WhcOG9poJrLlHmWV7ix2dNrFSYWw3BkpjbY0D0gE/edit?usp=sharing): 1hr
+- [Morning Challenge - Learn HTML forms](https://github.com/oliverjam/learn-html-forms/)
 
 
 ### Day 3
 
-- [Morning Challenge - Learn HTML forms](https://github.com/oliverjam/learn-html-forms/)
 - [Projects](./project.md)
 
 ### Day 4
