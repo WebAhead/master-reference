@@ -9,14 +9,14 @@
 ## Schedule
 
 ### Day 1
-
+- [Practice Promises](https://github.com/oliverjam/promise-practice): 2hr
 - [Mocking morning challenge](https://github.com/oliverjam/http-mocking-challenge): 1hr
 - Office hours
 
 ### Day 2
 
 - [Create an Animated App Drawer](https://github.com/WebAhead/morning-challenge-animated-app-drawer): 1hr
-
+- [Scope challenge](https://github.com/oliverjam/js-scope-challenge): 1.5hr
 - Office hours
 
 ### Day 3
