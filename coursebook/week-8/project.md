@@ -1,6 +1,7 @@
 # React project
 
-Build either a social media or an e-commerce react app, you can choose the theme and the topic of the app.
+Build either a social media or an e-commerce react app or even a game!, you can choose the theme and the topic of the app.
+You are going to continue working on this project next week, so think of someting that is going to be scalable. if you are having triuble thinking of an idea ask a mentor!
 
 ## Criteria
 
