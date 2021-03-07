@@ -26,7 +26,7 @@
 
 - [CSS workshop](https://github.com/WebAhead/css-workshop/): 3hr
 - [Git intro workshop](https://docs.google.com/presentation/d/1mu0WhcOG9poJrLlHmWV7ix2dNrFSYWw3BkpjbY0D0gE/edit?usp=sharing): 1hr
-- [Morning Challenge - Learn HTML forms](https://github.com/oliverjam/learn-html-forms/)
+- [Learn HTML forms](https://github.com/oliverjam/learn-html-forms/)
 
 
 ### Day 3
