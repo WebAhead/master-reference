@@ -19,7 +19,7 @@
   - Students create their own [Cohort Code of Conduct](cohort-code-of-conduct.md)
 - Introduction to the [command line interface - cli](https://github.com/WebAhead/cli-intro): 1hr
 - Introduction to [Pair Programming](./pair-programming.md): 1hr
-- [HTML workshop](https://github.com/WebAhead/html-workshop/): 2hr
+- [HTML workshop](https://github.com/WebAhead/html-workshop/): 3hr
 
 
 ### Day 2
