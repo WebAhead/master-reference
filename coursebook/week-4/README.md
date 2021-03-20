@@ -1,35 +1,31 @@
-# Testing week
+# Node core week
 
 ## Menu
 
 - [Learning Outcomes](./learning-outcomes.md)
-- [Project](./project)
+- [Project](./project.md)
 - [Resources](./resources)
 
 ## Schedule
 
 ### Day 1
 
-- [Introduction to testing](https://docs.google.com/presentation/d/1t9iD7JpWQsCu3tlb7fSojiu4ypKbyOZkeX87ZK-MUhY/edit?usp=sharing): 30mins
-- [Build a testing library](https://github.com/oliverjam/learn-testing/) : 1hr
-- [Unit testing workshop](https://github.com/oliverjam/learn-unit-testing) : 1hr30mins
-- [Integration testing workshop](https://github.com/oliverjam/learn-integration-testing) : 2hr
+- [Node Intro Workshop](https://github.com/WebAhead/node-introduction): 30mins
+- [Node HTTP servers](https://github.com/oliverjam/node-http-server): 3hrs
+- [npm introduction](https://github.com/WebAhead/npm-introduction): 30mins
+- [Node file servers](https://github.com/WebAhead/node-file-server): 2hrs
 
 ### Day 2
 
-- [TDD array methods](https://github.com/oliverjam/tdd-array-methods): 2hr
-- [Technical spikes](./spikes.md): 4hr
-
+- [TDD node servers](https://github.com/foundersandcoders/ws-tdd-node-server): 2hrs
+- [Technical spikes](./spikes.md): 4h
 
 ### Day 3
 
-- [Learn CSS variables](https://github.com/bobbysebolao/learn-css-variables): 1hr
-- [Introduce Project](./project): 15mins
-- [Projects](./project)
+- [Projects](./project.md)
 
 ### Day 4
-
-- [Projects](./project)
+- [Projects](./project.md)
 
 ### Day 5
 

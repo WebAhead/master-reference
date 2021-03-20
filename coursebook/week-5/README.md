@@ -1,4 +1,4 @@
-# Node core week
+# Express week
 
 ## Menu
 
@@ -10,26 +10,27 @@
 
 ### Day 1
 
-- [Node Intro Workshop](https://github.com/WebAhead/node-introduction): 30mins
-- [Node HTTP servers](https://github.com/oliverjam/node-http-server): 3hrs
-- [npm introduction](https://github.com/WebAhead/npm-introduction): 30mins
-- [Node file servers](https://github.com/WebAhead/node-file-server): 2hrs
+- [Express intro](https://github.com/oliverjam/express-intro): 0.5hr
+- [Learn Express](https://github.com/oliverjam/learn-express): 2hr
+- Mentor intro to JWT and encryption
+- [Express middleware](https://github.com/oliverjam/learn-express-middleware): 2hr
 
 ### Day 2
 
-- [TDD node servers](https://github.com/foundersandcoders/ws-tdd-node-server): 2hrs
-- [Technical spikes](./spikes.md): 4h
+- [Workshop on error handling](https://github.com/oliverjam/learn-node-error-handling): 2hrs 30mins
+- Technical spikes - Web sockets!
 
 ### Day 3
 
-- [Projects](./project.md)
+- [Project](./project.md)
 
 ### Day 4
-- [Projects](./project.md)
+
+- [Project](./project.md)
 
 ### Day 5
 
-- Code Review
+- Code review
 - Fixing issues
-- Presentation
+- Presentations
 - SGC

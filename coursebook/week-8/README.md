@@ -1,32 +1,28 @@
-# React Week
-
-🌐
+# Authentication Week
 
 ## Contents
 
 - [Learning Outcomes](./learning-outcomes.md)
-- [Project](./project.md)
+- [Projects](./project.md)
 - [Resources](./resources)
 
 ## Schedule
 
 ### Day 1
- 
-- [React intro](https://hackmd.io/@fac/Syia7nKKI#): 0.5hr
-- [React API](https://github.com/oliverjam/learn-react): 3.5hr
-- [Build a filterable product page](https://github.com/oliverjam/react-food-workshop): 2.5hr 
+
+- [Auth week intro](https://docs.google.com/presentation/d/1RjM9IouH_Xj2xYM0XkkBczxDiERBjZx6piBv4wP2w3U/edit#slide=id.p50) 20min
+- [Password management](https://github.com/oliverjam/learn-password-security) 2.5hr
+- [Rest APIs](https://github.com/oliverjam/learn-rest-apis) 3hr
 
 ### Day 2
 
-- [Destructuring morning challenge](https://github.com/oliverjam/learn-destructuring): 1hr
-- [React with dynamic data](https://github.com/sofiapoh/react-dynamic-data-workshop): 3.5hr
-- [Testing React components](https://github.com/oliverjam/learn-react-testing): 2.5hr
+- [Client authentication token](https://github.com/WebAhead/client-token-auth)
+- [Technical spikes](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-10/spikes.md)
+- [Projects](./project.md)
 
 ### Day 3
 
-- [Refactor classes to hooks](https://github.com/oliverjam/react-refactor-class-hooks): 1hr
-- [Project set-up](./project.md)  
-- Project planning
+- [Projects](./project.md)
 
 ### Day 4
 
@@ -34,7 +30,8 @@
 
 ### Day 5
 
-- Code review  
+- Code review
 - Fixing issues
 - Presentations
 - SGC
+- [Reading week checklist](https://github.com/webahead/master-reference/blob/master/coursebook/general/reading-week-checklist.md)

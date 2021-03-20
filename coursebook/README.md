@@ -9,14 +9,11 @@ The first eleven weeks will provide you with the necessary building blocks for c
 - [Week 1](week-1/README.md) - HTML/CSS
 - [Week 2](week-2/README.md) - Javascript
 - [Week 3](week-3/README.md) - APIs
-- [Week 4](week-4/README.md) - Testing
-- [Week 5](week-5/README.md) - Node.js
-- [Week 6](week-6/README.md) - Express
-- [Week 7](week-7/README.md) - PostgreSQL
-- [Week 8](week-8/README.md) - React
-- [Week 9](week-9/README.md) - Bonus week
-- [Week 10](week-10/README.md) - Authentication
-- Week 11 - Reading week
-- [Week 12](https://github.com/WebAhead/design-week) - Design
-- [Weeks 13-14](./weeks-11-13) - self-selected project
-- Weeks 15 - 18 - Client projects
+- [Week 4](week-4/README.md) - Node.js
+- [Week 5](week-5/README.md) - Express
+- [Week 6](week-6/README.md) - PostgreSQL
+- [Week 7](week-7/README.md) - React
+- [Week 8](week-8/README.md) - Authentication
+- Week 9 - Reading week
+- [Weeks 10-11](./weeks-10-11) - self-selected project
+- Weeks 13 - 15 - Client projects

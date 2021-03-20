@@ -1,16 +1,32 @@
-# Project
+# Database week project
 
-upgrade to Express!
+Your project this week is to build a web app that stores data in a PostgreSQL database.
 
-The main goal of this week's project is to practice using Express, and extend last week's project functionality by adding some basic authentication (using cookies and middlewares) and more routes.
+## User stories
 
-### Goals:
+### Core
 
-1) Use Express for your backend.
-2) Add Basic authentication
-3) Use Express middlewares
-4) Host your project on Heroku.
-5) Include Error Handling. For example:
-  - if a user attempts to make a request to a non-existent route to your server (404 - as mentioned above), provide the user with a custom response.    
-  - if there is a [programmer error](https://github.com/foundersandcoders/error-handling-workshop#kinds-of-errors) on your server (e.g. a handler function does not act as intended), provide the user with a custom response (500 status code).
+- **As a user, I want to**: submit information to your site for anyone to see
+- **As a user, I want to**: come back to your site later and see what I posted is still there
 
+Since this project is open-ended you'll need to write your own more specific user stories once you know what you want to build.
+
+### Acceptance Criteria
+
+- [ ] A form for users to submit data
+- [ ] A page showing all the data
+- [ ] A Postgres database hosted on Heroku
+- [ ] A schema describing your database in your README
+- [ ] Tests for server routes and database access
+- [ ] Not process user input as SQL commands
+- [ ] Hidden environment variables (i.e. not on GitHub)
+
+#### Stretch criteria
+
+- [ ] A way to view filtered/sorted data, instead of just all of it
+
+## Example project ideas
+
+- Founders & Coders book sharing system
+- Food / coffee recommendations around Founders & Coders
+- Founders & Coders events calendar

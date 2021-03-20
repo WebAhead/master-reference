@@ -1,70 +1,65 @@
 # Technical spikes
 
-## Advanced CSS
+## Deployment
 
-How can we use advanced CSS features to create complex custom components?
-
-### Questions to consider
-
-1. What are "combinator" selectors? Can you provide examples where they're useful?
-1. What are pseudo-elements? Can you provide examples where they're useful?
-1. How might you create custom-styled checkboxes using both of the above?
-
-### Useful resources
-
-- [CSS selectors](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors)
-- [The Stack | Every Layout](https://every-layout.dev/layouts/stack/)
-- [A Whole Bunch of Amazing Stuff Pseudo Elements Can Do](https://css-tricks.com/pseudo-element-roundup/)
-- [Under-Engineered Custom Radio Buttons and Checkboxen](https://adrianroselli.com/2017/05/under-engineered-custom-radio-buttons-and-checkboxen.html)
-
-## Advanced DOM
-
-How can we use advanced DOM features to make rendering complex UIs easier.
+How can we deploy our Node server to a cloud provider like Heroku?
 
 ### Questions to consider
 
-1. What is a NodeList?
-   - How is it different from an array?
-   - What's the different between "live" and "static" NodeLists?
-   - How is it different from an `HTMLCollection`?
-1. What is the `<template>` element?
-   - What is a `DocumentFragment`?
-   - How can we use these to render dynamic UI?
+1. What is Heroku?
+1. What are environment variables and why might we want to hide them?
+1. How can we automatically deploy merges to our Master branch?
 
 ### Useful resources
 
-- [NodeList | MDN](https://developer.mozilla.org/en-US/docs/Web/API/NodeList)
-- [The Content Template Element | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
-- [Document Fragment | MDN](https://developer.mozilla.org/en-US/docs/Web/API/DocumentFragment)
+- [How Heroku Works](https://devcenter.heroku.com/articles/how-heroku-works)
+- [Deploying Node.js Apps on Heroku](https://devcenter.heroku.com/articles/deploying-nodejs)
+- [GitHub Integration (Heroku GitHub Deploys)](https://devcenter.heroku.com/articles/github-integration)
 
-## Types of tests
+## Client vs Server
 
-What are all the different ways to make sure our code is correct?
+What are the distinctions between a web client and web server?
 
 ### Questions to consider
 
-1. What is Prettier? How might it help us write better code?
-1. What is static analysis? How can a linter help us avoid bugs?
-1. What are the pros and cons of unit, integration and end-to-end tests?
+1. What is a client and what is a server?
+1. Can something be both a client _and_ a server?
+1. What kind of code should be run on a server instead of a browser?
 
 ### Useful resources
 
-- [How To Format Code with Prettier in Visual Studio Code](https://www.digitalocean.com/community/tutorials/how-to-format-code-with-prettier-in-visual-studio-code)
-- [ESLint Getting Started](https://eslint.org/docs/user-guide/getting-started)
-- [Static vs Unit vs Integration vs E2E Testing for Frontend Apps](https://kentcdodds.com/blog/unit-vs-integration-vs-e2e-tests)
+- [What is a web server?](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_web_server)
+- [Client-Server Overview](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Client-Server_overview)
+- [Client-side vs server-side validation](https://stackoverflow.com/a/162579)
 
-## Testing methodologies
+## Node architecture
 
-How do different testing methodologies try to improve the way we write tests?
+How does Node handle lots of requests despite running on a single processor thread?
 
 ### Questions to consider
 
-1. What is Test-Driven Development (TDD)? Can it help us write better code?
-1. What is Behavior-Driven Development (BDD)? How do we translate user requirements into automated tests?
-1. What is test coverage? Can this tell us about the _quality_ of our tests?
+1. What is the event loop?
+1. Why should we prefer asynchronous code? What would happen if we had slow blocking code in our request handlers?
+1. How does Node use callbacks to manage asynchronous code?
 
 ### Useful resources
 
-- [TDD changed my life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80)
-- [Behavior Driven Development and Functional Testing](https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2)
-- [Test Coverage](https://www.martinfowler.com/bliki/TestCoverage.html)
+- [The Node.js Event Loop](https://nodejs.dev/the-nodejs-event-loop)
+- [What are callbacks?](https://nodejs.org/en/knowledge/getting-started/control-flow/what-are-callbacks/)
+- [What are the error conventions?](https://nodejs.org/en/knowledge/errors/what-are-the-error-conventions/)
+
+## Modules
+
+How can we use modules in our Node apps?
+
+### Questions to consider
+
+1. What's the difference between our own, built-in, and 3rd party modules?
+1. What is the `package.json` file for?
+1. What is npm? Why are npm scripts useful? What does `npx` do?
+
+### Useful resources
+
+- [Expose functionality from a Node.js file using exports](https://nodejs.dev/expose-functionality-from-a-nodejs-file-using-exports)
+- [The package.json guide](https://nodejs.dev/the-package-json-guide)
+- [How to use or execute a package installed using npm](https://nodejs.dev/how-to-use-or-execute-a-package-installed-using-npm)

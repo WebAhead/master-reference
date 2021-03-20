@@ -1,6 +1,8 @@
-# PostgreSQL week
+# React Week
 
-## Menu
+🌐
+
+## Contents
 
 - [Learning Outcomes](./learning-outcomes.md)
 - [Project](./project.md)
@@ -9,30 +11,30 @@
 ## Schedule
 
 ### Day 1
-
-- Intro to databases [presentation](https://docs.google.com/presentation/d/1Mvj4VgXKCRW0rvFZxMu1Tqv4QISGN5fL-WQQ2S869Yc/edit?usp=sharing): 1hr
-- [PostgreSQL installation instructions](https://github.com/macintoshhelper/learn-sql/blob/master/postgresql/setup.md) and [`sql-commands-intro` workshop](https://github.com/WebAhead/learn-database-testing): 2hrs
-- [PostgreSQL with node](https://github.com/WebAhead/learn-node-postgres): 2hrs
+ 
+- [React intro](https://hackmd.io/@fac/Syia7nKKI#): 0.5hr
+- [React API](https://github.com/oliverjam/learn-react): 3.5hr
+- [Build a filterable product page](https://github.com/oliverjam/react-food-workshop): 2.5hr 
 
 ### Day 2
 
-- [client side validation](https://github.com/foundersandcoders/mc-client-side-validation): 1hr
-- [DB testing](https://github.com/WebAhead/learn-database-testing): 2hr
-- Technical spikes: Mongodb/Mongoose
+- [Destructuring morning challenge](https://github.com/oliverjam/learn-destructuring): 1hr
+- [React with dynamic data](https://github.com/sofiapoh/react-dynamic-data-workshop): 3.5hr
+- [Testing React components](https://github.com/oliverjam/learn-react-testing): 2.5hr
 
 ### Day 3
 
-- [Software architecture](https://github.com/WebAhead/Workshop-Software-Architecture-Design): 45mins
-- Create a heroku database (code along)
-- [Projects](./project.md)
+- [Refactor classes to hooks](https://github.com/oliverjam/react-refactor-class-hooks): 1hr
+- [Project set-up](./project.md)  
+- Project planning
 
-### Day 4 
+### Day 4
 
 - [Projects](./project.md)
 
 ### Day 5
 
-- Code review
+- Code review  
 - Fixing issues
 - Presentations
 - SGC
