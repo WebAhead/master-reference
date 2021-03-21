@@ -17,7 +17,7 @@
 
 ### Day 2
 
-- [TDD node servers](https://github.com/foundersandcoders/ws-tdd-node-server): 2hrs
+- **WORKSHOP HERE**
 - [Technical spikes](./spikes.md): 4h
 
 ### Day 3
