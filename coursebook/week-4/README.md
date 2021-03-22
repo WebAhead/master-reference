@@ -17,7 +17,7 @@
 
 ### Day 2
 
-- **WORKSHOP HERE**
+- [Practice Promises](https://github.com/oliverjam/promise-practice): 2hr
 - [Technical spikes](./spikes.md): 4h
 
 ### Day 3
