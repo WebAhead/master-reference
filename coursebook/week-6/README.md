@@ -17,7 +17,7 @@
 ### Day 2
 
 - [client side validation](https://github.com/foundersandcoders/mc-client-side-validation): 1hr
-- **WORKSHOP HERE**
+- [Create an Animated App Drawer](https://github.com/WebAhead/morning-challenge-animated-app-drawer): 1hr
 - Technical spikes: Mongodb/Mongoose
 
 ### Day 3
