@@ -123,7 +123,7 @@ const evenNumbersArr = numArr.filter((num, index) => {
 ```
 
 
-#### 'Arrays.reduce`: loops over an array and returns an accumulated value, output can be anything
+#### `Arrays.reduce`: loops over an array and returns an accumulated value, output can be anything
 
 ```javascript
 
