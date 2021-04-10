@@ -207,3 +207,38 @@ const checkTwo = numOddGlitch.every(hasAnEvenNumber)
 
 ```
 
+
+#### `Array.find`: finds the first element with a specific condition
+
+```javascript
+
+const numArr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+const findFirstEvenNumber = function (num, index) {
+    if (num % 2 === 0) {
+        return true
+    }
+    
+    return false
+}
+
+numArr.find(findFirstEvenNumber) // => 2
+
+
+```
+
+#### `Spread operator (...)`: spreads the content of an array onto another.
+
+```javascript
+
+const arr1 = [1, 2]
+const arr2 = [3 ,4]
+
+const arr3 = [1, 2, ...arr2] // [1, 2, 3, 4]
+
+// OR
+
+const arr3 = [...arr1, ...arr2] // [1, 2, 3, 4]
+
+
+```
