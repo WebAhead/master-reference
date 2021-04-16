@@ -148,3 +148,16 @@ delete obj.age
 // }
 
 ```
+
+#### `Object.keys(obj)`: returns an array of the object's keys
+
+```javascript
+
+const obj = {
+    name: 'John',
+    age: 35
+}
+
+Object.keys(obj) // [ 'name', 'age' ]
+
+```
