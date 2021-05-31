@@ -19,7 +19,7 @@
 
   _NOTE: the last exercise - the tree walker is not needed_
 
-- [Morning Challenge - Array methods Challenge](https://github.com/WebAhead/array-methods): 1hr
+- [Learn CSS variables](https://github.com/bobbysebolao/learn-css-variables): 1hr
 
 - [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 2hrs
 
