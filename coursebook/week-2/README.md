@@ -4,20 +4,21 @@
 
 - [Learning Outcomes](./learning-outcomes.md)
 - [Project](./project.md)
+- [Resources](./resources.md)
 
 ## Schedule
 
 ### Day 1
 
 - [JS recap](https://github.com/WebAhead/js-recap) workshop: 2hr
-- Week preparation: [Resources](./resources.md): 4hr
 - [Practice DOM](https://github.com/WebAhead/practice-dom): 1.5hr
+- [Extra good to know properties of DOM](https://dom-tutorials.appspot.com/static/1.html) 1hr
+  _NOTE: the last exercise - the tree walker is not needed_
 
 ### Day 2
 
-- [Extra good to know properties of DOM](https://dom-tutorials.appspot.com/static/1.html) 1hr
 
-  _NOTE: the last exercise - the tree walker is not needed_
+- [Flexbox Dice Morning Challenge](https://github.com/smarthutza/flexbox-workshop): 1hr 30mins
 
 - [Learn CSS variables](https://github.com/bobbysebolao/learn-css-variables): 1hr
 
@@ -25,8 +26,6 @@
 
 ### Day 3
 
-- [Design burst: layout and spacing](http://facresources.com/slides/design-burst-week2.html#/): 15mins
-- [Learn CSS layout and spacing](https://github.com/bobbysebolao/learn-css-flexbox): 1hr
 
 - [Projects](https://github.com/WebAhead/master-reference/blob/master/coursebook/week-2/project.md)
 
