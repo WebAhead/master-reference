@@ -10,6 +10,8 @@
 
 ### DAY 1
 
+- [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 2hrs
+
 - [Introductory workshop](https://github.com/shiryz/api-workshop): API basics, HTTP, XMLHttp requests, request-response pattern: 1hr 30mins
 
 - Week preparation: [Resources](./resources.md): 4hr
