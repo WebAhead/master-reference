@@ -22,7 +22,7 @@
 
 - [Learn CSS variables](https://github.com/bobbysebolao/learn-css-variables): 1hr
 
-- [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 2hrs
+- [Git intro workshop](https://docs.google.com/presentation/d/1mu0WhcOG9poJrLlHmWV7ix2dNrFSYWw3BkpjbY0D0gE/edit?usp=sharing): 1hr
 
 ### Day 3
 
