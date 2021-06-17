@@ -10,6 +10,7 @@
 
 ### Day 1
 
+- Week 4 Summary: 15min
 - [Express intro](https://github.com/oliverjam/express-intro): 0.5hr
 - [Learn Express](https://github.com/oliverjam/learn-express): 2hr
 - Mentor intro to JWT and encryption
@@ -17,11 +18,13 @@
 
 ### Day 2
 
+- Day 1 Summary: 15min
 - [Workshop on error handling](https://github.com/oliverjam/learn-node-error-handling): 2hrs 30mins
 - Technical spikes - Web sockets!
 
 ### Day 3
 
+- Day 2 Summary: 15min
 - [Project](./project.md)
 
 ### Day 4
