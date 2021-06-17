@@ -10,6 +10,7 @@
 
 ### Day 1
 
+- Week 3 Summary: 15min
 - [Node Intro Workshop](https://github.com/WebAhead/node-introduction): 30mins
 - [Node HTTP servers](https://github.com/oliverjam/node-http-server): 3hrs
 - [npm introduction](https://github.com/WebAhead/npm-introduction): 30mins
@@ -17,11 +18,13 @@
 
 ### Day 2
 
+- Day 1 Summary: 15min
 - [Practice Promises](https://github.com/oliverjam/promise-practice): 2hr
 - [Technical spikes](./spikes.md): 4h
 
 ### Day 3
 
+- Day 2 Summary: 15min
 - [Projects](./project.md)
 
 ### Day 4
