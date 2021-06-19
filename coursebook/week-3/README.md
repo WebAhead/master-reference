@@ -20,8 +20,8 @@
 ### DAY 2
 
 - Day 1 Summary: 15min
-- [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 2hrs
 - [Real world fetch](https://github.com/oliverjam/real-world-fetch): 2hr
+- [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 2hrs
 
 ### Day 3
 
