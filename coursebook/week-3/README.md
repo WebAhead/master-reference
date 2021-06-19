@@ -5,24 +5,22 @@
 - [Learning outcomes](./learning-outcomes.md)
 - [Project](./project.md)
 - [Resources](./resources)
+- [Presentation](https://fac-slides.netlify.app/slides/http)
 
 ## Schedule
 
 ### DAY 1
 
 - Week 2 Summary: 15min
-
-- [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 2hrs
-
-- [Introductory workshop](https://github.com/shiryz/api-workshop): API basics, HTTP, XMLHttp requests, request-response pattern: 1hr 30mins
-
+- [First-class functions](https://github.com/oliverjam/first-class-functions) : Functions and callbacks : 2hr
 - Week preparation: [Resources](./resources.md): 4hr
+- [Fetch and promises](https://github.com/oliverjam/learn-fetch/) : making API requests in the browser, working with JSON, chaining API requests: 2hr
+
 
 ### DAY 2
 
 - Day 1 Summary: 15min
-- [First-class functions](https://github.com/oliverjam/first-class-functions) : Functions and callbacks : 2hr
-- [Fetch and promises](https://github.com/oliverjam/learn-fetch/) : making API requests in the browser, working with JSON, chaining API requests: 2hr
+- [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 2hrs
 - [Real world fetch](https://github.com/oliverjam/real-world-fetch): 2hr
 
 ### Day 3
