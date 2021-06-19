@@ -13,7 +13,7 @@
 
 - Week 2 Summary: 15min
 - [First-class functions](https://github.com/oliverjam/first-class-functions) : Functions and callbacks : 2hr
-- Week preparation: [Resources](./resources.md): 2hr
+- Week preparation: [Resources](./resources.md): 1 - 2hr
 - [Fetch and promises](https://github.com/oliverjam/learn-fetch/) : making API requests in the browser, working with JSON, chaining API requests: 2hr
 
 
