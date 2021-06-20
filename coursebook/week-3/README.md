@@ -20,9 +20,9 @@
 ### DAY 2
 
 - Day 1 Summary: 15min
+- [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 2hr
 - [Promise practice](https://learn.foundersandcoders.com/workshops/promise-practice/): 2hr
 - [Real world fetch](https://github.com/oliverjam/real-world-fetch): 2hr
-- [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 2hr
 
 ### Day 3
 
