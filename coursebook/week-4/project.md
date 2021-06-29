@@ -13,13 +13,9 @@
 
 Your task is to build a site which will update as you type (an autocompleter), as per the description above.
 
-#### Goals
+- Host your server on **heroku**, [see resource](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction).
 
-1. Test your server routes using `tape` and `supertest`, and if there is javascript logic in the frontend make sure to test it as well.
-
-2. Host your server on **heroku**, [see resource](https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction).
-
-3. Consider using an [eslint config](https://eslint.org/docs/user-guide/getting-started#configuration) for a consistent code base.
+- Consider using an [eslint config](https://eslint.org/docs/user-guide/getting-started#configuration) for a consistent code base.
 
 #### Example
 
