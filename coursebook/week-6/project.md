@@ -17,7 +17,6 @@ Since this project is open-ended you'll need to write your own more specific use
 - [ ] A page showing all the data
 - [ ] A Postgres database hosted on Heroku
 - [ ] A schema describing your database in your README
-- [ ] Tests for server routes and database access
 - [ ] Not process user input as SQL commands
 - [ ] Hidden environment variables (i.e. not on GitHub)
 
