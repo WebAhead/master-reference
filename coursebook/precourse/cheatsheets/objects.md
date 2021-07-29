@@ -4,18 +4,39 @@
 
 ```javascript
 
-const obj = {
+var obj = {
     name: 'Webahead'
 }
 
 obj.name // 'Webahead'
 obj['name'] // 'Webahead'
 
-const keyName = 'name'
+var keyName = 'name'
 
 obj[keyName] // 'Webahead'
 
 ```
+
+#### `Value of objects can be anything`
+
+```javascript
+    var obj = {
+        name: 'Webahead',
+        
+        age: 4,
+        
+        sayhi: function () {
+            console.log('Hey webahead')
+        },
+        
+        nestedObj: {
+            extra: false
+        },
+        
+        nestedArr: [1, 2, 3]
+    }
+```
+
 
 #### `Dynamic object key`
 
