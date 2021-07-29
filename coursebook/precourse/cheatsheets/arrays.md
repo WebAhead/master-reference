@@ -2,7 +2,66 @@
 
 > A reference for arrays methods that come up a lot during development with Javascript
 
-#### `Array.forEach`: Loops through the array, the output is void.
+
+```javascript=
+    var numArr = [1, 2, 3]
+    
+    numArr[1] // 2
+```
+
+##### Add/Remove values from array
+
+```javascript=
+    var numArr = [1, 2, 3]
+    
+    // adds the 4 to the end of the array    
+    numArr.push(4) // numArr becomes [1, 2, 3, 4]
+    
+    // adds the 0 to the start of the array    
+    numArr.unshift(0) // numArr becomes [0, 1, 2, 3, 4]
+
+    // remove the last element from the arrray    
+    numArr.pop() // // numArr becomes [0, 1, 2, 3]
+    
+    // removes the first element of the array    
+    numArr.shift()
+```
+
+#### `For loops`
+
+##### You can use a for loop to go through the array's element
+```javascript=
+const arr = [1, 2, 3, 4]
+
+for (var i = 0; i < arr.length; i++) {
+  console.log(arr[i])
+}
+
+// Output:
+// 1
+// 2
+// 3
+// 4
+```
+
+##### You can also use for loops for strings
+```javascript=
+const name = 'John'
+
+for (var i = 0; i < name.length; i++) {
+  console.log(name[i])
+}
+
+// Output:
+// 'J'
+// 'o'
+// 'h'
+// 'n'
+```
+
+
+
+#### `Array.forEach`: Loops through the array
 
 ```javascript
 const courses = ['Webahead 6', 'Webahead 7', 'Webahead 8']
@@ -11,7 +70,6 @@ courses.forEach((course, index) => {
     console.log(index)
     console.log(course)
 })
-
 ```
 #### `Array.sort`: sorts the array, buy default the sort is in ascending order, the output is void.
 
@@ -239,6 +297,4 @@ const arr3 = [1, 2, ...arr2] // [1, 2, 3, 4]
 // OR
 
 const arr3 = [...arr1, ...arr2] // [1, 2, 3, 4]
-
-
 ```
