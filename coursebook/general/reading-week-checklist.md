@@ -20,7 +20,6 @@ For the challenges, I suggest you open a repo, and save them all there.
 - [HTML/CSS](#HTML/CSS)
 - [HTTP](#HTTP)
 - [Callbacks](#callbacks)
-- [Testing](#testing)
 - [node](#node)
 - [Databases](#databases)
 - [Deploying](#deploying)
@@ -86,7 +85,6 @@ For the challenges, I suggest you open a repo, and save them all there.
 
 ### HTML/CSS
 - [ ] Why is accessibility important?
-- [ ] How do we test for accesbility?
 - [ ] What is semantic HTML?
 - [ ] Convert [the html linked here](https://gist.github.com/m4v15/28d64be4fb3495aa1ff3a91bf4336bb1) to use semantic HTML instead of divs.
 - [ ] Using flexbox, change the layout of the above HTML to [something like this] https://www.figma.com/file/ewvTXphnscgQ2HD5gHkyHRz8/BASIC-DESGIN?node-id=0%3A1
@@ -135,21 +133,6 @@ const addUser = (data, cb) => {
 
 ---
 
-### Testing
-
-- [ ] **WITHOUT writing the function itself,** using tape, write tests for a function which can take two numbers, and a string. The string should be a mathematical operation: "add", "subtract", "times" or "divide"
-- The function should return the first number, then the mathematical operation of it combined with the second number:
-    - (3, 2, "add") should return 5
-    - (3, 2, "subtract") should return 1
-    - (3, 2, "times") should return 6
-    - (3, 2, "divide") should return 1.5
-    - (2, 3, "subtract") should return -1
-    - (2, 3, "divide") should return 0.667
-- [ ] After writing some tests, try to write the function. Keep adding tests and developing the function until it can pass everything.
-- [ ] What is the difference between `equal` and `deepEqual` in Tape?
-
----
-
 ### Node
 - [ ] How do you initialise an `npm` or `node` project?
 - [ ] What is the only script that an `npm` project starts with, how do you add one?
@@ -161,10 +144,6 @@ const addUser = (data, cb) => {
     -  [ ] serve an html page with CSS and JS when you got to the `/` endpoint
     -  [ ] when a user makes a request to `GET /students` return a JSON of all your cohort's students
     - [ ] when a user makes a request `POST /students` with the payload `{name: 'Mavis'}` it returns plain text which says `Hello Mavis`
-
-- [ ] using supertest, test each of the routes on your server:
-	- [ ] check for status codes
-	- [ ] check the body response is correct
 - [ ] what is the difference between `querystring.parse` and `url.parse`?
 - [ ] what is the output from `querstring.stringify({search:'javascript'})` (hint: RUN THIS AND FIND OUT!)
 - [ ] what is the output from `url.parse('https://www.codewars.com/users/m4v15/completed')` (hint: RUN THIS AND FIND OUT!)
@@ -191,7 +170,7 @@ You should know:
 - [ ] how to connect to a database using `node-postgres (pg)`
 - [ ] how to build a database
 - [ ] what is a database schema?
-- [ ] why we use different database urls for production, development and testing?
+- [ ] why we use different database urls for production and development?
 - [ ] if you've used the `pg` module and created a [database connection pool](https://node-postgres.com/features/pooling), how would you use the `.query` method to query the database?  
 	- [ ] what are parameterized queries?
 -  **Challenge**:
@@ -285,4 +264,3 @@ You should know:
 	- [ ] Goals/stretch goals
 	- [ ] [User stories and acceptance criteria](https://blog.easyagile.com/how-to-write-good-user-stories-in-agile-software-development-d4b25356b604)
 	- [ ] GIFs to show off specific features
-	- [ ] Badges to show test coverage, build status
