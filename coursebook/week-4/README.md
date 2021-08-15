@@ -20,7 +20,7 @@
 
 - Day 1 Summary: 15min
 - [Practice Promises](https://github.com/oliverjam/promise-practice): 1.5hr
-- [Technical spikes](./spikes.md): 4h
+- optional: [Technical spikes](./spikes.md): 4h
 
 ### Day 3
 
