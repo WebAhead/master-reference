@@ -12,15 +12,17 @@
 ### DAY 1
 
 - Week 2 Summary: 15min
+- [Terminal intro](https://github.com/WebAhead/cli-intro): 1hr
+- [Git intro](https://docs.google.com/presentation/d/1mu0WhcOG9poJrLlHmWV7ix2dNrFSYWw3BkpjbY0D0gE/edit#slide=id.p1): 1h
 - [First-class functions](https://github.com/oliverjam/first-class-functions) : Functions and callbacks : 2hr
 - Week preparation: [Resources](./resources.md): 1 - 2hr
-- [Fetch and promises](https://github.com/oliverjam/learn-fetch/) : making API requests in the browser, working with JSON, chaining API requests: 2hr
-- Mentor walkthrough: How to use fetched data
+
 
 ### DAY 2
 
-- Day 1 Summary: 15min
-- [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 2hr
+- Disussion about APIs
+- [Fetch and promises](https://github.com/oliverjam/learn-fetch/) : making API requests in the browser, working with JSON, chaining API requests: 2hr
+- Mentor walkthrough: How to use fetched data: 0.5hr
 - [Real world fetch](https://github.com/oliverjam/real-world-fetch): 2hr
 
 ### Day 3
