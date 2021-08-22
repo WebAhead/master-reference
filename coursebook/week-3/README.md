@@ -28,8 +28,11 @@
 ### Day 3
 
 - Day 2 Summary: 15min
-- [Design burst: layout and spacing](http://facresources.com/slides/design-burst-week2.html#/): 15mins
-- [Learn CSS layout and spacing](https://github.com/bobbysebolao/learn-css-flexbox): 1hr
+- [Learn CSS variables](https://github.com/bobbysebolao/learn-css-variables): 1hr
+
+> Optional: 
+> - [Design burst: layout and spacing](http://facresources.com/slides/design-burst-week2.html#/): 15mins
+> - [Learn CSS layout and spacing](https://github.com/bobbysebolao/learn-css-flexbox): 1hr
 - [Project](./project.md)
 
 ### Day 4
