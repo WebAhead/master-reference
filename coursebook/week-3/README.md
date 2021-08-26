@@ -4,7 +4,7 @@
 
 - [Learning outcomes](./learning-outcomes.md)
 - [Project](./project.md)
-- [Resources](./resources)
+- [Resources](./resources.md)
 - [Presentation](https://fac-slides.netlify.app/slides/http)
 
 ## Schedule
