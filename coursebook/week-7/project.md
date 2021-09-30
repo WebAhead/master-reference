@@ -10,7 +10,6 @@ You are going to continue working on this project next week, so think of sometin
 - Have some form of persistent state and interactivity, e.g.
   - A cart where you save the selected items
   - What posts did you like today
-- Have integration tests using React Testing Library
 
 ### Stretch criteria
 
