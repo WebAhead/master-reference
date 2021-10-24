@@ -21,7 +21,7 @@
 ### DAY 2
 
 - Disussion about APIs
-- [Fetch and promises](https://github.com/oliverjam/learn-fetch/) : making API requests in the browser, working with JSON, chaining API requests: 2hr
+- [Fetch and promises](https://github.com/WebAhead/learn-fetch) : making API requests in the browser, working with JSON, chaining API requests: 2hr
 - Mentor walkthrough: How to use fetched data: 0.5hr
 - [Real world fetch](https://github.com/oliverjam/real-world-fetch): 2hr
 
