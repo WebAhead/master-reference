@@ -12,6 +12,7 @@
 
 - Week 3 Summary: 15min
 - Node self learning/mentor walkthrough: 1hr
+> Node's runtime vs the browser's
 - [Node Intro Workshop](https://github.com/WebAhead/node-introduction): 30mins
 - [Node HTTP servers](https://github.com/oliverjam/node-http-server): 3hrs
 
