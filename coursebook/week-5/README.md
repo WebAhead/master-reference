@@ -19,7 +19,6 @@
 ### Day 2
 
 - Day 1 Summary: 15min
-- [Workshop on error handling](https://github.com/WebAhead/learn-node-error-handling): 2hrs 30mins
 - [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 2hr
 - Technical spikes - Web sockets/SocketIO!
 
