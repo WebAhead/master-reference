@@ -22,6 +22,8 @@
 
 - Day 1 Summary: 15min
 - [npm introduction](https://github.com/WebAhead/npm-introduction): 30mins
+- [Workshop on error handling](https://github.com/WebAhead/learn-node-error-handling): 2hrs 30mins
+
 > Optional:
 > - [Practice Promises](https://github.com/oliverjam/promise-practice): 1.5hr
 > - [Technical spikes](./spikes.md): 4h
