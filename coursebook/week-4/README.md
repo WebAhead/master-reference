@@ -21,7 +21,7 @@
 ### Day 2
 
 - Day 1 Summary: 15min
-- [Node file servers](https://github.com/oliverjam/learn-node-error-handling): 2hrs
+- [Node error handling](https://github.com/oliverjam/learn-node-error-handling): 2hrs
 - [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 2hr
 
 > Optional:
