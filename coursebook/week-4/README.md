@@ -21,8 +21,8 @@
 ### Day 2
 
 - Day 1 Summary: 15min
-- [Node file servers](https://github.com/WebAhead/node-file-server): 2hrs
-- [Workshop on error handling](https://github.com/oliverjam/learn-node-error-handling): 2hrs 30mins
+- [Node file servers](https://github.com/oliverjam/learn-node-error-handling): 2hrs
+- [Git workshop](https://github.com/foundersandcoders/git-workflow-workshop-for-two): 2hr
 
 > Optional:
 > - [Practice Promises](https://github.com/oliverjam/promise-practice): 1.5hr
