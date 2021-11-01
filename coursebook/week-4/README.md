@@ -22,7 +22,7 @@
 
 - Day 1 Summary: 15min
 - [Node file servers](https://github.com/WebAhead/node-file-server): 2hrs
-- [Workshop on error handling](https://github.com/oliverjam/learn-node-error-handling/blob/master/package.json): 2hrs 30mins
+- [Workshop on error handling](https://github.com/oliverjam/learn-node-error-handling): 2hrs 30mins
 
 > Optional:
 > - [Practice Promises](https://github.com/oliverjam/promise-practice): 1.5hr
