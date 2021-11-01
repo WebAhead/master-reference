@@ -15,13 +15,13 @@
 > Node's runtime vs the browser's
 - [Node Intro Workshop](https://github.com/WebAhead/node-introduction): 30mins
 - [Node HTTP servers](https://github.com/oliverjam/node-http-server): 3hrs
-- [Node file servers](https://github.com/WebAhead/node-file-server): 2hrs
+- [npm introduction](https://github.com/WebAhead/npm-introduction): 30mins
 
 
 ### Day 2
 
 - Day 1 Summary: 15min
-- [npm introduction](https://github.com/WebAhead/npm-introduction): 30mins
+- [Node file servers](https://github.com/WebAhead/node-file-server): 2hrs
 - [Workshop on error handling](https://github.com/WebAhead/learn-node-error-handling): 2hrs 30mins
 
 > Optional:
