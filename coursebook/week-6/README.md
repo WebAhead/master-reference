@@ -19,7 +19,6 @@
 
 - Day 1 Summary: 15min
 - [client side validation](https://github.com/foundersandcoders/mc-client-side-validation): 1hr
-- [Create an Animated App Drawer](https://github.com/WebAhead/morning-challenge-animated-app-drawer): 1hr
 - Technical spikes: Mongodb/Mongoose
 
 ### Day 3
