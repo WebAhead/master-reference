@@ -19,7 +19,7 @@
 
 - Day 1 Summary: 15min
 - [Express middleware](https://github.com/oliverjam/learn-express-middleware): 2hr
-
+- [Create an Animated App Drawer](https://github.com/WebAhead/morning-challenge-animated-app-drawer): 1hr
 - Technical spikes - Web sockets/SocketIO!
 
 ### Day 3
