@@ -13,6 +13,7 @@ Since this project is open-ended you'll need to write your own more specific use
 
 ### Acceptance Criteria
 
+- [ ] **Avoid pokemon themed content**
 - [ ] A form for users to submit data
 - [ ] A page showing all the data
 - [ ] A Postgres database hosted on Heroku
