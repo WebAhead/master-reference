@@ -30,9 +30,6 @@ Open the project in your editor—you should see an example app setup. Feel free
 
 Create React App includes a comprehensive ESLint config. You will see linting errors displayed in your terminal or browser console. If you have an ESLint editor plugin installed you should also see errors highlighted as you write.
 
-### Testing
-
-Create React App already has [a testing environment](https://create-react-app.dev/docs/running-tests) set up with Jest. You do not need to install Jest yourself—it's part of the `react-scripts` dependency. `npm test` will run any `*.test.js` files in your project. It even comes with React Testing Library installed, and an example test you can look at in `src/App.test.js`.
 
 ### Deployment
 
