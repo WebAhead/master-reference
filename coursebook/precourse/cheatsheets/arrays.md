@@ -257,8 +257,8 @@ const hasAnEvenNumber = function (num, index) {
     return false
 }
 
-const checkOne = numOdd.every(hasAnEvenNumber)
-const checkTwo = numOddGlitch.every(hasAnEvenNumber)
+const checkOne = numOdd.some(hasAnEvenNumber)
+const checkTwo = numOddGlitch.some(hasAnEvenNumber)
 
 // checkOne = false
 // checkTwo = true
