@@ -11,8 +11,11 @@
 ### Day 1
 
 - Week 3 Summary: 15min
-- Node self learning/mentor walkthrough: 1hr
-> Node's runtime vs the browser's
+- Node self learning: 1hr
+  - Resources:
+    - 1
+    - 2
+    - 3  
 - [Node Intro Workshop](https://github.com/WebAhead/node-introduction): 30mins
 - [Node HTTP servers](https://github.com/oliverjam/node-http-server): 3hrs
 - [npm introduction](https://github.com/WebAhead/npm-introduction): 30mins
