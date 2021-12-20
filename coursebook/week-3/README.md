@@ -13,6 +13,7 @@
 
 - Week 2 Summary: 15min
 - [Terminal intro](https://github.com/WebAhead/cli-intro): 1hr
+- [Git intro](https://docs.google.com/presentation/d/1mu0WhcOG9poJrLlHmWV7ix2dNrFSYWw3BkpjbY0D0gE/edit#slide=id.p1): 1h
 - [First-class functions](https://github.com/oliverjam/first-class-functions) : Functions and callbacks : 2hr
 - Week preparation: [Resources](./resources.md): 1 - 2hr
 
@@ -32,7 +33,6 @@
 > Optional: 
 > - [Design burst: layout and spacing](http://facresources.com/slides/design-burst-week2.html#/): 15mins
 > - [Learn CSS layout and spacing](https://github.com/bobbysebolao/learn-css-flexbox): 1hr
-- [Git intro](https://docs.google.com/presentation/d/1mu0WhcOG9poJrLlHmWV7ix2dNrFSYWw3BkpjbY0D0gE/edit#slide=id.p1): 1h
 - [Project](./project.md)
 
 ### Day 4
