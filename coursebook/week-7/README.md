@@ -20,7 +20,6 @@
 ### Day 2
 
 - Day 1 Summary: 15min
-- [Destructuring morning challenge](https://github.com/oliverjam/learn-destructuring): 1hr
 - [React with dynamic data](https://github.com/WebAhead/react-dynamic-data-workshop): 3.5hr
 
 ### Day 3
@@ -40,3 +39,9 @@
 - Fixing issues
 - Presentations
 - SGC
+
+
+### Extra
+
+- [Destructuring morning challenge](https://github.com/oliverjam/learn-destructuring): 1hr
+
