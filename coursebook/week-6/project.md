@@ -17,7 +17,7 @@ Since this project is open-ended you'll need to write your own more specific use
 - [ ] **Avoid pokemon themed content**
 - [ ] A form for users to submit data
 - [ ] A page showing all the data
-- [ ] A Postgres database hosted on Heroku
+- [ ] A Postgres database hosted on Render
 - [ ] A schema describing your database in your README
 - [ ] Not process user input as SQL commands
 - [ ] Hidden environment variables (i.e. not on GitHub)
